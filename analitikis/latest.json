@@ -1,16 +1,20 @@
 {
   "test": {
-    "version": "0.3.0-test26",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test26.zip",
-    "sha256": "955a3bc807000862fd6fa442f6263359485a3eee0e37c5841a881517682945d6",
-    "size": 1314961,
+    "version": "0.3.0-test27",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test27.zip",
+    "sha256": "10b0ae6ae2c2d1b367e0f385dc22a35aae7e65060a7492963a48bc69e9159d6f",
+    "size": 1315715,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Atvērtajos aģentūru logos programma ne tikai aizpilda ielogošanās laukus, bet arī nospiež \"Log in\" (arī Dreamstime pēc \"Press & Hold\")"
+        "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
+        "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
+        "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
       ],
       "en": [
-        "Atvērtajos aģentūru logos programma ne tikai aizpilda ielogošanās laukus, bet arī nospiež \"Log in\" (arī Dreamstime pēc \"Press & Hold\")"
+        "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
+        "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
+        "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
       ]
     }
   }
