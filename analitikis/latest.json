@@ -1,18 +1,20 @@
 {
   "test": {
-    "version": "0.3.0-test17",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test17.zip",
-    "sha256": "cb04e745ae79ee5487d4ca14686a47e32bc4493e621fade4c584a34c42cbcfeb",
-    "size": 1308059,
+    "version": "0.3.0-test18",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test18.zip",
+    "sha256": "a8a9e9e48e4cd0bac8f3f1ce606acbbfde6699a151836e0d02c0d32d5ba1c539",
+    "size": 1309358,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
-        "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
+        "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
+        "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
+        "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
       ],
       "en": [
-        "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
-        "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
+        "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
+        "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
+        "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
       ]
     }
   }
