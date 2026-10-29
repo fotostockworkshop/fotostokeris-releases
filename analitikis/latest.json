@@ -1,16 +1,26 @@
 {
   "test": {
-    "version": "0.3.0-test36",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test36.zip",
-    "sha256": "e58ee5934e1e874b472a2036564b44fd323145d7651d9032f443b491aad5827f",
-    "size": 1320462,
+    "version": "0.3.0-test37",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test37.zip",
+    "sha256": "d1a959163df1281a0b011f3b17ff28fcf2193aadb6d6b273396d99090f88bbd8",
+    "size": 1332418,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Envato tiek atjaunots ne biežāk kā reizi 24 stundās: \"Atjaunot visas\" to izlaiž, ja dati jau ir svaigi; kartītē zaļš aplis un \"Jau ir jaunākie dati · nākamreiz …\" (pašā Envato kartītē var atjaunot jebkurā brīdī)"
+        "Jauna cilne **Kolekcijas**: tavas bilžu kolekcijas ar ienākumiem, bilžu skaitu un lejupielādēm; \"Skatīt\" atver kolekcijas bildes cilnē Labākās; pārsaukt, dzēst, izveidot jaunu",
+        "Bildes kolekcijai pievieno ar **labo peles pogu** (Pārdošanas, Labākās) vai **atzīmējot vairākas** (stūrītis bildes augšā vai Ctrl/⌘ + klikšķis) → \"Pievienot kolekcijai\"; kolekcijā skaitās arī tās pašas bildes kopijas citās aģentūrās",
+        "Labākās: izvēle \"Visas bildes / kolekcija\"; kolekcijas skatā var bildes no tās noņemt",
+        "Bildes logā redzams, kurās kolekcijās tā ir, un poga \"Pievienot kolekcijai\"",
+        "**Imports no Microstockr** (Iestatījumi): kolekcijas, sīktēli un nosaukumi (arī Alamy), \"viena bilde vairākās aģentūrās\" sasaiste un vecās pārdošanas — tikai par periodu, kuru aģentūras pašas dati nesedz. Pirms importa — pārskats, ko ielasīs. Paroles no faila netiek lasītas, fails netiek saglabāts",
+        "Aģentūras, kuru vairs nav (EyeEm, Mostphotos, Yayimages), redzamas pārskatos ar importētajiem datiem"
       ],
       "en": [
-        "Envato tiek atjaunots ne biežāk kā reizi 24 stundās: \"Atjaunot visas\" to izlaiž, ja dati jau ir svaigi; kartītē zaļš aplis un \"Jau ir jaunākie dati · nākamreiz …\" (pašā Envato kartītē var atjaunot jebkurā brīdī)"
+        "Jauna cilne **Kolekcijas**: tavas bilžu kolekcijas ar ienākumiem, bilžu skaitu un lejupielādēm; \"Skatīt\" atver kolekcijas bildes cilnē Labākās; pārsaukt, dzēst, izveidot jaunu",
+        "Bildes kolekcijai pievieno ar **labo peles pogu** (Pārdošanas, Labākās) vai **atzīmējot vairākas** (stūrītis bildes augšā vai Ctrl/⌘ + klikšķis) → \"Pievienot kolekcijai\"; kolekcijā skaitās arī tās pašas bildes kopijas citās aģentūrās",
+        "Labākās: izvēle \"Visas bildes / kolekcija\"; kolekcijas skatā var bildes no tās noņemt",
+        "Bildes logā redzams, kurās kolekcijās tā ir, un poga \"Pievienot kolekcijai\"",
+        "**Imports no Microstockr** (Iestatījumi): kolekcijas, sīktēli un nosaukumi (arī Alamy), \"viena bilde vairākās aģentūrās\" sasaiste un vecās pārdošanas — tikai par periodu, kuru aģentūras pašas dati nesedz. Pirms importa — pārskats, ko ielasīs. Paroles no faila netiek lasītas, fails netiek saglabāts",
+        "Aģentūras, kuru vairs nav (EyeEm, Mostphotos, Yayimages), redzamas pārskatos ar importētajiem datiem"
       ]
     }
   }
