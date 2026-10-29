@@ -1,16 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test33",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test33.zip",
-    "sha256": "576bba70570d97672580c5b9e05d37e9a35a67153769efeaf9c4bf337e2f6c0c",
-    "size": 1317023,
+    "version": "0.3.0-test34",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test34.zip",
+    "sha256": "c6a33fbd6c0fca752279001c336a8544f36ba56c2ac561fcb902500583591fd6",
+    "size": 1317687,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Aģentūru cilnē viena kartīte \"Envato\" (atjauno gan Envato Elements, gan Envato Market); pārējos sarakstos tie paliek atsevišķi"
+        "iStock: izmaksu vēsture — līguma numuru programma meklē pati Getty pārskatu lapās (Contributor ID nav līguma numurs); ja neatrod, nolasa izmaksas no kopsavilkuma lapas",
+        "Ja aģentūrai vēl nav nevienas izmaksas datubāzē, nākamajā atjaunošanā tiek nolasīta visa izmaksu vēsture (iStock, Shutterstock — visas /payments lapas, Pond5 — no 2012)"
       ],
       "en": [
-        "Aģentūru cilnē viena kartīte \"Envato\" (atjauno gan Envato Elements, gan Envato Market); pārējos sarakstos tie paliek atsevišķi"
+        "iStock: izmaksu vēsture — līguma numuru programma meklē pati Getty pārskatu lapās (Contributor ID nav līguma numurs); ja neatrod, nolasa izmaksas no kopsavilkuma lapas",
+        "Ja aģentūrai vēl nav nevienas izmaksas datubāzē, nākamajā atjaunošanā tiek nolasīta visa izmaksu vēsture (iStock, Shutterstock — visas /payments lapas, Pond5 — no 2012)"
       ]
     }
   }
