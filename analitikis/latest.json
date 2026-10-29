@@ -1,16 +1,16 @@
 {
   "test": {
-    "version": "0.3.0-test22",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test22.zip",
-    "sha256": "c6b95d0a8f0727f49ca2ece071013c117bf08a21919e918649cb67b679a3c19a",
-    "size": 1313981,
+    "version": "0.3.0-test23",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test23.zip",
+    "sha256": "a13b02694f900873b69fa433b403594ec0433d2987f0aa97809c04f27673332b",
+    "size": 1314168,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Mac: izlabota avārija (\"Python quit unexpectedly\"), atjaunojot saglabātās sesijas"
+        "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
       ],
       "en": [
-        "Mac: izlabota avārija (\"Python quit unexpectedly\"), atjaunojot saglabātās sesijas"
+        "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
       ]
     }
   }
