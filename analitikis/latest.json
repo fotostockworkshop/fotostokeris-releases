@@ -1,18 +1,20 @@
 {
   "test": {
-    "version": "0.3.0-test13",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test13.zip",
-    "sha256": "ad25e64fc209b87183a96c341f32da08fd04f6ae55acb6275cf3ece0e06f8f8c",
-    "size": 144619,
+    "version": "0.3.0-test14",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test14.zip",
+    "sha256": "648e78fe9c49d719bc34429d15d69989e23ba6cef4096f327cd448cb318f9bfa",
+    "size": 1280902,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
-        "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
+        "Bigstock: vairs neskaita iekšējās vēstures rindas (bija 1756 no 1708); vēsture ielādēsies no jauna",
+        "Ingram: mēnešu ienākumi redzami sadaļā Pārdošanas (izvēloties Ingram vai mēneša skatā), summas mārciņās",
+        "Mac: jauns uzstādītājs Uzstadit_Mac.command — Analītiķis kļūst par parastu lietotni (Launchpad, Dock), bez apstiprināšanas katrā palaišanā"
       ],
       "en": [
-        "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
-        "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
+        "Bigstock: vairs neskaita iekšējās vēstures rindas (bija 1756 no 1708); vēsture ielādēsies no jauna",
+        "Ingram: mēnešu ienākumi redzami sadaļā Pārdošanas (izvēloties Ingram vai mēneša skatā), summas mārciņās",
+        "Mac: jauns uzstādītājs Uzstadit_Mac.command — Analītiķis kļūst par parastu lietotni (Launchpad, Dock), bez apstiprināšanas katrā palaišanā"
       ]
     }
   }
