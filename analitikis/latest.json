@@ -1,26 +1,20 @@
 {
   "test": {
-    "version": "0.3.0-test11",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test11.zip",
-    "sha256": "ee12447222cc59662ad5be92b7af718b723291fc5d8851aa2d01b5c29d3a654a",
-    "size": 143055,
+    "version": "0.3.0-test12",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test12.zip",
+    "sha256": "e2ddc77724a009d5ab5ef8db4108480d014e810a13f735efd520dd6428983a4e",
+    "size": 144079,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Zoonar: programma pēc ielogošanās vairs negaida bezgalīgi (ieejas žetons tiek sūtīts līdzi)",
-        "Ingram: gaida \"cilvēka\" pārbaudi un lapas ielādi, nolasa visus gadus (2019–2026) un neizmaksāto summu",
-        "Bigstock: visa vēsture ielādējas no jauna; žurnālā lappušu gaita; sīktēli lēnāk (Bigstock vairs neatsaka)",
-        "Envato Market: vienumi kā mēneša ienākumi (datums \"Decembris 2025\"), nejaucas ar dienu pārdošanām",
-        "Žurnālā redzams, kāpēc programma nolemj, ka vajag ielogoties",
-        "Windows: stāvokļa fails tiek ierakstīts arī tad, ja uz brīdi aizņemts"
+        "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
+        "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
+        "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
       ],
       "en": [
-        "Zoonar: programma pēc ielogošanās vairs negaida bezgalīgi (ieejas žetons tiek sūtīts līdzi)",
-        "Ingram: gaida \"cilvēka\" pārbaudi un lapas ielādi, nolasa visus gadus (2019–2026) un neizmaksāto summu",
-        "Bigstock: visa vēsture ielādējas no jauna; žurnālā lappušu gaita; sīktēli lēnāk (Bigstock vairs neatsaka)",
-        "Envato Market: vienumi kā mēneša ienākumi (datums \"Decembris 2025\"), nejaucas ar dienu pārdošanām",
-        "Žurnālā redzams, kāpēc programma nolemj, ka vajag ielogoties",
-        "Windows: stāvokļa fails tiek ierakstīts arī tad, ja uz brīdi aizņemts"
+        "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
+        "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
+        "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
       ]
     }
   }
