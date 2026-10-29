@@ -1,20 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test18",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test18.zip",
-    "sha256": "a8a9e9e48e4cd0bac8f3f1ce606acbbfde6699a151836e0d02c0d32d5ba1c539",
-    "size": 1309358,
+    "version": "0.3.0-test19",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test19.zip",
+    "sha256": "22038e7604ba18d9df7013a10721aff6c898eb9aee7d3a72b927262bbf57be4f",
+    "size": 1312590,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
-        "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
-        "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
+        "Mac: aģentūru sesijas saglabājas starp programmas palaišanām (šifrētas) — Adobe un Envato retāk prasa apstiprināt ar telefonu / 2FA",
+        "\"Pārbaudīt tagad\" atjauninājumos uzreiz redz jaunāko versiju"
       ],
       "en": [
-        "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
-        "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
-        "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
+        "Mac: aģentūru sesijas saglabājas starp programmas palaišanām (šifrētas) — Adobe un Envato retāk prasa apstiprināt ar telefonu / 2FA",
+        "\"Pārbaudīt tagad\" atjauninājumos uzreiz redz jaunāko versiju"
       ]
     }
   }
