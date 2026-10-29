@@ -1,18 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test24",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test24.zip",
-    "sha256": "bd01b4783f207994101b0ee0968bcd29220e698c9ec8b81d99a7cfc5869a1be5",
-    "size": 1314495,
+    "version": "0.3.0-test25",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test25.zip",
+    "sha256": "76ff8cde651196492c8aa407970a58581d3e408143c14f5d29a86596a9d2778d",
+    "size": 1314779,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
-        "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
+        "Atvērtajos aģentūru logos (arī Dreamstime pēc \"Press & Hold\") ielogošanās lauki tiek aizpildīti automātiski — atliek nospiest \"Log in\"",
+        "Ātrāka atjaunošana: ielogošanās gaidīšana neaptur citas aģentūras; smagās daļas reizi dienā"
       ],
       "en": [
-        "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
-        "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
+        "Atvērtajos aģentūru logos (arī Dreamstime pēc \"Press & Hold\") ielogošanās lauki tiek aizpildīti automātiski — atliek nospiest \"Log in\"",
+        "Ātrāka atjaunošana: ielogošanās gaidīšana neaptur citas aģentūras; smagās daļas reizi dienā"
       ]
     }
   }
