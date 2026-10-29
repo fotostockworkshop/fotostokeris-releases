@@ -1,20 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test12",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test12.zip",
-    "sha256": "e2ddc77724a009d5ab5ef8db4108480d014e810a13f735efd520dd6428983a4e",
-    "size": 144079,
+    "version": "0.3.0-test13",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test13.zip",
+    "sha256": "ad25e64fc209b87183a96c341f32da08fd04f6ae55acb6275cf3ece0e06f8f8c",
+    "size": 144619,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
-        "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
-        "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
+        "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
+        "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
       ],
       "en": [
-        "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
-        "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
-        "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
+        "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
+        "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
       ]
     }
   }
