@@ -1,16 +1,16 @@
 {
   "test": {
-    "version": "0.3.0-test31",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test31.zip",
-    "sha256": "7f0aa1eea81721333ac25ffd3c400d07922057c2e5fd89750f8aee19688128a6",
-    "size": 1316700,
+    "version": "0.3.0-test32",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test32.zip",
+    "sha256": "5a738435c45a82fdd76965d1ecc5073885ad26728ac44bd587df11c542d5aa3a",
+    "size": 1316796,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Ātrāk: 123RF un Ingram ikdienas atjaunošanā lasa tikai jaunākos mēnešus (pilnu vēsturi — tikai pirmajā reizē vai ar \"Visa vēsture\")"
+        "Ātrāka ielogošanās: kamēr programma aizpilda un ielogojas, tā pārbauda lapu ik pēc ~2 s (agrāk 5 s)"
       ],
       "en": [
-        "Ātrāk: 123RF un Ingram ikdienas atjaunošanā lasa tikai jaunākos mēnešus (pilnu vēsturi — tikai pirmajā reizē vai ar \"Visa vēsture\")"
+        "Ātrāka ielogošanās: kamēr programma aizpilda un ielogojas, tā pārbauda lapu ik pēc ~2 s (agrāk 5 s)"
       ]
     }
   }
