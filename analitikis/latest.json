@@ -1,20 +1,16 @@
 {
   "test": {
-    "version": "0.3.0-test21",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test21.zip",
-    "sha256": "34f5f35c13f0c8a548ccf38d911db7831c7f270503934020eb363e11c316efca",
-    "size": 1313646,
+    "version": "0.3.0-test22",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test22.zip",
+    "sha256": "c6b95d0a8f0727f49ca2ece071013c117bf08a21919e918649cb67b679a3c19a",
+    "size": 1313981,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
-        "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
-        "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
+        "Mac: izlabota avārija (\"Python quit unexpectedly\"), atjaunojot saglabātās sesijas"
       ],
       "en": [
-        "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
-        "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
-        "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
+        "Mac: izlabota avārija (\"Python quit unexpectedly\"), atjaunojot saglabātās sesijas"
       ]
     }
   }
