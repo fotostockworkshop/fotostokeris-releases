@@ -1,18 +1,20 @@
 {
   "test": {
-    "version": "0.3.0-test20",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test20.zip",
-    "sha256": "f89da2871c2f12eff32769b3e9389dbdeccb0f921a9aea93721530ec37569703",
-    "size": 1313271,
+    "version": "0.3.0-test21",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test21.zip",
+    "sha256": "34f5f35c13f0c8a548ccf38d911db7831c7f270503934020eb363e11c316efca",
+    "size": 1313646,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Mac: Dock tikai viena Analītiķa ikona (vienreiz jāpalaiž jaunais Uzstadit_Mac.command)",
-        "Mac: aģentūru sesijas saglabājas starp palaišanām — retāk 2FA / apstiprinājums telefonā"
+        "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
+        "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
+        "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
       ],
       "en": [
-        "Mac: Dock tikai viena Analītiķa ikona (vienreiz jāpalaiž jaunais Uzstadit_Mac.command)",
-        "Mac: aģentūru sesijas saglabājas starp palaišanām — retāk 2FA / apstiprinājums telefonā"
+        "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
+        "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
+        "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
       ]
     }
   }
