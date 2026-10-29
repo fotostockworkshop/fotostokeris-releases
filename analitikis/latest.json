@@ -1,18 +1,22 @@
 {
   "test": {
-    "version": "0.3.0-test15",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test15.zip",
-    "sha256": "e2520f8249f112a4171cd08039332497a6cb1c5c325a7726a1b0aca82e0ae064",
-    "size": 1282234,
+    "version": "0.3.0-test16",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test16.zip",
+    "sha256": "eba8be0742c0b5be98757a0eff8c4427603cb05da74f99abe2816d5593426f20",
+    "size": 1307649,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Mac: Dock rāda Analītiķa ikonu (nevis Python)",
-        "Mac: lietotne darbojas tieši uz Apple procesora (bez Rosetta un brīdinājuma par Intel); vienreiz jāpalaiž jaunais Uzstadit_Mac.command"
+        "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
+        "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
+        "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
+        "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
       ],
       "en": [
-        "Mac: Dock rāda Analītiķa ikonu (nevis Python)",
-        "Mac: lietotne darbojas tieši uz Apple procesora (bez Rosetta un brīdinājuma par Intel); vienreiz jāpalaiž jaunais Uzstadit_Mac.command"
+        "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
+        "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
+        "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
+        "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
       ]
     }
   }
