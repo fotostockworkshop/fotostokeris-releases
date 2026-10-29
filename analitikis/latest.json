@@ -1,18 +1,16 @@
 {
   "test": {
-    "version": "0.3.0-test29",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test29.zip",
-    "sha256": "dd4118da97682f6639475baf52dc8f2afe32852c4b224b40a2eab9808c878d39",
-    "size": 1316120,
+    "version": "0.3.0-test30",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test30.zip",
+    "sha256": "f15f1d3accdfeb87bb9bc9d12440e2096010ceaef39ec232de385635b3b51215",
+    "size": 1316333,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Pond5: programma nospiež \"Log In\" arī tad, ja lauki jau aizpildīti",
-        "Zoonar: kapča (\"Verification Code\") tiek atpazīta — programma pogu nespiež, kursors pirmajā kapčas lodziņā"
+        "Pond5 (un citur): programma nospiež tieši \"Log In\" pogu, nevis paroles \"rādīt\" ikonu"
       ],
       "en": [
-        "Pond5: programma nospiež \"Log In\" arī tad, ja lauki jau aizpildīti",
-        "Zoonar: kapča (\"Verification Code\") tiek atpazīta — programma pogu nespiež, kursors pirmajā kapčas lodziņā"
+        "Pond5 (un citur): programma nospiež tieši \"Log In\" pogu, nevis paroles \"rādīt\" ikonu"
       ]
     }
   }
