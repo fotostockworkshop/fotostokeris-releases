@@ -1,28 +1,16 @@
 {
   "test": {
-    "version": "0.3.0-test35",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test35.zip",
-    "sha256": "b6d9973bb284a3f30a69e8fe33d4de15f8fc83dcf336effcbbaf60c3084d63a1",
-    "size": 1319696,
+    "version": "0.3.0-test36",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test36.zip",
+    "sha256": "e58ee5934e1e874b472a2036564b44fd323145d7651d9032f443b491aad5827f",
+    "size": 1320462,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Ātrāka ikdienas atjaunošana: visa vēsture tiek lasīta tikai pirmajā reizē vai pēc pogas \"Visa vēsture\"; pārējās reizēs — tikai jaunais kopš pēdējās atjaunošanas (vairs nav \"smagās daļas reizi dienā\")",
-        "Izmaksas tiek pārbaudītas tikai, ja atlikums samazinājies (bijusi izmaksa), reizi nedēļā vai pieprasīšanas laikā (mēneša pēdējās dienās / atgādinājuma dienā)",
-        "Shutterstock: kopsummas vairs nelasa katru dienu (tās papildina jaunās pārdošanas); pārdošanas pa bildēm — tikai pēdējās dienas",
-        "iStock: tikai jaunās mēnešu atskaites; sīktēli — visi tikai vienreiz (kļūda: lasīja visus 6000 katru reizi)",
-        "Bigstock: sīktēli tikai bildēm, kurām to vēl nav",
-        "Pond5: izmaksu pārbaude vairs netērē minūti, ejot cauri visiem mēnešiem līdz 2012",
-        "Žurnālā katrai aģentūrai: \"gatavs N s\" — lai var salīdzināt ātrumu"
+        "Envato tiek atjaunots ne biežāk kā reizi 24 stundās: \"Atjaunot visas\" to izlaiž, ja dati jau ir svaigi; kartītē zaļš aplis un \"Jau ir jaunākie dati · nākamreiz …\" (pašā Envato kartītē var atjaunot jebkurā brīdī)"
       ],
       "en": [
-        "Ātrāka ikdienas atjaunošana: visa vēsture tiek lasīta tikai pirmajā reizē vai pēc pogas \"Visa vēsture\"; pārējās reizēs — tikai jaunais kopš pēdējās atjaunošanas (vairs nav \"smagās daļas reizi dienā\")",
-        "Izmaksas tiek pārbaudītas tikai, ja atlikums samazinājies (bijusi izmaksa), reizi nedēļā vai pieprasīšanas laikā (mēneša pēdējās dienās / atgādinājuma dienā)",
-        "Shutterstock: kopsummas vairs nelasa katru dienu (tās papildina jaunās pārdošanas); pārdošanas pa bildēm — tikai pēdējās dienas",
-        "iStock: tikai jaunās mēnešu atskaites; sīktēli — visi tikai vienreiz (kļūda: lasīja visus 6000 katru reizi)",
-        "Bigstock: sīktēli tikai bildēm, kurām to vēl nav",
-        "Pond5: izmaksu pārbaude vairs netērē minūti, ejot cauri visiem mēnešiem līdz 2012",
-        "Žurnālā katrai aģentūrai: \"gatavs N s\" — lai var salīdzināt ātrumu"
+        "Envato tiek atjaunots ne biežāk kā reizi 24 stundās: \"Atjaunot visas\" to izlaiž, ja dati jau ir svaigi; kartītē zaļš aplis un \"Jau ir jaunākie dati · nākamreiz …\" (pašā Envato kartītē var atjaunot jebkurā brīdī)"
       ]
     }
   }
