@@ -1,20 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test27",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test27.zip",
-    "sha256": "10b0ae6ae2c2d1b367e0f385dc22a35aae7e65060a7492963a48bc69e9159d6f",
-    "size": 1315715,
+    "version": "0.3.0-test28",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test28.zip",
+    "sha256": "011f2915ee2dfa492fdd914e1fd3feb8f36e5c363034802957a5a96ecc3d0e7f",
+    "size": 1315826,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
-        "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
-        "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
+        "Ingram: sīkdatņu paziņojums tiek aizvērts, \"Log in\" atvērts, lauki aizpildīti un poga nospiesta",
+        "Ja ielogošanās poga netiek atrasta, žurnālā redzams, kādas pogas bija lapā"
       ],
       "en": [
-        "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
-        "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
-        "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
+        "Ingram: sīkdatņu paziņojums tiek aizvērts, \"Log in\" atvērts, lauki aizpildīti un poga nospiesta",
+        "Ja ielogošanās poga netiek atrasta, žurnālā redzams, kādas pogas bija lapā"
       ]
     }
   }
