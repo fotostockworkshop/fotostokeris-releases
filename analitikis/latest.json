@@ -1,22 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test16",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test16.zip",
-    "sha256": "eba8be0742c0b5be98757a0eff8c4427603cb05da74f99abe2816d5593426f20",
-    "size": 1307649,
+    "version": "0.3.0-test17",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test17.zip",
+    "sha256": "cb04e745ae79ee5487d4ca14686a47e32bc4493e621fade4c584a34c42cbcfeb",
+    "size": 1308059,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
-        "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
-        "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
-        "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
+        "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
+        "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
       ],
       "en": [
-        "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
-        "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
-        "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
-        "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
+        "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
+        "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
       ]
     }
   }
