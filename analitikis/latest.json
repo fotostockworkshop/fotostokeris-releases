@@ -1,16 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test23",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test23.zip",
-    "sha256": "a13b02694f900873b69fa433b403594ec0433d2987f0aa97809c04f27673332b",
-    "size": 1314168,
+    "version": "0.3.0-test24",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test24.zip",
+    "sha256": "bd01b4783f207994101b0ee0968bcd29220e698c9ec8b81d99a7cfc5869a1be5",
+    "size": 1314495,
     "date": "2026-10-29",
     "notes": {
       "lv": [
-        "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
+        "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
+        "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
       ],
       "en": [
-        "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
+        "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
+        "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
       ]
     }
   }
