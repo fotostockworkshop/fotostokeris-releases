@@ -1,22 +1,16 @@
 {
   "test": {
-    "version": "0.3.0-test39",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test39.zip",
-    "sha256": "53f07295dc6bd67234eb4c6eee878f549b1ff53f8b69250314fd826c7d096c05",
-    "size": 1340900,
+    "version": "0.3.0-test40",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test40.zip",
+    "sha256": "9bc7a927fafa94c01338155e2e6491cab9b3f0e534b28d3fd0dfcdf1b04d2cf8",
+    "size": 1341498,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
-        "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
-        "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
-        "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
+        "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
       ],
       "en": [
-        "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
-        "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
-        "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
-        "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
+        "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
       ]
     }
   }
