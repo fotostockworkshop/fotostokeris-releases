@@ -1,20 +1,40 @@
 {
   "test": {
-    "version": "0.3.0-test49",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test49.zip",
-    "sha256": "ba493162191ce8db270a95687962241d2da68a87ccb2a51e439ddce0e04fd782",
-    "size": 1401467,
+    "version": "0.3.0-test50",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test50.zip",
+    "sha256": "41da913df0242db16c0938bcdf21cff0b27c8f3c80e03fdb7dc4419dcfb07acb",
+    "size": 1403109,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
+        "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
+        "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
+        "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
       ],
       "en": [
-        "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
+        "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
+        "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
+        "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test50",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
+          "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
+          "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
+        ],
+        "en": [
+          "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
+          "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
+          "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
+        ]
+      }
+    },
     {
       "version": "0.3.0-test49",
       "date": "2026-10-30",
