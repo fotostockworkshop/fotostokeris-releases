@@ -1,32 +1,60 @@
 {
   "test": {
-    "version": "0.3.0-test42",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test42.zip",
-    "sha256": "5cf98a18cc6f9e274ce3d277ad72fa8b98bdf7d4f30dc19645fe8717146b232b",
-    "size": 1359800,
+    "version": "0.3.0-test43",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test43.zip",
+    "sha256": "a4ac4a8d46c3d9d9a75badef0336a13f05a4b51be6cb8e1445eab0441941ce3f",
+    "size": 1369751,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
-        "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
-        "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
-        "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
-        "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
-        "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
-        "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
+        "Iestatījumi īsāki: garās sadaļas sakļaujamas — klikšķis uz virsraksta; zaļā bultiņa uz leju = izvērst, uz augšu = sakļaut",
+        "Jauna sadaļa \"Darbs ar datiem\": rezerves kopijas (izveidot tagad, atjaunot no saraksta vai faila, automātiski reizi dienā/nedēļā/mēnesī izvēlētā mapē) un imports no Microstockr; portfeļa vēsture tagad ceļo kopā ar rezerves kopiju",
+        "Rezerves kopija tiek izveidota automātiski arī pirms katras programmas atjaunināšanas",
+        "\"Cik bieži atjaunot\": jauna iespēja \"reizi mēnesī no N. datuma\" (iStock/Getty noklusējumā no 25. datuma); programma pieraksta, kad Getty publicē jauno atskaiti",
+        "Vienlaikus redzams tikai viens aģentūras logs, kurā jāievada kods vai jāapstiprina; nākamais parādās, kad pabeidz iepriekšējo — logi vairs nelēkā virsū",
+        "\"Kas jauns\" mākonītis gaisīgāks un caurspīdīgāks",
+        "Izmaksas: iStock līguma numurs no Getty kopsavilkuma; Alamy pirmo reizi visa izmaksu vēsture; Bigstock, Shutterstock, Pond5 — izpēte žurnālā",
+        "Portfelis: vairāk vietu, kur meklēt skaitu (Shutterstock, Adobe, Magnific, Pond5, Pixta, Bigstock); žurnālā mājieni labošanai"
       ],
       "en": [
-        "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
-        "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
-        "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
-        "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
-        "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
-        "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
-        "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
+        "Iestatījumi īsāki: garās sadaļas sakļaujamas — klikšķis uz virsraksta; zaļā bultiņa uz leju = izvērst, uz augšu = sakļaut",
+        "Jauna sadaļa \"Darbs ar datiem\": rezerves kopijas (izveidot tagad, atjaunot no saraksta vai faila, automātiski reizi dienā/nedēļā/mēnesī izvēlētā mapē) un imports no Microstockr; portfeļa vēsture tagad ceļo kopā ar rezerves kopiju",
+        "Rezerves kopija tiek izveidota automātiski arī pirms katras programmas atjaunināšanas",
+        "\"Cik bieži atjaunot\": jauna iespēja \"reizi mēnesī no N. datuma\" (iStock/Getty noklusējumā no 25. datuma); programma pieraksta, kad Getty publicē jauno atskaiti",
+        "Vienlaikus redzams tikai viens aģentūras logs, kurā jāievada kods vai jāapstiprina; nākamais parādās, kad pabeidz iepriekšējo — logi vairs nelēkā virsū",
+        "\"Kas jauns\" mākonītis gaisīgāks un caurspīdīgāks",
+        "Izmaksas: iStock līguma numurs no Getty kopsavilkuma; Alamy pirmo reizi visa izmaksu vēsture; Bigstock, Shutterstock, Pond5 — izpēte žurnālā",
+        "Portfelis: vairāk vietu, kur meklēt skaitu (Shutterstock, Adobe, Magnific, Pond5, Pixta, Bigstock); žurnālā mājieni labošanai"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test43",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Iestatījumi īsāki: garās sadaļas sakļaujamas — klikšķis uz virsraksta; zaļā bultiņa uz leju = izvērst, uz augšu = sakļaut",
+          "Jauna sadaļa \"Darbs ar datiem\": rezerves kopijas (izveidot tagad, atjaunot no saraksta vai faila, automātiski reizi dienā/nedēļā/mēnesī izvēlētā mapē) un imports no Microstockr; portfeļa vēsture tagad ceļo kopā ar rezerves kopiju",
+          "Rezerves kopija tiek izveidota automātiski arī pirms katras programmas atjaunināšanas",
+          "\"Cik bieži atjaunot\": jauna iespēja \"reizi mēnesī no N. datuma\" (iStock/Getty noklusējumā no 25. datuma); programma pieraksta, kad Getty publicē jauno atskaiti",
+          "Vienlaikus redzams tikai viens aģentūras logs, kurā jāievada kods vai jāapstiprina; nākamais parādās, kad pabeidz iepriekšējo — logi vairs nelēkā virsū",
+          "\"Kas jauns\" mākonītis gaisīgāks un caurspīdīgāks",
+          "Izmaksas: iStock līguma numurs no Getty kopsavilkuma; Alamy pirmo reizi visa izmaksu vēsture; Bigstock, Shutterstock, Pond5 — izpēte žurnālā",
+          "Portfelis: vairāk vietu, kur meklēt skaitu (Shutterstock, Adobe, Magnific, Pond5, Pixta, Bigstock); žurnālā mājieni labošanai"
+        ],
+        "en": [
+          "Iestatījumi īsāki: garās sadaļas sakļaujamas — klikšķis uz virsraksta; zaļā bultiņa uz leju = izvērst, uz augšu = sakļaut",
+          "Jauna sadaļa \"Darbs ar datiem\": rezerves kopijas (izveidot tagad, atjaunot no saraksta vai faila, automātiski reizi dienā/nedēļā/mēnesī izvēlētā mapē) un imports no Microstockr; portfeļa vēsture tagad ceļo kopā ar rezerves kopiju",
+          "Rezerves kopija tiek izveidota automātiski arī pirms katras programmas atjaunināšanas",
+          "\"Cik bieži atjaunot\": jauna iespēja \"reizi mēnesī no N. datuma\" (iStock/Getty noklusējumā no 25. datuma); programma pieraksta, kad Getty publicē jauno atskaiti",
+          "Vienlaikus redzams tikai viens aģentūras logs, kurā jāievada kods vai jāapstiprina; nākamais parādās, kad pabeidz iepriekšējo — logi vairs nelēkā virsū",
+          "\"Kas jauns\" mākonītis gaisīgāks un caurspīdīgāks",
+          "Izmaksas: iStock līguma numurs no Getty kopsavilkuma; Alamy pirmo reizi visa izmaksu vēsture; Bigstock, Shutterstock, Pond5 — izpēte žurnālā",
+          "Portfelis: vairāk vietu, kur meklēt skaitu (Shutterstock, Adobe, Magnific, Pond5, Pixta, Bigstock); žurnālā mājieni labošanai"
+        ]
+      }
+    },
     {
       "version": "0.3.0-test42",
       "date": "2026-10-30",
