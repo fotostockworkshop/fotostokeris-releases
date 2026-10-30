@@ -1,30 +1,60 @@
 {
   "test": {
-    "version": "0.3.0-test47",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test47.zip",
-    "sha256": "68b1d13e248e103cdef7a26e375660e1eb9287793ea21c966ac9a6acf09c51ac",
-    "size": 1393101,
+    "version": "0.3.0-test48",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test48.zip",
+    "sha256": "b514c60afdc216f32f7887c946d8975911dd5e3438059146a087fd5d147cf491",
+    "size": 1399596,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Jauna iestatījumu sadaļa \"Pieslēgumi\": OneDrive, Claude abonements, ChatGPT abonements, Claude API, OpenAI API, Gemini API un Ollama (datorā)",
-        "Abonementiem pieslēdzies pakalpojuma oficiālajā lapā (programma paroli neprasa); API atslēgas glabājas drošajā glabātuvē, ne failos un ne rezerves kopijā",
-        "Katram pieslēgumam \"Pārbaudīt\", šomēnes iztērētais un atlikums (ja to ievadi); limitu programma neuzstāda",
-        "\"Kurš AI ko dara\" — secība katram darbam (Analītiķī — AI asistentam, kas būs vēlāk)",
-        "OneDrive: viena poga, lai rezerves kopijas liktu OneDrive mapē",
-        "Portfelis: Envato no Portfolio Manager (otrs mēģinājums, sīkdatņu paziņojums tiek aizvērts)"
+        "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
+        "Teksti Terminal logā — programmas valodā",
+        "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
+        "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
+        "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
+        "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
+        "Envato Market: īstie bilžu nosaukumi",
+        "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
       ],
       "en": [
-        "Jauna iestatījumu sadaļa \"Pieslēgumi\": OneDrive, Claude abonements, ChatGPT abonements, Claude API, OpenAI API, Gemini API un Ollama (datorā)",
-        "Abonementiem pieslēdzies pakalpojuma oficiālajā lapā (programma paroli neprasa); API atslēgas glabājas drošajā glabātuvē, ne failos un ne rezerves kopijā",
-        "Katram pieslēgumam \"Pārbaudīt\", šomēnes iztērētais un atlikums (ja to ievadi); limitu programma neuzstāda",
-        "\"Kurš AI ko dara\" — secība katram darbam (Analītiķī — AI asistentam, kas būs vēlāk)",
-        "OneDrive: viena poga, lai rezerves kopijas liktu OneDrive mapē",
-        "Portfelis: Envato no Portfolio Manager (otrs mēģinājums, sīkdatņu paziņojums tiek aizvērts)"
+        "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
+        "Teksti Terminal logā — programmas valodā",
+        "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
+        "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
+        "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
+        "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
+        "Envato Market: īstie bilžu nosaukumi",
+        "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test48",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
+          "Teksti Terminal logā — programmas valodā",
+          "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
+          "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
+          "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
+          "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
+          "Envato Market: īstie bilžu nosaukumi",
+          "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
+        ],
+        "en": [
+          "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
+          "Teksti Terminal logā — programmas valodā",
+          "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
+          "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
+          "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
+          "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
+          "Envato Market: īstie bilžu nosaukumi",
+          "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
+        ]
+      }
+    },
     {
       "version": "0.3.0-test47",
       "date": "2026-10-30",
