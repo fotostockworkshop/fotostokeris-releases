@@ -1,24 +1,48 @@
 {
   "test": {
-    "version": "0.3.0-test50",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test50.zip",
-    "sha256": "41da913df0242db16c0938bcdf21cff0b27c8f3c80e03fdb7dc4419dcfb07acb",
-    "size": 1403109,
+    "version": "0.3.0-test51",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test51.zip",
+    "sha256": "aa50631f5f075325c04e2e0069dd9e19da828edfea7af8d701e400f2dabe7674",
+    "size": 1403941,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
-        "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
-        "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
+        "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) un Ingram mēnešu summas sarakstā vairs nav",
+        "Izmaksās skaidrojums \"No kā sastāv Pārskata summa\": par bildēm + citi ienākumi + mēneši tikai ar kopsummu (+ nesakrīt) = Pārskats; pa aģentūrām ar summām un mēnešiem",
+        "Envato mēneši līdz 2022. gada augustam apzīmēti kā Twenty20 (vēlāk Envato)",
+        "\"Citi ienākumi pa veidiem\" (aģentūra, veids, periods, summa) + visu maksājumu saraksts",
+        "Skaidrojuma teksti vairs neiziet pāri malām"
       ],
       "en": [
-        "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
-        "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
-        "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
+        "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) un Ingram mēnešu summas sarakstā vairs nav",
+        "Izmaksās skaidrojums \"No kā sastāv Pārskata summa\": par bildēm + citi ienākumi + mēneši tikai ar kopsummu (+ nesakrīt) = Pārskats; pa aģentūrām ar summām un mēnešiem",
+        "Envato mēneši līdz 2022. gada augustam apzīmēti kā Twenty20 (vēlāk Envato)",
+        "\"Citi ienākumi pa veidiem\" (aģentūra, veids, periods, summa) + visu maksājumu saraksts",
+        "Skaidrojuma teksti vairs neiziet pāri malām"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test51",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) un Ingram mēnešu summas sarakstā vairs nav",
+          "Izmaksās skaidrojums \"No kā sastāv Pārskata summa\": par bildēm + citi ienākumi + mēneši tikai ar kopsummu (+ nesakrīt) = Pārskats; pa aģentūrām ar summām un mēnešiem",
+          "Envato mēneši līdz 2022. gada augustam apzīmēti kā Twenty20 (vēlāk Envato)",
+          "\"Citi ienākumi pa veidiem\" (aģentūra, veids, periods, summa) + visu maksājumu saraksts",
+          "Skaidrojuma teksti vairs neiziet pāri malām"
+        ],
+        "en": [
+          "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) un Ingram mēnešu summas sarakstā vairs nav",
+          "Izmaksās skaidrojums \"No kā sastāv Pārskata summa\": par bildēm + citi ienākumi + mēneši tikai ar kopsummu (+ nesakrīt) = Pārskats; pa aģentūrām ar summām un mēnešiem",
+          "Envato mēneši līdz 2022. gada augustam apzīmēti kā Twenty20 (vēlāk Envato)",
+          "\"Citi ienākumi pa veidiem\" (aģentūra, veids, periods, summa) + visu maksājumu saraksts",
+          "Skaidrojuma teksti vairs neiziet pāri malām"
+        ]
+      }
+    },
     {
       "version": "0.3.0-test50",
       "date": "2026-10-30",
@@ -658,26 +682,6 @@
           "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
           "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
           "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test10",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Automātiska atjaunināšana: programma pati pamana jaunu versiju un pēc tavas piekrišanas to uzstāda (Iestatījumi → Atjauninājumi)",
-          "Jaunas aģentūras: Zoonar, Ingram un Envato Market (Envato Market atjaunojas kopā ar Envato Elements)",
-          "Bigstock: visa vēsture caur datumu formu, tikai Image Earnings tabula, sīktēli no bilžu lapām",
-          "Bigstock ielogošanās: programma ielogošanās laikā vairs netraucē lapu",
-          "Aģentūras kartītē \"Atjaunots …\" mainās uzreiz, tiklīdz aģentūra beigusi"
-        ],
-        "en": [
-          "Automātiska atjaunināšana: programma pati pamana jaunu versiju un pēc tavas piekrišanas to uzstāda (Iestatījumi → Atjauninājumi)",
-          "Jaunas aģentūras: Zoonar, Ingram un Envato Market (Envato Market atjaunojas kopā ar Envato Elements)",
-          "Bigstock: visa vēsture caur datumu formu, tikai Image Earnings tabula, sīktēli no bilžu lapām",
-          "Bigstock ielogošanās: programma ielogošanās laikā vairs netraucē lapu",
-          "Aģentūras kartītē \"Atjaunots …\" mainās uzreiz, tiklīdz aģentūra beigusi"
         ]
       }
     }
