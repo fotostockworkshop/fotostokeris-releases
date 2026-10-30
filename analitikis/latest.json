@@ -1,40 +1,52 @@
 {
   "test": {
-    "version": "0.3.0-test44",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test44.zip",
-    "sha256": "112f2b9dae77150a1b524a159e2f3a80c6bb87265d586b62ae2e0c78e34963c6",
-    "size": 1378855,
+    "version": "0.3.0-test45",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test45.zip",
+    "sha256": "b28beaf0900a9d1fd9e7b3dd26b31ba944175be3400a80b7c1964fbea81e9061",
+    "size": 1380681,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Portfeļa lielums tagad no vietām, kur to redzi pats: Adobe \"All\", Shutterstock \"Image portfolio\", Magnific \"Published\", Alamy Image Manager \"All submissions\", Zoonar \"Active in Sale\", Pond5 veikals, 123RF profils, Envato Portfolio Manager, Ingram \"Images online\", Pixta (visi \"On sale\" kopā)",
-        "iStock portfelis no publiskā portfeļa — vārdu ieraksti Iestatījumos pie \"Cik bieži atjaunot\" (iStock rindā)",
-        "Izmaksas: Magnific (Tax center, eiro), 123RF (Payment history, visi gadi), Bigstock (Net), Shutterstock (visas lappuses), Pond5 (pa mēnešiem), iStock līguma numurs no Getty",
-        "Mac: pēc Analītiķa atvēršanas tiek atjaunota saglabātā ielogošanās (lai Adobe neprasītu kodu katru reizi); ja tā vairs neder — programma pati ielogojas no jauna",
-        "Rezerves kopijām: \"Izvēlēties mapi…\", \"OneDrive\" un \"Noklusējuma mape\"",
-        "\"Neizmaksātais mēneša beigās\" vienmēr rāda pēdējos 12 mēnešus (nemainās ar gadu)",
-        "Atlases josla vairs neaizsedz \"Rādīt vairāk\"",
-        "\"Reizi mēnesī no N. datuma\": dienu var mainīt uzreiz arī noklusējumam",
-        "\"Kas jauns\" mākonītis vēl gaisīgāks",
-        "Labots: pēc kolekcijas apskates kartītes rādīja vecu \"Atjaunots pirms … min\"",
-        "Pond5: aģentūru logi platāki, ielogošanās bez liekas loga rādīšanas"
+        "Mac: Adobe vairs nevajadzētu prasīt kodus pēc katras atvēršanas — programma saglabā visu ielogošanos, arī \"uzticamās ierīces\" atzīmi (Mac to pats izdzēsa)",
+        "Pond5: programma spiež pareizo \"Log In\" pogu (formā, nevis lapas augšā)",
+        "Shutterstock: visa izmaksu vēsture (visas lappuses)",
+        "iStock: līguma numurs atrasts → izmaksas; redzams neizmaksātais (Carried Forward); portfelis no publiskā portfeļa (logs pats to atver)",
+        "Portfelis arī Adobe, Zoonar, 123RF (logs pats atver lapu, kur skaitlis redzams) un Magnific (izvēlne Files → Published)",
+        "Žurnālā redzams, vai Mac darbina Analītiķi Intel režīmā (brīdinājuma izpētei)"
       ],
       "en": [
-        "Portfeļa lielums tagad no vietām, kur to redzi pats: Adobe \"All\", Shutterstock \"Image portfolio\", Magnific \"Published\", Alamy Image Manager \"All submissions\", Zoonar \"Active in Sale\", Pond5 veikals, 123RF profils, Envato Portfolio Manager, Ingram \"Images online\", Pixta (visi \"On sale\" kopā)",
-        "iStock portfelis no publiskā portfeļa — vārdu ieraksti Iestatījumos pie \"Cik bieži atjaunot\" (iStock rindā)",
-        "Izmaksas: Magnific (Tax center, eiro), 123RF (Payment history, visi gadi), Bigstock (Net), Shutterstock (visas lappuses), Pond5 (pa mēnešiem), iStock līguma numurs no Getty",
-        "Mac: pēc Analītiķa atvēršanas tiek atjaunota saglabātā ielogošanās (lai Adobe neprasītu kodu katru reizi); ja tā vairs neder — programma pati ielogojas no jauna",
-        "Rezerves kopijām: \"Izvēlēties mapi…\", \"OneDrive\" un \"Noklusējuma mape\"",
-        "\"Neizmaksātais mēneša beigās\" vienmēr rāda pēdējos 12 mēnešus (nemainās ar gadu)",
-        "Atlases josla vairs neaizsedz \"Rādīt vairāk\"",
-        "\"Reizi mēnesī no N. datuma\": dienu var mainīt uzreiz arī noklusējumam",
-        "\"Kas jauns\" mākonītis vēl gaisīgāks",
-        "Labots: pēc kolekcijas apskates kartītes rādīja vecu \"Atjaunots pirms … min\"",
-        "Pond5: aģentūru logi platāki, ielogošanās bez liekas loga rādīšanas"
+        "Mac: Adobe vairs nevajadzētu prasīt kodus pēc katras atvēršanas — programma saglabā visu ielogošanos, arī \"uzticamās ierīces\" atzīmi (Mac to pats izdzēsa)",
+        "Pond5: programma spiež pareizo \"Log In\" pogu (formā, nevis lapas augšā)",
+        "Shutterstock: visa izmaksu vēsture (visas lappuses)",
+        "iStock: līguma numurs atrasts → izmaksas; redzams neizmaksātais (Carried Forward); portfelis no publiskā portfeļa (logs pats to atver)",
+        "Portfelis arī Adobe, Zoonar, 123RF (logs pats atver lapu, kur skaitlis redzams) un Magnific (izvēlne Files → Published)",
+        "Žurnālā redzams, vai Mac darbina Analītiķi Intel režīmā (brīdinājuma izpētei)"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test45",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Mac: Adobe vairs nevajadzētu prasīt kodus pēc katras atvēršanas — programma saglabā visu ielogošanos, arī \"uzticamās ierīces\" atzīmi (Mac to pats izdzēsa)",
+          "Pond5: programma spiež pareizo \"Log In\" pogu (formā, nevis lapas augšā)",
+          "Shutterstock: visa izmaksu vēsture (visas lappuses)",
+          "iStock: līguma numurs atrasts → izmaksas; redzams neizmaksātais (Carried Forward); portfelis no publiskā portfeļa (logs pats to atver)",
+          "Portfelis arī Adobe, Zoonar, 123RF (logs pats atver lapu, kur skaitlis redzams) un Magnific (izvēlne Files → Published)",
+          "Žurnālā redzams, vai Mac darbina Analītiķi Intel režīmā (brīdinājuma izpētei)"
+        ],
+        "en": [
+          "Mac: Adobe vairs nevajadzētu prasīt kodus pēc katras atvēršanas — programma saglabā visu ielogošanos, arī \"uzticamās ierīces\" atzīmi (Mac to pats izdzēsa)",
+          "Pond5: programma spiež pareizo \"Log In\" pogu (formā, nevis lapas augšā)",
+          "Shutterstock: visa izmaksu vēsture (visas lappuses)",
+          "iStock: līguma numurs atrasts → izmaksas; redzams neizmaksātais (Carried Forward); portfelis no publiskā portfeļa (logs pats to atver)",
+          "Portfelis arī Adobe, Zoonar, 123RF (logs pats atver lapu, kur skaitlis redzams) un Magnific (izvēlne Files → Published)",
+          "Žurnālā redzams, vai Mac darbina Analītiķi Intel režīmā (brīdinājuma izpētei)"
+        ]
+      }
+    },
     {
       "version": "0.3.0-test44",
       "date": "2026-10-30",
