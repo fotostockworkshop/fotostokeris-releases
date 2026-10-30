@@ -1,19 +1,515 @@
 {
   "test": {
-    "version": "0.3.0-test41",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test41.zip",
-    "sha256": "b827a77cb56782e35af873df2885fe6f3cf706698a6347b5e9bae27182513d68",
-    "size": 1342505,
+    "version": "0.3.0-test42",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test42.zip",
+    "sha256": "5cf98a18cc6f9e274ce3d277ad72fa8b98bdf7d4f30dc19645fe8717146b232b",
+    "size": 1359800,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
-        "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
+        "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
+        "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
+        "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
+        "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
+        "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
+        "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
+        "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
       ],
       "en": [
-        "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
-        "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
+        "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
+        "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
+        "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
+        "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
+        "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
+        "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
+        "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
       ]
     }
-  }
+  },
+  "history": [
+    {
+      "version": "0.3.0-test42",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
+          "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
+          "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
+          "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
+          "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
+          "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
+          "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
+        ],
+        "en": [
+          "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
+          "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
+          "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
+          "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
+          "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
+          "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
+          "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test41",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
+          "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
+        ],
+        "en": [
+          "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
+          "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test40",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
+        ],
+        "en": [
+          "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test39",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
+          "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
+          "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
+          "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
+        ],
+        "en": [
+          "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
+          "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
+          "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
+          "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test38",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
+          "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
+          "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
+        ],
+        "en": [
+          "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
+          "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
+          "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test37",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Jauna cilne **Kolekcijas**: tavas bilžu kolekcijas ar ienākumiem, bilžu skaitu un lejupielādēm; \"Skatīt\" atver kolekcijas bildes cilnē Labākās; pārsaukt, dzēst, izveidot jaunu",
+          "Bildes kolekcijai pievieno ar **labo peles pogu** (Pārdošanas, Labākās) vai **atzīmējot vairākas** (stūrītis bildes augšā vai Ctrl/⌘ + klikšķis) → \"Pievienot kolekcijai\"; kolekcijā skaitās arī tās pašas bildes kopijas citās aģentūrās",
+          "Labākās: izvēle \"Visas bildes / kolekcija\"; kolekcijas skatā var bildes no tās noņemt",
+          "Bildes logā redzams, kurās kolekcijās tā ir, un poga \"Pievienot kolekcijai\"",
+          "**Imports no Microstockr** (Iestatījumi): kolekcijas, sīktēli un nosaukumi (arī Alamy), \"viena bilde vairākās aģentūrās\" sasaiste un vecās pārdošanas — tikai par periodu, kuru aģentūras pašas dati nesedz. Pirms importa — pārskats, ko ielasīs. Paroles no faila netiek lasītas, fails netiek saglabāts",
+          "Aģentūras, kuru vairs nav (EyeEm, Mostphotos, Yayimages), redzamas pārskatos ar importētajiem datiem"
+        ],
+        "en": [
+          "Jauna cilne **Kolekcijas**: tavas bilžu kolekcijas ar ienākumiem, bilžu skaitu un lejupielādēm; \"Skatīt\" atver kolekcijas bildes cilnē Labākās; pārsaukt, dzēst, izveidot jaunu",
+          "Bildes kolekcijai pievieno ar **labo peles pogu** (Pārdošanas, Labākās) vai **atzīmējot vairākas** (stūrītis bildes augšā vai Ctrl/⌘ + klikšķis) → \"Pievienot kolekcijai\"; kolekcijā skaitās arī tās pašas bildes kopijas citās aģentūrās",
+          "Labākās: izvēle \"Visas bildes / kolekcija\"; kolekcijas skatā var bildes no tās noņemt",
+          "Bildes logā redzams, kurās kolekcijās tā ir, un poga \"Pievienot kolekcijai\"",
+          "**Imports no Microstockr** (Iestatījumi): kolekcijas, sīktēli un nosaukumi (arī Alamy), \"viena bilde vairākās aģentūrās\" sasaiste un vecās pārdošanas — tikai par periodu, kuru aģentūras pašas dati nesedz. Pirms importa — pārskats, ko ielasīs. Paroles no faila netiek lasītas, fails netiek saglabāts",
+          "Aģentūras, kuru vairs nav (EyeEm, Mostphotos, Yayimages), redzamas pārskatos ar importētajiem datiem"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test36",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Envato tiek atjaunots ne biežāk kā reizi 24 stundās: \"Atjaunot visas\" to izlaiž, ja dati jau ir svaigi; kartītē zaļš aplis un \"Jau ir jaunākie dati · nākamreiz …\" (pašā Envato kartītē var atjaunot jebkurā brīdī)"
+        ],
+        "en": [
+          "Envato tiek atjaunots ne biežāk kā reizi 24 stundās: \"Atjaunot visas\" to izlaiž, ja dati jau ir svaigi; kartītē zaļš aplis un \"Jau ir jaunākie dati · nākamreiz …\" (pašā Envato kartītē var atjaunot jebkurā brīdī)"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test35",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Ātrāka ikdienas atjaunošana: visa vēsture tiek lasīta tikai pirmajā reizē vai pēc pogas \"Visa vēsture\"; pārējās reizēs — tikai jaunais kopš pēdējās atjaunošanas (vairs nav \"smagās daļas reizi dienā\")",
+          "Izmaksas tiek pārbaudītas tikai, ja atlikums samazinājies (bijusi izmaksa), reizi nedēļā vai pieprasīšanas laikā (mēneša pēdējās dienās / atgādinājuma dienā)",
+          "Shutterstock: kopsummas vairs nelasa katru dienu (tās papildina jaunās pārdošanas); pārdošanas pa bildēm — tikai pēdējās dienas",
+          "iStock: tikai jaunās mēnešu atskaites; sīktēli — visi tikai vienreiz (kļūda: lasīja visus 6000 katru reizi)",
+          "Bigstock: sīktēli tikai bildēm, kurām to vēl nav",
+          "Pond5: izmaksu pārbaude vairs netērē minūti, ejot cauri visiem mēnešiem līdz 2012",
+          "Žurnālā katrai aģentūrai: \"gatavs N s\" — lai var salīdzināt ātrumu"
+        ],
+        "en": [
+          "Ātrāka ikdienas atjaunošana: visa vēsture tiek lasīta tikai pirmajā reizē vai pēc pogas \"Visa vēsture\"; pārējās reizēs — tikai jaunais kopš pēdējās atjaunošanas (vairs nav \"smagās daļas reizi dienā\")",
+          "Izmaksas tiek pārbaudītas tikai, ja atlikums samazinājies (bijusi izmaksa), reizi nedēļā vai pieprasīšanas laikā (mēneša pēdējās dienās / atgādinājuma dienā)",
+          "Shutterstock: kopsummas vairs nelasa katru dienu (tās papildina jaunās pārdošanas); pārdošanas pa bildēm — tikai pēdējās dienas",
+          "iStock: tikai jaunās mēnešu atskaites; sīktēli — visi tikai vienreiz (kļūda: lasīja visus 6000 katru reizi)",
+          "Bigstock: sīktēli tikai bildēm, kurām to vēl nav",
+          "Pond5: izmaksu pārbaude vairs netērē minūti, ejot cauri visiem mēnešiem līdz 2012",
+          "Žurnālā katrai aģentūrai: \"gatavs N s\" — lai var salīdzināt ātrumu"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test34",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "iStock: izmaksu vēsture — līguma numuru programma meklē pati Getty pārskatu lapās (Contributor ID nav līguma numurs); ja neatrod, nolasa izmaksas no kopsavilkuma lapas",
+          "Ja aģentūrai vēl nav nevienas izmaksas datubāzē, nākamajā atjaunošanā tiek nolasīta visa izmaksu vēsture (iStock, Shutterstock — visas /payments lapas, Pond5 — no 2012)"
+        ],
+        "en": [
+          "iStock: izmaksu vēsture — līguma numuru programma meklē pati Getty pārskatu lapās (Contributor ID nav līguma numurs); ja neatrod, nolasa izmaksas no kopsavilkuma lapas",
+          "Ja aģentūrai vēl nav nevienas izmaksas datubāzē, nākamajā atjaunošanā tiek nolasīta visa izmaksu vēsture (iStock, Shutterstock — visas /payments lapas, Pond5 — no 2012)"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test33",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Aģentūru cilnē viena kartīte \"Envato\" (atjauno gan Envato Elements, gan Envato Market); pārējos sarakstos tie paliek atsevišķi"
+        ],
+        "en": [
+          "Aģentūru cilnē viena kartīte \"Envato\" (atjauno gan Envato Elements, gan Envato Market); pārējos sarakstos tie paliek atsevišķi"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test32",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Ātrāka ielogošanās: kamēr programma aizpilda un ielogojas, tā pārbauda lapu ik pēc ~2 s (agrāk 5 s)"
+        ],
+        "en": [
+          "Ātrāka ielogošanās: kamēr programma aizpilda un ielogojas, tā pārbauda lapu ik pēc ~2 s (agrāk 5 s)"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test31",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Ātrāk: 123RF un Ingram ikdienas atjaunošanā lasa tikai jaunākos mēnešus (pilnu vēsturi — tikai pirmajā reizē vai ar \"Visa vēsture\")"
+        ],
+        "en": [
+          "Ātrāk: 123RF un Ingram ikdienas atjaunošanā lasa tikai jaunākos mēnešus (pilnu vēsturi — tikai pirmajā reizē vai ar \"Visa vēsture\")"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test30",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Pond5 (un citur): programma nospiež tieši \"Log In\" pogu, nevis paroles \"rādīt\" ikonu"
+        ],
+        "en": [
+          "Pond5 (un citur): programma nospiež tieši \"Log In\" pogu, nevis paroles \"rādīt\" ikonu"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test29",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Pond5: programma nospiež \"Log In\" arī tad, ja lauki jau aizpildīti",
+          "Zoonar: kapča (\"Verification Code\") tiek atpazīta — programma pogu nespiež, kursors pirmajā kapčas lodziņā"
+        ],
+        "en": [
+          "Pond5: programma nospiež \"Log In\" arī tad, ja lauki jau aizpildīti",
+          "Zoonar: kapča (\"Verification Code\") tiek atpazīta — programma pogu nespiež, kursors pirmajā kapčas lodziņā"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test28",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Ingram: sīkdatņu paziņojums tiek aizvērts, \"Log in\" atvērts, lauki aizpildīti un poga nospiesta",
+          "Ja ielogošanās poga netiek atrasta, žurnālā redzams, kādas pogas bija lapā"
+        ],
+        "en": [
+          "Ingram: sīkdatņu paziņojums tiek aizvērts, \"Log in\" atvērts, lauki aizpildīti un poga nospiesta",
+          "Ja ielogošanās poga netiek atrasta, žurnālā redzams, kādas pogas bija lapā"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test27",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
+          "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
+          "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
+        ],
+        "en": [
+          "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
+          "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
+          "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test26",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Atvērtajos aģentūru logos programma ne tikai aizpilda ielogošanās laukus, bet arī nospiež \"Log in\" (arī Dreamstime pēc \"Press & Hold\")"
+        ],
+        "en": [
+          "Atvērtajos aģentūru logos programma ne tikai aizpilda ielogošanās laukus, bet arī nospiež \"Log in\" (arī Dreamstime pēc \"Press & Hold\")"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test25",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Atvērtajos aģentūru logos (arī Dreamstime pēc \"Press & Hold\") ielogošanās lauki tiek aizpildīti automātiski — atliek nospiest \"Log in\"",
+          "Ātrāka atjaunošana: ielogošanās gaidīšana neaptur citas aģentūras; smagās daļas reizi dienā"
+        ],
+        "en": [
+          "Atvērtajos aģentūru logos (arī Dreamstime pēc \"Press & Hold\") ielogošanās lauki tiek aizpildīti automātiski — atliek nospiest \"Log in\"",
+          "Ātrāka atjaunošana: ielogošanās gaidīšana neaptur citas aģentūras; smagās daļas reizi dienā"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test24",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
+          "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
+        ],
+        "en": [
+          "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
+          "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test23",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
+        ],
+        "en": [
+          "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test22",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Mac: izlabota avārija (\"Python quit unexpectedly\"), atjaunojot saglabātās sesijas"
+        ],
+        "en": [
+          "Mac: izlabota avārija (\"Python quit unexpectedly\"), atjaunojot saglabātās sesijas"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test21",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
+          "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
+          "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
+        ],
+        "en": [
+          "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
+          "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
+          "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test20",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Mac: Dock tikai viena Analītiķa ikona (vienreiz jāpalaiž jaunais Uzstadit_Mac.command)",
+          "Mac: aģentūru sesijas saglabājas starp palaišanām — retāk 2FA / apstiprinājums telefonā"
+        ],
+        "en": [
+          "Mac: Dock tikai viena Analītiķa ikona (vienreiz jāpalaiž jaunais Uzstadit_Mac.command)",
+          "Mac: aģentūru sesijas saglabājas starp palaišanām — retāk 2FA / apstiprinājums telefonā"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test19",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Mac: aģentūru sesijas saglabājas starp programmas palaišanām (šifrētas) — Adobe un Envato retāk prasa apstiprināt ar telefonu / 2FA",
+          "\"Pārbaudīt tagad\" atjauninājumos uzreiz redz jaunāko versiju"
+        ],
+        "en": [
+          "Mac: aģentūru sesijas saglabājas starp programmas palaišanām (šifrētas) — Adobe un Envato retāk prasa apstiprināt ar telefonu / 2FA",
+          "\"Pārbaudīt tagad\" atjauninājumos uzreiz redz jaunāko versiju"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test18",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
+          "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
+          "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
+        ],
+        "en": [
+          "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
+          "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
+          "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test17",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
+          "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
+        ],
+        "en": [
+          "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
+          "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test16",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
+          "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
+          "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
+          "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
+        ],
+        "en": [
+          "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
+          "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
+          "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
+          "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test15",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Mac: Dock rāda Analītiķa ikonu (nevis Python)",
+          "Mac: lietotne darbojas tieši uz Apple procesora (bez Rosetta un brīdinājuma par Intel); vienreiz jāpalaiž jaunais Uzstadit_Mac.command"
+        ],
+        "en": [
+          "Mac: Dock rāda Analītiķa ikonu (nevis Python)",
+          "Mac: lietotne darbojas tieši uz Apple procesora (bez Rosetta un brīdinājuma par Intel); vienreiz jāpalaiž jaunais Uzstadit_Mac.command"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test14",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Bigstock: vairs neskaita iekšējās vēstures rindas (bija 1756 no 1708); vēsture ielādēsies no jauna",
+          "Ingram: mēnešu ienākumi redzami sadaļā Pārdošanas (izvēloties Ingram vai mēneša skatā), summas mārciņās",
+          "Mac: jauns uzstādītājs Uzstadit_Mac.command — Analītiķis kļūst par parastu lietotni (Launchpad, Dock), bez apstiprināšanas katrā palaišanā"
+        ],
+        "en": [
+          "Bigstock: vairs neskaita iekšējās vēstures rindas (bija 1756 no 1708); vēsture ielādēsies no jauna",
+          "Ingram: mēnešu ienākumi redzami sadaļā Pārdošanas (izvēloties Ingram vai mēneša skatā), summas mārciņās",
+          "Mac: jauns uzstādītājs Uzstadit_Mac.command — Analītiķis kļūst par parastu lietotni (Launchpad, Dock), bez apstiprināšanas katrā palaišanā"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test13",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
+          "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
+        ],
+        "en": [
+          "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
+          "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test12",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
+          "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
+          "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
+        ],
+        "en": [
+          "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
+          "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
+          "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
+        ]
+      }
+    },
+    {
+      "version": "0.3.0-test10",
+      "date": "2026-10-29",
+      "notes": {
+        "lv": [
+          "Automātiska atjaunināšana: programma pati pamana jaunu versiju un pēc tavas piekrišanas to uzstāda (Iestatījumi → Atjauninājumi)",
+          "Jaunas aģentūras: Zoonar, Ingram un Envato Market (Envato Market atjaunojas kopā ar Envato Elements)",
+          "Bigstock: visa vēsture caur datumu formu, tikai Image Earnings tabula, sīktēli no bilžu lapām",
+          "Bigstock ielogošanās: programma ielogošanās laikā vairs netraucē lapu",
+          "Aģentūras kartītē \"Atjaunots …\" mainās uzreiz, tiklīdz aģentūra beigusi"
+        ],
+        "en": [
+          "Automātiska atjaunināšana: programma pati pamana jaunu versiju un pēc tavas piekrišanas to uzstāda (Iestatījumi → Atjauninājumi)",
+          "Jaunas aģentūras: Zoonar, Ingram un Envato Market (Envato Market atjaunojas kopā ar Envato Elements)",
+          "Bigstock: visa vēsture caur datumu formu, tikai Image Earnings tabula, sīktēli no bilžu lapām",
+          "Bigstock ielogošanās: programma ielogošanās laikā vairs netraucē lapu",
+          "Aģentūras kartītē \"Atjaunots …\" mainās uzreiz, tiklīdz aģentūra beigusi"
+        ]
+      }
+    }
+  ]
 }
