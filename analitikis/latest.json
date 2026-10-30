@@ -1,20 +1,22 @@
 {
   "test": {
-    "version": "0.3.0-test38",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test38.zip",
-    "sha256": "58da1eb86bde76c7769730ed062a9f975c73b680101c69aa82351a6bb77bac64",
-    "size": 1335615,
+    "version": "0.3.0-test39",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test39.zip",
+    "sha256": "53f07295dc6bd67234eb4c6eee878f549b1ff53f8b69250314fd826c7d096c05",
+    "size": 1340900,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
-        "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
-        "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
+        "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
+        "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
+        "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
+        "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
       ],
       "en": [
-        "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
-        "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
-        "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
+        "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
+        "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
+        "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
+        "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
       ]
     }
   }
