@@ -1,16 +1,18 @@
 {
   "test": {
-    "version": "0.3.0-test40",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test40.zip",
-    "sha256": "9bc7a927fafa94c01338155e2e6491cab9b3f0e534b28d3fd0dfcdf1b04d2cf8",
-    "size": 1341498,
+    "version": "0.3.0-test41",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test41.zip",
+    "sha256": "b827a77cb56782e35af873df2885fe6f3cf706698a6347b5e9bae27182513d68",
+    "size": 1342505,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
+        "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
+        "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
       ],
       "en": [
-        "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
+        "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
+        "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
       ]
     }
   }
