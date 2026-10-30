@@ -1,26 +1,20 @@
 {
   "test": {
-    "version": "0.3.0-test37",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test37.zip",
-    "sha256": "d1a959163df1281a0b011f3b17ff28fcf2193aadb6d6b273396d99090f88bbd8",
-    "size": 1332418,
+    "version": "0.3.0-test38",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test38.zip",
+    "sha256": "58da1eb86bde76c7769730ed062a9f975c73b680101c69aa82351a6bb77bac64",
+    "size": 1335615,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Jauna cilne **Kolekcijas**: tavas bilžu kolekcijas ar ienākumiem, bilžu skaitu un lejupielādēm; \"Skatīt\" atver kolekcijas bildes cilnē Labākās; pārsaukt, dzēst, izveidot jaunu",
-        "Bildes kolekcijai pievieno ar **labo peles pogu** (Pārdošanas, Labākās) vai **atzīmējot vairākas** (stūrītis bildes augšā vai Ctrl/⌘ + klikšķis) → \"Pievienot kolekcijai\"; kolekcijā skaitās arī tās pašas bildes kopijas citās aģentūrās",
-        "Labākās: izvēle \"Visas bildes / kolekcija\"; kolekcijas skatā var bildes no tās noņemt",
-        "Bildes logā redzams, kurās kolekcijās tā ir, un poga \"Pievienot kolekcijai\"",
-        "**Imports no Microstockr** (Iestatījumi): kolekcijas, sīktēli un nosaukumi (arī Alamy), \"viena bilde vairākās aģentūrās\" sasaiste un vecās pārdošanas — tikai par periodu, kuru aģentūras pašas dati nesedz. Pirms importa — pārskats, ko ielasīs. Paroles no faila netiek lasītas, fails netiek saglabāts",
-        "Aģentūras, kuru vairs nav (EyeEm, Mostphotos, Yayimages), redzamas pārskatos ar importētajiem datiem"
+        "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
+        "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
+        "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
       ],
       "en": [
-        "Jauna cilne **Kolekcijas**: tavas bilžu kolekcijas ar ienākumiem, bilžu skaitu un lejupielādēm; \"Skatīt\" atver kolekcijas bildes cilnē Labākās; pārsaukt, dzēst, izveidot jaunu",
-        "Bildes kolekcijai pievieno ar **labo peles pogu** (Pārdošanas, Labākās) vai **atzīmējot vairākas** (stūrītis bildes augšā vai Ctrl/⌘ + klikšķis) → \"Pievienot kolekcijai\"; kolekcijā skaitās arī tās pašas bildes kopijas citās aģentūrās",
-        "Labākās: izvēle \"Visas bildes / kolekcija\"; kolekcijas skatā var bildes no tās noņemt",
-        "Bildes logā redzams, kurās kolekcijās tā ir, un poga \"Pievienot kolekcijai\"",
-        "**Imports no Microstockr** (Iestatījumi): kolekcijas, sīktēli un nosaukumi (arī Alamy), \"viena bilde vairākās aģentūrās\" sasaiste un vecās pārdošanas — tikai par periodu, kuru aģentūras pašas dati nesedz. Pirms importa — pārskats, ko ielasīs. Paroles no faila netiek lasītas, fails netiek saglabāts",
-        "Aģentūras, kuru vairs nav (EyeEm, Mostphotos, Yayimages), redzamas pārskatos ar importētajiem datiem"
+        "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
+        "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
+        "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
       ]
     }
   }
