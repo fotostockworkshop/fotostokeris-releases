@@ -1,34 +1,32 @@
 {
   "test": {
-    "version": "0.3.0-test48",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test48.zip",
-    "sha256": "b514c60afdc216f32f7887c946d8975911dd5e3438059146a087fd5d147cf491",
-    "size": 1399596,
+    "version": "0.3.0-test49",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test49.zip",
+    "sha256": "ba493162191ce8db270a95687962241d2da68a87ccb2a51e439ddce0e04fd782",
+    "size": 1401467,
     "date": "2026-10-30",
     "notes": {
       "lv": [
-        "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
-        "Teksti Terminal logā — programmas valodā",
-        "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
-        "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
-        "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
-        "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
-        "Envato Market: īstie bilžu nosaukumi",
-        "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
+        "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
       ],
       "en": [
-        "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
-        "Teksti Terminal logā — programmas valodā",
-        "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
-        "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
-        "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
-        "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
-        "Envato Market: īstie bilžu nosaukumi",
-        "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
+        "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test49",
+      "date": "2026-10-30",
+      "notes": {
+        "lv": [
+          "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
+        ],
+        "en": [
+          "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
+        ]
+      }
+    },
     {
       "version": "0.3.0-test48",
       "date": "2026-10-30",
