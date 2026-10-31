@@ -1,40 +1,60 @@
 {
   "test": {
-    "version": "0.3.0-test52",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test52.zip",
-    "sha256": "cafb9da894409e297e9a0f5b42f72da1eca197c3ca5c355dfe9e380c68586250",
-    "size": 4039742,
+    "version": "0.3.0-test53",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test53.zip",
+    "sha256": "156eacbf9b071cbbb2f76c02946ea343ac4957577cd94482a4a33ccdca7c63f7",
+    "size": 4043517,
     "date": "2026-10-31",
     "notes": {
       "lv": [
-        "Pēdējā testa versija pirms 0.3.0",
-        "Valodas: latviešu, angļu, vācu, spāņu, ukraiņu",
-        "Mac: uzstādītājs \"Analītiķis — uzstādīt\" bez Terminal loga",
-        "Iestatījumos \"Beta funkcijas\": Portfeļa analīze, RF/ED šķirošana; \"Neizmantot Beta funkcijas\" — tikai stabilās versijas",
-        "RF/ED: atzīme katrai bildei (aģentūras, kas ED nepieņem; nosaukums; tava atzīme ar labo peles klikšķi), filtrs un ienākumi pa RF/ED",
-        "Kolekcijas: konteksta izvēlnē zaļas tās, kurās bilde jau ir; saraksts ritināms; turot peli virs bildes — arī kolekcijas",
-        "Izmaksās \"Prognoze\" (bij. \"Gaidāms\") ar Envato (izmaksa pēc 2 mēnešiem, 15. datumā)",
-        "Aģentūrās: \"Kopā\" tikai ienākumiem un lejupielādēm; portfeļa tabulai \"Kopā\" nav",
-        "Sīktēli: bildes kartītē rezerves attēls; Shutterstock un Zoonar mēģina lielāku; Envato Elements — pēc vienuma ID",
-        "Zoonar portfelis arī vāciskā lapā; 123RF portfelis no publiskā profila",
-        "Atjaunojot tiek nolasīts tikai jaunais (no iepriekšējās ielādes −1 diena; Envato, iStock, Zoonar, Ingram — ar rezervi)"
+        "Labots: portfeļa nolasīšana (test52 kļūda) — atkal darbojas visām aģentūrām",
+        "Iestatījumos atsevišķa sadaļa \"Analītiķa iestatījumi\" ar Beta funkcijām",
+        "Izmaksu atgādinājums programmā: mēneša pēdējā dienā / tiklīdz sasniegts minimums / no izvēlētā datuma",
+        "Prognozē Envato arī tad, ja mēnesis vēl rēķinās",
+        "Bildes kartītē lielākais pieejamais attēls (Dreamstime, Shutterstock, Zoonar)",
+        "Kolekciju sarakstu konteksta izvēlnē var ritināt; turot peli virs bildes, kolekcijas zaļā krāsā",
+        "Izmaksu josla augšā — izvēlētajā valodā",
+        "Mac uzstādītājs: redzams logs uzstādīšanas laikā un beigās poga \"Atvērt Analītiķi\""
       ],
       "en": [
-        "Pēdējā testa versija pirms 0.3.0",
-        "Valodas: latviešu, angļu, vācu, spāņu, ukraiņu",
-        "Mac: uzstādītājs \"Analītiķis — uzstādīt\" bez Terminal loga",
-        "Iestatījumos \"Beta funkcijas\": Portfeļa analīze, RF/ED šķirošana; \"Neizmantot Beta funkcijas\" — tikai stabilās versijas",
-        "RF/ED: atzīme katrai bildei (aģentūras, kas ED nepieņem; nosaukums; tava atzīme ar labo peles klikšķi), filtrs un ienākumi pa RF/ED",
-        "Kolekcijas: konteksta izvēlnē zaļas tās, kurās bilde jau ir; saraksts ritināms; turot peli virs bildes — arī kolekcijas",
-        "Izmaksās \"Prognoze\" (bij. \"Gaidāms\") ar Envato (izmaksa pēc 2 mēnešiem, 15. datumā)",
-        "Aģentūrās: \"Kopā\" tikai ienākumiem un lejupielādēm; portfeļa tabulai \"Kopā\" nav",
-        "Sīktēli: bildes kartītē rezerves attēls; Shutterstock un Zoonar mēģina lielāku; Envato Elements — pēc vienuma ID",
-        "Zoonar portfelis arī vāciskā lapā; 123RF portfelis no publiskā profila",
-        "Atjaunojot tiek nolasīts tikai jaunais (no iepriekšējās ielādes −1 diena; Envato, iStock, Zoonar, Ingram — ar rezervi)"
+        "Labots: portfeļa nolasīšana (test52 kļūda) — atkal darbojas visām aģentūrām",
+        "Iestatījumos atsevišķa sadaļa \"Analītiķa iestatījumi\" ar Beta funkcijām",
+        "Izmaksu atgādinājums programmā: mēneša pēdējā dienā / tiklīdz sasniegts minimums / no izvēlētā datuma",
+        "Prognozē Envato arī tad, ja mēnesis vēl rēķinās",
+        "Bildes kartītē lielākais pieejamais attēls (Dreamstime, Shutterstock, Zoonar)",
+        "Kolekciju sarakstu konteksta izvēlnē var ritināt; turot peli virs bildes, kolekcijas zaļā krāsā",
+        "Izmaksu josla augšā — izvēlētajā valodā",
+        "Mac uzstādītājs: redzams logs uzstādīšanas laikā un beigās poga \"Atvērt Analītiķi\""
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test53",
+      "date": "2026-10-31",
+      "notes": {
+        "lv": [
+          "Labots: portfeļa nolasīšana (test52 kļūda) — atkal darbojas visām aģentūrām",
+          "Iestatījumos atsevišķa sadaļa \"Analītiķa iestatījumi\" ar Beta funkcijām",
+          "Izmaksu atgādinājums programmā: mēneša pēdējā dienā / tiklīdz sasniegts minimums / no izvēlētā datuma",
+          "Prognozē Envato arī tad, ja mēnesis vēl rēķinās",
+          "Bildes kartītē lielākais pieejamais attēls (Dreamstime, Shutterstock, Zoonar)",
+          "Kolekciju sarakstu konteksta izvēlnē var ritināt; turot peli virs bildes, kolekcijas zaļā krāsā",
+          "Izmaksu josla augšā — izvēlētajā valodā",
+          "Mac uzstādītājs: redzams logs uzstādīšanas laikā un beigās poga \"Atvērt Analītiķi\""
+        ],
+        "en": [
+          "Labots: portfeļa nolasīšana (test52 kļūda) — atkal darbojas visām aģentūrām",
+          "Iestatījumos atsevišķa sadaļa \"Analītiķa iestatījumi\" ar Beta funkcijām",
+          "Izmaksu atgādinājums programmā: mēneša pēdējā dienā / tiklīdz sasniegts minimums / no izvēlētā datuma",
+          "Prognozē Envato arī tad, ja mēnesis vēl rēķinās",
+          "Bildes kartītē lielākais pieejamais attēls (Dreamstime, Shutterstock, Zoonar)",
+          "Kolekciju sarakstu konteksta izvēlnē var ritināt; turot peli virs bildes, kolekcijas zaļā krāsā",
+          "Izmaksu josla augšā — izvēlētajā valodā",
+          "Mac uzstādītājs: redzams logs uzstādīšanas laikā un beigās poga \"Atvērt Analītiķi\""
+        ]
+      }
+    },
     {
       "version": "0.3.0-test52",
       "date": "2026-10-31",
@@ -696,20 +716,6 @@
           "Bigstock: vairs neskaita iekšējās vēstures rindas (bija 1756 no 1708); vēsture ielādēsies no jauna",
           "Ingram: mēnešu ienākumi redzami sadaļā Pārdošanas (izvēloties Ingram vai mēneša skatā), summas mārciņās",
           "Mac: jauns uzstādītājs Uzstadit_Mac.command — Analītiķis kļūst par parastu lietotni (Launchpad, Dock), bez apstiprināšanas katrā palaišanā"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test13",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
-          "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
-        ],
-        "en": [
-          "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
-          "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
         ]
       }
     }
