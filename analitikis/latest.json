@@ -1,28 +1,72 @@
 {
   "test": {
-    "version": "0.3.0-test51",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test51.zip",
-    "sha256": "aa50631f5f075325c04e2e0069dd9e19da828edfea7af8d701e400f2dabe7674",
-    "size": 1403941,
-    "date": "2026-10-30",
+    "version": "0.3.0-test52",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0-test52.zip",
+    "sha256": "cafb9da894409e297e9a0f5b42f72da1eca197c3ca5c355dfe9e380c68586250",
+    "size": 4039742,
+    "date": "2026-10-31",
     "notes": {
       "lv": [
-        "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) un Ingram mēnešu summas sarakstā vairs nav",
-        "Izmaksās skaidrojums \"No kā sastāv Pārskata summa\": par bildēm + citi ienākumi + mēneši tikai ar kopsummu (+ nesakrīt) = Pārskats; pa aģentūrām ar summām un mēnešiem",
-        "Envato mēneši līdz 2022. gada augustam apzīmēti kā Twenty20 (vēlāk Envato)",
-        "\"Citi ienākumi pa veidiem\" (aģentūra, veids, periods, summa) + visu maksājumu saraksts",
-        "Skaidrojuma teksti vairs neiziet pāri malām"
+        "Pēdējā testa versija pirms 0.3.0",
+        "Valodas: latviešu, angļu, vācu, spāņu, ukraiņu",
+        "Mac: uzstādītājs \"Analītiķis — uzstādīt\" bez Terminal loga",
+        "Iestatījumos \"Beta funkcijas\": Portfeļa analīze, RF/ED šķirošana; \"Neizmantot Beta funkcijas\" — tikai stabilās versijas",
+        "RF/ED: atzīme katrai bildei (aģentūras, kas ED nepieņem; nosaukums; tava atzīme ar labo peles klikšķi), filtrs un ienākumi pa RF/ED",
+        "Kolekcijas: konteksta izvēlnē zaļas tās, kurās bilde jau ir; saraksts ritināms; turot peli virs bildes — arī kolekcijas",
+        "Izmaksās \"Prognoze\" (bij. \"Gaidāms\") ar Envato (izmaksa pēc 2 mēnešiem, 15. datumā)",
+        "Aģentūrās: \"Kopā\" tikai ienākumiem un lejupielādēm; portfeļa tabulai \"Kopā\" nav",
+        "Sīktēli: bildes kartītē rezerves attēls; Shutterstock un Zoonar mēģina lielāku; Envato Elements — pēc vienuma ID",
+        "Zoonar portfelis arī vāciskā lapā; 123RF portfelis no publiskā profila",
+        "Atjaunojot tiek nolasīts tikai jaunais (no iepriekšējās ielādes −1 diena; Envato, iStock, Zoonar, Ingram — ar rezervi)"
       ],
       "en": [
-        "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) un Ingram mēnešu summas sarakstā vairs nav",
-        "Izmaksās skaidrojums \"No kā sastāv Pārskata summa\": par bildēm + citi ienākumi + mēneši tikai ar kopsummu (+ nesakrīt) = Pārskats; pa aģentūrām ar summām un mēnešiem",
-        "Envato mēneši līdz 2022. gada augustam apzīmēti kā Twenty20 (vēlāk Envato)",
-        "\"Citi ienākumi pa veidiem\" (aģentūra, veids, periods, summa) + visu maksājumu saraksts",
-        "Skaidrojuma teksti vairs neiziet pāri malām"
+        "Pēdējā testa versija pirms 0.3.0",
+        "Valodas: latviešu, angļu, vācu, spāņu, ukraiņu",
+        "Mac: uzstādītājs \"Analītiķis — uzstādīt\" bez Terminal loga",
+        "Iestatījumos \"Beta funkcijas\": Portfeļa analīze, RF/ED šķirošana; \"Neizmantot Beta funkcijas\" — tikai stabilās versijas",
+        "RF/ED: atzīme katrai bildei (aģentūras, kas ED nepieņem; nosaukums; tava atzīme ar labo peles klikšķi), filtrs un ienākumi pa RF/ED",
+        "Kolekcijas: konteksta izvēlnē zaļas tās, kurās bilde jau ir; saraksts ritināms; turot peli virs bildes — arī kolekcijas",
+        "Izmaksās \"Prognoze\" (bij. \"Gaidāms\") ar Envato (izmaksa pēc 2 mēnešiem, 15. datumā)",
+        "Aģentūrās: \"Kopā\" tikai ienākumiem un lejupielādēm; portfeļa tabulai \"Kopā\" nav",
+        "Sīktēli: bildes kartītē rezerves attēls; Shutterstock un Zoonar mēģina lielāku; Envato Elements — pēc vienuma ID",
+        "Zoonar portfelis arī vāciskā lapā; 123RF portfelis no publiskā profila",
+        "Atjaunojot tiek nolasīts tikai jaunais (no iepriekšējās ielādes −1 diena; Envato, iStock, Zoonar, Ingram — ar rezervi)"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0-test52",
+      "date": "2026-10-31",
+      "notes": {
+        "lv": [
+          "Pēdējā testa versija pirms 0.3.0",
+          "Valodas: latviešu, angļu, vācu, spāņu, ukraiņu",
+          "Mac: uzstādītājs \"Analītiķis — uzstādīt\" bez Terminal loga",
+          "Iestatījumos \"Beta funkcijas\": Portfeļa analīze, RF/ED šķirošana; \"Neizmantot Beta funkcijas\" — tikai stabilās versijas",
+          "RF/ED: atzīme katrai bildei (aģentūras, kas ED nepieņem; nosaukums; tava atzīme ar labo peles klikšķi), filtrs un ienākumi pa RF/ED",
+          "Kolekcijas: konteksta izvēlnē zaļas tās, kurās bilde jau ir; saraksts ritināms; turot peli virs bildes — arī kolekcijas",
+          "Izmaksās \"Prognoze\" (bij. \"Gaidāms\") ar Envato (izmaksa pēc 2 mēnešiem, 15. datumā)",
+          "Aģentūrās: \"Kopā\" tikai ienākumiem un lejupielādēm; portfeļa tabulai \"Kopā\" nav",
+          "Sīktēli: bildes kartītē rezerves attēls; Shutterstock un Zoonar mēģina lielāku; Envato Elements — pēc vienuma ID",
+          "Zoonar portfelis arī vāciskā lapā; 123RF portfelis no publiskā profila",
+          "Atjaunojot tiek nolasīts tikai jaunais (no iepriekšējās ielādes −1 diena; Envato, iStock, Zoonar, Ingram — ar rezervi)"
+        ],
+        "en": [
+          "Pēdējā testa versija pirms 0.3.0",
+          "Valodas: latviešu, angļu, vācu, spāņu, ukraiņu",
+          "Mac: uzstādītājs \"Analītiķis — uzstādīt\" bez Terminal loga",
+          "Iestatījumos \"Beta funkcijas\": Portfeļa analīze, RF/ED šķirošana; \"Neizmantot Beta funkcijas\" — tikai stabilās versijas",
+          "RF/ED: atzīme katrai bildei (aģentūras, kas ED nepieņem; nosaukums; tava atzīme ar labo peles klikšķi), filtrs un ienākumi pa RF/ED",
+          "Kolekcijas: konteksta izvēlnē zaļas tās, kurās bilde jau ir; saraksts ritināms; turot peli virs bildes — arī kolekcijas",
+          "Izmaksās \"Prognoze\" (bij. \"Gaidāms\") ar Envato (izmaksa pēc 2 mēnešiem, 15. datumā)",
+          "Aģentūrās: \"Kopā\" tikai ienākumiem un lejupielādēm; portfeļa tabulai \"Kopā\" nav",
+          "Sīktēli: bildes kartītē rezerves attēls; Shutterstock un Zoonar mēģina lielāku; Envato Elements — pēc vienuma ID",
+          "Zoonar portfelis arī vāciskā lapā; 123RF portfelis no publiskā profila",
+          "Atjaunojot tiek nolasīts tikai jaunais (no iepriekšējās ielādes −1 diena; Envato, iStock, Zoonar, Ingram — ar rezervi)"
+        ]
+      }
+    },
     {
       "version": "0.3.0-test51",
       "date": "2026-10-30",
@@ -666,22 +710,6 @@
         "en": [
           "Bigstock: tiek nolasītas arī vienas dienas pārējās pārdošanas (agrāk pazuda, tāpēc bija 741 no 1708); vēsture ielādēsies no jauna",
           "Zoonar: dati tiek atrasti Zoonar jaunajā atbildes formātā"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test12",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
-          "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
-          "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
-        ],
-        "en": [
-          "Ingram: savākšana vairs neiestrēgst \"Gaida ielogošanos\", kad esi jau ielogojies",
-          "Zoonar: ielogošanās atpazīšana vairs neskaita paslēptus paroles laukus; žurnālā vairāk ziņu",
-          "Pēc atjaunināšanas logs pārlādējas tikai, kad programma gatava (vairs nebūs balta loga bez izskata)"
         ]
       }
     }
