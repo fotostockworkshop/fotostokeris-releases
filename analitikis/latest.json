@@ -1,40 +1,56 @@
 {
   "test": {
-    "version": "0.3.1-test1",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test1.zip",
-    "sha256": "d7856b6e94408dbb0c46709fd4dfc9ad3d18130687a5ef497a3b350bcd15666b",
-    "size": 41844437,
+    "version": "0.3.1-test2",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test2.zip",
+    "sha256": "6d27b6008b7e0f27a1cb826bc92aa705392736fa650cf4e3bc5fdf14c293e114",
+    "size": 41865975,
     "date": "2026-11-01",
     "notes": {
       "lv": [
-        "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
-        "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
-        "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
-        "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
-        "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
-        "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
-        "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
-        "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
-        "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
-        "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
-        "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
+        "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
+        "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
+        "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
+        "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
+        "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
+        "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
+        "Labojumu vēsture visās 5 valodās."
       ],
       "en": [
-        "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
-        "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
-        "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
-        "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
-        "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
-        "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
-        "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
-        "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
-        "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
-        "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
-        "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
+        "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
+        "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
+        "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
+        "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
+        "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
+        "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
+        "Labojumu vēsture visās 5 valodās."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test2",
+      "date": "2026-11-01",
+      "notes": {
+        "lv": [
+          "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
+          "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
+          "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
+          "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
+          "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
+          "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
+          "Labojumu vēsture visās 5 valodās."
+        ],
+        "en": [
+          "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
+          "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
+          "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
+          "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
+          "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
+          "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
+          "Labojumu vēsture visās 5 valodās."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test1",
       "date": "2026-11-01",
@@ -752,24 +768,6 @@
         "en": [
           "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
           "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test16",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
-          "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
-          "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
-          "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
-        ],
-        "en": [
-          "Jauna cilne Izmaksas: cik saņemts šomēnes, gaidāmā \"alga\" nākamajā mēnesī (eiro), neizmaksātais pa aģentūrām, minimumi, izmaksas pa mēnešiem un gadiem",
-          "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
-          "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
-          "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
         ]
       }
     }
