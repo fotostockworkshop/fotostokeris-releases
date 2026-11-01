@@ -1,54 +1,72 @@
 {
   "test": {
-    "version": "0.3.0",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.0.zip",
-    "sha256": "3b8c93c18a0e0869180904b041add356f29a519aeded788da26df23880c53497",
-    "size": 8284777,
-    "date": "2026-10-31",
+    "version": "0.3.1-test1",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test1.zip",
+    "sha256": "d7856b6e94408dbb0c46709fd4dfc9ad3d18130687a5ef497a3b350bcd15666b",
+    "size": 41844437,
+    "date": "2026-11-01",
     "notes": {
       "lv": [
-        "Jauns izskats: viens logs ar cilnēm, gaišā un tumšā tēma, statusu josla apakšā; valodas — latviešu, angļu, vācu, spāņu, ukraiņu.",
-        "Jaunas aģentūras: Zoonar, Ingram, Envato Market (kopā 15); arhīvā no Microstockr — EyeEm, Mostphotos, Yayimages.",
-        "Automātiska ielogošanās: paroles datora drošajā glabātuvē; logs parādās tikai, ja vajag tevi (2FA, kapča), un vienlaikus tikai viens; Mac saglabā ielogošanos pēc restarta.",
-        "Ātrāka atjaunošana: visa vēsture tikai pirmajā reizē, pēc tam tikai jaunais; rindā ne vairāk kā 2 logi; cik bieži atjaunot katru aģentūru — iestatījumos; sesiju uzturēšana reizi dienā.",
-        "Pārskats: šonedēļ (no pirmdienas), šis mēnesis ar prognozi, šis gads; jaunās pārdošanas zaļā rāmī.",
-        "Perioda izvēle kā Microstockr (diena, mēnesis, gads, intervāls, visa vēsture) Pārdošanās, Labākajās un Aģentūrās.",
-        "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) — Izmaksās, skaidrojumā “No kā sastāv Pārskata summa”.",
-        "Jauna cilne Izmaksas: saņemts šomēnes, prognoze nākamajam mēnesim (arī Envato), neizmaksātais, minimumi, izmaksas pa mēnešiem un gadiem eiro.",
-        "“Pieprasīt visas” — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina); atgādinājums programmā un e-pastā — pēdējā dienā, izvēlētā dienā vai tiklīdz sasniegts minimums.",
-        "Jauna cilne Kolekcijas: ienākumi, lejupielādes, RPI/RPD pa aģentūrām; bildes pievieno ar labo peles pogu vai atlasot vairākas; kolekcijas, kurās bilde jau ir, — zaļā krāsā.",
-        "Imports no Microstockr: kolekcijas, sīktēli, nosaukumi un vecās pārdošanas (bez dubultošanas).",
-        "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas (pēc nosaukuma, faila un sīktēla); var apvienot vai atdalīt ar roku.",
-        "Bildes logā: lielāks attēls, 🔍 meklēt internetā, 🔗 atvērt aģentūras lapā, kolekcijas.",
-        "Rezerves kopijas: izveidot, atjaunot jebkurā datorā, automātiski un pirms katras atjaunināšanas; arī OneDrive.",
-        "Automātiska atjaunināšana ar tavu piekrišanu un “Kas jauns” mākonītis.",
-        "Iestatījumos “Pieslēgumi”: OneDrive, Claude/ChatGPT abonements, AI API atslēgas, Ollama — sagatavots AI asistentam.",
-        "Beta funkcijas (Analītiķa iestatījumi): portfeļa analīze un RF/ED šķirošana; “Neizmantot Beta funkcijas” — tikai stabilās versijas.",
-        "Mac: uzstādītājs bez Terminal (“Analītiķis — uzstādīt”), lietotne darbojas tieši uz Apple procesora."
+        "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
+        "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
+        "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
+        "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
+        "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
+        "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
+        "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
+        "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
+        "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
+        "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
+        "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
       ],
       "en": [
-        "Jauns izskats: viens logs ar cilnēm, gaišā un tumšā tēma, statusu josla apakšā; valodas — latviešu, angļu, vācu, spāņu, ukraiņu.",
-        "Jaunas aģentūras: Zoonar, Ingram, Envato Market (kopā 15); arhīvā no Microstockr — EyeEm, Mostphotos, Yayimages.",
-        "Automātiska ielogošanās: paroles datora drošajā glabātuvē; logs parādās tikai, ja vajag tevi (2FA, kapča), un vienlaikus tikai viens; Mac saglabā ielogošanos pēc restarta.",
-        "Ātrāka atjaunošana: visa vēsture tikai pirmajā reizē, pēc tam tikai jaunais; rindā ne vairāk kā 2 logi; cik bieži atjaunot katru aģentūru — iestatījumos; sesiju uzturēšana reizi dienā.",
-        "Pārskats: šonedēļ (no pirmdienas), šis mēnesis ar prognozi, šis gads; jaunās pārdošanas zaļā rāmī.",
-        "Perioda izvēle kā Microstockr (diena, mēnesis, gads, intervāls, visa vēsture) Pārdošanās, Labākajās un Aģentūrās.",
-        "Pārdošanās tikai pārdošanas par bildēm; citi ienākumi (AI apmācība u.c.) — Izmaksās, skaidrojumā “No kā sastāv Pārskata summa”.",
-        "Jauna cilne Izmaksas: saņemts šomēnes, prognoze nākamajam mēnesim (arī Envato), neizmaksātais, minimumi, izmaksas pa mēnešiem un gadiem eiro.",
-        "“Pieprasīt visas” — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina); atgādinājums programmā un e-pastā — pēdējā dienā, izvēlētā dienā vai tiklīdz sasniegts minimums.",
-        "Jauna cilne Kolekcijas: ienākumi, lejupielādes, RPI/RPD pa aģentūrām; bildes pievieno ar labo peles pogu vai atlasot vairākas; kolekcijas, kurās bilde jau ir, — zaļā krāsā.",
-        "Imports no Microstockr: kolekcijas, sīktēli, nosaukumi un vecās pārdošanas (bez dubultošanas).",
-        "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas (pēc nosaukuma, faila un sīktēla); var apvienot vai atdalīt ar roku.",
-        "Bildes logā: lielāks attēls, 🔍 meklēt internetā, 🔗 atvērt aģentūras lapā, kolekcijas.",
-        "Rezerves kopijas: izveidot, atjaunot jebkurā datorā, automātiski un pirms katras atjaunināšanas; arī OneDrive.",
-        "Automātiska atjaunināšana ar tavu piekrišanu un “Kas jauns” mākonītis.",
-        "Iestatījumos “Pieslēgumi”: OneDrive, Claude/ChatGPT abonements, AI API atslēgas, Ollama — sagatavots AI asistentam.",
-        "Beta funkcijas (Analītiķa iestatījumi): portfeļa analīze un RF/ED šķirošana; “Neizmantot Beta funkcijas” — tikai stabilās versijas.",
-        "Mac: uzstādītājs bez Terminal (“Analītiķis — uzstādīt”), lietotne darbojas tieši uz Apple procesora."
+        "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
+        "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
+        "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
+        "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
+        "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
+        "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
+        "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
+        "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
+        "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
+        "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
+        "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test1",
+      "date": "2026-11-01",
+      "notes": {
+        "lv": [
+          "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
+          "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
+          "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
+          "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
+          "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
+          "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
+          "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
+          "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
+          "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
+          "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
+          "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
+        ],
+        "en": [
+          "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
+          "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
+          "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
+          "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
+          "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
+          "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
+          "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
+          "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
+          "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
+          "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
+          "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
+        ]
+      }
+    },
     {
       "version": "0.3.0",
       "date": "2026-10-31",
@@ -752,20 +770,6 @@
           "\"Var pieprasīt izmaksu\" un poga \"Pieprasīt visas\" — pēc tava apstiprinājuma programma pieprasa izmaksu aģentūrās (saņēmēju nemaina)",
           "Mēneša pēdējā dienā atgādinājums programmā; e-pasta atgādinājums (Iestatījumi → E-pasta atgādinājums)",
           "Iestatījumi → Izmaksas: izmaksas veids un minimums katrai aģentūrai"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test15",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Mac: Dock rāda Analītiķa ikonu (nevis Python)",
-          "Mac: lietotne darbojas tieši uz Apple procesora (bez Rosetta un brīdinājuma par Intel); vienreiz jāpalaiž jaunais Uzstadit_Mac.command"
-        ],
-        "en": [
-          "Mac: Dock rāda Analītiķa ikonu (nevis Python)",
-          "Mac: lietotne darbojas tieši uz Apple procesora (bez Rosetta un brīdinājuma par Intel); vienreiz jāpalaiž jaunais Uzstadit_Mac.command"
         ]
       }
     }
