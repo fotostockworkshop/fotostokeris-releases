@@ -1,0 +1,47 @@
+{
+  "test": {
+    "version": "0.9.0-test1",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test1.zip",
+    "sha256": "172a4e0f467b741273aa3874280e4f6e2088c4ef91d62bc70bc8b6a8429aa04d",
+    "size": 41352997,
+    "date": "2026-11-01",
+    "notes": {
+      "lv": [
+        "Vārdotājs strādā uz Fotostokera kopīgā pamata (tāpat kā Analītiķis).",
+        "Automātiska atjaunināšana (Iestatījumi → Atjauninājumi) un “Kas jauns” pēc atjaunināšanas.",
+        "Rezerves kopijas (Iestatījumi → Rezerves kopijas): izveidot, atjaunot, automātiski un pirms katras atjaunināšanas.",
+        "Uzstādītāji Mac un Windows; jaunā ikona.",
+        "Dialogs ar ķeksi vairs neizskatās salauzts."
+      ],
+      "en": [
+        "Vārdotājs strādā uz Fotostokera kopīgā pamata (tāpat kā Analītiķis).",
+        "Automātiska atjaunināšana (Iestatījumi → Atjauninājumi) un “Kas jauns” pēc atjaunināšanas.",
+        "Rezerves kopijas (Iestatījumi → Rezerves kopijas): izveidot, atjaunot, automātiski un pirms katras atjaunināšanas.",
+        "Uzstādītāji Mac un Windows; jaunā ikona.",
+        "Dialogs ar ķeksi vairs neizskatās salauzts."
+      ]
+    }
+  },
+  "history": [
+    {
+      "version": "0.9.0-test1",
+      "date": "2026-11-01",
+      "notes": {
+        "lv": [
+          "Vārdotājs strādā uz Fotostokera kopīgā pamata (tāpat kā Analītiķis).",
+          "Automātiska atjaunināšana (Iestatījumi → Atjauninājumi) un “Kas jauns” pēc atjaunināšanas.",
+          "Rezerves kopijas (Iestatījumi → Rezerves kopijas): izveidot, atjaunot, automātiski un pirms katras atjaunināšanas.",
+          "Uzstādītāji Mac un Windows; jaunā ikona.",
+          "Dialogs ar ķeksi vairs neizskatās salauzts."
+        ],
+        "en": [
+          "Vārdotājs strādā uz Fotostokera kopīgā pamata (tāpat kā Analītiķis).",
+          "Automātiska atjaunināšana (Iestatījumi → Atjauninājumi) un “Kas jauns” pēc atjaunināšanas.",
+          "Rezerves kopijas (Iestatījumi → Rezerves kopijas): izveidot, atjaunot, automātiski un pirms katras atjaunināšanas.",
+          "Uzstādītāji Mac un Windows; jaunā ikona.",
+          "Dialogs ar ķeksi vairs neizskatās salauzts."
+        ]
+      }
+    }
+  ]
+}
