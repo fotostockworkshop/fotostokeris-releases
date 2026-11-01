@@ -1,24 +1,48 @@
 {
   "test": {
-    "version": "0.9.0-test2",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test2.zip",
-    "sha256": "f6ec437faabb2f8288afd78d883752585e22a7d9f5980b33872c926b8b06576a",
-    "size": 9796289,
+    "version": "0.9.0-test3",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test3.zip",
+    "sha256": "719a5b4802877d3fe103a7a009d12dae1cb76500c55753b9a7dd054c59216991",
+    "size": 9810515,
     "date": "2026-11-01",
     "notes": {
       "lv": [
-        "Statusa josla apakšā kā Analītiķī: AI konts, ExifTool, AI darbs, cik bilžu mapē aprakstītas un ✎ melnraksti.",
-        "Tēma: gaišā / tumšā / kā sistēmā (statusa joslas labajā pusē).",
-        "Valodu izvēlne ar karodziņiem (pagaidām LV un EN)."
+        "Iestatījumi kā Analītiķī: sadaļa “Pieslēgumi” — Claude un ChatGPT abonements ar vienu pogu “Pieslēgt”, API atslēgas drošajā glabātuvē, cik iztērēts šomēnes.",
+        "“Kurš AI ko dara”: katram darbam (apraksti, apskate, saruna, saīsināšana/tulkošana) sava AI secība.",
+        "Uz Mac pieslēgšanās vairs neprasa atļauju “control Terminal”.",
+        "Sakļaujamas iestatījumu sadaļas, “Izskats”, “Kopīgie dati”, “AI darbs”.",
+        "AI darbības smaragda krāsā; pieslēgtais — zaļš punkts un zaļš nosaukums."
       ],
       "en": [
-        "Statusa josla apakšā kā Analītiķī: AI konts, ExifTool, AI darbs, cik bilžu mapē aprakstītas un ✎ melnraksti.",
-        "Tēma: gaišā / tumšā / kā sistēmā (statusa joslas labajā pusē).",
-        "Valodu izvēlne ar karodziņiem (pagaidām LV un EN)."
+        "Iestatījumi kā Analītiķī: sadaļa “Pieslēgumi” — Claude un ChatGPT abonements ar vienu pogu “Pieslēgt”, API atslēgas drošajā glabātuvē, cik iztērēts šomēnes.",
+        "“Kurš AI ko dara”: katram darbam (apraksti, apskate, saruna, saīsināšana/tulkošana) sava AI secība.",
+        "Uz Mac pieslēgšanās vairs neprasa atļauju “control Terminal”.",
+        "Sakļaujamas iestatījumu sadaļas, “Izskats”, “Kopīgie dati”, “AI darbs”.",
+        "AI darbības smaragda krāsā; pieslēgtais — zaļš punkts un zaļš nosaukums."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test3",
+      "date": "2026-11-01",
+      "notes": {
+        "lv": [
+          "Iestatījumi kā Analītiķī: sadaļa “Pieslēgumi” — Claude un ChatGPT abonements ar vienu pogu “Pieslēgt”, API atslēgas drošajā glabātuvē, cik iztērēts šomēnes.",
+          "“Kurš AI ko dara”: katram darbam (apraksti, apskate, saruna, saīsināšana/tulkošana) sava AI secība.",
+          "Uz Mac pieslēgšanās vairs neprasa atļauju “control Terminal”.",
+          "Sakļaujamas iestatījumu sadaļas, “Izskats”, “Kopīgie dati”, “AI darbs”.",
+          "AI darbības smaragda krāsā; pieslēgtais — zaļš punkts un zaļš nosaukums."
+        ],
+        "en": [
+          "Iestatījumi kā Analītiķī: sadaļa “Pieslēgumi” — Claude un ChatGPT abonements ar vienu pogu “Pieslēgt”, API atslēgas drošajā glabātuvē, cik iztērēts šomēnes.",
+          "“Kurš AI ko dara”: katram darbam (apraksti, apskate, saruna, saīsināšana/tulkošana) sava AI secība.",
+          "Uz Mac pieslēgšanās vairs neprasa atļauju “control Terminal”.",
+          "Sakļaujamas iestatījumu sadaļas, “Izskats”, “Kopīgie dati”, “AI darbs”.",
+          "AI darbības smaragda krāsā; pieslēgtais — zaļš punkts un zaļš nosaukums."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test2",
       "date": "2026-11-01",
