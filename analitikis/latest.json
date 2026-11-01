@@ -1,32 +1,52 @@
 {
   "test": {
-    "version": "0.3.1-test2",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test2.zip",
-    "sha256": "6d27b6008b7e0f27a1cb826bc92aa705392736fa650cf4e3bc5fdf14c293e114",
-    "size": 41865975,
+    "version": "0.3.1-test3",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test3.zip",
+    "sha256": "89321152c892737a718631cbdaa7420424cfe8407707314794025545ed5caa5b",
+    "size": 41870857,
     "date": "2026-11-01",
     "notes": {
       "lv": [
-        "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
-        "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
-        "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
-        "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
-        "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
-        "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
-        "Labojumu vēsture visās 5 valodās."
+        "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
+        "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
+        "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
+        "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
+        "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
+        "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
       ],
       "en": [
-        "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
-        "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
-        "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
-        "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
-        "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
-        "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
-        "Labojumu vēsture visās 5 valodās."
+        "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
+        "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
+        "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
+        "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
+        "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
+        "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test3",
+      "date": "2026-11-01",
+      "notes": {
+        "lv": [
+          "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
+          "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
+          "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
+          "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
+          "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
+          "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
+        ],
+        "en": [
+          "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
+          "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
+          "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
+          "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
+          "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
+          "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test2",
       "date": "2026-11-01",
@@ -754,20 +774,6 @@
           "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
           "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
           "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test17",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
-          "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
-        ],
-        "en": [
-          "Bigstock: vēstures rindas vairs netiek skaitītas kā pārdošanas (pareizi 1708); vēsture ielādēsies no jauna",
-          "Dreamstime u.c.: kamēr lapā ir \"cilvēka\" pārbaude (Press & Hold), programma fonā neko nepieprasa"
         ]
       }
     }
