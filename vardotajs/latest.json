@@ -1,28 +1,40 @@
 {
   "test": {
-    "version": "0.9.0-test1",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test1.zip",
-    "sha256": "286b8dba8f149ad23b8cd2335747543b10bd9b8a710e2cddea8a5c822babe7e7",
-    "size": 9789932,
+    "version": "0.9.0-test2",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test2.zip",
+    "sha256": "f6ec437faabb2f8288afd78d883752585e22a7d9f5980b33872c926b8b06576a",
+    "size": 9796289,
     "date": "2026-11-01",
     "notes": {
       "lv": [
-        "Vārdotājs strādā uz Fotostokera kopīgā pamata (tāpat kā Analītiķis).",
-        "Automātiska atjaunināšana (Iestatījumi → Atjauninājumi) un “Kas jauns” pēc atjaunināšanas.",
-        "Rezerves kopijas (Iestatījumi → Rezerves kopijas): izveidot, atjaunot, automātiski un pirms katras atjaunināšanas.",
-        "Uzstādītāji Mac un Windows; jaunā ikona.",
-        "Dialogs ar ķeksi vairs neizskatās salauzts."
+        "Statusa josla apakšā kā Analītiķī: AI konts, ExifTool, AI darbs, cik bilžu mapē aprakstītas un ✎ melnraksti.",
+        "Tēma: gaišā / tumšā / kā sistēmā (statusa joslas labajā pusē).",
+        "Valodu izvēlne ar karodziņiem (pagaidām LV un EN)."
       ],
       "en": [
-        "Vārdotājs strādā uz Fotostokera kopīgā pamata (tāpat kā Analītiķis).",
-        "Automātiska atjaunināšana (Iestatījumi → Atjauninājumi) un “Kas jauns” pēc atjaunināšanas.",
-        "Rezerves kopijas (Iestatījumi → Rezerves kopijas): izveidot, atjaunot, automātiski un pirms katras atjaunināšanas.",
-        "Uzstādītāji Mac un Windows; jaunā ikona.",
-        "Dialogs ar ķeksi vairs neizskatās salauzts."
+        "Statusa josla apakšā kā Analītiķī: AI konts, ExifTool, AI darbs, cik bilžu mapē aprakstītas un ✎ melnraksti.",
+        "Tēma: gaišā / tumšā / kā sistēmā (statusa joslas labajā pusē).",
+        "Valodu izvēlne ar karodziņiem (pagaidām LV un EN)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test2",
+      "date": "2026-11-01",
+      "notes": {
+        "lv": [
+          "Statusa josla apakšā kā Analītiķī: AI konts, ExifTool, AI darbs, cik bilžu mapē aprakstītas un ✎ melnraksti.",
+          "Tēma: gaišā / tumšā / kā sistēmā (statusa joslas labajā pusē).",
+          "Valodu izvēlne ar karodziņiem (pagaidām LV un EN)."
+        ],
+        "en": [
+          "Statusa josla apakšā kā Analītiķī: AI konts, ExifTool, AI darbs, cik bilžu mapē aprakstītas un ✎ melnraksti.",
+          "Tēma: gaišā / tumšā / kā sistēmā (statusa joslas labajā pusē).",
+          "Valodu izvēlne ar karodziņiem (pagaidām LV un EN)."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test1",
       "date": "2026-11-01",
