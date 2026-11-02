@@ -1,28 +1,64 @@
 {
   "test": {
-    "version": "0.9.0-test3",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test3.zip",
-    "sha256": "719a5b4802877d3fe103a7a009d12dae1cb76500c55753b9a7dd054c59216991",
-    "size": 9810515,
-    "date": "2026-11-01",
+    "version": "0.9.0-test4",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test4.zip",
+    "sha256": "b6992826107ae53152729317a86a30bce5a520a00172b8eafb2490c24e40e25d",
+    "size": 9861084,
+    "date": "2026-11-02",
     "notes": {
       "lv": [
-        "Iestatījumi kā Analītiķī: sadaļa “Pieslēgumi” — Claude un ChatGPT abonements ar vienu pogu “Pieslēgt”, API atslēgas drošajā glabātuvē, cik iztērēts šomēnes.",
-        "“Kurš AI ko dara”: katram darbam (apraksti, apskate, saruna, saīsināšana/tulkošana) sava AI secība.",
-        "Uz Mac pieslēgšanās vairs neprasa atļauju “control Terminal”.",
-        "Sakļaujamas iestatījumu sadaļas, “Izskats”, “Kopīgie dati”, “AI darbs”.",
-        "AI darbības smaragda krāsā; pieslēgtais — zaļš punkts un zaļš nosaukums."
+        "Poga “Manifests”: mapes manifests un sīktēli (teksti, kategorija, statuss) Analītiķim un Tirgotājam — arī vecām, jau aprakstītām mapēm.",
+        "“Dzīvs” manifests: atjaunojas pats pēc katras saglabāšanas; kad visa mape gatava — izveidojas pats.",
+        "RF/ED šķirošanas pārskatā ķeksis “Izveidot manifestu un sīktēlus”.",
+        "Poga “Uz iesniegšanu ➜” un iestatījums “Iesniegšanai gatavo bilžu mape” (lokāla / OneDrive / Google Drive / NAS); var atsaukt.",
+        "Mainot ED ⇄ RF redaktorā — “Noņemt vietu un datumu” / “Pārrakstīt ar AI” / “Atstāt kā ir” un jautājums par pārvietošanu vienā logā.",
+        "Jauna tēma “Meža zaļais”.",
+        "Tulkojums mākonī pie “Rakstības noteikumi AI” un “RF/ED kritēriji”.",
+        "“Failed to fetch” vietā — viena josla “Savienojums pārtrūka” ar “Mēģināt vēlreiz”.",
+        "Windows: mapes izvēles logs virs citiem, pogas atspējotas, kamēr tas atvērts; Edge vairs pēkšņi nejautā par paziņojumiem (ķeksis Iestatījumi → Cits); Codex atrod arī jaunā uzstādītāja vietā; nav melna loga pēc atjaunināšanas; atsevišķas pogas uzdevumjoslā."
       ],
       "en": [
-        "Iestatījumi kā Analītiķī: sadaļa “Pieslēgumi” — Claude un ChatGPT abonements ar vienu pogu “Pieslēgt”, API atslēgas drošajā glabātuvē, cik iztērēts šomēnes.",
-        "“Kurš AI ko dara”: katram darbam (apraksti, apskate, saruna, saīsināšana/tulkošana) sava AI secība.",
-        "Uz Mac pieslēgšanās vairs neprasa atļauju “control Terminal”.",
-        "Sakļaujamas iestatījumu sadaļas, “Izskats”, “Kopīgie dati”, “AI darbs”.",
-        "AI darbības smaragda krāsā; pieslēgtais — zaļš punkts un zaļš nosaukums."
+        "Poga “Manifests”: mapes manifests un sīktēli (teksti, kategorija, statuss) Analītiķim un Tirgotājam — arī vecām, jau aprakstītām mapēm.",
+        "“Dzīvs” manifests: atjaunojas pats pēc katras saglabāšanas; kad visa mape gatava — izveidojas pats.",
+        "RF/ED šķirošanas pārskatā ķeksis “Izveidot manifestu un sīktēlus”.",
+        "Poga “Uz iesniegšanu ➜” un iestatījums “Iesniegšanai gatavo bilžu mape” (lokāla / OneDrive / Google Drive / NAS); var atsaukt.",
+        "Mainot ED ⇄ RF redaktorā — “Noņemt vietu un datumu” / “Pārrakstīt ar AI” / “Atstāt kā ir” un jautājums par pārvietošanu vienā logā.",
+        "Jauna tēma “Meža zaļais”.",
+        "Tulkojums mākonī pie “Rakstības noteikumi AI” un “RF/ED kritēriji”.",
+        "“Failed to fetch” vietā — viena josla “Savienojums pārtrūka” ar “Mēģināt vēlreiz”.",
+        "Windows: mapes izvēles logs virs citiem, pogas atspējotas, kamēr tas atvērts; Edge vairs pēkšņi nejautā par paziņojumiem (ķeksis Iestatījumi → Cits); Codex atrod arī jaunā uzstādītāja vietā; nav melna loga pēc atjaunināšanas; atsevišķas pogas uzdevumjoslā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test4",
+      "date": "2026-11-02",
+      "notes": {
+        "lv": [
+          "Poga “Manifests”: mapes manifests un sīktēli (teksti, kategorija, statuss) Analītiķim un Tirgotājam — arī vecām, jau aprakstītām mapēm.",
+          "“Dzīvs” manifests: atjaunojas pats pēc katras saglabāšanas; kad visa mape gatava — izveidojas pats.",
+          "RF/ED šķirošanas pārskatā ķeksis “Izveidot manifestu un sīktēlus”.",
+          "Poga “Uz iesniegšanu ➜” un iestatījums “Iesniegšanai gatavo bilžu mape” (lokāla / OneDrive / Google Drive / NAS); var atsaukt.",
+          "Mainot ED ⇄ RF redaktorā — “Noņemt vietu un datumu” / “Pārrakstīt ar AI” / “Atstāt kā ir” un jautājums par pārvietošanu vienā logā.",
+          "Jauna tēma “Meža zaļais”.",
+          "Tulkojums mākonī pie “Rakstības noteikumi AI” un “RF/ED kritēriji”.",
+          "“Failed to fetch” vietā — viena josla “Savienojums pārtrūka” ar “Mēģināt vēlreiz”.",
+          "Windows: mapes izvēles logs virs citiem, pogas atspējotas, kamēr tas atvērts; Edge vairs pēkšņi nejautā par paziņojumiem (ķeksis Iestatījumi → Cits); Codex atrod arī jaunā uzstādītāja vietā; nav melna loga pēc atjaunināšanas; atsevišķas pogas uzdevumjoslā."
+        ],
+        "en": [
+          "Poga “Manifests”: mapes manifests un sīktēli (teksti, kategorija, statuss) Analītiķim un Tirgotājam — arī vecām, jau aprakstītām mapēm.",
+          "“Dzīvs” manifests: atjaunojas pats pēc katras saglabāšanas; kad visa mape gatava — izveidojas pats.",
+          "RF/ED šķirošanas pārskatā ķeksis “Izveidot manifestu un sīktēlus”.",
+          "Poga “Uz iesniegšanu ➜” un iestatījums “Iesniegšanai gatavo bilžu mape” (lokāla / OneDrive / Google Drive / NAS); var atsaukt.",
+          "Mainot ED ⇄ RF redaktorā — “Noņemt vietu un datumu” / “Pārrakstīt ar AI” / “Atstāt kā ir” un jautājums par pārvietošanu vienā logā.",
+          "Jauna tēma “Meža zaļais”.",
+          "Tulkojums mākonī pie “Rakstības noteikumi AI” un “RF/ED kritēriji”.",
+          "“Failed to fetch” vietā — viena josla “Savienojums pārtrūka” ar “Mēģināt vēlreiz”.",
+          "Windows: mapes izvēles logs virs citiem, pogas atspējotas, kamēr tas atvērts; Edge vairs pēkšņi nejautā par paziņojumiem (ķeksis Iestatījumi → Cits); Codex atrod arī jaunā uzstādītāja vietā; nav melna loga pēc atjaunināšanas; atsevišķas pogas uzdevumjoslā."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test3",
       "date": "2026-11-01",
