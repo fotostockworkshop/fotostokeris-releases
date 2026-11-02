@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.9.0-test6",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test6.zip",
-    "sha256": "2a8f2adf6f94598886233c23e7484b6d8ef61a0c10c033e4793cf2f90557305f",
-    "size": 9883762,
+    "version": "0.9.0-test7",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test7.zip",
+    "sha256": "849d8032f3e7fb62f908ed299fafd8328345ca4cb6fddd954fad60cdb331d043",
+    "size": 9884365,
     "date": "2026-11-02",
     "notes": {
       "lv": [
-        "Google konts (Iestatījumi → Pieslēgumi): pieslēgšana ar vienu pogu Google lapā; programma Drive redz tikai pašas failus.",
-        "Rezerves kopijas arī uz Google Drive (ķeksis “Kopēt arī uz Google Drive”) un atjaunošana no turienes."
+        "Google konta pieslēgšana uz Mac vairs neapstājas ar sertifikāta kļūdu (CERTIFICATE_VERIFY_FAILED)."
       ],
       "en": [
-        "Google konts (Iestatījumi → Pieslēgumi): pieslēgšana ar vienu pogu Google lapā; programma Drive redz tikai pašas failus.",
-        "Rezerves kopijas arī uz Google Drive (ķeksis “Kopēt arī uz Google Drive”) un atjaunošana no turienes."
+        "Google konta pieslēgšana uz Mac vairs neapstājas ar sertifikāta kļūdu (CERTIFICATE_VERIFY_FAILED)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test7",
+      "date": "2026-11-02",
+      "notes": {
+        "lv": [
+          "Google konta pieslēgšana uz Mac vairs neapstājas ar sertifikāta kļūdu (CERTIFICATE_VERIFY_FAILED)."
+        ],
+        "en": [
+          "Google konta pieslēgšana uz Mac vairs neapstājas ar sertifikāta kļūdu (CERTIFICATE_VERIFY_FAILED)."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test6",
       "date": "2026-11-02",
