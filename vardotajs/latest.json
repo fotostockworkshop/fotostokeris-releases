@@ -1,36 +1,32 @@
 {
   "test": {
-    "version": "0.9.0-test4",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test4.zip",
-    "sha256": "b6992826107ae53152729317a86a30bce5a520a00172b8eafb2490c24e40e25d",
-    "size": 9861084,
+    "version": "0.9.0-test5",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test5.zip",
+    "sha256": "f8e1e8b1e7f45ada9e4c537180dba3efa17e6c452ea92b9d74f76bc2ef42b4b8",
+    "size": 9861379,
     "date": "2026-11-02",
     "notes": {
       "lv": [
-        "Poga “Manifests”: mapes manifests un sīktēli (teksti, kategorija, statuss) Analītiķim un Tirgotājam — arī vecām, jau aprakstītām mapēm.",
-        "“Dzīvs” manifests: atjaunojas pats pēc katras saglabāšanas; kad visa mape gatava — izveidojas pats.",
-        "RF/ED šķirošanas pārskatā ķeksis “Izveidot manifestu un sīktēlus”.",
-        "Poga “Uz iesniegšanu ➜” un iestatījums “Iesniegšanai gatavo bilžu mape” (lokāla / OneDrive / Google Drive / NAS); var atsaukt.",
-        "Mainot ED ⇄ RF redaktorā — “Noņemt vietu un datumu” / “Pārrakstīt ar AI” / “Atstāt kā ir” un jautājums par pārvietošanu vienā logā.",
-        "Jauna tēma “Meža zaļais”.",
-        "Tulkojums mākonī pie “Rakstības noteikumi AI” un “RF/ED kritēriji”.",
-        "“Failed to fetch” vietā — viena josla “Savienojums pārtrūka” ar “Mēģināt vēlreiz”.",
-        "Windows: mapes izvēles logs virs citiem, pogas atspējotas, kamēr tas atvērts; Edge vairs pēkšņi nejautā par paziņojumiem (ķeksis Iestatījumi → Cits); Codex atrod arī jaunā uzstādītāja vietā; nav melna loga pēc atjaunināšanas; atsevišķas pogas uzdevumjoslā."
+        "Tēma “Meža zaļais” jaunās krāsās: neitrāli tumšs fons bez zaļganas pieskaņas, tīri balts teksts, kontrastainas laima zaļas pogas."
       ],
       "en": [
-        "Poga “Manifests”: mapes manifests un sīktēli (teksti, kategorija, statuss) Analītiķim un Tirgotājam — arī vecām, jau aprakstītām mapēm.",
-        "“Dzīvs” manifests: atjaunojas pats pēc katras saglabāšanas; kad visa mape gatava — izveidojas pats.",
-        "RF/ED šķirošanas pārskatā ķeksis “Izveidot manifestu un sīktēlus”.",
-        "Poga “Uz iesniegšanu ➜” un iestatījums “Iesniegšanai gatavo bilžu mape” (lokāla / OneDrive / Google Drive / NAS); var atsaukt.",
-        "Mainot ED ⇄ RF redaktorā — “Noņemt vietu un datumu” / “Pārrakstīt ar AI” / “Atstāt kā ir” un jautājums par pārvietošanu vienā logā.",
-        "Jauna tēma “Meža zaļais”.",
-        "Tulkojums mākonī pie “Rakstības noteikumi AI” un “RF/ED kritēriji”.",
-        "“Failed to fetch” vietā — viena josla “Savienojums pārtrūka” ar “Mēģināt vēlreiz”.",
-        "Windows: mapes izvēles logs virs citiem, pogas atspējotas, kamēr tas atvērts; Edge vairs pēkšņi nejautā par paziņojumiem (ķeksis Iestatījumi → Cits); Codex atrod arī jaunā uzstādītāja vietā; nav melna loga pēc atjaunināšanas; atsevišķas pogas uzdevumjoslā."
+        "Tēma “Meža zaļais” jaunās krāsās: neitrāli tumšs fons bez zaļganas pieskaņas, tīri balts teksts, kontrastainas laima zaļas pogas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test5",
+      "date": "2026-11-02",
+      "notes": {
+        "lv": [
+          "Tēma “Meža zaļais” jaunās krāsās: neitrāli tumšs fons bez zaļganas pieskaņas, tīri balts teksts, kontrastainas laima zaļas pogas."
+        ],
+        "en": [
+          "Tēma “Meža zaļais” jaunās krāsās: neitrāli tumšs fons bez zaļganas pieskaņas, tīri balts teksts, kontrastainas laima zaļas pogas."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test4",
       "date": "2026-11-02",
