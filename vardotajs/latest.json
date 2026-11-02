@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test5",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test5.zip",
-    "sha256": "f8e1e8b1e7f45ada9e4c537180dba3efa17e6c452ea92b9d74f76bc2ef42b4b8",
-    "size": 9861379,
+    "version": "0.9.0-test6",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test6.zip",
+    "sha256": "2a8f2adf6f94598886233c23e7484b6d8ef61a0c10c033e4793cf2f90557305f",
+    "size": 9883762,
     "date": "2026-11-02",
     "notes": {
       "lv": [
-        "Tēma “Meža zaļais” jaunās krāsās: neitrāli tumšs fons bez zaļganas pieskaņas, tīri balts teksts, kontrastainas laima zaļas pogas."
+        "Google konts (Iestatījumi → Pieslēgumi): pieslēgšana ar vienu pogu Google lapā; programma Drive redz tikai pašas failus.",
+        "Rezerves kopijas arī uz Google Drive (ķeksis “Kopēt arī uz Google Drive”) un atjaunošana no turienes."
       ],
       "en": [
-        "Tēma “Meža zaļais” jaunās krāsās: neitrāli tumšs fons bez zaļganas pieskaņas, tīri balts teksts, kontrastainas laima zaļas pogas."
+        "Google konts (Iestatījumi → Pieslēgumi): pieslēgšana ar vienu pogu Google lapā; programma Drive redz tikai pašas failus.",
+        "Rezerves kopijas arī uz Google Drive (ķeksis “Kopēt arī uz Google Drive”) un atjaunošana no turienes."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test6",
+      "date": "2026-11-02",
+      "notes": {
+        "lv": [
+          "Google konts (Iestatījumi → Pieslēgumi): pieslēgšana ar vienu pogu Google lapā; programma Drive redz tikai pašas failus.",
+          "Rezerves kopijas arī uz Google Drive (ķeksis “Kopēt arī uz Google Drive”) un atjaunošana no turienes."
+        ],
+        "en": [
+          "Google konts (Iestatījumi → Pieslēgumi): pieslēgšana ar vienu pogu Google lapā; programma Drive redz tikai pašas failus.",
+          "Rezerves kopijas arī uz Google Drive (ķeksis “Kopēt arī uz Google Drive”) un atjaunošana no turienes."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test5",
       "date": "2026-11-02",
