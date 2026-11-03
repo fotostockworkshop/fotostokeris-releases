@@ -1,24 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test8",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test8.zip",
-    "sha256": "03e7edd3be18ebefc35c02ef235237df982e28d59091eb8988597574a3b517ee",
-    "size": 6078975,
-    "date": "2026-11-03",
+    "version": "0.1.0-test9",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test9.zip",
+    "sha256": "950d75a762a12aff245dea638f20fff3b779376c692581d9341517b54139ad83",
+    "size": 6079368,
+    "date": "2026-11-04",
     "notes": {
       "lv": [
-        "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
-        "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
-        "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
+        "\"Aģentūru pieslēgumi\" — atsevišķa iestatījumu sadaļa (agrāk bija paslēpta \"Tirgotāja iestatījumos\")."
       ],
       "en": [
-        "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
-        "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
-        "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
+        "\"Aģentūru pieslēgumi\" — atsevišķa iestatījumu sadaļa (agrāk bija paslēpta \"Tirgotāja iestatījumos\")."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test9",
+      "date": "2026-11-04",
+      "notes": {
+        "lv": [
+          "\"Aģentūru pieslēgumi\" — atsevišķa iestatījumu sadaļa (agrāk bija paslēpta \"Tirgotāja iestatījumos\")."
+        ],
+        "en": [
+          "\"Aģentūru pieslēgumi\" — atsevišķa iestatījumu sadaļa (agrāk bija paslēpta \"Tirgotāja iestatījumos\")."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test8",
       "date": "2026-11-03",
