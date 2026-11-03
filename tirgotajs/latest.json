@@ -1,24 +1,44 @@
 {
   "test": {
-    "version": "0.1.0-test3",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test3.zip",
-    "sha256": "cb9bbb2a09c7c0b2109285d97948adf5fdff5f0858537a315fee97c0a17f8380",
-    "size": 6045101,
+    "version": "0.1.0-test4",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test4.zip",
+    "sha256": "f4fd2faf87928dec9ee4fa9bfc9f88d97e2014166031406956a170f696b1771e",
+    "size": 6059747,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
-        "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
-        "Iestatījumos — mape komplektu kopijām."
+        "AI asistents cilnē \"Komplekti\": piem. \"sagatavo iesniegšanai Bali RF kolekciju, 30 bildes\" — Tirgotājs ieteiks komplektu, tu pārskati un saglabā.",
+        "Var arī: \"kas vēl nav iesniegts Adobe?\" (parāda tabulā), \"cik Bali bilžu pieņemts?\" (atbild).",
+        "AI saņem tikai sarakstu (sērijas, atslēgvārdi, kas kur iesniegts), ne bildes, un pats neko neatzīmē un neiesniedz.",
+        "AI pieslēgums: Iestatījumi → Pieslēgumi (Claude vai ChatGPT abonements, API atslēga); \"Kurš AI ko dara\" — rinda \"AI asistents\". Bez AI strādā vienkārša meklēšana pēc vārdiem."
       ],
       "en": [
-        "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
-        "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
-        "Iestatījumos — mape komplektu kopijām."
+        "AI asistents cilnē \"Komplekti\": piem. \"sagatavo iesniegšanai Bali RF kolekciju, 30 bildes\" — Tirgotājs ieteiks komplektu, tu pārskati un saglabā.",
+        "Var arī: \"kas vēl nav iesniegts Adobe?\" (parāda tabulā), \"cik Bali bilžu pieņemts?\" (atbild).",
+        "AI saņem tikai sarakstu (sērijas, atslēgvārdi, kas kur iesniegts), ne bildes, un pats neko neatzīmē un neiesniedz.",
+        "AI pieslēgums: Iestatījumi → Pieslēgumi (Claude vai ChatGPT abonements, API atslēga); \"Kurš AI ko dara\" — rinda \"AI asistents\". Bez AI strādā vienkārša meklēšana pēc vārdiem."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test4",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "AI asistents cilnē \"Komplekti\": piem. \"sagatavo iesniegšanai Bali RF kolekciju, 30 bildes\" — Tirgotājs ieteiks komplektu, tu pārskati un saglabā.",
+          "Var arī: \"kas vēl nav iesniegts Adobe?\" (parāda tabulā), \"cik Bali bilžu pieņemts?\" (atbild).",
+          "AI saņem tikai sarakstu (sērijas, atslēgvārdi, kas kur iesniegts), ne bildes, un pats neko neatzīmē un neiesniedz.",
+          "AI pieslēgums: Iestatījumi → Pieslēgumi (Claude vai ChatGPT abonements, API atslēga); \"Kurš AI ko dara\" — rinda \"AI asistents\". Bez AI strādā vienkārša meklēšana pēc vārdiem."
+        ],
+        "en": [
+          "AI asistents cilnē \"Komplekti\": piem. \"sagatavo iesniegšanai Bali RF kolekciju, 30 bildes\" — Tirgotājs ieteiks komplektu, tu pārskati un saglabā.",
+          "Var arī: \"kas vēl nav iesniegts Adobe?\" (parāda tabulā), \"cik Bali bilžu pieņemts?\" (atbild).",
+          "AI saņem tikai sarakstu (sērijas, atslēgvārdi, kas kur iesniegts), ne bildes, un pats neko neatzīmē un neiesniedz.",
+          "AI pieslēgums: Iestatījumi → Pieslēgumi (Claude vai ChatGPT abonements, API atslēga); \"Kurš AI ko dara\" — rinda \"AI asistents\". Bez AI strādā vienkārša meklēšana pēc vārdiem."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test3",
       "date": "2026-11-03",
