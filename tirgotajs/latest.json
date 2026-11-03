@@ -1,24 +1,40 @@
 {
   "test": {
-    "version": "0.1.0-test7",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test7.zip",
-    "sha256": "a2c4f7976c3259e266dbf8acbe12a10dc324d81e3895b00b3ad6a5d1f2baa2e6",
-    "size": 6073560,
+    "version": "0.1.0-test8",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test8.zip",
+    "sha256": "03e7edd3be18ebefc35c02ef235237df982e28d59091eb8988597574a3b517ee",
+    "size": 6078975,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "Iestatījumos \"Aģentūru pieslēgumi\": katrai aģentūrai izvēle Portāls vai FTP.",
-        "Portāls: var ierakstīt savu adresi — uz to ved poga \"Atvērt ↗\".",
-        "FTP: serveris, ports, FTP/FTPS/SFTP (jau aizpildīti no izpētes), lietotājvārds un parole (tikai drošajā glabātuvē), poga \"Pārbaudīt savienojumu\". Augšupielāde no komplekta — nākamajā versijā."
+        "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
+        "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
+        "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
       ],
       "en": [
-        "Iestatījumos \"Aģentūru pieslēgumi\": katrai aģentūrai izvēle Portāls vai FTP.",
-        "Portāls: var ierakstīt savu adresi — uz to ved poga \"Atvērt ↗\".",
-        "FTP: serveris, ports, FTP/FTPS/SFTP (jau aizpildīti no izpētes), lietotājvārds un parole (tikai drošajā glabātuvē), poga \"Pārbaudīt savienojumu\". Augšupielāde no komplekta — nākamajā versijā."
+        "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
+        "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
+        "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test8",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
+          "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
+          "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
+        ],
+        "en": [
+          "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
+          "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
+          "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test7",
       "date": "2026-11-03",
