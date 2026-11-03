@@ -1,34 +1,40 @@
 {
   "test": {
-    "version": "0.3.1-test4",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test4.zip",
-    "sha256": "b9ceb25eb9c351e8c4958e56cd1aa42dcc32ee0a26cb1e150e8ad40f187e9068",
-    "size": 10556299,
+    "version": "0.3.1-test5",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test5.zip",
+    "sha256": "fe39d7a1fd794eb2a1defaa651ae13b64d1b25909fb79880e41f7d27d889d7ff",
+    "size": 10584525,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
-        "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
-        "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
-        "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
-        "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
-        "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
-        "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
-        "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
+        "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
+        "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
+        "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
       ],
       "en": [
-        "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
-        "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
-        "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
-        "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
-        "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
-        "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
-        "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
-        "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
+        "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
+        "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
+        "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test5",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
+          "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
+          "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
+        ],
+        "en": [
+          "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
+          "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
+          "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test4",
       "date": "2026-11-03",
@@ -774,20 +780,6 @@
         "en": [
           "Mac: Dock tikai viena Analītiķa ikona (vienreiz jāpalaiž jaunais Uzstadit_Mac.command)",
           "Mac: aģentūru sesijas saglabājas starp palaišanām — retāk 2FA / apstiprinājums telefonā"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test19",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Mac: aģentūru sesijas saglabājas starp programmas palaišanām (šifrētas) — Adobe un Envato retāk prasa apstiprināt ar telefonu / 2FA",
-          "\"Pārbaudīt tagad\" atjauninājumos uzreiz redz jaunāko versiju"
-        ],
-        "en": [
-          "Mac: aģentūru sesijas saglabājas starp programmas palaišanām (šifrētas) — Adobe un Envato retāk prasa apstiprināt ar telefonu / 2FA",
-          "\"Pārbaudīt tagad\" atjauninājumos uzreiz redz jaunāko versiju"
         ]
       }
     }
