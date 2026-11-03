@@ -1,20 +1,48 @@
 {
   "test": {
-    "version": "0.9.0-test8",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test8.zip",
-    "sha256": "bc0e1ff79942f9dae0b6ee0209794981596d3993d97b9d027c16a7040306994e",
-    "size": 9884352,
-    "date": "2026-11-02",
+    "version": "0.9.0-test9",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test9.zip",
+    "sha256": "dd57d0c17e170e7cef834c349aac5a75a555f7592fd7539e94de60e1a31bc555",
+    "size": 9915548,
+    "date": "2026-11-03",
     "notes": {
       "lv": [
-        "“Meža zaļais”: pogu zaļais maigāks (acīs vairs nekož), bez mirdzuma ap pogām."
+        "“Uz iesniegšanu”: mapes <gads>/<YYYY-MM>_<Sērija>_<kods>/RF un ED; failiem priekšā sērijas kods (oriģinālais nosaukums paliek manifestā).",
+        "Droša pārvietošana: kopē → salīdzina (izmērs + kontrolsumma) → tikai tad dzēš oriģinālu; atsaukšana tāpat. Synology Drive / OneDrive / Google Drive mapēm — “gaida pārbaudi”.",
+        "Sagatavoto bilžu uzskaite (arī rezerves kopijās) un dublikātu pārbaude — abas bildes blakus, izlem tu.",
+        "Iestatījumos “Par programmu”: versija un sagatavoto bilžu skaits pa kategorijām.",
+        "Noklusējuma noteikumu tulkojums mākonī — uzreiz; Windows: Google lapa atveras priekšplānā."
       ],
       "en": [
-        "“Meža zaļais”: pogu zaļais maigāks (acīs vairs nekož), bez mirdzuma ap pogām."
+        "“Uz iesniegšanu”: mapes <gads>/<YYYY-MM>_<Sērija>_<kods>/RF un ED; failiem priekšā sērijas kods (oriģinālais nosaukums paliek manifestā).",
+        "Droša pārvietošana: kopē → salīdzina (izmērs + kontrolsumma) → tikai tad dzēš oriģinālu; atsaukšana tāpat. Synology Drive / OneDrive / Google Drive mapēm — “gaida pārbaudi”.",
+        "Sagatavoto bilžu uzskaite (arī rezerves kopijās) un dublikātu pārbaude — abas bildes blakus, izlem tu.",
+        "Iestatījumos “Par programmu”: versija un sagatavoto bilžu skaits pa kategorijām.",
+        "Noklusējuma noteikumu tulkojums mākonī — uzreiz; Windows: Google lapa atveras priekšplānā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test9",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "“Uz iesniegšanu”: mapes <gads>/<YYYY-MM>_<Sērija>_<kods>/RF un ED; failiem priekšā sērijas kods (oriģinālais nosaukums paliek manifestā).",
+          "Droša pārvietošana: kopē → salīdzina (izmērs + kontrolsumma) → tikai tad dzēš oriģinālu; atsaukšana tāpat. Synology Drive / OneDrive / Google Drive mapēm — “gaida pārbaudi”.",
+          "Sagatavoto bilžu uzskaite (arī rezerves kopijās) un dublikātu pārbaude — abas bildes blakus, izlem tu.",
+          "Iestatījumos “Par programmu”: versija un sagatavoto bilžu skaits pa kategorijām.",
+          "Noklusējuma noteikumu tulkojums mākonī — uzreiz; Windows: Google lapa atveras priekšplānā."
+        ],
+        "en": [
+          "“Uz iesniegšanu”: mapes <gads>/<YYYY-MM>_<Sērija>_<kods>/RF un ED; failiem priekšā sērijas kods (oriģinālais nosaukums paliek manifestā).",
+          "Droša pārvietošana: kopē → salīdzina (izmērs + kontrolsumma) → tikai tad dzēš oriģinālu; atsaukšana tāpat. Synology Drive / OneDrive / Google Drive mapēm — “gaida pārbaudi”.",
+          "Sagatavoto bilžu uzskaite (arī rezerves kopijās) un dublikātu pārbaude — abas bildes blakus, izlem tu.",
+          "Iestatījumos “Par programmu”: versija un sagatavoto bilžu skaits pa kategorijām.",
+          "Noklusējuma noteikumu tulkojums mākonī — uzreiz; Windows: Google lapa atveras priekšplānā."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test8",
       "date": "2026-11-02",
