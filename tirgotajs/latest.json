@@ -1,26 +1,44 @@
 {
   "test": {
-    "version": "0.1.0-test1",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test1.zip",
-    "sha256": "988b3377b0b96143d8485d067e50d8b7a5fce1b03e7bb4907559d08aa5ce3f71",
-    "size": 6000932,
+    "version": "0.1.0-test2",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test2.zip",
+    "sha256": "fa9aed33d8e537d597ea5edbca03afdf3d761ee49ce64bac8e007d037066f910",
+    "size": 6038204,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
-        "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
-        "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
-        "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
+        "Komplekti: Tirgotājs iesaka komplektu no neiesniegtām bildēm — viena kategorija, gandrīz vienādas bildes nekad kopā, lielums pēc arhīva (~mēnesī viss izvadīts).",
+        "Komplektu var pārskatīt (izņemt liekās, papildināt), saglabāt, parādīt tabulā un atzīmēt kā iesniegtu aģentūrā — neder un jau atzīmētās bildes netiek aiztiktas.",
+        "Sinhronizācija ar citiem datoriem caur Google kontu: atzīmes, komplekti, iestatījumi (Iestatījumi → Pieslēgumi → Google konts).",
+        "Rezerves kopijas iestatījumos (izveidot, atjaunot, automātiski)."
       ],
       "en": [
-        "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
-        "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
-        "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
-        "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
+        "Komplekti: Tirgotājs iesaka komplektu no neiesniegtām bildēm — viena kategorija, gandrīz vienādas bildes nekad kopā, lielums pēc arhīva (~mēnesī viss izvadīts).",
+        "Komplektu var pārskatīt (izņemt liekās, papildināt), saglabāt, parādīt tabulā un atzīmēt kā iesniegtu aģentūrā — neder un jau atzīmētās bildes netiek aiztiktas.",
+        "Sinhronizācija ar citiem datoriem caur Google kontu: atzīmes, komplekti, iestatījumi (Iestatījumi → Pieslēgumi → Google konts).",
+        "Rezerves kopijas iestatījumos (izveidot, atjaunot, automātiski)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test2",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Komplekti: Tirgotājs iesaka komplektu no neiesniegtām bildēm — viena kategorija, gandrīz vienādas bildes nekad kopā, lielums pēc arhīva (~mēnesī viss izvadīts).",
+          "Komplektu var pārskatīt (izņemt liekās, papildināt), saglabāt, parādīt tabulā un atzīmēt kā iesniegtu aģentūrā — neder un jau atzīmētās bildes netiek aiztiktas.",
+          "Sinhronizācija ar citiem datoriem caur Google kontu: atzīmes, komplekti, iestatījumi (Iestatījumi → Pieslēgumi → Google konts).",
+          "Rezerves kopijas iestatījumos (izveidot, atjaunot, automātiski)."
+        ],
+        "en": [
+          "Komplekti: Tirgotājs iesaka komplektu no neiesniegtām bildēm — viena kategorija, gandrīz vienādas bildes nekad kopā, lielums pēc arhīva (~mēnesī viss izvadīts).",
+          "Komplektu var pārskatīt (izņemt liekās, papildināt), saglabāt, parādīt tabulā un atzīmēt kā iesniegtu aģentūrā — neder un jau atzīmētās bildes netiek aiztiktas.",
+          "Sinhronizācija ar citiem datoriem caur Google kontu: atzīmes, komplekti, iestatījumi (Iestatījumi → Pieslēgumi → Google konts).",
+          "Rezerves kopijas iestatījumos (izveidot, atjaunot, automātiski)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test1",
       "date": "2026-11-03",
