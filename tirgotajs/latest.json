@@ -1,26 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test4",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test4.zip",
-    "sha256": "f4fd2faf87928dec9ee4fa9bfc9f88d97e2014166031406956a170f696b1771e",
-    "size": 6059747,
+    "version": "0.1.0-test5",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test5.zip",
+    "sha256": "90cc10939bfe663fac3f6cd1eb72a6bf8595ebca06f8638c029cb526a596a2c9",
+    "size": 6061213,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "AI asistents cilnē \"Komplekti\": piem. \"sagatavo iesniegšanai Bali RF kolekciju, 30 bildes\" — Tirgotājs ieteiks komplektu, tu pārskati un saglabā.",
-        "Var arī: \"kas vēl nav iesniegts Adobe?\" (parāda tabulā), \"cik Bali bilžu pieņemts?\" (atbild).",
-        "AI saņem tikai sarakstu (sērijas, atslēgvārdi, kas kur iesniegts), ne bildes, un pats neko neatzīmē un neiesniedz.",
-        "AI pieslēgums: Iestatījumi → Pieslēgumi (Claude vai ChatGPT abonements, API atslēga); \"Kurš AI ko dara\" — rinda \"AI asistents\". Bez AI strādā vienkārša meklēšana pēc vārdiem."
+        "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
+        "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
       ],
       "en": [
-        "AI asistents cilnē \"Komplekti\": piem. \"sagatavo iesniegšanai Bali RF kolekciju, 30 bildes\" — Tirgotājs ieteiks komplektu, tu pārskati un saglabā.",
-        "Var arī: \"kas vēl nav iesniegts Adobe?\" (parāda tabulā), \"cik Bali bilžu pieņemts?\" (atbild).",
-        "AI saņem tikai sarakstu (sērijas, atslēgvārdi, kas kur iesniegts), ne bildes, un pats neko neatzīmē un neiesniedz.",
-        "AI pieslēgums: Iestatījumi → Pieslēgumi (Claude vai ChatGPT abonements, API atslēga); \"Kurš AI ko dara\" — rinda \"AI asistents\". Bez AI strādā vienkārša meklēšana pēc vārdiem."
+        "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
+        "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test5",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
+          "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
+        ],
+        "en": [
+          "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
+          "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test4",
       "date": "2026-11-03",
