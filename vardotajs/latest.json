@@ -1,28 +1,40 @@
 {
   "test": {
-    "version": "0.9.0-test9",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test9.zip",
-    "sha256": "dd57d0c17e170e7cef834c349aac5a75a555f7592fd7539e94de60e1a31bc555",
-    "size": 9915548,
+    "version": "0.9.0-test10",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test10.zip",
+    "sha256": "d724bb70ca97be093d7a649782cc132b74104aa2e0f1d3c916cc926690e56596",
+    "size": 9929009,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "“Uz iesniegšanu”: mapes <gads>/<YYYY-MM>_<Sērija>_<kods>/RF un ED; failiem priekšā sērijas kods (oriģinālais nosaukums paliek manifestā).",
-        "Droša pārvietošana: kopē → salīdzina (izmērs + kontrolsumma) → tikai tad dzēš oriģinālu; atsaukšana tāpat. Synology Drive / OneDrive / Google Drive mapēm — “gaida pārbaudi”.",
-        "Sagatavoto bilžu uzskaite (arī rezerves kopijās) un dublikātu pārbaude — abas bildes blakus, izlem tu.",
-        "Iestatījumos “Par programmu”: versija un sagatavoto bilžu skaits pa kategorijām.",
-        "Noklusējuma noteikumu tulkojums mākonī — uzreiz; Windows: Google lapa atveras priekšplānā."
+        "Sinhronizācija ar citiem datoriem caur Google Drive (Iestatījumi → Pieslēgumi → Google konts → “Sinhronizēt ar citiem datoriem”): iestatījumi, šabloni, tulkojumi, vietu noteikumi un sagatavoto bilžu uzskaite. Ieslēdz katrā datorā.",
+        "Katra datora mapes paliek savas; bildes netiek sinhronizētas. Ja Vārdotājs nesen lietots citā datorā — brīdinājums.",
+        "Tumšajās tēmās “✂ nogriezts” josla ar baltu tekstu."
       ],
       "en": [
-        "“Uz iesniegšanu”: mapes <gads>/<YYYY-MM>_<Sērija>_<kods>/RF un ED; failiem priekšā sērijas kods (oriģinālais nosaukums paliek manifestā).",
-        "Droša pārvietošana: kopē → salīdzina (izmērs + kontrolsumma) → tikai tad dzēš oriģinālu; atsaukšana tāpat. Synology Drive / OneDrive / Google Drive mapēm — “gaida pārbaudi”.",
-        "Sagatavoto bilžu uzskaite (arī rezerves kopijās) un dublikātu pārbaude — abas bildes blakus, izlem tu.",
-        "Iestatījumos “Par programmu”: versija un sagatavoto bilžu skaits pa kategorijām.",
-        "Noklusējuma noteikumu tulkojums mākonī — uzreiz; Windows: Google lapa atveras priekšplānā."
+        "Sinhronizācija ar citiem datoriem caur Google Drive (Iestatījumi → Pieslēgumi → Google konts → “Sinhronizēt ar citiem datoriem”): iestatījumi, šabloni, tulkojumi, vietu noteikumi un sagatavoto bilžu uzskaite. Ieslēdz katrā datorā.",
+        "Katra datora mapes paliek savas; bildes netiek sinhronizētas. Ja Vārdotājs nesen lietots citā datorā — brīdinājums.",
+        "Tumšajās tēmās “✂ nogriezts” josla ar baltu tekstu."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test10",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Sinhronizācija ar citiem datoriem caur Google Drive (Iestatījumi → Pieslēgumi → Google konts → “Sinhronizēt ar citiem datoriem”): iestatījumi, šabloni, tulkojumi, vietu noteikumi un sagatavoto bilžu uzskaite. Ieslēdz katrā datorā.",
+          "Katra datora mapes paliek savas; bildes netiek sinhronizētas. Ja Vārdotājs nesen lietots citā datorā — brīdinājums.",
+          "Tumšajās tēmās “✂ nogriezts” josla ar baltu tekstu."
+        ],
+        "en": [
+          "Sinhronizācija ar citiem datoriem caur Google Drive (Iestatījumi → Pieslēgumi → Google konts → “Sinhronizēt ar citiem datoriem”): iestatījumi, šabloni, tulkojumi, vietu noteikumi un sagatavoto bilžu uzskaite. Ieslēdz katrā datorā.",
+          "Katra datora mapes paliek savas; bildes netiek sinhronizētas. Ja Vārdotājs nesen lietots citā datorā — brīdinājums.",
+          "Tumšajās tēmās “✂ nogriezts” josla ar baltu tekstu."
+        ]
+      }
+    },
     {
       "version": "0.9.0-test9",
       "date": "2026-11-03",
