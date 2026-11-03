@@ -1,0 +1,43 @@
+{
+  "test": {
+    "version": "0.1.0-test1",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test1.zip",
+    "sha256": "988b3377b0b96143d8485d067e50d8b7a5fce1b03e7bb4907559d08aa5ce3f71",
+    "size": 6000932,
+    "date": "2026-11-03",
+    "notes": {
+      "lv": [
+        "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
+        "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
+        "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
+        "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
+      ],
+      "en": [
+        "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
+        "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
+        "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
+        "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
+      ]
+    }
+  },
+  "history": [
+    {
+      "version": "0.1.0-test1",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
+          "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
+          "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
+          "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
+        ],
+        "en": [
+          "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
+          "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
+          "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
+          "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
+        ]
+      }
+    }
+  ]
+}
