@@ -1,26 +1,40 @@
 {
   "test": {
-    "version": "0.1.0-test2",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test2.zip",
-    "sha256": "48510c4e1fecd8eef6101ba5e666a4e3b7fba3538ee7ff691a36af99343103bd",
-    "size": 6040395,
+    "version": "0.1.0-test3",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test3.zip",
+    "sha256": "cb9bbb2a09c7c0b2109285d97948adf5fdff5f0858537a315fee97c0a17f8380",
+    "size": 6045101,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "Komplekti: Tirgotājs iesaka komplektu no neiesniegtām bildēm — viena kategorija, gandrīz vienādas bildes nekad kopā, lielums pēc arhīva (~mēnesī viss izvadīts).",
-        "Komplektu var pārskatīt (izņemt liekās, papildināt), saglabāt, parādīt tabulā un atzīmēt kā iesniegtu aģentūrā — neder un jau atzīmētās bildes netiek aiztiktas.",
-        "Sinhronizācija ar citiem datoriem caur Google kontu: atzīmes, komplekti, iestatījumi (Iestatījumi → Pieslēgumi → Google konts).",
-        "Rezerves kopijas iestatījumos (izveidot, atjaunot, automātiski)."
+        "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
+        "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
+        "Iestatījumos — mape komplektu kopijām."
       ],
       "en": [
-        "Komplekti: Tirgotājs iesaka komplektu no neiesniegtām bildēm — viena kategorija, gandrīz vienādas bildes nekad kopā, lielums pēc arhīva (~mēnesī viss izvadīts).",
-        "Komplektu var pārskatīt (izņemt liekās, papildināt), saglabāt, parādīt tabulā un atzīmēt kā iesniegtu aģentūrā — neder un jau atzīmētās bildes netiek aiztiktas.",
-        "Sinhronizācija ar citiem datoriem caur Google kontu: atzīmes, komplekti, iestatījumi (Iestatījumi → Pieslēgumi → Google konts).",
-        "Rezerves kopijas iestatījumos (izveidot, atjaunot, automātiski)."
+        "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
+        "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
+        "Iestatījumos — mape komplektu kopijām."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test3",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
+          "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
+          "Iestatījumos — mape komplektu kopijām."
+        ],
+        "en": [
+          "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
+          "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
+          "Iestatījumos — mape komplektu kopijām."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test2",
       "date": "2026-11-03",
