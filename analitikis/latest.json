@@ -1,30 +1,60 @@
 {
   "test": {
-    "version": "0.3.1-test3",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test3.zip",
-    "sha256": "89321152c892737a718631cbdaa7420424cfe8407707314794025545ed5caa5b",
-    "size": 41870857,
-    "date": "2026-11-01",
+    "version": "0.3.1-test4",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test4.zip",
+    "sha256": "b9ceb25eb9c351e8c4958e56cd1aa42dcc32ee0a26cb1e150e8ad40f187e9068",
+    "size": 10556299,
+    "date": "2026-11-03",
     "notes": {
       "lv": [
-        "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
-        "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
-        "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
-        "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
-        "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
-        "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
+        "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
+        "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
+        "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
+        "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
+        "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
+        "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
+        "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
+        "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
       ],
       "en": [
-        "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
-        "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
-        "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
-        "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
-        "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
-        "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
+        "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
+        "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
+        "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
+        "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
+        "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
+        "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
+        "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
+        "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test4",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
+          "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
+          "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
+          "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
+          "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
+          "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
+          "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
+          "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
+        ],
+        "en": [
+          "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
+          "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
+          "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
+          "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
+          "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
+          "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
+          "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
+          "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test3",
       "date": "2026-11-01",
@@ -758,22 +788,6 @@
         "en": [
           "Mac: aģentūru sesijas saglabājas starp programmas palaišanām (šifrētas) — Adobe un Envato retāk prasa apstiprināt ar telefonu / 2FA",
           "\"Pārbaudīt tagad\" atjauninājumos uzreiz redz jaunāko versiju"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test18",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
-          "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
-          "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
-        ],
-        "en": [
-          "Automātiskā ielogošanās: atver arī paslēptas ielogošanās formas (\"Log in\" logs, \"Continue with email\") — 123RF, Magnific, Depositphotos",
-          "Ielogojoties tiek atzīmēts \"Remember me / Keep me signed in / Trust this device\" (arī 2FA lapā) — sesijas turas ilgāk",
-          "Žurnālā redzams, kāpēc automātiskā ielogošanās nenotika (parole nav saglabāta, forma nav atrasta u.c.)"
         ]
       }
     }
