@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test5",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test5.zip",
-    "sha256": "90cc10939bfe663fac3f6cd1eb72a6bf8595ebca06f8638c029cb526a596a2c9",
-    "size": 6061213,
+    "version": "0.1.0-test6",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test6.zip",
+    "sha256": "ffb61e710b6b88dea3fa19cdafe723ae1d71c8acdeb84e6c25eec7eabb8eaf6a",
+    "size": 6063237,
     "date": "2026-11-03",
     "notes": {
       "lv": [
-        "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
-        "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
+        "Iestatījumos \"Kur sūtu ED un EDI bildes\": katrai aģentūrai ķeksīši ED un EDI. ED ietver arī EDI; tikai EDI — parastas ED bildes tur nesūta.",
+        "EDI (zīmoli bez cilvēkiem) — atsevišķa kategorija arī komplektos un tabulas filtrā."
       ],
       "en": [
-        "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
-        "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
+        "Iestatījumos \"Kur sūtu ED un EDI bildes\": katrai aģentūrai ķeksīši ED un EDI. ED ietver arī EDI; tikai EDI — parastas ED bildes tur nesūta.",
+        "EDI (zīmoli bez cilvēkiem) — atsevišķa kategorija arī komplektos un tabulas filtrā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test6",
+      "date": "2026-11-03",
+      "notes": {
+        "lv": [
+          "Iestatījumos \"Kur sūtu ED un EDI bildes\": katrai aģentūrai ķeksīši ED un EDI. ED ietver arī EDI; tikai EDI — parastas ED bildes tur nesūta.",
+          "EDI (zīmoli bez cilvēkiem) — atsevišķa kategorija arī komplektos un tabulas filtrā."
+        ],
+        "en": [
+          "Iestatījumos \"Kur sūtu ED un EDI bildes\": katrai aģentūrai ķeksīši ED un EDI. ED ietver arī EDI; tikai EDI — parastas ED bildes tur nesūta.",
+          "EDI (zīmoli bez cilvēkiem) — atsevišķa kategorija arī komplektos un tabulas filtrā."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test5",
       "date": "2026-11-03",
