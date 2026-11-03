@@ -1,24 +1,40 @@
 {
   "test": {
-    "version": "0.3.1-test5",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test5.zip",
-    "sha256": "fe39d7a1fd794eb2a1defaa651ae13b64d1b25909fb79880e41f7d27d889d7ff",
-    "size": 10584525,
-    "date": "2026-11-03",
+    "version": "0.3.1-test6",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test6.zip",
+    "sha256": "82a4394c881fecb070855e372d26d2fe82d1b5148f240be1f286850c3f48eea0",
+    "size": 10590739,
+    "date": "2026-11-04",
     "notes": {
       "lv": [
-        "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
-        "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
-        "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
+        "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
+        "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
+        "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
       ],
       "en": [
-        "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
-        "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
-        "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
+        "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
+        "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
+        "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test6",
+      "date": "2026-11-04",
+      "notes": {
+        "lv": [
+          "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
+          "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
+          "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
+        ],
+        "en": [
+          "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
+          "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
+          "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test5",
       "date": "2026-11-03",
@@ -766,20 +782,6 @@
           "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
           "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
           "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test20",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Mac: Dock tikai viena Analītiķa ikona (vienreiz jāpalaiž jaunais Uzstadit_Mac.command)",
-          "Mac: aģentūru sesijas saglabājas starp palaišanām — retāk 2FA / apstiprinājums telefonā"
-        ],
-        "en": [
-          "Mac: Dock tikai viena Analītiķa ikona (vienreiz jāpalaiž jaunais Uzstadit_Mac.command)",
-          "Mac: aģentūru sesijas saglabājas starp palaišanām — retāk 2FA / apstiprinājums telefonā"
         ]
       }
     }
