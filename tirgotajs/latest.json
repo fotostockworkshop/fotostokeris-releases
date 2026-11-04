@@ -1,20 +1,40 @@
 {
   "test": {
-    "version": "0.1.0-test9",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test9.zip",
-    "sha256": "950d75a762a12aff245dea638f20fff3b779376c692581d9341517b54139ad83",
-    "size": 6079368,
+    "version": "0.1.0-test10",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test10.zip",
+    "sha256": "445bd85859e67fa3807be0a0b5540b978bd66521864c8c128e4179ebb9945ef8",
+    "size": 6095902,
     "date": "2026-11-04",
     "notes": {
       "lv": [
-        "\"Aģentūru pieslēgumi\" — atsevišķa iestatījumu sadaļa (agrāk bija paslēpta \"Tirgotāja iestatījumos\")."
+        "Komplektus pārvieto uz komplektu mapi (OneDrive): poga \"Pārvietot uz STOCK\" → `<gads>/<MM-mēn>/<nedēļa>/<KAT-tēma-N>` ar komplekta manifestu; viena mape visām aģentūrām; drošā pārvietošana; RAW paliek. Poga \"Mape aģentūrai\" noņemta.",
+        "Komplektu sarakstā katrai aģentūrai: ✓ iesniegts (datums) / daļēji / ⇡ augšupielādēts / nav / neder; pieņemtās un noraidītās; kolonna \"Kur\".",
+        "Uzskaite ar vēsturi (komplekts, laiks, iepriekšējās atzīmes)."
       ],
       "en": [
-        "\"Aģentūru pieslēgumi\" — atsevišķa iestatījumu sadaļa (agrāk bija paslēpta \"Tirgotāja iestatījumos\")."
+        "Komplektus pārvieto uz komplektu mapi (OneDrive): poga \"Pārvietot uz STOCK\" → `<gads>/<MM-mēn>/<nedēļa>/<KAT-tēma-N>` ar komplekta manifestu; viena mape visām aģentūrām; drošā pārvietošana; RAW paliek. Poga \"Mape aģentūrai\" noņemta.",
+        "Komplektu sarakstā katrai aģentūrai: ✓ iesniegts (datums) / daļēji / ⇡ augšupielādēts / nav / neder; pieņemtās un noraidītās; kolonna \"Kur\".",
+        "Uzskaite ar vēsturi (komplekts, laiks, iepriekšējās atzīmes)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test10",
+      "date": "2026-11-04",
+      "notes": {
+        "lv": [
+          "Komplektus pārvieto uz komplektu mapi (OneDrive): poga \"Pārvietot uz STOCK\" → `<gads>/<MM-mēn>/<nedēļa>/<KAT-tēma-N>` ar komplekta manifestu; viena mape visām aģentūrām; drošā pārvietošana; RAW paliek. Poga \"Mape aģentūrai\" noņemta.",
+          "Komplektu sarakstā katrai aģentūrai: ✓ iesniegts (datums) / daļēji / ⇡ augšupielādēts / nav / neder; pieņemtās un noraidītās; kolonna \"Kur\".",
+          "Uzskaite ar vēsturi (komplekts, laiks, iepriekšējās atzīmes)."
+        ],
+        "en": [
+          "Komplektus pārvieto uz komplektu mapi (OneDrive): poga \"Pārvietot uz STOCK\" → `<gads>/<MM-mēn>/<nedēļa>/<KAT-tēma-N>` ar komplekta manifestu; viena mape visām aģentūrām; drošā pārvietošana; RAW paliek. Poga \"Mape aģentūrai\" noņemta.",
+          "Komplektu sarakstā katrai aģentūrai: ✓ iesniegts (datums) / daļēji / ⇡ augšupielādēts / nav / neder; pieņemtās un noraidītās; kolonna \"Kur\".",
+          "Uzskaite ar vēsturi (komplekts, laiks, iepriekšējās atzīmes)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test9",
       "date": "2026-11-04",
