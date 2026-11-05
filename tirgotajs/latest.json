@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test17",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test17.zip",
-    "sha256": "8e9b26d100ac20ddfe3b6496438ac9a235c2b783429dae729823627ed0f92690",
-    "size": 6188596,
+    "version": "0.1.0-test18",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test18.zip",
+    "sha256": "ad5293feb5c10daa90b58ded998d7eacf7d2442c39d77ab5a86a6c2c068d2707",
+    "size": 6196916,
     "date": "2026-11-05",
     "notes": {
       "lv": [
-        "“Nosūtīt ar FTP” → “Visām aģentūrām (FTP)”: pēc kārtas visām aģentūrām ar FTP un paroli; nākamā sākas tikai pēc iepriekšējās."
+        "Plānā “Jau OneDrive” ar krāsainu punktu un mākonīti; ✎ rediģēt komplektu cilnē “Atlasīt pašam” (izņemt/pievienot); ↻ AI aizstājējs."
       ],
       "en": [
-        "“Nosūtīt ar FTP” → “Visām aģentūrām (FTP)”: pēc kārtas visām aģentūrām ar FTP un paroli; nākamā sākas tikai pēc iepriekšējās."
+        "Plānā “Jau OneDrive” ar krāsainu punktu un mākonīti; ✎ rediģēt komplektu cilnē “Atlasīt pašam” (izņemt/pievienot); ↻ AI aizstājējs."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test18",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "Plānā “Jau OneDrive” ar krāsainu punktu un mākonīti; ✎ rediģēt komplektu cilnē “Atlasīt pašam” (izņemt/pievienot); ↻ AI aizstājējs."
+        ],
+        "en": [
+          "Plānā “Jau OneDrive” ar krāsainu punktu un mākonīti; ✎ rediģēt komplektu cilnē “Atlasīt pašam” (izņemt/pievienot); ↻ AI aizstājējs."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test17",
       "date": "2026-11-05",
