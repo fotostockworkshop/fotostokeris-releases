@@ -1,20 +1,52 @@
 {
   "test": {
-    "version": "0.1.0-test15",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test15.zip",
-    "sha256": "42d8b9aa57b50932b9d9a00e1a33b40a000d752d0b3f51fe75511214c4f6dfb1",
-    "size": 6139554,
+    "version": "0.1.0-test16",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test16.zip",
+    "sha256": "5b1e692b805cfa27af9bdf1477699f536e19440d86cf4a9132fc33c812d1f641",
+    "size": 6183753,
     "date": "2026-11-05",
     "notes": {
       "lv": [
-        "Labots: ja bilde ir gan komplekta mapē, gan vēl gatavo mapē (vecā kopija), noteicošā ir komplekta mape; žurnālā — bildes divās vietās."
+        "Jauna cilne “Plāns”: 6 nedēļas, viens komplekts darba dienā; “Ieplānot”, pārvilkšana, “Apstiprināt nedēļu”, “Sagatavot nākamo nedēļu” (OneDrive mapes pēc plānotās dienas), “Šodien” un nokavētie.",
+        "Dažāda komplekta atlase (pa vienai no katras vietas/laika), vairākas tēmas vienā komplektā, ↻ aizstāt bildi.",
+        "AI redaktors: AI pats izvēlas bildes ar “kāpēc”; pēc izvēles skatās arī sīktēlus.",
+        "Sinhronizācija: uzvar jaunākā atzīme; sinhronizē aizverot; apakšējā joslā “☁ Sinhronizēts HH:MM”.",
+        "Žurnālā vietējais laiks; filtra paziņojums Krājumā; pārlasa mapi, atgriežoties logā.",
+        "Labots: trūkstoši sīktēli komplektos ar bildēm no Mac sērijām."
       ],
       "en": [
-        "Labots: ja bilde ir gan komplekta mapē, gan vēl gatavo mapē (vecā kopija), noteicošā ir komplekta mape; žurnālā — bildes divās vietās."
+        "Jauna cilne “Plāns”: 6 nedēļas, viens komplekts darba dienā; “Ieplānot”, pārvilkšana, “Apstiprināt nedēļu”, “Sagatavot nākamo nedēļu” (OneDrive mapes pēc plānotās dienas), “Šodien” un nokavētie.",
+        "Dažāda komplekta atlase (pa vienai no katras vietas/laika), vairākas tēmas vienā komplektā, ↻ aizstāt bildi.",
+        "AI redaktors: AI pats izvēlas bildes ar “kāpēc”; pēc izvēles skatās arī sīktēlus.",
+        "Sinhronizācija: uzvar jaunākā atzīme; sinhronizē aizverot; apakšējā joslā “☁ Sinhronizēts HH:MM”.",
+        "Žurnālā vietējais laiks; filtra paziņojums Krājumā; pārlasa mapi, atgriežoties logā.",
+        "Labots: trūkstoši sīktēli komplektos ar bildēm no Mac sērijām."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test16",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "Jauna cilne “Plāns”: 6 nedēļas, viens komplekts darba dienā; “Ieplānot”, pārvilkšana, “Apstiprināt nedēļu”, “Sagatavot nākamo nedēļu” (OneDrive mapes pēc plānotās dienas), “Šodien” un nokavētie.",
+          "Dažāda komplekta atlase (pa vienai no katras vietas/laika), vairākas tēmas vienā komplektā, ↻ aizstāt bildi.",
+          "AI redaktors: AI pats izvēlas bildes ar “kāpēc”; pēc izvēles skatās arī sīktēlus.",
+          "Sinhronizācija: uzvar jaunākā atzīme; sinhronizē aizverot; apakšējā joslā “☁ Sinhronizēts HH:MM”.",
+          "Žurnālā vietējais laiks; filtra paziņojums Krājumā; pārlasa mapi, atgriežoties logā.",
+          "Labots: trūkstoši sīktēli komplektos ar bildēm no Mac sērijām."
+        ],
+        "en": [
+          "Jauna cilne “Plāns”: 6 nedēļas, viens komplekts darba dienā; “Ieplānot”, pārvilkšana, “Apstiprināt nedēļu”, “Sagatavot nākamo nedēļu” (OneDrive mapes pēc plānotās dienas), “Šodien” un nokavētie.",
+          "Dažāda komplekta atlase (pa vienai no katras vietas/laika), vairākas tēmas vienā komplektā, ↻ aizstāt bildi.",
+          "AI redaktors: AI pats izvēlas bildes ar “kāpēc”; pēc izvēles skatās arī sīktēlus.",
+          "Sinhronizācija: uzvar jaunākā atzīme; sinhronizē aizverot; apakšējā joslā “☁ Sinhronizēts HH:MM”.",
+          "Žurnālā vietējais laiks; filtra paziņojums Krājumā; pārlasa mapi, atgriežoties logā.",
+          "Labots: trūkstoši sīktēli komplektos ar bildēm no Mac sērijām."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test15",
       "date": "2026-11-05",
