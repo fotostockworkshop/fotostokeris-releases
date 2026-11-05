@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test12",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test12.zip",
-    "sha256": "9cdb56582c7caeafca075cc1b4088cf4a31ff38269767d13a5c45b376132cb7c",
-    "size": 6121389,
+    "version": "0.1.0-test13",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test13.zip",
+    "sha256": "3cbe8f4376070774b1f90c20aa47b8324a18d6a1aba8bf9e62d18e4716dd6ec0",
+    "size": 6136150,
     "date": "2026-11-05",
     "notes": {
       "lv": [
-        "Sērijas bez manifesta sērijas mapē (no Mac caur Synology Drive) — manifests no kopējās mapes \"Manifesti\".",
-        "Manifesta mape \"_fotostokeris\" (bez punkta); vecās \".fotostokeris\" joprojām lasa."
+        "Jauna cilne \"Atlasīt pašam\": režģis ar izmēra slīdni, filtri, liela bilde (dubultklikšķis/atstarpe), ≈ gandrīz vienādās, \"Izveidot komplektu\" / \"Pievienot komplektam\".",
+        "Komplekta ieteikumā — liela bilde ar dubultklikšķi."
       ],
       "en": [
-        "Sērijas bez manifesta sērijas mapē (no Mac caur Synology Drive) — manifests no kopējās mapes \"Manifesti\".",
-        "Manifesta mape \"_fotostokeris\" (bez punkta); vecās \".fotostokeris\" joprojām lasa."
+        "Jauna cilne \"Atlasīt pašam\": režģis ar izmēra slīdni, filtri, liela bilde (dubultklikšķis/atstarpe), ≈ gandrīz vienādās, \"Izveidot komplektu\" / \"Pievienot komplektam\".",
+        "Komplekta ieteikumā — liela bilde ar dubultklikšķi."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test13",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "Jauna cilne \"Atlasīt pašam\": režģis ar izmēra slīdni, filtri, liela bilde (dubultklikšķis/atstarpe), ≈ gandrīz vienādās, \"Izveidot komplektu\" / \"Pievienot komplektam\".",
+          "Komplekta ieteikumā — liela bilde ar dubultklikšķi."
+        ],
+        "en": [
+          "Jauna cilne \"Atlasīt pašam\": režģis ar izmēra slīdni, filtri, liela bilde (dubultklikšķis/atstarpe), ≈ gandrīz vienādās, \"Izveidot komplektu\" / \"Pievienot komplektam\".",
+          "Komplekta ieteikumā — liela bilde ar dubultklikšķi."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test12",
       "date": "2026-11-05",
