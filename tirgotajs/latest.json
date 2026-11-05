@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test13",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test13.zip",
-    "sha256": "3cbe8f4376070774b1f90c20aa47b8324a18d6a1aba8bf9e62d18e4716dd6ec0",
-    "size": 6136150,
+    "version": "0.1.0-test14",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test14.zip",
+    "sha256": "79bbc6af8131468a4f6f20a9b047ead5bf1ef6b3d7364140e97f2b439ccef2b4",
+    "size": 6138282,
     "date": "2026-11-05",
     "notes": {
       "lv": [
-        "Jauna cilne \"Atlasīt pašam\": režģis ar izmēra slīdni, filtri, liela bilde (dubultklikšķis/atstarpe), ≈ gandrīz vienādās, \"Izveidot komplektu\" / \"Pievienot komplektam\".",
-        "Komplekta ieteikumā — liela bilde ar dubultklikšķi."
+        "Labots: otrā datorā pārvietots komplekts rādījās \"vēl gatavo mapē\", ja \"Komplektu mape\" iestatīta citādi — mapi atrod pēc komplekta manifesta."
       ],
       "en": [
-        "Jauna cilne \"Atlasīt pašam\": režģis ar izmēra slīdni, filtri, liela bilde (dubultklikšķis/atstarpe), ≈ gandrīz vienādās, \"Izveidot komplektu\" / \"Pievienot komplektam\".",
-        "Komplekta ieteikumā — liela bilde ar dubultklikšķi."
+        "Labots: otrā datorā pārvietots komplekts rādījās \"vēl gatavo mapē\", ja \"Komplektu mape\" iestatīta citādi — mapi atrod pēc komplekta manifesta."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test14",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "Labots: otrā datorā pārvietots komplekts rādījās \"vēl gatavo mapē\", ja \"Komplektu mape\" iestatīta citādi — mapi atrod pēc komplekta manifesta."
+        ],
+        "en": [
+          "Labots: otrā datorā pārvietots komplekts rādījās \"vēl gatavo mapē\", ja \"Komplektu mape\" iestatīta citādi — mapi atrod pēc komplekta manifesta."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test13",
       "date": "2026-11-05",
