@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test19",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test19.zip",
-    "sha256": "1ef3eaffef90ef632b331cd9baffaa6a403d1b28f5a59d6cc22b6929b09e7c66",
-    "size": 6197958,
+    "version": "0.1.0-test20",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test20.zip",
+    "sha256": "0889289279ed0a8254029cbb61a5009320202ea2115545d28293ca99b50487c0",
+    "size": 6199601,
     "date": "2026-11-05",
     "notes": {
       "lv": [
-        "Labots: trūkstošos sīktēlus Tirgotājs izveido pats no bildes."
+        "SFTP: ilgāka pieteikšanās gaidīšana un atkārtojumi (Magnific “Authentication timeout”); “visām aģentūrām” — neizdevusies aģentūra vēlreiz beigās."
       ],
       "en": [
-        "Labots: trūkstošos sīktēlus Tirgotājs izveido pats no bildes."
+        "SFTP: ilgāka pieteikšanās gaidīšana un atkārtojumi (Magnific “Authentication timeout”); “visām aģentūrām” — neizdevusies aģentūra vēlreiz beigās."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test20",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "SFTP: ilgāka pieteikšanās gaidīšana un atkārtojumi (Magnific “Authentication timeout”); “visām aģentūrām” — neizdevusies aģentūra vēlreiz beigās."
+        ],
+        "en": [
+          "SFTP: ilgāka pieteikšanās gaidīšana un atkārtojumi (Magnific “Authentication timeout”); “visām aģentūrām” — neizdevusies aģentūra vēlreiz beigās."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test19",
       "date": "2026-11-05",
