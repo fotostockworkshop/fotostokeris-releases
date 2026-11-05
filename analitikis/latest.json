@@ -1,24 +1,68 @@
 {
   "test": {
-    "version": "0.3.1-test6",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test6.zip",
-    "sha256": "82a4394c881fecb070855e372d26d2fe82d1b5148f240be1f286850c3f48eea0",
-    "size": 10590739,
-    "date": "2026-11-04",
+    "version": "0.3.1-test7",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test7.zip",
+    "sha256": "42fda212c22cf5b843dd26e5d59be606c2a2dd08b56d5551ea2f8fc5d285fc7d",
+    "size": 10603386,
+    "date": "2026-11-05",
     "notes": {
       "lv": [
-        "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
-        "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
-        "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
+        "Izmaksas rāda summas pēc ieturētā nodokļa — neizmaksātais, pieejamais, prognoze, atgādinājums; paskaidrojums ⓘ pie summas.",
+        "Zoonar: ietur 15.825% (Vācijas nodoklis) — iestatījumos jau ierakstīts; izmaksa vēsturē ar īsto saņemšanas dienu (nākamā darba diena) un summu pēc nodokļa; “gaida izmaksu” vairs neiestrēgst.",
+        "Magnific: neizmaksātais pēc nodokļa, pieejamais = rēķina summa no Magnific lapas.",
+        "Prognozē: “pieprasīts DD.MM.” pie pieprasītām izmaksām, “izmaksa 15.11.” pie Envato Elements.",
+        "Atgādinājumā ķeksis “Izmaksu jau pieprasīju” — vairs neatgādina; atsaukt ar × tabulā.",
+        "Izmaksu tabulā paskaidrojumi zīmītē ⓘ (uzbrauc ar peli); statuss “pieprasīts … gaida izmaksu” paliek redzams.",
+        "“No kā sastāv Pārskata summa”: tabula pa aģentūrām atveras ar klikšķi uz teksta “Pārskats ņem…”.",
+        "Google sinhronizācija pārnes arī portfeļa lielumu (oktobris un iStock novembris parādīsies abos datoros).",
+        "Josla “Jaunas kopš iepriekšējās atjaunošanas” vairs nerāda +$0.00.",
+        "Programma atveras pa visu ekrānu; datora nosaukumā vairs nav “.local”; pēc atjaunināšanas vairs nav kļūdas “Error 501”."
       ],
       "en": [
-        "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
-        "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
-        "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
+        "Izmaksas rāda summas pēc ieturētā nodokļa — neizmaksātais, pieejamais, prognoze, atgādinājums; paskaidrojums ⓘ pie summas.",
+        "Zoonar: ietur 15.825% (Vācijas nodoklis) — iestatījumos jau ierakstīts; izmaksa vēsturē ar īsto saņemšanas dienu (nākamā darba diena) un summu pēc nodokļa; “gaida izmaksu” vairs neiestrēgst.",
+        "Magnific: neizmaksātais pēc nodokļa, pieejamais = rēķina summa no Magnific lapas.",
+        "Prognozē: “pieprasīts DD.MM.” pie pieprasītām izmaksām, “izmaksa 15.11.” pie Envato Elements.",
+        "Atgādinājumā ķeksis “Izmaksu jau pieprasīju” — vairs neatgādina; atsaukt ar × tabulā.",
+        "Izmaksu tabulā paskaidrojumi zīmītē ⓘ (uzbrauc ar peli); statuss “pieprasīts … gaida izmaksu” paliek redzams.",
+        "“No kā sastāv Pārskata summa”: tabula pa aģentūrām atveras ar klikšķi uz teksta “Pārskats ņem…”.",
+        "Google sinhronizācija pārnes arī portfeļa lielumu (oktobris un iStock novembris parādīsies abos datoros).",
+        "Josla “Jaunas kopš iepriekšējās atjaunošanas” vairs nerāda +$0.00.",
+        "Programma atveras pa visu ekrānu; datora nosaukumā vairs nav “.local”; pēc atjaunināšanas vairs nav kļūdas “Error 501”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test7",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "Izmaksas rāda summas pēc ieturētā nodokļa — neizmaksātais, pieejamais, prognoze, atgādinājums; paskaidrojums ⓘ pie summas.",
+          "Zoonar: ietur 15.825% (Vācijas nodoklis) — iestatījumos jau ierakstīts; izmaksa vēsturē ar īsto saņemšanas dienu (nākamā darba diena) un summu pēc nodokļa; “gaida izmaksu” vairs neiestrēgst.",
+          "Magnific: neizmaksātais pēc nodokļa, pieejamais = rēķina summa no Magnific lapas.",
+          "Prognozē: “pieprasīts DD.MM.” pie pieprasītām izmaksām, “izmaksa 15.11.” pie Envato Elements.",
+          "Atgādinājumā ķeksis “Izmaksu jau pieprasīju” — vairs neatgādina; atsaukt ar × tabulā.",
+          "Izmaksu tabulā paskaidrojumi zīmītē ⓘ (uzbrauc ar peli); statuss “pieprasīts … gaida izmaksu” paliek redzams.",
+          "“No kā sastāv Pārskata summa”: tabula pa aģentūrām atveras ar klikšķi uz teksta “Pārskats ņem…”.",
+          "Google sinhronizācija pārnes arī portfeļa lielumu (oktobris un iStock novembris parādīsies abos datoros).",
+          "Josla “Jaunas kopš iepriekšējās atjaunošanas” vairs nerāda +$0.00.",
+          "Programma atveras pa visu ekrānu; datora nosaukumā vairs nav “.local”; pēc atjaunināšanas vairs nav kļūdas “Error 501”."
+        ],
+        "en": [
+          "Izmaksas rāda summas pēc ieturētā nodokļa — neizmaksātais, pieejamais, prognoze, atgādinājums; paskaidrojums ⓘ pie summas.",
+          "Zoonar: ietur 15.825% (Vācijas nodoklis) — iestatījumos jau ierakstīts; izmaksa vēsturē ar īsto saņemšanas dienu (nākamā darba diena) un summu pēc nodokļa; “gaida izmaksu” vairs neiestrēgst.",
+          "Magnific: neizmaksātais pēc nodokļa, pieejamais = rēķina summa no Magnific lapas.",
+          "Prognozē: “pieprasīts DD.MM.” pie pieprasītām izmaksām, “izmaksa 15.11.” pie Envato Elements.",
+          "Atgādinājumā ķeksis “Izmaksu jau pieprasīju” — vairs neatgādina; atsaukt ar × tabulā.",
+          "Izmaksu tabulā paskaidrojumi zīmītē ⓘ (uzbrauc ar peli); statuss “pieprasīts … gaida izmaksu” paliek redzams.",
+          "“No kā sastāv Pārskata summa”: tabula pa aģentūrām atveras ar klikšķi uz teksta “Pārskats ņem…”.",
+          "Google sinhronizācija pārnes arī portfeļa lielumu (oktobris un iStock novembris parādīsies abos datoros).",
+          "Josla “Jaunas kopš iepriekšējās atjaunošanas” vairs nerāda +$0.00.",
+          "Programma atveras pa visu ekrānu; datora nosaukumā vairs nav “.local”; pēc atjaunināšanas vairs nav kļūdas “Error 501”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test6",
       "date": "2026-11-04",
@@ -766,22 +810,6 @@
         ],
         "en": [
           "Mac: izlabota avārija (\"Python quit unexpectedly\"), atjaunojot saglabātās sesijas"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test21",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
-          "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
-          "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
-        ],
-        "en": [
-          "Automātiskā ielogošanās tiešām aizpilda formas, kas atveras pēc pogas (123RF, Depositphotos, Magnific, Zoonar, Ingram)",
-          "Bigstock: pareizs pārdošanu skaits (arī tās pašas dienas pārdošanas); vēsture ielādēsies no jauna",
-          "Mac: aģentūru logu process vairs nerāda papildu ikonu Dock"
         ]
       }
     }
