@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test18",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test18.zip",
-    "sha256": "ad5293feb5c10daa90b58ded998d7eacf7d2442c39d77ab5a86a6c2c068d2707",
-    "size": 6196916,
+    "version": "0.1.0-test19",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test19.zip",
+    "sha256": "1ef3eaffef90ef632b331cd9baffaa6a403d1b28f5a59d6cc22b6929b09e7c66",
+    "size": 6197958,
     "date": "2026-11-05",
     "notes": {
       "lv": [
-        "Plānā “Jau OneDrive” ar krāsainu punktu un mākonīti; ✎ rediģēt komplektu cilnē “Atlasīt pašam” (izņemt/pievienot); ↻ AI aizstājējs."
+        "Labots: trūkstošos sīktēlus Tirgotājs izveido pats no bildes."
       ],
       "en": [
-        "Plānā “Jau OneDrive” ar krāsainu punktu un mākonīti; ✎ rediģēt komplektu cilnē “Atlasīt pašam” (izņemt/pievienot); ↻ AI aizstājējs."
+        "Labots: trūkstošos sīktēlus Tirgotājs izveido pats no bildes."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test19",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "Labots: trūkstošos sīktēlus Tirgotājs izveido pats no bildes."
+        ],
+        "en": [
+          "Labots: trūkstošos sīktēlus Tirgotājs izveido pats no bildes."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test18",
       "date": "2026-11-05",
