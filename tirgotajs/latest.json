@@ -1,32 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test11",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test11.zip",
-    "sha256": "9f4b676d5ed5dce3697540c322178e75353bb2101026ad622ba66f13ecc3c26b",
-    "size": 6116310,
-    "date": "2026-11-04",
+    "version": "0.1.0-test12",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test12.zip",
+    "sha256": "9cdb56582c7caeafca075cc1b4088cf4a31ff38269767d13a5c45b376132cb7c",
+    "size": 6121389,
+    "date": "2026-11-05",
     "notes": {
       "lv": [
-        "Līdzīgās bildes: stingrāka salīdzināšana (sīktēli, nobīde), atliktās redzamas ieteikumā, poga \"Nav līdzīgas\".",
-        "Komplekta nosaukums ar licenci priekšā (RF-/ED-/EDI-).",
-        "Komplektu tabulā krāsaini punkti ar mākonīti un leģenda; pogas zem komplekta.",
-        "Paskaidrojums, kāpēc ne visas bildes tiek sūtītas/atzīmētas.",
-        "Pieslēgumi: \"Saglabāt\" saglabā visu, sftp:// netraucē, pārbaudē iemesls, Adobe ID atgādinājums, \"mape serverī\", kļūdas žurnālā.",
-        "Zoonar un Ingram; Depositphotos/Magnific/Zoonar serveri; Ingram — bez ED/EDI, atstarpes → \"_\".",
-        "Windows: mapes izvēles logs priekšā (core — visiem moduļiem)."
+        "Sērijas bez manifesta sērijas mapē (no Mac caur Synology Drive) — manifests no kopējās mapes \"Manifesti\".",
+        "Manifesta mape \"_fotostokeris\" (bez punkta); vecās \".fotostokeris\" joprojām lasa."
       ],
       "en": [
-        "Līdzīgās bildes: stingrāka salīdzināšana (sīktēli, nobīde), atliktās redzamas ieteikumā, poga \"Nav līdzīgas\".",
-        "Komplekta nosaukums ar licenci priekšā (RF-/ED-/EDI-).",
-        "Komplektu tabulā krāsaini punkti ar mākonīti un leģenda; pogas zem komplekta.",
-        "Paskaidrojums, kāpēc ne visas bildes tiek sūtītas/atzīmētas.",
-        "Pieslēgumi: \"Saglabāt\" saglabā visu, sftp:// netraucē, pārbaudē iemesls, Adobe ID atgādinājums, \"mape serverī\", kļūdas žurnālā.",
-        "Zoonar un Ingram; Depositphotos/Magnific/Zoonar serveri; Ingram — bez ED/EDI, atstarpes → \"_\".",
-        "Windows: mapes izvēles logs priekšā (core — visiem moduļiem)."
+        "Sērijas bez manifesta sērijas mapē (no Mac caur Synology Drive) — manifests no kopējās mapes \"Manifesti\".",
+        "Manifesta mape \"_fotostokeris\" (bez punkta); vecās \".fotostokeris\" joprojām lasa."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test12",
+      "date": "2026-11-05",
+      "notes": {
+        "lv": [
+          "Sērijas bez manifesta sērijas mapē (no Mac caur Synology Drive) — manifests no kopējās mapes \"Manifesti\".",
+          "Manifesta mape \"_fotostokeris\" (bez punkta); vecās \".fotostokeris\" joprojām lasa."
+        ],
+        "en": [
+          "Sērijas bez manifesta sērijas mapē (no Mac caur Synology Drive) — manifests no kopējās mapes \"Manifesti\".",
+          "Manifesta mape \"_fotostokeris\" (bez punkta); vecās \".fotostokeris\" joprojām lasa."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test11",
       "date": "2026-11-04",
