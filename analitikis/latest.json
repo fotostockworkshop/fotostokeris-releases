@@ -1,28 +1,48 @@
 {
   "test": {
-    "version": "0.3.1-test10",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test10.zip",
-    "sha256": "eea0b4bfc9b63849df233303c8f5cfd777e1b2568979671201f38a166118876f",
-    "size": 10691269,
-    "date": "2026-11-06",
+    "version": "0.3.1-test11",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test11.zip",
+    "sha256": "ad295db0e63ee2df78baea6e0bf7901f09f2d882f799c45e4d075cc782ce3710",
+    "size": 10697119,
+    "date": "2026-11-07",
     "notes": {
       "lv": [
-        "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
-        "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
-        "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
-        "ⓘ mākonīši darbojas arī Mac logā.",
-        "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
+        "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
+        "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
+        "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
+        "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
+        "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
       ],
       "en": [
-        "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
-        "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
-        "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
-        "ⓘ mākonīši darbojas arī Mac logā.",
-        "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
+        "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
+        "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
+        "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
+        "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
+        "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test11",
+      "date": "2026-11-07",
+      "notes": {
+        "lv": [
+          "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
+          "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
+          "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
+          "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
+          "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
+        ],
+        "en": [
+          "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
+          "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
+          "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
+          "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
+          "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test10",
       "date": "2026-11-06",
@@ -804,20 +824,6 @@
         ],
         "en": [
           "Atvērtajos aģentūru logos programma ne tikai aizpilda ielogošanās laukus, bet arī nospiež \"Log in\" (arī Dreamstime pēc \"Press & Hold\")"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test25",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Atvērtajos aģentūru logos (arī Dreamstime pēc \"Press & Hold\") ielogošanās lauki tiek aizpildīti automātiski — atliek nospiest \"Log in\"",
-          "Ātrāka atjaunošana: ielogošanās gaidīšana neaptur citas aģentūras; smagās daļas reizi dienā"
-        ],
-        "en": [
-          "Atvērtajos aģentūru logos (arī Dreamstime pēc \"Press & Hold\") ielogošanās lauki tiek aizpildīti automātiski — atliek nospiest \"Log in\"",
-          "Ātrāka atjaunošana: ielogošanās gaidīšana neaptur citas aģentūras; smagās daļas reizi dienā"
         ]
       }
     }
