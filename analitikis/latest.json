@@ -1,22 +1,48 @@
 {
   "test": {
-    "version": "0.3.1-test9",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test9.zip",
-    "sha256": "4f5e5e79e06cf24e12dd94dc26aaaabc665353e144c3f2cb79144d63a881bbba",
-    "size": 10686065,
+    "version": "0.3.1-test10",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test10.zip",
+    "sha256": "eea0b4bfc9b63849df233303c8f5cfd777e1b2568979671201f38a166118876f",
+    "size": 10691269,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
-        "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
+        "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
+        "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
+        "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
+        "ⓘ mākonīši darbojas arī Mac logā.",
+        "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
       ],
       "en": [
-        "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
-        "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
+        "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
+        "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
+        "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
+        "ⓘ mākonīši darbojas arī Mac logā.",
+        "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test10",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
+          "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
+          "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
+          "ⓘ mākonīši darbojas arī Mac logā.",
+          "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
+        ],
+        "en": [
+          "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
+          "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
+          "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
+          "ⓘ mākonīši darbojas arī Mac logā.",
+          "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test9",
       "date": "2026-11-06",
@@ -792,20 +818,6 @@
         "en": [
           "Atvērtajos aģentūru logos (arī Dreamstime pēc \"Press & Hold\") ielogošanās lauki tiek aizpildīti automātiski — atliek nospiest \"Log in\"",
           "Ātrāka atjaunošana: ielogošanās gaidīšana neaptur citas aģentūras; smagās daļas reizi dienā"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test24",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
-          "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
-        ],
-        "en": [
-          "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
-          "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
         ]
       }
     }
