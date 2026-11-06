@@ -1,30 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test8",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test8.zip",
-    "sha256": "cdfd725d8b979c9d670dfcc9a5ab04d0e20d855a290ca5ef5597aecc6ed4cfe3",
-    "size": 10679497,
+    "version": "0.3.1-test9",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test9.zip",
+    "sha256": "4f5e5e79e06cf24e12dd94dc26aaaabc665353e144c3f2cb79144d63a881bbba",
+    "size": 10686065,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Iesniegumu statusi: Analītiķis (ik ~12 h) nolasa, kuras bildes gaida pārbaudi, ir pieņemtas vai noraidītas (ar iemeslu) — Adobe, Shutterstock, iStock, Depositphotos, Alamy (arī atrodamība), Pond5, Magnific, Ingram, Zoonar, Pixta, Dreamstime, Envato; sasaiste ar Vārdotāju pēc faila nosaukuma.",
-        "Izmaksas: aptuvenā saņemšanas diena (“~”) atbilst PayPal — Adobe +9, Shutterstock +7, iStock −2 (brīvdienā — iepriekšējā darba diena), Alamy +8, Magnific +9; dienu skaitu var mainīt Iestatījumi → Izmaksas.",
-        "Pieprasītu izmaksu Adobe, Depositphotos un Pixta Analītiķis redz pats (“Pending” = ceļā) — ķeksis “Izmaksu jau pieprasīju” tām vairs nav; pieprasīta izmaksa vairs nepaliek “pieprasīta” mūžīgi.",
-        "Labots: Adobe izmaksu vēsture no visām lapām; Pond5 pēdējā izmaksa (abonementa ienākumi vairs neskaitās izmaksa); Alamy pilnā vēsture (ja “All” tukšs — pa gadiem).",
-        "Palaišanas kārtība: vispirms Google sinhronizācija (ņem jaunākos datus no otra datora), tad pārbauda, vai otrs dators nav lietošanā, un tikai tad atjauno aģentūras.",
-        "Abos datoros vienādi dati: Google sinhronizācija pārnes visu datubāzi no datora, kas aģentūras atjaunoja vēlāk."
+        "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
+        "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
       ],
       "en": [
-        "Iesniegumu statusi: Analītiķis (ik ~12 h) nolasa, kuras bildes gaida pārbaudi, ir pieņemtas vai noraidītas (ar iemeslu) — Adobe, Shutterstock, iStock, Depositphotos, Alamy (arī atrodamība), Pond5, Magnific, Ingram, Zoonar, Pixta, Dreamstime, Envato; sasaiste ar Vārdotāju pēc faila nosaukuma.",
-        "Izmaksas: aptuvenā saņemšanas diena (“~”) atbilst PayPal — Adobe +9, Shutterstock +7, iStock −2 (brīvdienā — iepriekšējā darba diena), Alamy +8, Magnific +9; dienu skaitu var mainīt Iestatījumi → Izmaksas.",
-        "Pieprasītu izmaksu Adobe, Depositphotos un Pixta Analītiķis redz pats (“Pending” = ceļā) — ķeksis “Izmaksu jau pieprasīju” tām vairs nav; pieprasīta izmaksa vairs nepaliek “pieprasīta” mūžīgi.",
-        "Labots: Adobe izmaksu vēsture no visām lapām; Pond5 pēdējā izmaksa (abonementa ienākumi vairs neskaitās izmaksa); Alamy pilnā vēsture (ja “All” tukšs — pa gadiem).",
-        "Palaišanas kārtība: vispirms Google sinhronizācija (ņem jaunākos datus no otra datora), tad pārbauda, vai otrs dators nav lietošanā, un tikai tad atjauno aģentūras.",
-        "Abos datoros vienādi dati: Google sinhronizācija pārnes visu datubāzi no datora, kas aģentūras atjaunoja vēlāk."
+        "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
+        "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test9",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
+          "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
+        ],
+        "en": [
+          "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
+          "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test8",
       "date": "2026-11-06",
@@ -800,18 +806,6 @@
         "en": [
           "Ātrāka atjaunošana: aģentūra, kas gaida tavu ielogošanos (2FA), vairs neaptur pārējās",
           "Smagās daļas (Bigstock sīktēli, Shutterstock kopsummas, izmaksu vēsture) — tikai reizi dienā; pārējās atjaunošanas — tikai jaunākie dati"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test23",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
-        ],
-        "en": [
-          "Mac: sesiju atjaunošana pagaidām izslēgta (Adobe pēc tās iestrēga \"Gaida ielogošanos\") — viss strādā kā iepriekš"
         ]
       }
     }
