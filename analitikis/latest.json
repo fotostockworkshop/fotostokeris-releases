@@ -1,28 +1,40 @@
 {
   "test": {
-    "version": "0.3.1-test11",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test11.zip",
-    "sha256": "ad295db0e63ee2df78baea6e0bf7901f09f2d882f799c45e4d075cc782ce3710",
-    "size": 10697119,
+    "version": "0.3.1-test12",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test12.zip",
+    "sha256": "39604281e2fe76dba141e06ceacd5ba2fe54cfafdd275ba576e5b96774297b28",
+    "size": 10706705,
     "date": "2026-11-07",
     "notes": {
       "lv": [
-        "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
-        "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
-        "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
-        "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
-        "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
+        "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
+        "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
+        "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
       ],
       "en": [
-        "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
-        "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
-        "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
-        "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
-        "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
+        "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
+        "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
+        "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test12",
+      "date": "2026-11-07",
+      "notes": {
+        "lv": [
+          "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
+          "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
+          "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
+        ],
+        "en": [
+          "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
+          "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
+          "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test11",
       "date": "2026-11-07",
@@ -812,18 +824,6 @@
           "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
           "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
           "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test26",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Atvērtajos aģentūru logos programma ne tikai aizpilda ielogošanās laukus, bet arī nospiež \"Log in\" (arī Dreamstime pēc \"Press & Hold\")"
-        ],
-        "en": [
-          "Atvērtajos aģentūru logos programma ne tikai aizpilda ielogošanās laukus, bet arī nospiež \"Log in\" (arī Dreamstime pēc \"Press & Hold\")"
         ]
       }
     }
