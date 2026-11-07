@@ -1,24 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test12",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test12.zip",
-    "sha256": "39604281e2fe76dba141e06ceacd5ba2fe54cfafdd275ba576e5b96774297b28",
-    "size": 10706705,
+    "version": "0.3.1-test13",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test13.zip",
+    "sha256": "7c000ffbc853c592d4e07576a74fe822748f1f2a78ceef514ec9accb5760db94",
+    "size": 10707894,
     "date": "2026-11-07",
     "notes": {
       "lv": [
-        "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
-        "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
-        "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
+        "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
       ],
       "en": [
-        "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
-        "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
-        "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
+        "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test13",
+      "date": "2026-11-07",
+      "notes": {
+        "lv": [
+          "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
+        ],
+        "en": [
+          "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test12",
       "date": "2026-11-07",
@@ -808,22 +816,6 @@
         "en": [
           "Ingram: sīkdatņu paziņojums tiek aizvērts, \"Log in\" atvērts, lauki aizpildīti un poga nospiesta",
           "Ja ielogošanās poga netiek atrasta, žurnālā redzams, kādas pogas bija lapā"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test27",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
-          "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
-          "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
-        ],
-        "en": [
-          "123RF: programma pati izvēlas \"ielogoties ar e-pastu\" un aizpilda laukus",
-          "Pond5: aizpilda ielogošanās (nevis reģistrācijas) formu; sīkdatņu paziņojumi tiek aizvērti (\"tikai nepieciešamās\")",
-          "Zoonar: e-pasts un parole aizpildīti, kursors kapčas laukā — atliek ierakstīt burtus"
         ]
       }
     }
