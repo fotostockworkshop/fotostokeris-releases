@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test18",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test18.zip",
-    "sha256": "62a5b91fad62406582a4ce11cdc046a4e734558b11d97e5641b3119b17765c15",
-    "size": 10726405,
+    "version": "0.3.1-test19",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test19.zip",
+    "sha256": "2b8d1aa5963b255c4a2f9ed1d8dd209822686cb657a9416275e334bf0a2ac35c",
+    "size": 10733458,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
+        "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
       ],
       "en": [
-        "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
+        "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test19",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
+        ],
+        "en": [
+          "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test18",
       "date": "2026-11-08",
@@ -804,18 +816,6 @@
         "en": [
           "iStock: izmaksu vēsture — līguma numuru programma meklē pati Getty pārskatu lapās (Contributor ID nav līguma numurs); ja neatrod, nolasa izmaksas no kopsavilkuma lapas",
           "Ja aģentūrai vēl nav nevienas izmaksas datubāzē, nākamajā atjaunošanā tiek nolasīta visa izmaksu vēsture (iStock, Shutterstock — visas /payments lapas, Pond5 — no 2012)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test33",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Aģentūru cilnē viena kartīte \"Envato\" (atjauno gan Envato Elements, gan Envato Market); pārējos sarakstos tie paliek atsevišķi"
-        ],
-        "en": [
-          "Aģentūru cilnē viena kartīte \"Envato\" (atjauno gan Envato Elements, gan Envato Market); pārējos sarakstos tie paliek atsevišķi"
         ]
       }
     }
