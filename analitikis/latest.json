@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test23",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test23.zip",
-    "sha256": "49cf6ce8db9a756bfef76fcba5b8b889fe2a6b9b0753455b00b21e91a03e3cbe",
-    "size": 10741739,
+    "version": "0.3.1-test24",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test24.zip",
+    "sha256": "190f8e6ac513812a71d92ac597f57c2946e40f426e5233efffeb20b53bdceca8",
+    "size": 10742441,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Kolekcijās dublikāti arī Envato bildēm ar viena vārda virsrakstu (Envato pats tās tā glabā, piem. “business”) — salīdzina visas bildes ar to pašu virsrakstu pēc sīktēla."
+        "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
       ],
       "en": [
-        "Kolekcijās dublikāti arī Envato bildēm ar viena vārda virsrakstu (Envato pats tās tā glabā, piem. “business”) — salīdzina visas bildes ar to pašu virsrakstu pēc sīktēla."
+        "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test24",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
+        ],
+        "en": [
+          "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test23",
       "date": "2026-11-08",
@@ -776,22 +788,6 @@
           "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
           "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
           "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test38",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
-          "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
-          "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
-        ],
-        "en": [
-          "Kolekcija atveras pašā cilnē Kolekcijas (poga \"Aizvērt\" — atpakaļ uz kolekciju sarakstu); Labākajās kolekciju filtra vairs nav",
-          "Kolekcijas skats kā Microstockr (bez grafika): periods (visa vēsture / mēnesis / gads ar bultiņām), kārtošana pēc ienākumiem vai lejupielādēm, lejupielādes un ienākumi pa aģentūrām (arī ar 0), kopā, RPI (uz pārdoto bildi) un RPD; zemāk visas kolekcijas bildes, periodā nepārdotās — pelēkas",
-          "Labojumu vēsturē: cik testa versiju bija pirms versijas; testa versijā augšā \"N. testa versija pēc X\""
         ]
       }
     }
