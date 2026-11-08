@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test24",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test24.zip",
-    "sha256": "190f8e6ac513812a71d92ac597f57c2946e40f426e5233efffeb20b53bdceca8",
-    "size": 10742441,
+    "version": "0.3.1-test25",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test25.zip",
+    "sha256": "f40673af2d674b63cae1f30361692b8796b2de19803d86f782c48a142ec49555",
+    "size": 10743570,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
+        "Kolekciju dublikāti: sīktēlu lejupielāde salīdzināšanai Mac datorā neizdevās drošā savienojuma sertifikātu dēļ (klusi) — salabots; ja kāds sīktēls neielādējas, žurnālā ir iemesls."
       ],
       "en": [
-        "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
+        "Kolekciju dublikāti: sīktēlu lejupielāde salīdzināšanai Mac datorā neizdevās drošā savienojuma sertifikātu dēļ (klusi) — salabots; ja kāds sīktēls neielādējas, žurnālā ir iemesls."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test25",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Kolekciju dublikāti: sīktēlu lejupielāde salīdzināšanai Mac datorā neizdevās drošā savienojuma sertifikātu dēļ (klusi) — salabots; ja kāds sīktēls neielādējas, žurnālā ir iemesls."
+        ],
+        "en": [
+          "Kolekciju dublikāti: sīktēlu lejupielāde salīdzināšanai Mac datorā neizdevās drošā savienojuma sertifikātu dēļ (klusi) — salabots; ja kāds sīktēls neielādējas, žurnālā ir iemesls."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test24",
       "date": "2026-11-08",
@@ -770,24 +782,6 @@
         ],
         "en": [
           "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test39",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
-          "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
-          "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
-          "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
-        ],
-        "en": [
-          "Vienas bildes kopijas dažādās aģentūrās tiek apvienotas arī tad, ja sērijā vairākām bildēm ir vienāds virsraksts: pēc sīktēla izskata (Microstockr importētajām bildēm — uzreiz, jaunām — programma fonā salīdzina sīktēlus)",
-          "Ar roku: atzīmē kartītes → labā poga → \"Apvienot: tā pati bilde\"; nepareizi apvienotu kartīti — \"Atdalīt aģentūras\"",
-          "Jauna bibliotēka sīktēlu salīdzināšanai (Pillow) — uzstādās pati, palaižot programmu pēc atjaunināšanas",
-          "Pēc atjaunināšanas Microstockr importu ieteicams palaist vēlreiz (Iestatījumi) — tad apvienošana notiks pēc Microstockr nospiedumiem"
         ]
       }
     }
