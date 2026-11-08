@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test20",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test20.zip",
-    "sha256": "0c547fa33f03b1f0a7e27a37e0babd9ce1837aac2f756c0e00c15b6b3e9e50cd",
-    "size": 10736616,
+    "version": "0.3.1-test21",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test21.zip",
+    "sha256": "a110db69fce132f4af827f83ab949f4513486241982c6ed4564877c4798d912b",
+    "size": 10740364,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
+        "Envato bildēm pilnie virsraksti (agrāk daudzām bija viens vārds, piem. “business”) un oriģinālais faila nosaukums no Portfolio Manager — tāpēc kolekcijās tagad nonāk arī Envato dublikāti, un Envato bildes labāk apvienojas ar citām aģentūrām. Ingram un citas mēneša summas bez sadalījuma pa bildēm — katrs mēnesis atsevišķi ar bilžu kaudzītes sīktēlu (“$ · bonuss” tikai īstiem bonusiem); lielajā skatā arī aizstājēja sīktēls."
       ],
       "en": [
-        "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
+        "Envato bildēm pilnie virsraksti (agrāk daudzām bija viens vārds, piem. “business”) un oriģinālais faila nosaukums no Portfolio Manager — tāpēc kolekcijās tagad nonāk arī Envato dublikāti, un Envato bildes labāk apvienojas ar citām aģentūrām. Ingram un citas mēneša summas bez sadalījuma pa bildēm — katrs mēnesis atsevišķi ar bilžu kaudzītes sīktēlu (“$ · bonuss” tikai īstiem bonusiem); lielajā skatā arī aizstājēja sīktēls."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test21",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Envato bildēm pilnie virsraksti (agrāk daudzām bija viens vārds, piem. “business”) un oriģinālais faila nosaukums no Portfolio Manager — tāpēc kolekcijās tagad nonāk arī Envato dublikāti, un Envato bildes labāk apvienojas ar citām aģentūrām. Ingram un citas mēneša summas bez sadalījuma pa bildēm — katrs mēnesis atsevišķi ar bilžu kaudzītes sīktēlu (“$ · bonuss” tikai īstiem bonusiem); lielajā skatā arī aizstājēja sīktēls."
+        ],
+        "en": [
+          "Envato bildēm pilnie virsraksti (agrāk daudzām bija viens vārds, piem. “business”) un oriģinālais faila nosaukums no Portfolio Manager — tāpēc kolekcijās tagad nonāk arī Envato dublikāti, un Envato bildes labāk apvienojas ar citām aģentūrām. Ingram un citas mēneša summas bez sadalījuma pa bildēm — katrs mēnesis atsevišķi ar bilžu kaudzītes sīktēlu (“$ · bonuss” tikai īstiem bonusiem); lielajā skatā arī aizstājēja sīktēls."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test20",
       "date": "2026-11-08",
@@ -790,30 +802,6 @@
         ],
         "en": [
           "Envato tiek atjaunots ne biežāk kā reizi 24 stundās: \"Atjaunot visas\" to izlaiž, ja dati jau ir svaigi; kartītē zaļš aplis un \"Jau ir jaunākie dati · nākamreiz …\" (pašā Envato kartītē var atjaunot jebkurā brīdī)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test35",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Ātrāka ikdienas atjaunošana: visa vēsture tiek lasīta tikai pirmajā reizē vai pēc pogas \"Visa vēsture\"; pārējās reizēs — tikai jaunais kopš pēdējās atjaunošanas (vairs nav \"smagās daļas reizi dienā\")",
-          "Izmaksas tiek pārbaudītas tikai, ja atlikums samazinājies (bijusi izmaksa), reizi nedēļā vai pieprasīšanas laikā (mēneša pēdējās dienās / atgādinājuma dienā)",
-          "Shutterstock: kopsummas vairs nelasa katru dienu (tās papildina jaunās pārdošanas); pārdošanas pa bildēm — tikai pēdējās dienas",
-          "iStock: tikai jaunās mēnešu atskaites; sīktēli — visi tikai vienreiz (kļūda: lasīja visus 6000 katru reizi)",
-          "Bigstock: sīktēli tikai bildēm, kurām to vēl nav",
-          "Pond5: izmaksu pārbaude vairs netērē minūti, ejot cauri visiem mēnešiem līdz 2012",
-          "Žurnālā katrai aģentūrai: \"gatavs N s\" — lai var salīdzināt ātrumu"
-        ],
-        "en": [
-          "Ātrāka ikdienas atjaunošana: visa vēsture tiek lasīta tikai pirmajā reizē vai pēc pogas \"Visa vēsture\"; pārējās reizēs — tikai jaunais kopš pēdējās atjaunošanas (vairs nav \"smagās daļas reizi dienā\")",
-          "Izmaksas tiek pārbaudītas tikai, ja atlikums samazinājies (bijusi izmaksa), reizi nedēļā vai pieprasīšanas laikā (mēneša pēdējās dienās / atgādinājuma dienā)",
-          "Shutterstock: kopsummas vairs nelasa katru dienu (tās papildina jaunās pārdošanas); pārdošanas pa bildēm — tikai pēdējās dienas",
-          "iStock: tikai jaunās mēnešu atskaites; sīktēli — visi tikai vienreiz (kļūda: lasīja visus 6000 katru reizi)",
-          "Bigstock: sīktēli tikai bildēm, kurām to vēl nav",
-          "Pond5: izmaksu pārbaude vairs netērē minūti, ejot cauri visiem mēnešiem līdz 2012",
-          "Žurnālā katrai aģentūrai: \"gatavs N s\" — lai var salīdzināt ātrumu"
         ]
       }
     }
