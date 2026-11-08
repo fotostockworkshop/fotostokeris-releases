@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test19",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test19.zip",
-    "sha256": "2b8d1aa5963b255c4a2f9ed1d8dd209822686cb657a9416275e334bf0a2ac35c",
-    "size": 10733458,
+    "version": "0.3.1-test20",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test20.zip",
+    "sha256": "0c547fa33f03b1f0a7e27a37e0babd9ce1837aac2f756c0e00c15b6b3e9e50cd",
+    "size": 10736616,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
+        "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
       ],
       "en": [
-        "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
+        "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test20",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
+        ],
+        "en": [
+          "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test19",
       "date": "2026-11-08",
@@ -802,20 +814,6 @@
           "Bigstock: sīktēli tikai bildēm, kurām to vēl nav",
           "Pond5: izmaksu pārbaude vairs netērē minūti, ejot cauri visiem mēnešiem līdz 2012",
           "Žurnālā katrai aģentūrai: \"gatavs N s\" — lai var salīdzināt ātrumu"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test34",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "iStock: izmaksu vēsture — līguma numuru programma meklē pati Getty pārskatu lapās (Contributor ID nav līguma numurs); ja neatrod, nolasa izmaksas no kopsavilkuma lapas",
-          "Ja aģentūrai vēl nav nevienas izmaksas datubāzē, nākamajā atjaunošanā tiek nolasīta visa izmaksu vēsture (iStock, Shutterstock — visas /payments lapas, Pond5 — no 2012)"
-        ],
-        "en": [
-          "iStock: izmaksu vēsture — līguma numuru programma meklē pati Getty pārskatu lapās (Contributor ID nav līguma numurs); ja neatrod, nolasa izmaksas no kopsavilkuma lapas",
-          "Ja aģentūrai vēl nav nevienas izmaksas datubāzē, nākamajā atjaunošanā tiek nolasīta visa izmaksu vēsture (iStock, Shutterstock — visas /payments lapas, Pond5 — no 2012)"
         ]
       }
     }
