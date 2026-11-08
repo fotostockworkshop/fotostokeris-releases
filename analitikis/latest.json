@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test17",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test17.zip",
-    "sha256": "6aea18395d491be1e51c515b2089de2d025d87ff8f295002cac040f59e4b3215",
-    "size": 10721137,
+    "version": "0.3.1-test18",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test18.zip",
+    "sha256": "62a5b91fad62406582a4ce11cdc046a4e734558b11d97e5641b3119b17765c15",
+    "size": 10726405,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "iStock (Getty): ienākumos tagad arī Getty Connect / Wholesale (Microsoft, Canva u.c. partneri), kam atskaitē nav atsevišķu rindu — mēneša summa sakrīt ar Getty atskaites kopsummu. 123RF: ienākumi pēc 123RF dienas kopsummas (agrāk ~2% par daudz). Pēc atjaunošanas abu aģentūru vēsture tiek nolasīta vienreiz no jauna."
+        "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
       ],
       "en": [
-        "iStock (Getty): ienākumos tagad arī Getty Connect / Wholesale (Microsoft, Canva u.c. partneri), kam atskaitē nav atsevišķu rindu — mēneša summa sakrīt ar Getty atskaites kopsummu. 123RF: ienākumi pēc 123RF dienas kopsummas (agrāk ~2% par daudz). Pēc atjaunošanas abu aģentūru vēsture tiek nolasīta vienreiz no jauna."
+        "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test18",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
+        ],
+        "en": [
+          "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test17",
       "date": "2026-11-08",
@@ -804,18 +816,6 @@
         ],
         "en": [
           "Aģentūru cilnē viena kartīte \"Envato\" (atjauno gan Envato Elements, gan Envato Market); pārējos sarakstos tie paliek atsevišķi"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test32",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Ātrāka ielogošanās: kamēr programma aizpilda un ielogojas, tā pārbauda lapu ik pēc ~2 s (agrāk 5 s)"
-        ],
-        "en": [
-          "Ātrāka ielogošanās: kamēr programma aizpilda un ielogojas, tā pārbauda lapu ik pēc ~2 s (agrāk 5 s)"
         ]
       }
     }
