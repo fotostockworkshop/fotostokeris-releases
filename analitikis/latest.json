@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test14",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test14.zip",
-    "sha256": "9ef655e47143aabcb70df11eac38e0eafab5c0845295d42c2487abc4efac211c",
-    "size": 10708846,
+    "version": "0.3.1-test15",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test15.zip",
+    "sha256": "26e75fc4658630405848f573b09423ec299e9ab2d670c9b7e64e1efb6c8713a7",
+    "size": 10714147,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
+        "Izmaksas pārbaudītas pret PayPal: Dreamstime — saņemtā summa (nodoklis vairs netiek atņemts otrreiz); Pond5 — tikai īstās izmaksas (abonementa ienākumi vairs nav “izmaksas”).",
+        "Vēsturiskās izmaksas: vienreizējs fails vesturiskas_izmaksas.json datu mapē — izmaksas, ko aģentūras vairs nerāda (Envato līdz 2026-03, Twenty20, EyeEm, Foap u.c.); aģentūru atjaunošana tās nedzēš."
       ],
       "en": [
-        "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
+        "Izmaksas pārbaudītas pret PayPal: Dreamstime — saņemtā summa (nodoklis vairs netiek atņemts otrreiz); Pond5 — tikai īstās izmaksas (abonementa ienākumi vairs nav “izmaksas”).",
+        "Vēsturiskās izmaksas: vienreizējs fails vesturiskas_izmaksas.json datu mapē — izmaksas, ko aģentūras vairs nerāda (Envato līdz 2026-03, Twenty20, EyeEm, Foap u.c.); aģentūru atjaunošana tās nedzēš."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test15",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Izmaksas pārbaudītas pret PayPal: Dreamstime — saņemtā summa (nodoklis vairs netiek atņemts otrreiz); Pond5 — tikai īstās izmaksas (abonementa ienākumi vairs nav “izmaksas”).",
+          "Vēsturiskās izmaksas: vienreizējs fails vesturiskas_izmaksas.json datu mapē — izmaksas, ko aģentūras vairs nerāda (Envato līdz 2026-03, Twenty20, EyeEm, Foap u.c.); aģentūru atjaunošana tās nedzēš."
+        ],
+        "en": [
+          "Izmaksas pārbaudītas pret PayPal: Dreamstime — saņemtā summa (nodoklis vairs netiek atņemts otrreiz); Pond5 — tikai īstās izmaksas (abonementa ienākumi vairs nav “izmaksas”).",
+          "Vēsturiskās izmaksas: vienreizējs fails vesturiskas_izmaksas.json datu mapē — izmaksas, ko aģentūras vairs nerāda (Envato līdz 2026-03, Twenty20, EyeEm, Foap u.c.); aģentūru atjaunošana tās nedzēš."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test14",
       "date": "2026-11-08",
@@ -800,20 +816,6 @@
         ],
         "en": [
           "Pond5 (un citur): programma nospiež tieši \"Log In\" pogu, nevis paroles \"rādīt\" ikonu"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test29",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Pond5: programma nospiež \"Log In\" arī tad, ja lauki jau aizpildīti",
-          "Zoonar: kapča (\"Verification Code\") tiek atpazīta — programma pogu nespiež, kursors pirmajā kapčas lodziņā"
-        ],
-        "en": [
-          "Pond5: programma nospiež \"Log In\" arī tad, ja lauki jau aizpildīti",
-          "Zoonar: kapča (\"Verification Code\") tiek atpazīta — programma pogu nespiež, kursors pirmajā kapčas lodziņā"
         ]
       }
     }
