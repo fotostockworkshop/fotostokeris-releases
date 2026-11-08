@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test15",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test15.zip",
-    "sha256": "26e75fc4658630405848f573b09423ec299e9ab2d670c9b7e64e1efb6c8713a7",
-    "size": 10714147,
+    "version": "0.3.1-test16",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test16.zip",
+    "sha256": "00950821ad760a0c8011f0c65d8ca90ace235793c0ea02ded5f182f7165ecf1d",
+    "size": 10718637,
     "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Izmaksas pārbaudītas pret PayPal: Dreamstime — saņemtā summa (nodoklis vairs netiek atņemts otrreiz); Pond5 — tikai īstās izmaksas (abonementa ienākumi vairs nav “izmaksas”).",
-        "Vēsturiskās izmaksas: vienreizējs fails vesturiskas_izmaksas.json datu mapē — izmaksas, ko aģentūras vairs nerāda (Envato līdz 2026-03, Twenty20, EyeEm, Foap u.c.); aģentūru atjaunošana tās nedzēš."
+        "Adobe: ienākumi līdz 2023. gada februārim ir eiro (toreiz konts bija EUR) — vairs neizskatās, ka izmaksāts vairāk nekā nopelnīts; bonusi 2021–2023, kas redzami tikai Adobe grafikā, tagad ieskaitīti; izmaksa ar statusu “Payment done” ieskaitīta uzreiz. Pēc atjaunošanas Adobe vēsture tiek nolasīta vienreiz no jauna.",
+        "Izmaksas: Envato (Trolley) izmaksas nolasās pareizi; 123RF — ja izmaksu lapa neatveras, nākamreiz mēģina vēlreiz. Tabulā “Izmaksas pa mēnešiem” noņemta aile “Vidēji līdz šim”."
       ],
       "en": [
-        "Izmaksas pārbaudītas pret PayPal: Dreamstime — saņemtā summa (nodoklis vairs netiek atņemts otrreiz); Pond5 — tikai īstās izmaksas (abonementa ienākumi vairs nav “izmaksas”).",
-        "Vēsturiskās izmaksas: vienreizējs fails vesturiskas_izmaksas.json datu mapē — izmaksas, ko aģentūras vairs nerāda (Envato līdz 2026-03, Twenty20, EyeEm, Foap u.c.); aģentūru atjaunošana tās nedzēš."
+        "Adobe: ienākumi līdz 2023. gada februārim ir eiro (toreiz konts bija EUR) — vairs neizskatās, ka izmaksāts vairāk nekā nopelnīts; bonusi 2021–2023, kas redzami tikai Adobe grafikā, tagad ieskaitīti; izmaksa ar statusu “Payment done” ieskaitīta uzreiz. Pēc atjaunošanas Adobe vēsture tiek nolasīta vienreiz no jauna.",
+        "Izmaksas: Envato (Trolley) izmaksas nolasās pareizi; 123RF — ja izmaksu lapa neatveras, nākamreiz mēģina vēlreiz. Tabulā “Izmaksas pa mēnešiem” noņemta aile “Vidēji līdz šim”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test16",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Adobe: ienākumi līdz 2023. gada februārim ir eiro (toreiz konts bija EUR) — vairs neizskatās, ka izmaksāts vairāk nekā nopelnīts; bonusi 2021–2023, kas redzami tikai Adobe grafikā, tagad ieskaitīti; izmaksa ar statusu “Payment done” ieskaitīta uzreiz. Pēc atjaunošanas Adobe vēsture tiek nolasīta vienreiz no jauna.",
+          "Izmaksas: Envato (Trolley) izmaksas nolasās pareizi; 123RF — ja izmaksu lapa neatveras, nākamreiz mēģina vēlreiz. Tabulā “Izmaksas pa mēnešiem” noņemta aile “Vidēji līdz šim”."
+        ],
+        "en": [
+          "Adobe: ienākumi līdz 2023. gada februārim ir eiro (toreiz konts bija EUR) — vairs neizskatās, ka izmaksāts vairāk nekā nopelnīts; bonusi 2021–2023, kas redzami tikai Adobe grafikā, tagad ieskaitīti; izmaksa ar statusu “Payment done” ieskaitīta uzreiz. Pēc atjaunošanas Adobe vēsture tiek nolasīta vienreiz no jauna.",
+          "Izmaksas: Envato (Trolley) izmaksas nolasās pareizi; 123RF — ja izmaksu lapa neatveras, nākamreiz mēģina vēlreiz. Tabulā “Izmaksas pa mēnešiem” noņemta aile “Vidēji līdz šim”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test15",
       "date": "2026-11-08",
@@ -804,18 +818,6 @@
         ],
         "en": [
           "Ātrāk: 123RF un Ingram ikdienas atjaunošanā lasa tikai jaunākos mēnešus (pilnu vēsturi — tikai pirmajā reizē vai ar \"Visa vēsture\")"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test30",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Pond5 (un citur): programma nospiež tieši \"Log In\" pogu, nevis paroles \"rādīt\" ikonu"
-        ],
-        "en": [
-          "Pond5 (un citur): programma nospiež tieši \"Log In\" pogu, nevis paroles \"rādīt\" ikonu"
         ]
       }
     }
