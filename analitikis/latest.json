@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test13",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test13.zip",
-    "sha256": "7c000ffbc853c592d4e07576a74fe822748f1f2a78ceef514ec9accb5760db94",
-    "size": 10707894,
-    "date": "2026-11-07",
+    "version": "0.3.1-test14",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test14.zip",
+    "sha256": "9ef655e47143aabcb70df11eac38e0eafab5c0845295d42c2487abc4efac211c",
+    "size": 10708846,
+    "date": "2026-11-08",
     "notes": {
       "lv": [
-        "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
+        "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
       ],
       "en": [
-        "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
+        "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test14",
+      "date": "2026-11-08",
+      "notes": {
+        "lv": [
+          "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
+        ],
+        "en": [
+          "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test13",
       "date": "2026-11-07",
@@ -802,20 +814,6 @@
         "en": [
           "Pond5: programma nospiež \"Log In\" arī tad, ja lauki jau aizpildīti",
           "Zoonar: kapča (\"Verification Code\") tiek atpazīta — programma pogu nespiež, kursors pirmajā kapčas lodziņā"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test28",
-      "date": "2026-10-29",
-      "notes": {
-        "lv": [
-          "Ingram: sīkdatņu paziņojums tiek aizvērts, \"Log in\" atvērts, lauki aizpildīti un poga nospiesta",
-          "Ja ielogošanās poga netiek atrasta, žurnālā redzams, kādas pogas bija lapā"
-        ],
-        "en": [
-          "Ingram: sīkdatņu paziņojums tiek aizvērts, \"Log in\" atvērts, lauki aizpildīti un poga nospiesta",
-          "Ja ielogošanās poga netiek atrasta, žurnālā redzams, kādas pogas bija lapā"
         ]
       }
     }
