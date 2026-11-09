@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test26",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test26.zip",
-    "sha256": "89dc7ffaa8b154b690a2e52d45ac532e2644c010d13822cb28398379b21c10b4",
-    "size": 10745651,
+    "version": "0.3.1-test27",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test27.zip",
+    "sha256": "0c3c71168683763a3086a4451eca25bb24ecee94ac5e2fa09bd0dc4b101454c7",
+    "size": 10747506,
     "date": "2026-11-09",
     "notes": {
       "lv": [
-        "Kolekciju dublikāti: ja sīktēlu nevar nolasīt (nav attēlu bibliotēkas vai Envato formāts, piem. AVIF), Mac datorā to pārveido ar sistēmas rīku “sips”; žurnālā — precīzs iemesls."
+        "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
       ],
       "en": [
-        "Kolekciju dublikāti: ja sīktēlu nevar nolasīt (nav attēlu bibliotēkas vai Envato formāts, piem. AVIF), Mac datorā to pārveido ar sistēmas rīku “sips”; žurnālā — precīzs iemesls."
+        "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test27",
+      "date": "2026-11-09",
+      "notes": {
+        "lv": [
+          "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
+        ],
+        "en": [
+          "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test26",
       "date": "2026-11-09",
@@ -768,20 +780,6 @@
           "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
           "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
           "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test41",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
-          "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
-        ],
-        "en": [
-          "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
-          "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
         ]
       }
     }
