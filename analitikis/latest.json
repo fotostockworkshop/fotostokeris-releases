@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test25",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test25.zip",
-    "sha256": "f40673af2d674b63cae1f30361692b8796b2de19803d86f782c48a142ec49555",
-    "size": 10743570,
-    "date": "2026-11-08",
+    "version": "0.3.1-test26",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test26.zip",
+    "sha256": "89dc7ffaa8b154b690a2e52d45ac532e2644c010d13822cb28398379b21c10b4",
+    "size": 10745651,
+    "date": "2026-11-09",
     "notes": {
       "lv": [
-        "Kolekciju dublikāti: sīktēlu lejupielāde salīdzināšanai Mac datorā neizdevās drošā savienojuma sertifikātu dēļ (klusi) — salabots; ja kāds sīktēls neielādējas, žurnālā ir iemesls."
+        "Kolekciju dublikāti: ja sīktēlu nevar nolasīt (nav attēlu bibliotēkas vai Envato formāts, piem. AVIF), Mac datorā to pārveido ar sistēmas rīku “sips”; žurnālā — precīzs iemesls."
       ],
       "en": [
-        "Kolekciju dublikāti: sīktēlu lejupielāde salīdzināšanai Mac datorā neizdevās drošā savienojuma sertifikātu dēļ (klusi) — salabots; ja kāds sīktēls neielādējas, žurnālā ir iemesls."
+        "Kolekciju dublikāti: ja sīktēlu nevar nolasīt (nav attēlu bibliotēkas vai Envato formāts, piem. AVIF), Mac datorā to pārveido ar sistēmas rīku “sips”; žurnālā — precīzs iemesls."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test26",
+      "date": "2026-11-09",
+      "notes": {
+        "lv": [
+          "Kolekciju dublikāti: ja sīktēlu nevar nolasīt (nav attēlu bibliotēkas vai Envato formāts, piem. AVIF), Mac datorā to pārveido ar sistēmas rīku “sips”; žurnālā — precīzs iemesls."
+        ],
+        "en": [
+          "Kolekciju dublikāti: ja sīktēlu nevar nolasīt (nav attēlu bibliotēkas vai Envato formāts, piem. AVIF), Mac datorā to pārveido ar sistēmas rīku “sips”; žurnālā — precīzs iemesls."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test25",
       "date": "2026-11-08",
@@ -770,18 +782,6 @@
         "en": [
           "Izmaksas: divi grafiki blakus — \"Izmaksas pa fotobankām €\" (gada summa katrai aģentūrai) un \"Izmaksas pa mēnešiem €\" (12 mēneši), summas virs stabiņiem; pārslēdzot gadu, mainās abi",
           "Labās pogas izvēlnē \"Atlasīt visas\" — atzīmē visas atrastās bildes sarakstā (arī tās, kas vēl aiz \"Rādīt vairāk\"); tad var noņemt liekās un pievienot kolekcijai"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test40",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
-        ],
-        "en": [
-          "Bildes logā, uzbraucot ar peli uz lielās bildes: 🔍 — meklēt šo bildi internetā (Google Lens, kur tā publicēta), 🔗 — atvērt bildi aģentūras lapā (kā Microstockr)"
         ]
       }
     }
