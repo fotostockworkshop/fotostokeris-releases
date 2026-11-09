@@ -1,24 +1,48 @@
 {
   "test": {
-    "version": "0.9.0-test10",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test10.zip",
-    "sha256": "d724bb70ca97be093d7a649782cc132b74104aa2e0f1d3c916cc926690e56596",
-    "size": 9929009,
-    "date": "2026-11-03",
+    "version": "0.9.0-test11",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test11.zip",
+    "sha256": "93e45929ed7a0c423ca7a070ce4bd13b0a66022aec8433b02b0e85e4bfee9f2e",
+    "size": 9958667,
+    "date": "2026-11-09",
     "notes": {
       "lv": [
-        "Sinhronizācija ar citiem datoriem caur Google Drive (Iestatījumi → Pieslēgumi → Google konts → “Sinhronizēt ar citiem datoriem”): iestatījumi, šabloni, tulkojumi, vietu noteikumi un sagatavoto bilžu uzskaite. Ieslēdz katrā datorā.",
-        "Katra datora mapes paliek savas; bildes netiek sinhronizētas. Ja Vārdotājs nesen lietots citā datorā — brīdinājums.",
-        "Tumšajās tēmās “✂ nogriezts” josla ar baltu tekstu."
+        "Ar pieslēgtu Google kontu sērijas manifests un sīktēli nonāk arī Google Drive (Fotostokeris/Manifesti) — Analītiķis un Tirgotājs tos redz arī datorā bez bildēm",
+        "Manifestā arī faila izmērs un kontrolsumma katrai bildei",
+        "Manifesta apakšmape tagad _fotostokeris (Synology to sinhronizē); sērija mapē \"jpg\"/\"raw\" saucas pēc vecākmapes",
+        "\"Uz iesniegšanu\": atstarpes nosaukumā → \"_\"",
+        "Nav vairs \"Error 501\" pēc atjaunināšanas; logs pa visu ekrānu; bez \".local\"; ✂ josla salasāma tumšajās tēmās"
       ],
       "en": [
-        "Sinhronizācija ar citiem datoriem caur Google Drive (Iestatījumi → Pieslēgumi → Google konts → “Sinhronizēt ar citiem datoriem”): iestatījumi, šabloni, tulkojumi, vietu noteikumi un sagatavoto bilžu uzskaite. Ieslēdz katrā datorā.",
-        "Katra datora mapes paliek savas; bildes netiek sinhronizētas. Ja Vārdotājs nesen lietots citā datorā — brīdinājums.",
-        "Tumšajās tēmās “✂ nogriezts” josla ar baltu tekstu."
+        "Ar pieslēgtu Google kontu sērijas manifests un sīktēli nonāk arī Google Drive (Fotostokeris/Manifesti) — Analītiķis un Tirgotājs tos redz arī datorā bez bildēm",
+        "Manifestā arī faila izmērs un kontrolsumma katrai bildei",
+        "Manifesta apakšmape tagad _fotostokeris (Synology to sinhronizē); sērija mapē \"jpg\"/\"raw\" saucas pēc vecākmapes",
+        "\"Uz iesniegšanu\": atstarpes nosaukumā → \"_\"",
+        "Nav vairs \"Error 501\" pēc atjaunināšanas; logs pa visu ekrānu; bez \".local\"; ✂ josla salasāma tumšajās tēmās"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test11",
+      "date": "2026-11-09",
+      "notes": {
+        "lv": [
+          "Ar pieslēgtu Google kontu sērijas manifests un sīktēli nonāk arī Google Drive (Fotostokeris/Manifesti) — Analītiķis un Tirgotājs tos redz arī datorā bez bildēm",
+          "Manifestā arī faila izmērs un kontrolsumma katrai bildei",
+          "Manifesta apakšmape tagad _fotostokeris (Synology to sinhronizē); sērija mapē \"jpg\"/\"raw\" saucas pēc vecākmapes",
+          "\"Uz iesniegšanu\": atstarpes nosaukumā → \"_\"",
+          "Nav vairs \"Error 501\" pēc atjaunināšanas; logs pa visu ekrānu; bez \".local\"; ✂ josla salasāma tumšajās tēmās"
+        ],
+        "en": [
+          "Ar pieslēgtu Google kontu sērijas manifests un sīktēli nonāk arī Google Drive (Fotostokeris/Manifesti) — Analītiķis un Tirgotājs tos redz arī datorā bez bildēm",
+          "Manifestā arī faila izmērs un kontrolsumma katrai bildei",
+          "Manifesta apakšmape tagad _fotostokeris (Synology to sinhronizē); sērija mapē \"jpg\"/\"raw\" saucas pēc vecākmapes",
+          "\"Uz iesniegšanu\": atstarpes nosaukumā → \"_\"",
+          "Nav vairs \"Error 501\" pēc atjaunināšanas; logs pa visu ekrānu; bez \".local\"; ✂ josla salasāma tumšajās tēmās"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test10",
       "date": "2026-11-03",
