@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test28",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test28.zip",
-    "sha256": "859900d36720339e6f85b8165f195694654f567c61a9e07ca1829ab343c5cd78",
-    "size": 10748439,
+    "version": "0.3.1-test29",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test29.zip",
+    "sha256": "101dce698e13cf8cd28b25f901fb1310f3035b1314c5c7d647134efd28c0f0fb",
+    "size": 10749600,
     "date": "2026-11-09",
     "notes": {
       "lv": [
-        "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
+        "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
       ],
       "en": [
-        "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
+        "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test29",
+      "date": "2026-11-09",
+      "notes": {
+        "lv": [
+          "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
+        ],
+        "en": [
+          "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test28",
       "date": "2026-11-09",
@@ -742,32 +754,6 @@
           "\"Kas jauns\" mākonītis vēl gaisīgāks",
           "Labots: pēc kolekcijas apskates kartītes rādīja vecu \"Atjaunots pirms … min\"",
           "Pond5: aģentūru logi platāki, ielogošanās bez liekas loga rādīšanas"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test43",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Iestatījumi īsāki: garās sadaļas sakļaujamas — klikšķis uz virsraksta; zaļā bultiņa uz leju = izvērst, uz augšu = sakļaut",
-          "Jauna sadaļa \"Darbs ar datiem\": rezerves kopijas (izveidot tagad, atjaunot no saraksta vai faila, automātiski reizi dienā/nedēļā/mēnesī izvēlētā mapē) un imports no Microstockr; portfeļa vēsture tagad ceļo kopā ar rezerves kopiju",
-          "Rezerves kopija tiek izveidota automātiski arī pirms katras programmas atjaunināšanas",
-          "\"Cik bieži atjaunot\": jauna iespēja \"reizi mēnesī no N. datuma\" (iStock/Getty noklusējumā no 25. datuma); programma pieraksta, kad Getty publicē jauno atskaiti",
-          "Vienlaikus redzams tikai viens aģentūras logs, kurā jāievada kods vai jāapstiprina; nākamais parādās, kad pabeidz iepriekšējo — logi vairs nelēkā virsū",
-          "\"Kas jauns\" mākonītis gaisīgāks un caurspīdīgāks",
-          "Izmaksas: iStock līguma numurs no Getty kopsavilkuma; Alamy pirmo reizi visa izmaksu vēsture; Bigstock, Shutterstock, Pond5 — izpēte žurnālā",
-          "Portfelis: vairāk vietu, kur meklēt skaitu (Shutterstock, Adobe, Magnific, Pond5, Pixta, Bigstock); žurnālā mājieni labošanai"
-        ],
-        "en": [
-          "Iestatījumi īsāki: garās sadaļas sakļaujamas — klikšķis uz virsraksta; zaļā bultiņa uz leju = izvērst, uz augšu = sakļaut",
-          "Jauna sadaļa \"Darbs ar datiem\": rezerves kopijas (izveidot tagad, atjaunot no saraksta vai faila, automātiski reizi dienā/nedēļā/mēnesī izvēlētā mapē) un imports no Microstockr; portfeļa vēsture tagad ceļo kopā ar rezerves kopiju",
-          "Rezerves kopija tiek izveidota automātiski arī pirms katras programmas atjaunināšanas",
-          "\"Cik bieži atjaunot\": jauna iespēja \"reizi mēnesī no N. datuma\" (iStock/Getty noklusējumā no 25. datuma); programma pieraksta, kad Getty publicē jauno atskaiti",
-          "Vienlaikus redzams tikai viens aģentūras logs, kurā jāievada kods vai jāapstiprina; nākamais parādās, kad pabeidz iepriekšējo — logi vairs nelēkā virsū",
-          "\"Kas jauns\" mākonītis gaisīgāks un caurspīdīgāks",
-          "Izmaksas: iStock līguma numurs no Getty kopsavilkuma; Alamy pirmo reizi visa izmaksu vēsture; Bigstock, Shutterstock, Pond5 — izpēte žurnālā",
-          "Portfelis: vairāk vietu, kur meklēt skaitu (Shutterstock, Adobe, Magnific, Pond5, Pixta, Bigstock); žurnālā mājieni labošanai"
         ]
       }
     }
