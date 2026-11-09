@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test29",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test29.zip",
-    "sha256": "101dce698e13cf8cd28b25f901fb1310f3035b1314c5c7d647134efd28c0f0fb",
-    "size": 10749600,
+    "version": "0.3.1-test30",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test30.zip",
+    "sha256": "256d3794a5a9938ed0e854f0e0762fbf6f03dd79b5a3f230ffd86c3e245af717",
+    "size": 10750240,
     "date": "2026-11-09",
     "notes": {
       "lv": [
-        "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
+        "Pārdošanu un sīktēlu lasīšana tagad ir aizsargāts modulis (tāpat kā izmaksas): pārbaudītais kods netiek nejauši mainīts, labojot citas programmas daļas. Sadaļā “Labākās” vieta rakstīta ar “Nr.” (agrāk “#”)."
       ],
       "en": [
-        "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
+        "Pārdošanu un sīktēlu lasīšana tagad ir aizsargāts modulis (tāpat kā izmaksas): pārbaudītais kods netiek nejauši mainīts, labojot citas programmas daļas. Sadaļā “Labākās” vieta rakstīta ar “Nr.” (agrāk “#”)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test30",
+      "date": "2026-11-09",
+      "notes": {
+        "lv": [
+          "Pārdošanu un sīktēlu lasīšana tagad ir aizsargāts modulis (tāpat kā izmaksas): pārbaudītais kods netiek nejauši mainīts, labojot citas programmas daļas. Sadaļā “Labākās” vieta rakstīta ar “Nr.” (agrāk “#”)."
+        ],
+        "en": [
+          "Pārdošanu un sīktēlu lasīšana tagad ir aizsargāts modulis (tāpat kā izmaksas): pārbaudītais kods netiek nejauši mainīts, labojot citas programmas daļas. Sadaļā “Labākās” vieta rakstīta ar “Nr.” (agrāk “#”)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test29",
       "date": "2026-11-09",
@@ -722,38 +734,6 @@
           "iStock: līguma numurs atrasts → izmaksas; redzams neizmaksātais (Carried Forward); portfelis no publiskā portfeļa (logs pats to atver)",
           "Portfelis arī Adobe, Zoonar, 123RF (logs pats atver lapu, kur skaitlis redzams) un Magnific (izvēlne Files → Published)",
           "Žurnālā redzams, vai Mac darbina Analītiķi Intel režīmā (brīdinājuma izpētei)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test44",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Portfeļa lielums tagad no vietām, kur to redzi pats: Adobe \"All\", Shutterstock \"Image portfolio\", Magnific \"Published\", Alamy Image Manager \"All submissions\", Zoonar \"Active in Sale\", Pond5 veikals, 123RF profils, Envato Portfolio Manager, Ingram \"Images online\", Pixta (visi \"On sale\" kopā)",
-          "iStock portfelis no publiskā portfeļa — vārdu ieraksti Iestatījumos pie \"Cik bieži atjaunot\" (iStock rindā)",
-          "Izmaksas: Magnific (Tax center, eiro), 123RF (Payment history, visi gadi), Bigstock (Net), Shutterstock (visas lappuses), Pond5 (pa mēnešiem), iStock līguma numurs no Getty",
-          "Mac: pēc Analītiķa atvēršanas tiek atjaunota saglabātā ielogošanās (lai Adobe neprasītu kodu katru reizi); ja tā vairs neder — programma pati ielogojas no jauna",
-          "Rezerves kopijām: \"Izvēlēties mapi…\", \"OneDrive\" un \"Noklusējuma mape\"",
-          "\"Neizmaksātais mēneša beigās\" vienmēr rāda pēdējos 12 mēnešus (nemainās ar gadu)",
-          "Atlases josla vairs neaizsedz \"Rādīt vairāk\"",
-          "\"Reizi mēnesī no N. datuma\": dienu var mainīt uzreiz arī noklusējumam",
-          "\"Kas jauns\" mākonītis vēl gaisīgāks",
-          "Labots: pēc kolekcijas apskates kartītes rādīja vecu \"Atjaunots pirms … min\"",
-          "Pond5: aģentūru logi platāki, ielogošanās bez liekas loga rādīšanas"
-        ],
-        "en": [
-          "Portfeļa lielums tagad no vietām, kur to redzi pats: Adobe \"All\", Shutterstock \"Image portfolio\", Magnific \"Published\", Alamy Image Manager \"All submissions\", Zoonar \"Active in Sale\", Pond5 veikals, 123RF profils, Envato Portfolio Manager, Ingram \"Images online\", Pixta (visi \"On sale\" kopā)",
-          "iStock portfelis no publiskā portfeļa — vārdu ieraksti Iestatījumos pie \"Cik bieži atjaunot\" (iStock rindā)",
-          "Izmaksas: Magnific (Tax center, eiro), 123RF (Payment history, visi gadi), Bigstock (Net), Shutterstock (visas lappuses), Pond5 (pa mēnešiem), iStock līguma numurs no Getty",
-          "Mac: pēc Analītiķa atvēršanas tiek atjaunota saglabātā ielogošanās (lai Adobe neprasītu kodu katru reizi); ja tā vairs neder — programma pati ielogojas no jauna",
-          "Rezerves kopijām: \"Izvēlēties mapi…\", \"OneDrive\" un \"Noklusējuma mape\"",
-          "\"Neizmaksātais mēneša beigās\" vienmēr rāda pēdējos 12 mēnešus (nemainās ar gadu)",
-          "Atlases josla vairs neaizsedz \"Rādīt vairāk\"",
-          "\"Reizi mēnesī no N. datuma\": dienu var mainīt uzreiz arī noklusējumam",
-          "\"Kas jauns\" mākonītis vēl gaisīgāks",
-          "Labots: pēc kolekcijas apskates kartītes rādīja vecu \"Atjaunots pirms … min\"",
-          "Pond5: aģentūru logi platāki, ielogošanās bez liekas loga rādīšanas"
         ]
       }
     }
