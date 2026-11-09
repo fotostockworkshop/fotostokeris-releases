@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test27",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test27.zip",
-    "sha256": "0c3c71168683763a3086a4451eca25bb24ecee94ac5e2fa09bd0dc4b101454c7",
-    "size": 10747506,
+    "version": "0.3.1-test28",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test28.zip",
+    "sha256": "859900d36720339e6f85b8165f195694654f567c61a9e07ca1829ab343c5cd78",
+    "size": 10748439,
     "date": "2026-11-09",
     "notes": {
       "lv": [
-        "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
+        "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
       ],
       "en": [
-        "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
+        "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test28",
+      "date": "2026-11-09",
+      "notes": {
+        "lv": [
+          "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
+        ],
+        "en": [
+          "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test27",
       "date": "2026-11-09",
@@ -756,30 +768,6 @@
           "\"Kas jauns\" mākonītis gaisīgāks un caurspīdīgāks",
           "Izmaksas: iStock līguma numurs no Getty kopsavilkuma; Alamy pirmo reizi visa izmaksu vēsture; Bigstock, Shutterstock, Pond5 — izpēte žurnālā",
           "Portfelis: vairāk vietu, kur meklēt skaitu (Shutterstock, Adobe, Magnific, Pond5, Pixta, Bigstock); žurnālā mājieni labošanai"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test42",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
-          "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
-          "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
-          "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
-          "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
-          "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
-          "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
-        ],
-        "en": [
-          "Portfeļa lielums: Aģentūru cilnē kolonna \"Portfelis\" (failu skaits un izmaiņa pret iepriekšējo mēnesi) un \"Uz bildi\" (cik vidēji nopelna viena bilde portfelī)",
-          "Aģentūru cilnē tabula \"Portfeļa lielums\" — pa mēnešiem (‹ gads ›) vai pa gadiem, ar pieaugumu un kopsummu",
-          "Iestatījumos \"Portfeļa vēsture\": vienreiz ielasa CSV (agency, month, files); tikai Analītiķī esošās aģentūras, Fotolia skaitās Adobe; jaunākos mēnešus programma nolasa pati reizi dienā",
-          "Iestatījumos \"Cik bieži atjaunot\" katrai aģentūrai: katru reizi / reizi 24 h / reizi nedēļā (noklusējumā reizi 24 h — Envato, iStock, Ingram, Zoonar, Alamy, 123RF)",
-          "Envato: programma pieraksta, kad Envato dati mainās; kad laiks zināms, atjauno reizi dienā pēc tā",
-          "Pēc atjaunināšanas zaļš mākonītis \"Kas jauns\" ar izmaiņām kopš tavas iepriekšējās versijas (arī vairākām)",
-          "Zoonar: programma meklē lielāku sīktēlu (mazais bija miglains)"
         ]
       }
     }
