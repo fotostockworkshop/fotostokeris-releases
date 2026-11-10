@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test32",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test32.zip",
-    "sha256": "ef32f9af03d79ed4fa4378db390cd167921c4fbc0095fd7d08418f3fd8e56ffc",
-    "size": 10782837,
-    "date": "2026-11-09",
+    "version": "0.3.1-test33",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test33.zip",
+    "sha256": "ddb6272c3726a9b46dfda7a72fd9c09ef4ce8c2b0b44a6f9f9dfb293dc330007",
+    "size": 10784468,
+    "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: Vārdotāja manifesti tagad nolasās arī no Google Drive (Fotostokeris/Manifesti) — der jebkurā datorā, arī Mac, bez Google Drive programmas un NAS. Tirgotāja komplektu manifesti netiek skaitīti otrreiz. Pēc katras aģentūru atjaunošanas Analītiķis Tirgotājam atstāj sarakstu, kuras bildes jau ir kurā aģentūrā (agenturas_bildes.json). Iestatījumos (Beta) — neobligāta Vārdotāja manifestu mape."
+        "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
       ],
       "en": [
-        "Manas bildes aģentūrās: Vārdotāja manifesti tagad nolasās arī no Google Drive (Fotostokeris/Manifesti) — der jebkurā datorā, arī Mac, bez Google Drive programmas un NAS. Tirgotāja komplektu manifesti netiek skaitīti otrreiz. Pēc katras aģentūru atjaunošanas Analītiķis Tirgotājam atstāj sarakstu, kuras bildes jau ir kurā aģentūrā (agenturas_bildes.json). Iestatījumos (Beta) — neobligāta Vārdotāja manifestu mape."
+        "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test33",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
+        ],
+        "en": [
+          "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test32",
       "date": "2026-11-09",
@@ -692,28 +704,6 @@
           "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
           "Envato Market: īstie bilžu nosaukumi",
           "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test47",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Jauna iestatījumu sadaļa \"Pieslēgumi\": OneDrive, Claude abonements, ChatGPT abonements, Claude API, OpenAI API, Gemini API un Ollama (datorā)",
-          "Abonementiem pieslēdzies pakalpojuma oficiālajā lapā (programma paroli neprasa); API atslēgas glabājas drošajā glabātuvē, ne failos un ne rezerves kopijā",
-          "Katram pieslēgumam \"Pārbaudīt\", šomēnes iztērētais un atlikums (ja to ievadi); limitu programma neuzstāda",
-          "\"Kurš AI ko dara\" — secība katram darbam (Analītiķī — AI asistentam, kas būs vēlāk)",
-          "OneDrive: viena poga, lai rezerves kopijas liktu OneDrive mapē",
-          "Portfelis: Envato no Portfolio Manager (otrs mēģinājums, sīkdatņu paziņojums tiek aizvērts)"
-        ],
-        "en": [
-          "Jauna iestatījumu sadaļa \"Pieslēgumi\": OneDrive, Claude abonements, ChatGPT abonements, Claude API, OpenAI API, Gemini API un Ollama (datorā)",
-          "Abonementiem pieslēdzies pakalpojuma oficiālajā lapā (programma paroli neprasa); API atslēgas glabājas drošajā glabātuvē, ne failos un ne rezerves kopijā",
-          "Katram pieslēgumam \"Pārbaudīt\", šomēnes iztērētais un atlikums (ja to ievadi); limitu programma neuzstāda",
-          "\"Kurš AI ko dara\" — secība katram darbam (Analītiķī — AI asistentam, kas būs vēlāk)",
-          "OneDrive: viena poga, lai rezerves kopijas liktu OneDrive mapē",
-          "Portfelis: Envato no Portfolio Manager (otrs mēģinājums, sīkdatņu paziņojums tiek aizvērts)"
         ]
       }
     }
