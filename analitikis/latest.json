@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test34",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test34.zip",
-    "sha256": "46b1afa76036fda28ab370842eedc6adddb8e7bf86237c1fcf3236cb17eca7ad",
-    "size": 10787996,
+    "version": "0.3.1-test35",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test35.zip",
+    "sha256": "b3b15ac00fa04384cc7bc4bdb52a80506b65eb32c0c38ae3a80b68445b26ab45",
+    "size": 10791511,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
+        "Portfeļa analīze vairs nav Beta — atsevišķs modulis, ieslēdzams “Analītiķa iestatījumos”. Beta paliek “Manas bildes aģentūrās” (ieslēdzams atsevišķi). Tabulā: atvērtajā sērijā tikai sīktēli (virsraksts — mākonītī) un tikai aģentūras ar šīs sērijas bildēm; sērijas rindā pārdošanas summa. Bilžu sasaiste pēc izskata stingrāka (nesaista, ja aģentūra bildi saņēmusi agrāk, nekā tā uzņemta, vai ja līdzība neviennozīmīga) — izlabota kļūdaina Envato sasaiste."
       ],
       "en": [
-        "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
+        "Portfeļa analīze vairs nav Beta — atsevišķs modulis, ieslēdzams “Analītiķa iestatījumos”. Beta paliek “Manas bildes aģentūrās” (ieslēdzams atsevišķi). Tabulā: atvērtajā sērijā tikai sīktēli (virsraksts — mākonītī) un tikai aģentūras ar šīs sērijas bildēm; sērijas rindā pārdošanas summa. Bilžu sasaiste pēc izskata stingrāka (nesaista, ja aģentūra bildi saņēmusi agrāk, nekā tā uzņemta, vai ja līdzība neviennozīmīga) — izlabota kļūdaina Envato sasaiste."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test35",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Portfeļa analīze vairs nav Beta — atsevišķs modulis, ieslēdzams “Analītiķa iestatījumos”. Beta paliek “Manas bildes aģentūrās” (ieslēdzams atsevišķi). Tabulā: atvērtajā sērijā tikai sīktēli (virsraksts — mākonītī) un tikai aģentūras ar šīs sērijas bildēm; sērijas rindā pārdošanas summa. Bilžu sasaiste pēc izskata stingrāka (nesaista, ja aģentūra bildi saņēmusi agrāk, nekā tā uzņemta, vai ja līdzība neviennozīmīga) — izlabota kļūdaina Envato sasaiste."
+        ],
+        "en": [
+          "Portfeļa analīze vairs nav Beta — atsevišķs modulis, ieslēdzams “Analītiķa iestatījumos”. Beta paliek “Manas bildes aģentūrās” (ieslēdzams atsevišķi). Tabulā: atvērtajā sērijā tikai sīktēli (virsraksts — mākonītī) un tikai aģentūras ar šīs sērijas bildēm; sērijas rindā pārdošanas summa. Bilžu sasaiste pēc izskata stingrāka (nesaista, ja aģentūra bildi saņēmusi agrāk, nekā tā uzņemta, vai ja līdzība neviennozīmīga) — izlabota kļūdaina Envato sasaiste."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test34",
       "date": "2026-11-10",
@@ -678,18 +690,6 @@
           "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
           "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
           "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test49",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
-        ],
-        "en": [
-          "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
         ]
       }
     }
