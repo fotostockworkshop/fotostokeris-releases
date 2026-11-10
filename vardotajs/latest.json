@@ -1,28 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test11",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test11.zip",
-    "sha256": "93e45929ed7a0c423ca7a070ce4bd13b0a66022aec8433b02b0e85e4bfee9f2e",
-    "size": 9958667,
-    "date": "2026-11-09",
+    "version": "0.9.0-test12",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test12.zip",
+    "sha256": "2c983f609b27e465d8a3408eeafa2b829da9f4cc83a6a8f6dd7afc0a71b7a4ae",
+    "size": 9960715,
+    "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Ar pieslēgtu Google kontu sērijas manifests un sīktēli nonāk arī Google Drive (Fotostokeris/Manifesti) — Analītiķis un Tirgotājs tos redz arī datorā bez bildēm",
-        "Manifestā arī faila izmērs un kontrolsumma katrai bildei",
-        "Manifesta apakšmape tagad _fotostokeris (Synology to sinhronizē); sērija mapē \"jpg\"/\"raw\" saucas pēc vecākmapes",
-        "\"Uz iesniegšanu\": atstarpes nosaukumā → \"_\"",
-        "Nav vairs \"Error 501\" pēc atjaunināšanas; logs pa visu ekrānu; bez \".local\"; ✂ josla salasāma tumšajās tēmās"
+        "Vienreiz augšupielādē uz Google Drive (Fotostokeris/Manifesti) visus jau esošos manifestus un sīktēlus (arī pirms test11); Drive jau esošos neaiztiek",
+        "\"Google konts\" aprakstā pieminēti manifesti"
       ],
       "en": [
-        "Ar pieslēgtu Google kontu sērijas manifests un sīktēli nonāk arī Google Drive (Fotostokeris/Manifesti) — Analītiķis un Tirgotājs tos redz arī datorā bez bildēm",
-        "Manifestā arī faila izmērs un kontrolsumma katrai bildei",
-        "Manifesta apakšmape tagad _fotostokeris (Synology to sinhronizē); sērija mapē \"jpg\"/\"raw\" saucas pēc vecākmapes",
-        "\"Uz iesniegšanu\": atstarpes nosaukumā → \"_\"",
-        "Nav vairs \"Error 501\" pēc atjaunināšanas; logs pa visu ekrānu; bez \".local\"; ✂ josla salasāma tumšajās tēmās"
+        "Vienreiz augšupielādē uz Google Drive (Fotostokeris/Manifesti) visus jau esošos manifestus un sīktēlus (arī pirms test11); Drive jau esošos neaiztiek",
+        "\"Google konts\" aprakstā pieminēti manifesti"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test12",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Vienreiz augšupielādē uz Google Drive (Fotostokeris/Manifesti) visus jau esošos manifestus un sīktēlus (arī pirms test11); Drive jau esošos neaiztiek",
+          "\"Google konts\" aprakstā pieminēti manifesti"
+        ],
+        "en": [
+          "Vienreiz augšupielādē uz Google Drive (Fotostokeris/Manifesti) visus jau esošos manifestus un sīktēlus (arī pirms test11); Drive jau esošos neaiztiek",
+          "\"Google konts\" aprakstā pieminēti manifesti"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test11",
       "date": "2026-11-09",
