@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test12",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test12.zip",
-    "sha256": "2c983f609b27e465d8a3408eeafa2b829da9f4cc83a6a8f6dd7afc0a71b7a4ae",
-    "size": 9960715,
+    "version": "0.9.0-test13",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test13.zip",
+    "sha256": "01fd850f36c1bbe9bf59334178dc4f912938eeb63f0433f2e0930ebf9ca29c71",
+    "size": 9963844,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Vienreiz augšupielādē uz Google Drive (Fotostokeris/Manifesti) visus jau esošos manifestus un sīktēlus (arī pirms test11); Drive jau esošos neaiztiek",
-        "\"Google konts\" aprakstā pieminēti manifesti"
+        "RF bildēm manifestā ED piebilde (vieta un datums) — Tirgotājs var sūtīt kā ED",
+        "Vienreiz pārbūvē visus esošos manifestus ar ED piebildi un nosūta uz Google"
       ],
       "en": [
-        "Vienreiz augšupielādē uz Google Drive (Fotostokeris/Manifesti) visus jau esošos manifestus un sīktēlus (arī pirms test11); Drive jau esošos neaiztiek",
-        "\"Google konts\" aprakstā pieminēti manifesti"
+        "RF bildēm manifestā ED piebilde (vieta un datums) — Tirgotājs var sūtīt kā ED",
+        "Vienreiz pārbūvē visus esošos manifestus ar ED piebildi un nosūta uz Google"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test13",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "RF bildēm manifestā ED piebilde (vieta un datums) — Tirgotājs var sūtīt kā ED",
+          "Vienreiz pārbūvē visus esošos manifestus ar ED piebildi un nosūta uz Google"
+        ],
+        "en": [
+          "RF bildēm manifestā ED piebilde (vieta un datums) — Tirgotājs var sūtīt kā ED",
+          "Vienreiz pārbūvē visus esošos manifestus ar ED piebildi un nosūta uz Google"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test12",
       "date": "2026-11-10",
