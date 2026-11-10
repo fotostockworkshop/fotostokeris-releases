@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test13",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test13.zip",
-    "sha256": "01fd850f36c1bbe9bf59334178dc4f912938eeb63f0433f2e0930ebf9ca29c71",
-    "size": 9963844,
+    "version": "0.9.0-test14",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test14.zip",
+    "sha256": "597d4d8bd388e598adeedf48bf678450ed38b301acdbaa1a6b8fbbde8bbcd3f1",
+    "size": 9965119,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "RF bildēm manifestā ED piebilde (vieta un datums) — Tirgotājs var sūtīt kā ED",
-        "Vienreiz pārbūvē visus esošos manifestus ar ED piebildi un nosūta uz Google"
+        "Par garam ED aprakstam (ar piebildi > limits) Vārdotājs pats uzraksta īsāku variantu ED kopijai",
+        "Vienreizējā manifestu pārbūve atkārtojas, lai to pieliktu arī jau pārbūvētajiem"
       ],
       "en": [
-        "RF bildēm manifestā ED piebilde (vieta un datums) — Tirgotājs var sūtīt kā ED",
-        "Vienreiz pārbūvē visus esošos manifestus ar ED piebildi un nosūta uz Google"
+        "Par garam ED aprakstam (ar piebildi > limits) Vārdotājs pats uzraksta īsāku variantu ED kopijai",
+        "Vienreizējā manifestu pārbūve atkārtojas, lai to pieliktu arī jau pārbūvētajiem"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test14",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Par garam ED aprakstam (ar piebildi > limits) Vārdotājs pats uzraksta īsāku variantu ED kopijai",
+          "Vienreizējā manifestu pārbūve atkārtojas, lai to pieliktu arī jau pārbūvētajiem"
+        ],
+        "en": [
+          "Par garam ED aprakstam (ar piebildi > limits) Vārdotājs pats uzraksta īsāku variantu ED kopijai",
+          "Vienreizējā manifestu pārbūve atkārtojas, lai to pieliktu arī jau pārbūvētajiem"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test13",
       "date": "2026-11-10",
