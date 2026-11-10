@@ -1,20 +1,52 @@
 {
   "test": {
-    "version": "0.1.0-test20",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test20.zip",
-    "sha256": "0889289279ed0a8254029cbb61a5009320202ea2115545d28293ca99b50487c0",
-    "size": 6199601,
-    "date": "2026-11-05",
+    "version": "0.1.0-test21",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test21.zip",
+    "sha256": "e3104e75c36995b09a3df2d7d48fba8400791e76822abeb92149a66b3c29b31d",
+    "size": 6232161,
+    "date": "2026-11-10",
     "notes": {
       "lv": [
-        "SFTP: ilgāka pieteikšanās gaidīšana un atkārtojumi (Magnific “Authentication timeout”); “visām aģentūrām” — neizdevusies aģentūra vēlreiz beigās."
+        "Plāns kā kalendārs: 7 dienas, dienas rāmis ar joslu (šodiena zaļa); dienā — iesniegtie un plānotie komplekti; OneDrive bez plāna — pārvietošanas dienā.",
+        "Komplekta stāvokļi: ⚪ plānots, 🔴 gatavs iesniegšanai, 🟠 augšupielādēts, 🔵 daļēji, 🟢 iesniegts.",
+        "Iesniegšanas diena jau veidojot komplektu; uz STOCK pārvieto tikai plānotus.",
+        "Manifesti un sīktēli caur programmas Google kontu; Mac redz NAS bildes (\"uz NAS\"); darba dators augšupielādē vecās sērijas un \"pārvietota\" atzīmes.",
+        "\"Jau aģentūrā\" no Analītiķa (agenturas_bildes.json) — komplektos nepiedāvā.",
+        "\"Atlasīt pašam\": tukšā režģī filtra paziņojums un \"Rādīt visas\"; Magnific portāla adrese."
       ],
       "en": [
-        "SFTP: ilgāka pieteikšanās gaidīšana un atkārtojumi (Magnific “Authentication timeout”); “visām aģentūrām” — neizdevusies aģentūra vēlreiz beigās."
+        "Plāns kā kalendārs: 7 dienas, dienas rāmis ar joslu (šodiena zaļa); dienā — iesniegtie un plānotie komplekti; OneDrive bez plāna — pārvietošanas dienā.",
+        "Komplekta stāvokļi: ⚪ plānots, 🔴 gatavs iesniegšanai, 🟠 augšupielādēts, 🔵 daļēji, 🟢 iesniegts.",
+        "Iesniegšanas diena jau veidojot komplektu; uz STOCK pārvieto tikai plānotus.",
+        "Manifesti un sīktēli caur programmas Google kontu; Mac redz NAS bildes (\"uz NAS\"); darba dators augšupielādē vecās sērijas un \"pārvietota\" atzīmes.",
+        "\"Jau aģentūrā\" no Analītiķa (agenturas_bildes.json) — komplektos nepiedāvā.",
+        "\"Atlasīt pašam\": tukšā režģī filtra paziņojums un \"Rādīt visas\"; Magnific portāla adrese."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test21",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Plāns kā kalendārs: 7 dienas, dienas rāmis ar joslu (šodiena zaļa); dienā — iesniegtie un plānotie komplekti; OneDrive bez plāna — pārvietošanas dienā.",
+          "Komplekta stāvokļi: ⚪ plānots, 🔴 gatavs iesniegšanai, 🟠 augšupielādēts, 🔵 daļēji, 🟢 iesniegts.",
+          "Iesniegšanas diena jau veidojot komplektu; uz STOCK pārvieto tikai plānotus.",
+          "Manifesti un sīktēli caur programmas Google kontu; Mac redz NAS bildes (\"uz NAS\"); darba dators augšupielādē vecās sērijas un \"pārvietota\" atzīmes.",
+          "\"Jau aģentūrā\" no Analītiķa (agenturas_bildes.json) — komplektos nepiedāvā.",
+          "\"Atlasīt pašam\": tukšā režģī filtra paziņojums un \"Rādīt visas\"; Magnific portāla adrese."
+        ],
+        "en": [
+          "Plāns kā kalendārs: 7 dienas, dienas rāmis ar joslu (šodiena zaļa); dienā — iesniegtie un plānotie komplekti; OneDrive bez plāna — pārvietošanas dienā.",
+          "Komplekta stāvokļi: ⚪ plānots, 🔴 gatavs iesniegšanai, 🟠 augšupielādēts, 🔵 daļēji, 🟢 iesniegts.",
+          "Iesniegšanas diena jau veidojot komplektu; uz STOCK pārvieto tikai plānotus.",
+          "Manifesti un sīktēli caur programmas Google kontu; Mac redz NAS bildes (\"uz NAS\"); darba dators augšupielādē vecās sērijas un \"pārvietota\" atzīmes.",
+          "\"Jau aģentūrā\" no Analītiķa (agenturas_bildes.json) — komplektos nepiedāvā.",
+          "\"Atlasīt pašam\": tukšā režģī filtra paziņojums un \"Rādīt visas\"; Magnific portāla adrese."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test20",
       "date": "2026-11-05",
