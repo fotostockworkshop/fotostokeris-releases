@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.9.0-test16",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test16.zip",
-    "sha256": "2c1cc479db3c5a92a68e7919af74eba88cfdecc1c81db86c9a7b623decdab5c6",
-    "size": 9969032,
+    "version": "0.9.0-test17",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test17.zip",
+    "sha256": "c20a6f5960521a437cbc46ab407e073dfd0cfaf3ce62a3a93447d19b069895d8",
+    "size": 9970211,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "\"Uz iesniegšanu\": nešķirotas ED bildes → sērijas ED apakšmapē, manifestā ED",
-        "Vienreiz darba datorā salabo agrāk kļūdaini novietotās ED bildes uz NAS (0b3c, 8fe1, 73a1, 19d7, f3cf u.c.)"
+        "ED bilžu labojums uz NAS: pārskata pašu mapi — arī no Mac nosūtītās sērijas un sērijas bez manifesta"
       ],
       "en": [
-        "\"Uz iesniegšanu\": nešķirotas ED bildes → sērijas ED apakšmapē, manifestā ED",
-        "Vienreiz darba datorā salabo agrāk kļūdaini novietotās ED bildes uz NAS (0b3c, 8fe1, 73a1, 19d7, f3cf u.c.)"
+        "ED bilžu labojums uz NAS: pārskata pašu mapi — arī no Mac nosūtītās sērijas un sērijas bez manifesta"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test17",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "ED bilžu labojums uz NAS: pārskata pašu mapi — arī no Mac nosūtītās sērijas un sērijas bez manifesta"
+        ],
+        "en": [
+          "ED bilžu labojums uz NAS: pārskata pašu mapi — arī no Mac nosūtītās sērijas un sērijas bez manifesta"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test16",
       "date": "2026-11-10",
