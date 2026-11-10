@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test40",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test40.zip",
-    "sha256": "3dd7723a6dca66409a930a782ad748d6015a868833afb58e527875836025e2cd",
-    "size": 10801043,
+    "version": "0.3.1-test41",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test41.zip",
+    "sha256": "3e1f0d0a0bab25ded488b64325b956ad89ff5285b279b998334c5911fc330af5",
+    "size": 10802088,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Datu atjaunošana vairs neiestrēgst, ja kāda aģentūras lapa neatbild (piem. Depositphotos): katrs pieprasījums gaida līdz 40 s, tad mēģina vēlreiz vai turpina ar citu daļu; žurnālā redzams, kura lapa neatbildēja."
+        "Depositphotos un Ingram atjaunošana ātrāka: gaidošo bilžu faila nosaukumu meklēšana apstājas, ja pirmajās 5 bildēs nekas netiek atrasts (agrāk — līdz 3,5 min velti)."
       ],
       "en": [
-        "Datu atjaunošana vairs neiestrēgst, ja kāda aģentūras lapa neatbild (piem. Depositphotos): katrs pieprasījums gaida līdz 40 s, tad mēģina vēlreiz vai turpina ar citu daļu; žurnālā redzams, kura lapa neatbildēja."
+        "Depositphotos un Ingram atjaunošana ātrāka: gaidošo bilžu faila nosaukumu meklēšana apstājas, ja pirmajās 5 bildēs nekas netiek atrasts (agrāk — līdz 3,5 min velti)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test41",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Depositphotos un Ingram atjaunošana ātrāka: gaidošo bilžu faila nosaukumu meklēšana apstājas, ja pirmajās 5 bildēs nekas netiek atrasts (agrāk — līdz 3,5 min velti)."
+        ],
+        "en": [
+          "Depositphotos un Ingram atjaunošana ātrāka: gaidošo bilžu faila nosaukumu meklēšana apstājas, ja pirmajās 5 bildēs nekas netiek atrasts (agrāk — līdz 3,5 min velti)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test40",
       "date": "2026-11-10",
@@ -578,38 +590,6 @@
           "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
           "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
           "Labojumu vēsture visās 5 valodās."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test1",
-      "date": "2026-11-01",
-      "notes": {
-        "lv": [
-          "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
-          "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
-          "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
-          "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
-          "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
-          "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
-          "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
-          "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
-          "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
-          "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
-          "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
-        ],
-        "en": [
-          "Jauna Analītiķa ikona un logo, jauns sākuma banneris (digitālā \"maģija\", nosaukums izvēlētajā valodā).",
-          "Valodu izvēlne ar karodziņiem; ukraiņu valoda tagad \"UA\".",
-          "Izmaksas: programma pati vairs nepieprasa — tikai atgādinājums un saites \"Atvērt\"; pēc pieprasījuma redzams \"pieprasīts — gaida izmaksu\".",
-          "Atgādinājuma josla paliek, līdz to aizver ar ×, un pārrēķinās pēc katras atjaunošanas.",
-          "Izmaksu valūta iestatījumos: EUR, USD, GBP, UAH; prognozē abas summas, piem. \"$153.38 ≈ €137.29\".",
-          "Pixta un Bigstock: jāpieprasa, minimumi 50 un $25; Pixta — \"ja pieprasīsi šodien, izmaksa ~15.MM.\", Bigstock — bez pēdējo 7 dienu pārdošanām.",
-          "Magnific: rēķins līdz €50 pēc nodokļa (24 %, maināms), atgādinājums 4.–9. datumā, rēķins, kas gaida apstiprināšanu.",
-          "\"Pieejams izmaksai\" atjaunojas katrā atjaunošanā (Adobe, Dreamstime, Zoonar, Ingram).",
-          "123RF: ja atveras pircēju lapa — pati nospiež \"Log in\"; portfelis no \"Upload history\" (AI bildes ieskaitot).",
-          "Envato sestdienās un svētdienās neatjauno (dati nemainās).",
-          "Atjaunošana vairs neiestrēgst ar \"Sāku…\" (arī pēc datora miega); sesiju uzturēšana pēc neveiksmes nemēģina ik pusstundu."
         ]
       }
     }
