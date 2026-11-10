@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test15",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test15.zip",
-    "sha256": "f5e78719b7313d05701d4e468e6c7c621e06ebf1c99c4708098b5e37a082c68a",
-    "size": 9966475,
+    "version": "0.9.0-test16",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test16.zip",
+    "sha256": "2c1cc479db3c5a92a68e7919af74eba88cfdecc1c81db86c9a7b623decdab5c6",
+    "size": 9969032,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "\"Uz iesniegšanu\": darba mapes manifests Google Drive atzīmēts kā pārvietots (bildes netiek skaitītas divreiz)"
+        "\"Uz iesniegšanu\": nešķirotas ED bildes → sērijas ED apakšmapē, manifestā ED",
+        "Vienreiz darba datorā salabo agrāk kļūdaini novietotās ED bildes uz NAS (0b3c, 8fe1, 73a1, 19d7, f3cf u.c.)"
       ],
       "en": [
-        "\"Uz iesniegšanu\": darba mapes manifests Google Drive atzīmēts kā pārvietots (bildes netiek skaitītas divreiz)"
+        "\"Uz iesniegšanu\": nešķirotas ED bildes → sērijas ED apakšmapē, manifestā ED",
+        "Vienreiz darba datorā salabo agrāk kļūdaini novietotās ED bildes uz NAS (0b3c, 8fe1, 73a1, 19d7, f3cf u.c.)"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test16",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "\"Uz iesniegšanu\": nešķirotas ED bildes → sērijas ED apakšmapē, manifestā ED",
+          "Vienreiz darba datorā salabo agrāk kļūdaini novietotās ED bildes uz NAS (0b3c, 8fe1, 73a1, 19d7, f3cf u.c.)"
+        ],
+        "en": [
+          "\"Uz iesniegšanu\": nešķirotas ED bildes → sērijas ED apakšmapē, manifestā ED",
+          "Vienreiz darba datorā salabo agrāk kļūdaini novietotās ED bildes uz NAS (0b3c, 8fe1, 73a1, 19d7, f3cf u.c.)"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test15",
       "date": "2026-11-10",
