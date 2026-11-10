@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test33",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test33.zip",
-    "sha256": "ddb6272c3726a9b46dfda7a72fd9c09ef4ce8c2b0b44a6f9f9dfb293dc330007",
-    "size": 10784468,
+    "version": "0.3.1-test34",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test34.zip",
+    "sha256": "46b1afa76036fda28ab370842eedc6adddb8e7bf86237c1fcf3236cb17eca7ad",
+    "size": 10787996,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
+        "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
       ],
       "en": [
-        "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
+        "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test34",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test33",
       "date": "2026-11-10",
@@ -678,32 +690,6 @@
         ],
         "en": [
           "Pārdošanās virs saraksta: cik no aģentūru samaksātā ir sarakstā un cik tajā neparādās, ar pogu \"Kāpēc?\" — tabula pa aģentūrām (aģentūras kopsumma, sarakstā, starpība, iemesls)"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test48",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
-          "Teksti Terminal logā — programmas valodā",
-          "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
-          "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
-          "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
-          "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
-          "Envato Market: īstie bilžu nosaukumi",
-          "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
-        ],
-        "en": [
-          "Pieslēgumi vienkāršāki: viena poga \"Pieslēgt\" (ja vajag, Claude Code / Codex uzstādās tajā pašā logā), Mac vairs neprasa atļauju vadīt Terminal, rinda kļūst zaļa pati, \"Mainīt kontu\"",
-          "Teksti Terminal logā — programmas valodā",
-          "OneDrive: rezerves kopijām var izvēlēties esošu mapi vai izveidot jaunu",
-          "Sesiju uzturēšana: kamēr Analītiķis atvērts, reizi dienā programma klusi atver aģentūras (logu nerāda, paroli neievada) — retāk jāielogojas; izslēdzams iestatījumos",
-          "Envato: šī mēneša Elements ienākumi kā gaidāmā izmaksa",
-          "Sīktēli Alamy bildēm (no pārdošanu vēstures) un Envato bildēm (no Portfolio Manager)",
-          "Envato Market: īstie bilžu nosaukumi",
-          "Lietotāja grāmatā un LASI_MANI — instrukcija \"Pieslēgumi\""
         ]
       }
     }
