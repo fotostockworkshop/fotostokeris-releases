@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.9.0-test14",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test14.zip",
-    "sha256": "597d4d8bd388e598adeedf48bf678450ed38b301acdbaa1a6b8fbbde8bbcd3f1",
-    "size": 9965119,
+    "version": "0.9.0-test15",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test15.zip",
+    "sha256": "f5e78719b7313d05701d4e468e6c7c621e06ebf1c99c4708098b5e37a082c68a",
+    "size": 9966475,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Par garam ED aprakstam (ar piebildi > limits) Vārdotājs pats uzraksta īsāku variantu ED kopijai",
-        "Vienreizējā manifestu pārbūve atkārtojas, lai to pieliktu arī jau pārbūvētajiem"
+        "\"Uz iesniegšanu\": darba mapes manifests Google Drive atzīmēts kā pārvietots (bildes netiek skaitītas divreiz)"
       ],
       "en": [
-        "Par garam ED aprakstam (ar piebildi > limits) Vārdotājs pats uzraksta īsāku variantu ED kopijai",
-        "Vienreizējā manifestu pārbūve atkārtojas, lai to pieliktu arī jau pārbūvētajiem"
+        "\"Uz iesniegšanu\": darba mapes manifests Google Drive atzīmēts kā pārvietots (bildes netiek skaitītas divreiz)"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test15",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "\"Uz iesniegšanu\": darba mapes manifests Google Drive atzīmēts kā pārvietots (bildes netiek skaitītas divreiz)"
+        ],
+        "en": [
+          "\"Uz iesniegšanu\": darba mapes manifests Google Drive atzīmēts kā pārvietots (bildes netiek skaitītas divreiz)"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test14",
       "date": "2026-11-10",
