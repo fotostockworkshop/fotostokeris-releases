@@ -1,30 +1,40 @@
 {
   "test": {
-    "version": "0.1.0-test21",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test21.zip",
-    "sha256": "e3104e75c36995b09a3df2d7d48fba8400791e76822abeb92149a66b3c29b31d",
-    "size": 6232161,
+    "version": "0.1.0-test22",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test22.zip",
+    "sha256": "ee3d8344d76dbe237e873f8e73db0021bb7d2ca5617afd712738dce9c832a4c2",
+    "size": 6240817,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Plāns kā kalendārs: 7 dienas, dienas rāmis ar joslu (šodiena zaļa); dienā — iesniegtie un plānotie komplekti; OneDrive bez plāna — pārvietošanas dienā.",
-        "Komplekta stāvokļi: ⚪ plānots, 🔴 gatavs iesniegšanai, 🟠 augšupielādēts, 🔵 daļēji, 🟢 iesniegts.",
-        "Iesniegšanas diena jau veidojot komplektu; uz STOCK pārvieto tikai plānotus.",
-        "Manifesti un sīktēli caur programmas Google kontu; Mac redz NAS bildes (\"uz NAS\"); darba dators augšupielādē vecās sērijas un \"pārvietota\" atzīmes.",
-        "\"Jau aģentūrā\" no Analītiķa (agenturas_bildes.json) — komplektos nepiedāvā.",
-        "\"Atlasīt pašam\": tukšā režģī filtra paziņojums un \"Rādīt visas\"; Magnific portāla adrese."
+        "Labots: vienas bildes vairs nerādās divreiz (NAS manifests + Vārdotāja darba mapes kopija Google kontā) — plānā nav pārmaiņus vienādu komplektu.",
+        "\"Ieplānot\" logs: sākuma diena, nedēļas, komplekti nedēļā, bildes komplektā, ED nedēļā; RF un ED jaucas.",
+        "\"Atcelt plānu\" / \"Atcelt nedēļu\"; klikšķis uz bildēm atver komplektu; pogas 👁 ✎ × redzamas vienmēr."
       ],
       "en": [
-        "Plāns kā kalendārs: 7 dienas, dienas rāmis ar joslu (šodiena zaļa); dienā — iesniegtie un plānotie komplekti; OneDrive bez plāna — pārvietošanas dienā.",
-        "Komplekta stāvokļi: ⚪ plānots, 🔴 gatavs iesniegšanai, 🟠 augšupielādēts, 🔵 daļēji, 🟢 iesniegts.",
-        "Iesniegšanas diena jau veidojot komplektu; uz STOCK pārvieto tikai plānotus.",
-        "Manifesti un sīktēli caur programmas Google kontu; Mac redz NAS bildes (\"uz NAS\"); darba dators augšupielādē vecās sērijas un \"pārvietota\" atzīmes.",
-        "\"Jau aģentūrā\" no Analītiķa (agenturas_bildes.json) — komplektos nepiedāvā.",
-        "\"Atlasīt pašam\": tukšā režģī filtra paziņojums un \"Rādīt visas\"; Magnific portāla adrese."
+        "Labots: vienas bildes vairs nerādās divreiz (NAS manifests + Vārdotāja darba mapes kopija Google kontā) — plānā nav pārmaiņus vienādu komplektu.",
+        "\"Ieplānot\" logs: sākuma diena, nedēļas, komplekti nedēļā, bildes komplektā, ED nedēļā; RF un ED jaucas.",
+        "\"Atcelt plānu\" / \"Atcelt nedēļu\"; klikšķis uz bildēm atver komplektu; pogas 👁 ✎ × redzamas vienmēr."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test22",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Labots: vienas bildes vairs nerādās divreiz (NAS manifests + Vārdotāja darba mapes kopija Google kontā) — plānā nav pārmaiņus vienādu komplektu.",
+          "\"Ieplānot\" logs: sākuma diena, nedēļas, komplekti nedēļā, bildes komplektā, ED nedēļā; RF un ED jaucas.",
+          "\"Atcelt plānu\" / \"Atcelt nedēļu\"; klikšķis uz bildēm atver komplektu; pogas 👁 ✎ × redzamas vienmēr."
+        ],
+        "en": [
+          "Labots: vienas bildes vairs nerādās divreiz (NAS manifests + Vārdotāja darba mapes kopija Google kontā) — plānā nav pārmaiņus vienādu komplektu.",
+          "\"Ieplānot\" logs: sākuma diena, nedēļas, komplekti nedēļā, bildes komplektā, ED nedēļā; RF un ED jaucas.",
+          "\"Atcelt plānu\" / \"Atcelt nedēļu\"; klikšķis uz bildēm atver komplektu; pogas 👁 ✎ × redzamas vienmēr."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test21",
       "date": "2026-11-10",
