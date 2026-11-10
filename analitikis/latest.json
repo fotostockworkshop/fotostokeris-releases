@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test35",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test35.zip",
-    "sha256": "b3b15ac00fa04384cc7bc4bdb52a80506b65eb32c0c38ae3a80b68445b26ab45",
-    "size": 10791511,
+    "version": "0.3.1-test36",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test36.zip",
+    "sha256": "287633039c6f03c826ce685220351610974b63be52993716e1560b9d25d45f3f",
+    "size": 10794611,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Portfeļa analīze vairs nav Beta — atsevišķs modulis, ieslēdzams “Analītiķa iestatījumos”. Beta paliek “Manas bildes aģentūrās” (ieslēdzams atsevišķi). Tabulā: atvērtajā sērijā tikai sīktēli (virsraksts — mākonītī) un tikai aģentūras ar šīs sērijas bildēm; sērijas rindā pārdošanas summa. Bilžu sasaiste pēc izskata stingrāka (nesaista, ja aģentūra bildi saņēmusi agrāk, nekā tā uzņemta, vai ja līdzība neviennozīmīga) — izlabota kļūdaina Envato sasaiste."
+        "Manas bildes aģentūrās: bildi ar aģentūras ierakstu sasaista tikai droši — pēc Vārdotāja koda faila nosaukumā vai, ja aģentūra faila nosaukumu nerāda, vismaz pēc divām sakritībām (pilns virsraksts, oriģinālais faila nosaukums, sīktēla nospiedums) un tikai, ja aģentūra bildi saņēmusi pēc tam, kad Vārdotājs to sagatavoja. Vecas bildes (publicētas pirms Vārdotāja) vairs netiek sajauktas ar jaunajām. Atvērtajā sērijā aģentūru nosaukumi tieši virs kolonnām, kolonnas blakus sīktēliem."
       ],
       "en": [
-        "Portfeļa analīze vairs nav Beta — atsevišķs modulis, ieslēdzams “Analītiķa iestatījumos”. Beta paliek “Manas bildes aģentūrās” (ieslēdzams atsevišķi). Tabulā: atvērtajā sērijā tikai sīktēli (virsraksts — mākonītī) un tikai aģentūras ar šīs sērijas bildēm; sērijas rindā pārdošanas summa. Bilžu sasaiste pēc izskata stingrāka (nesaista, ja aģentūra bildi saņēmusi agrāk, nekā tā uzņemta, vai ja līdzība neviennozīmīga) — izlabota kļūdaina Envato sasaiste."
+        "Manas bildes aģentūrās: bildi ar aģentūras ierakstu sasaista tikai droši — pēc Vārdotāja koda faila nosaukumā vai, ja aģentūra faila nosaukumu nerāda, vismaz pēc divām sakritībām (pilns virsraksts, oriģinālais faila nosaukums, sīktēla nospiedums) un tikai, ja aģentūra bildi saņēmusi pēc tam, kad Vārdotājs to sagatavoja. Vecas bildes (publicētas pirms Vārdotāja) vairs netiek sajauktas ar jaunajām. Atvērtajā sērijā aģentūru nosaukumi tieši virs kolonnām, kolonnas blakus sīktēliem."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test36",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: bildi ar aģentūras ierakstu sasaista tikai droši — pēc Vārdotāja koda faila nosaukumā vai, ja aģentūra faila nosaukumu nerāda, vismaz pēc divām sakritībām (pilns virsraksts, oriģinālais faila nosaukums, sīktēla nospiedums) un tikai, ja aģentūra bildi saņēmusi pēc tam, kad Vārdotājs to sagatavoja. Vecas bildes (publicētas pirms Vārdotāja) vairs netiek sajauktas ar jaunajām. Atvērtajā sērijā aģentūru nosaukumi tieši virs kolonnām, kolonnas blakus sīktēliem."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: bildi ar aģentūras ierakstu sasaista tikai droši — pēc Vārdotāja koda faila nosaukumā vai, ja aģentūra faila nosaukumu nerāda, vismaz pēc divām sakritībām (pilns virsraksts, oriģinālais faila nosaukums, sīktēla nospiedums) un tikai, ja aģentūra bildi saņēmusi pēc tam, kad Vārdotājs to sagatavoja. Vecas bildes (publicētas pirms Vārdotāja) vairs netiek sajauktas ar jaunajām. Atvērtajā sērijā aģentūru nosaukumi tieši virs kolonnām, kolonnas blakus sīktēliem."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test35",
       "date": "2026-11-10",
@@ -674,22 +686,6 @@
           "Envato mēneši līdz 2022. gada augustam apzīmēti kā Twenty20 (vēlāk Envato)",
           "\"Citi ienākumi pa veidiem\" (aģentūra, veids, periods, summa) + visu maksājumu saraksts",
           "Skaidrojuma teksti vairs neiziet pāri malām"
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test50",
-      "date": "2026-10-30",
-      "notes": {
-        "lv": [
-          "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
-          "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
-          "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
-        ],
-        "en": [
-          "Izmaksas apakšā: \"Neizmaksātais\" — katrai aģentūrai pēdējā zināmā summa un mēnesis, kura beigās tā bija (šaura daļa)",
-          "Blakus — skaidrojums: Pārskata summa, Pārdošanu summa, citi maksājumi un starpība; pa aģentūrām ar konkrētām summām un mēnešiem, kur ir tikai kopsumma",
-          "Pārdošanās \"Visi ienākumi\" tagad ietver arī Envato un Ingram mēneša ienākumus pa bildēm; filtrs \"Pārdošanas / Citi maksājumi\" noņemts; \"Kāpēc?\" ved uz skaidrojumu Izmaksās"
         ]
       }
     }
