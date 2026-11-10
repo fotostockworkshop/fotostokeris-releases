@@ -1,24 +1,44 @@
 {
   "test": {
-    "version": "0.1.0-test22",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test22.zip",
-    "sha256": "ee3d8344d76dbe237e873f8e73db0021bb7d2ca5617afd712738dce9c832a4c2",
-    "size": 6240817,
+    "version": "0.1.0-test23",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test23.zip",
+    "sha256": "690e032d043b3c74eb88ca53dc53fc73e5da0478c9a2562b7fc44a9b8fc7df0e",
+    "size": 6251312,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Labots: vienas bildes vairs nerādās divreiz (NAS manifests + Vārdotāja darba mapes kopija Google kontā) — plānā nav pārmaiņus vienādu komplektu.",
-        "\"Ieplānot\" logs: sākuma diena, nedēļas, komplekti nedēļā, bildes komplektā, ED nedēļā; RF un ED jaucas.",
-        "\"Atcelt plānu\" / \"Atcelt nedēļu\"; klikšķis uz bildēm atver komplektu; pogas 👁 ✎ × redzamas vienmēr."
+        "Labots: no Google konta neņem sērijas, kas vēl ir pie Vārdotāja (nav nodotas \"Uz iesniegšanu\").",
+        "Vairāki komplekti dienā; \"Ieplānot\" logs: dienas/nedēļas, nedēļas dienas, komplekti dienā ar RF / ED / nejauši, bildes komplektā.",
+        "Labais klikšķis uz dienas (pievienot automātiski / pašam, atcelt dienu) un uz komplekta (pārvietot tikai šo uz STOCK, atvērt, pārcelt, noņemt).",
+        "Žurnālā datora nosaukums un mapes."
       ],
       "en": [
-        "Labots: vienas bildes vairs nerādās divreiz (NAS manifests + Vārdotāja darba mapes kopija Google kontā) — plānā nav pārmaiņus vienādu komplektu.",
-        "\"Ieplānot\" logs: sākuma diena, nedēļas, komplekti nedēļā, bildes komplektā, ED nedēļā; RF un ED jaucas.",
-        "\"Atcelt plānu\" / \"Atcelt nedēļu\"; klikšķis uz bildēm atver komplektu; pogas 👁 ✎ × redzamas vienmēr."
+        "Labots: no Google konta neņem sērijas, kas vēl ir pie Vārdotāja (nav nodotas \"Uz iesniegšanu\").",
+        "Vairāki komplekti dienā; \"Ieplānot\" logs: dienas/nedēļas, nedēļas dienas, komplekti dienā ar RF / ED / nejauši, bildes komplektā.",
+        "Labais klikšķis uz dienas (pievienot automātiski / pašam, atcelt dienu) un uz komplekta (pārvietot tikai šo uz STOCK, atvērt, pārcelt, noņemt).",
+        "Žurnālā datora nosaukums un mapes."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test23",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Labots: no Google konta neņem sērijas, kas vēl ir pie Vārdotāja (nav nodotas \"Uz iesniegšanu\").",
+          "Vairāki komplekti dienā; \"Ieplānot\" logs: dienas/nedēļas, nedēļas dienas, komplekti dienā ar RF / ED / nejauši, bildes komplektā.",
+          "Labais klikšķis uz dienas (pievienot automātiski / pašam, atcelt dienu) un uz komplekta (pārvietot tikai šo uz STOCK, atvērt, pārcelt, noņemt).",
+          "Žurnālā datora nosaukums un mapes."
+        ],
+        "en": [
+          "Labots: no Google konta neņem sērijas, kas vēl ir pie Vārdotāja (nav nodotas \"Uz iesniegšanu\").",
+          "Vairāki komplekti dienā; \"Ieplānot\" logs: dienas/nedēļas, nedēļas dienas, komplekti dienā ar RF / ED / nejauši, bildes komplektā.",
+          "Labais klikšķis uz dienas (pievienot automātiski / pašam, atcelt dienu) un uz komplekta (pārvietot tikai šo uz STOCK, atvērt, pārcelt, noņemt).",
+          "Žurnālā datora nosaukums un mapes."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test22",
       "date": "2026-11-10",
