@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test38",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test38.zip",
-    "sha256": "d9cffb668676a963cf6c94cfce4a9c8671949882ac603876bbb9aff9d176acd3",
-    "size": 10797857,
+    "version": "0.3.1-test39",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test39.zip",
+    "sha256": "4388089371c618656a74971da72abdb01145e16fabfc712c396b969eb30367d9",
+    "size": 10799786,
     "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: sīktēli redzami arī sērijām, kuras Vārdotājs pārdēvējis (piem. Bali-ED) — sīktēlu failu meklē pēc sērijas numura, ne nosaukuma."
+        "Ingram datu atjaunošana vairs neiestrēgst pie iesniegumu statusiem (oriģinālos faila nosaukumus lasa tikai jaunajām bildēm, ne ilgāk par 1,5 min). Depositphotos — žurnālā papildu ziņas, lai atrastu, kur atjaunošana apstājas."
       ],
       "en": [
-        "Manas bildes aģentūrās: sīktēli redzami arī sērijām, kuras Vārdotājs pārdēvējis (piem. Bali-ED) — sīktēlu failu meklē pēc sērijas numura, ne nosaukuma."
+        "Ingram datu atjaunošana vairs neiestrēgst pie iesniegumu statusiem (oriģinālos faila nosaukumus lasa tikai jaunajām bildēm, ne ilgāk par 1,5 min). Depositphotos — žurnālā papildu ziņas, lai atrastu, kur atjaunošana apstājas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test39",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Ingram datu atjaunošana vairs neiestrēgst pie iesniegumu statusiem (oriģinālos faila nosaukumus lasa tikai jaunajām bildēm, ne ilgāk par 1,5 min). Depositphotos — žurnālā papildu ziņas, lai atrastu, kur atjaunošana apstājas."
+        ],
+        "en": [
+          "Ingram datu atjaunošana vairs neiestrēgst pie iesniegumu statusiem (oriģinālos faila nosaukumus lasa tikai jaunajām bildēm, ne ilgāk par 1,5 min). Depositphotos — žurnālā papildu ziņas, lai atrastu, kur atjaunošana apstājas."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test38",
       "date": "2026-11-10",
@@ -632,32 +644,6 @@
           "Iestatījumos “Pieslēgumi”: OneDrive, Claude/ChatGPT abonements, AI API atslēgas, Ollama — sagatavots AI asistentam.",
           "Beta funkcijas (Analītiķa iestatījumi): portfeļa analīze un RF/ED šķirošana; “Neizmantot Beta funkcijas” — tikai stabilās versijas.",
           "Mac: uzstādītājs bez Terminal (“Analītiķis — uzstādīt”), lietotne darbojas tieši uz Apple procesora."
-        ]
-      }
-    },
-    {
-      "version": "0.3.0-test53",
-      "date": "2026-10-31",
-      "notes": {
-        "lv": [
-          "Labots: portfeļa nolasīšana (test52 kļūda) — atkal darbojas visām aģentūrām",
-          "Iestatījumos atsevišķa sadaļa \"Analītiķa iestatījumi\" ar Beta funkcijām",
-          "Izmaksu atgādinājums programmā: mēneša pēdējā dienā / tiklīdz sasniegts minimums / no izvēlētā datuma",
-          "Prognozē Envato arī tad, ja mēnesis vēl rēķinās",
-          "Bildes kartītē lielākais pieejamais attēls (Dreamstime, Shutterstock, Zoonar)",
-          "Kolekciju sarakstu konteksta izvēlnē var ritināt; turot peli virs bildes, kolekcijas zaļā krāsā",
-          "Izmaksu josla augšā — izvēlētajā valodā",
-          "Mac uzstādītājs: redzams logs uzstādīšanas laikā un beigās poga \"Atvērt Analītiķi\""
-        ],
-        "en": [
-          "Labots: portfeļa nolasīšana (test52 kļūda) — atkal darbojas visām aģentūrām",
-          "Iestatījumos atsevišķa sadaļa \"Analītiķa iestatījumi\" ar Beta funkcijām",
-          "Izmaksu atgādinājums programmā: mēneša pēdējā dienā / tiklīdz sasniegts minimums / no izvēlētā datuma",
-          "Prognozē Envato arī tad, ja mēnesis vēl rēķinās",
-          "Bildes kartītē lielākais pieejamais attēls (Dreamstime, Shutterstock, Zoonar)",
-          "Kolekciju sarakstu konteksta izvēlnē var ritināt; turot peli virs bildes, kolekcijas zaļā krāsā",
-          "Izmaksu josla augšā — izvēlētajā valodā",
-          "Mac uzstādītājs: redzams logs uzstādīšanas laikā un beigās poga \"Atvērt Analītiķi\""
         ]
       }
     }
