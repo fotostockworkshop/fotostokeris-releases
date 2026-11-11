@@ -1,20 +1,44 @@
 {
   "test": {
-    "version": "0.9.0-test17",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test17.zip",
-    "sha256": "c20a6f5960521a437cbc46ab407e073dfd0cfaf3ce62a3a93447d19b069895d8",
-    "size": 9970211,
-    "date": "2026-11-10",
+    "version": "0.9.0-test18",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test18.zip",
+    "sha256": "f4d2a9defa8eaab6b08d623803802c8f2a00979edf5b2c247d241e695281b2bf",
+    "size": 9979492,
+    "date": "2026-11-11",
     "notes": {
       "lv": [
-        "ED bilžu labojums uz NAS: pārskata pašu mapi — arī no Mac nosūtītās sērijas un sērijas bez manifesta"
+        "Vienkāršota manifestu kārtība: “Uz iesniegšanu” katru reizi izveido jaunus sūtījumus — katram veidam (RF / ED / EDI) sava mape `<gads>/<datums>-<veids>-<kods>/`, bez RF/ED apakšmapēm",
+        "Nosūta tikai aprakstītās bildes ar zināmu veidu (logā — cik paliek); tukšu darba mapi dzēš pati vai pajautā",
+        "Manifests un sīktēli — sūtījuma mapē un Google Drive `Fotostokeris/Sutijumi`; poga “Manifests”, “dzīvais” manifests, šķirošanas ķeksis un “Manifestu mape” noņemti; NAS `Manifesti` vairs neveidojas",
+        "Vienreizēja pāreja: NAS sūtījumu manifesti → Google `Sutijumi`; darba mapju manifesti izdzēsti (arī NAS un Google `Manifesti`); NAS `Manifesti` mape izdzēsta"
       ],
       "en": [
-        "ED bilžu labojums uz NAS: pārskata pašu mapi — arī no Mac nosūtītās sērijas un sērijas bez manifesta"
+        "Vienkāršota manifestu kārtība: “Uz iesniegšanu” katru reizi izveido jaunus sūtījumus — katram veidam (RF / ED / EDI) sava mape `<gads>/<datums>-<veids>-<kods>/`, bez RF/ED apakšmapēm",
+        "Nosūta tikai aprakstītās bildes ar zināmu veidu (logā — cik paliek); tukšu darba mapi dzēš pati vai pajautā",
+        "Manifests un sīktēli — sūtījuma mapē un Google Drive `Fotostokeris/Sutijumi`; poga “Manifests”, “dzīvais” manifests, šķirošanas ķeksis un “Manifestu mape” noņemti; NAS `Manifesti` vairs neveidojas",
+        "Vienreizēja pāreja: NAS sūtījumu manifesti → Google `Sutijumi`; darba mapju manifesti izdzēsti (arī NAS un Google `Manifesti`); NAS `Manifesti` mape izdzēsta"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test18",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Vienkāršota manifestu kārtība: “Uz iesniegšanu” katru reizi izveido jaunus sūtījumus — katram veidam (RF / ED / EDI) sava mape `<gads>/<datums>-<veids>-<kods>/`, bez RF/ED apakšmapēm",
+          "Nosūta tikai aprakstītās bildes ar zināmu veidu (logā — cik paliek); tukšu darba mapi dzēš pati vai pajautā",
+          "Manifests un sīktēli — sūtījuma mapē un Google Drive `Fotostokeris/Sutijumi`; poga “Manifests”, “dzīvais” manifests, šķirošanas ķeksis un “Manifestu mape” noņemti; NAS `Manifesti` vairs neveidojas",
+          "Vienreizēja pāreja: NAS sūtījumu manifesti → Google `Sutijumi`; darba mapju manifesti izdzēsti (arī NAS un Google `Manifesti`); NAS `Manifesti` mape izdzēsta"
+        ],
+        "en": [
+          "Vienkāršota manifestu kārtība: “Uz iesniegšanu” katru reizi izveido jaunus sūtījumus — katram veidam (RF / ED / EDI) sava mape `<gads>/<datums>-<veids>-<kods>/`, bez RF/ED apakšmapēm",
+          "Nosūta tikai aprakstītās bildes ar zināmu veidu (logā — cik paliek); tukšu darba mapi dzēš pati vai pajautā",
+          "Manifests un sīktēli — sūtījuma mapē un Google Drive `Fotostokeris/Sutijumi`; poga “Manifests”, “dzīvais” manifests, šķirošanas ķeksis un “Manifestu mape” noņemti; NAS `Manifesti` vairs neveidojas",
+          "Vienreizēja pāreja: NAS sūtījumu manifesti → Google `Sutijumi`; darba mapju manifesti izdzēsti (arī NAS un Google `Manifesti`); NAS `Manifesti` mape izdzēsta"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test17",
       "date": "2026-11-10",
