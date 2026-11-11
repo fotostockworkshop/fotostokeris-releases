@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test44",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test44.zip",
-    "sha256": "8d090f2edfdb5a782545af538eb52ca8fcc6860f71cc38a909c4c648784348a4",
-    "size": 10811298,
+    "version": "0.3.1-test45",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test45.zip",
+    "sha256": "92f25f5151d745bf6097d35265a7243a32d05d6c692bd5ba41fd65220279ac85",
+    "size": 10812932,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
+        "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
       ],
       "en": [
-        "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
+        "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test45",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test44",
       "date": "2026-11-11",
@@ -538,22 +550,6 @@
           "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
           "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
           "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test5",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
-          "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
-          "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
-        ],
-        "en": [
-          "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
-          "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
-          "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
         ]
       }
     }
