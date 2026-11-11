@@ -1,30 +1,40 @@
 {
   "test": {
-    "version": "0.1.0-test24",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test24.zip",
-    "sha256": "6150628fc62df5f509e32e9a4d5a226ee618659ec3e3d06c6f437b968869993e",
-    "size": 6301024,
+    "version": "0.1.0-test25",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test25.zip",
+    "sha256": "36ee150601739b94225ce52c3f0d4456ef50fbfe92ff01853484ae5048a1a3d6",
+    "size": 6306851,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Ceļš līdz iesniegšanai kalendārā: melnraksts → vēl NAS (dzeltens, kad uz OneDrive) → gatavs OneDrive (FTP ap …) → iesniegts; ja diena pienākusi, bet vēl NAS — sarkans.",
-        "Apstiprinātos komplektus dežūras dators pats pārvieto uz OneDrive iepriekšējā vakarā 19:00 un naktī (20:00–9:00) nosūta ar FTP nejaušā laikā; no rīta kopsavilkums Plānā.",
-        "Dežūras dators (iestatījumi → Automātiskā iesniegšana): darba datorā ieslēdz \"Šis dators ir dežūrā\" un \"Palaist kopā ar datoru\"; Mac/mājās tikmēr plāno un iesniedz caur portālu.",
-        "\"Uzreiz uz OneDrive\" saglabājot; labais klikšķis: Uz OneDrive tagad, Iesniegt tagad, Neiesniegt automātiski, Atcelt komplektu (var atpakaļ uz NAS).",
-        "Komplektu saraksts: filtri, grupas pa dienām, krāsaina svītra, ⋯ izvēlne; ailē Kur — ikona; labais klikšķis uz punktiņa — augšupielādēts / daļēji / iesniegts.",
-        "\"⚠ RF ar ED aprakstu\" — šādas bildes RF komplektos automātiski neliek; pārslēdzēji ķeksīšu vietā."
+        "Automātiskās FTP sūtīšanas gaita apakšējā joslā (arī pauzē un Mac / mājas datorā).",
+        "Komplektam uzraksts \"Nosūtīts uz 11 no 13 aģentūrām\" / \"Iesniegts 11 no 13 aģentūrām\" / \"Iesniegts visur\".",
+        "Automātikas iestatījumi saglabājas uzreiz; laiks 24 h formātā; viena josla, ja savienojums pārtrūkst."
       ],
       "en": [
-        "Ceļš līdz iesniegšanai kalendārā: melnraksts → vēl NAS (dzeltens, kad uz OneDrive) → gatavs OneDrive (FTP ap …) → iesniegts; ja diena pienākusi, bet vēl NAS — sarkans.",
-        "Apstiprinātos komplektus dežūras dators pats pārvieto uz OneDrive iepriekšējā vakarā 19:00 un naktī (20:00–9:00) nosūta ar FTP nejaušā laikā; no rīta kopsavilkums Plānā.",
-        "Dežūras dators (iestatījumi → Automātiskā iesniegšana): darba datorā ieslēdz \"Šis dators ir dežūrā\" un \"Palaist kopā ar datoru\"; Mac/mājās tikmēr plāno un iesniedz caur portālu.",
-        "\"Uzreiz uz OneDrive\" saglabājot; labais klikšķis: Uz OneDrive tagad, Iesniegt tagad, Neiesniegt automātiski, Atcelt komplektu (var atpakaļ uz NAS).",
-        "Komplektu saraksts: filtri, grupas pa dienām, krāsaina svītra, ⋯ izvēlne; ailē Kur — ikona; labais klikšķis uz punktiņa — augšupielādēts / daļēji / iesniegts.",
-        "\"⚠ RF ar ED aprakstu\" — šādas bildes RF komplektos automātiski neliek; pārslēdzēji ķeksīšu vietā."
+        "Automātiskās FTP sūtīšanas gaita apakšējā joslā (arī pauzē un Mac / mājas datorā).",
+        "Komplektam uzraksts \"Nosūtīts uz 11 no 13 aģentūrām\" / \"Iesniegts 11 no 13 aģentūrām\" / \"Iesniegts visur\".",
+        "Automātikas iestatījumi saglabājas uzreiz; laiks 24 h formātā; viena josla, ja savienojums pārtrūkst."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test25",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Automātiskās FTP sūtīšanas gaita apakšējā joslā (arī pauzē un Mac / mājas datorā).",
+          "Komplektam uzraksts \"Nosūtīts uz 11 no 13 aģentūrām\" / \"Iesniegts 11 no 13 aģentūrām\" / \"Iesniegts visur\".",
+          "Automātikas iestatījumi saglabājas uzreiz; laiks 24 h formātā; viena josla, ja savienojums pārtrūkst."
+        ],
+        "en": [
+          "Automātiskās FTP sūtīšanas gaita apakšējā joslā (arī pauzē un Mac / mājas datorā).",
+          "Komplektam uzraksts \"Nosūtīts uz 11 no 13 aģentūrām\" / \"Iesniegts 11 no 13 aģentūrām\" / \"Iesniegts visur\".",
+          "Automātikas iestatījumi saglabājas uzreiz; laiks 24 h formātā; viena josla, ja savienojums pārtrūkst."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test24",
       "date": "2026-11-11",
