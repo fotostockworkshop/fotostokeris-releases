@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test42",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test42.zip",
-    "sha256": "8e81f2f0d212fcff2df79a5aa0f0e38b01e59d90a399997acd10d79e1f5cb9c1",
-    "size": 10808815,
+    "version": "0.3.1-test43",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test43.zip",
+    "sha256": "bccdc6fee77c167e00d9241f20760a2eff3f02b04af4b02553039f38789d2a35",
+    "size": 10810387,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
+        "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
       ],
       "en": [
-        "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
+        "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test43",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test42",
       "date": "2026-11-11",
@@ -556,28 +568,6 @@
           "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
           "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
           "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test3",
-      "date": "2026-11-01",
-      "notes": {
-        "lv": [
-          "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
-          "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
-          "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
-          "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
-          "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
-          "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
-        ],
-        "en": [
-          "Pārskata kartītē \"Šis mēnesis\" vairs nav prognozes — tur tikai statistika.",
-          "\"↓ N\" visur ar paskaidrojumu (uzbraucot ar peli): tās ir lejupielādes; Envato skaitu nedod.",
-          "Prognoze: robeža ir iStock izmaksas diena (~25.); pēc tās iStock izmaksu uzskata par notikušu un rāda nākamo mēnesi.",
-          "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
-          "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
-          "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
         ]
       }
     }
