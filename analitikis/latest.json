@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test45",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test45.zip",
-    "sha256": "92f25f5151d745bf6097d35265a7243a32d05d6c692bd5ba41fd65220279ac85",
-    "size": 10812932,
+    "version": "0.3.1-test46",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test46.zip",
+    "sha256": "950be46fb5bd885aa5e5deabc4ca00a4586d0e052cca6c9b573537d7b45654b9",
+    "size": 10814371,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
+        "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
       ],
       "en": [
-        "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
+        "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test46",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
+        ],
+        "en": [
+          "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test45",
       "date": "2026-11-11",
@@ -534,22 +546,6 @@
           "Google sinhronizācija pārnes arī portfeļa lielumu (oktobris un iStock novembris parādīsies abos datoros).",
           "Josla “Jaunas kopš iepriekšējās atjaunošanas” vairs nerāda +$0.00.",
           "Programma atveras pa visu ekrānu; datora nosaukumā vairs nav “.local”; pēc atjaunināšanas vairs nav kļūdas “Error 501”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test6",
-      "date": "2026-11-04",
-      "notes": {
-        "lv": [
-          "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
-          "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
-          "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
-        ],
-        "en": [
-          "Envato Elements: gaidāmā izmaksa (piem. par septembri, izmaksa 15. novembrī) tagad aug kopā ar Envato lapas \"Elements earnings <mēnesis>\" summu līdz mēneša pēdējai dienai — programma katru reizi pārlasa visas dienas no aizpagājušā mēneša 1. datuma (agrāk summa iestrēga, piem. $77.13 lapas $185.55 vietā).",
-          "Envato izmaksu vēsture: programma aizver sīkdatņu paziņojumu, izvēlas \"All Payments\" un gaida ilgāk; ja neizdodas — žurnālā lapas teksts izpētei.",
-          "Google pieslēguma fails izlaidumā ar jaunu nosaukumu (atjaunināšana to var pārrakstīt)."
         ]
       }
     }
