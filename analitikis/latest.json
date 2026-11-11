@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test47",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test47.zip",
-    "sha256": "f77b8894e3bb4efb4daf513cf356f741d15d9a80601eba016ffba2949a4bb2d6",
-    "size": 10816000,
+    "version": "0.3.1-test48",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test48.zip",
+    "sha256": "88ed5fba606d49ceaaaf30e0f604d550ee211592ee83f48f7088f45d9eedd108",
+    "size": 10817475,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
+        "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
       ],
       "en": [
-        "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
+        "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test48",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test47",
       "date": "2026-11-11",
@@ -506,28 +518,6 @@
         "en": [
           "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
           "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test8",
-      "date": "2026-11-06",
-      "notes": {
-        "lv": [
-          "Iesniegumu statusi: Analītiķis (ik ~12 h) nolasa, kuras bildes gaida pārbaudi, ir pieņemtas vai noraidītas (ar iemeslu) — Adobe, Shutterstock, iStock, Depositphotos, Alamy (arī atrodamība), Pond5, Magnific, Ingram, Zoonar, Pixta, Dreamstime, Envato; sasaiste ar Vārdotāju pēc faila nosaukuma.",
-          "Izmaksas: aptuvenā saņemšanas diena (“~”) atbilst PayPal — Adobe +9, Shutterstock +7, iStock −2 (brīvdienā — iepriekšējā darba diena), Alamy +8, Magnific +9; dienu skaitu var mainīt Iestatījumi → Izmaksas.",
-          "Pieprasītu izmaksu Adobe, Depositphotos un Pixta Analītiķis redz pats (“Pending” = ceļā) — ķeksis “Izmaksu jau pieprasīju” tām vairs nav; pieprasīta izmaksa vairs nepaliek “pieprasīta” mūžīgi.",
-          "Labots: Adobe izmaksu vēsture no visām lapām; Pond5 pēdējā izmaksa (abonementa ienākumi vairs neskaitās izmaksa); Alamy pilnā vēsture (ja “All” tukšs — pa gadiem).",
-          "Palaišanas kārtība: vispirms Google sinhronizācija (ņem jaunākos datus no otra datora), tad pārbauda, vai otrs dators nav lietošanā, un tikai tad atjauno aģentūras.",
-          "Abos datoros vienādi dati: Google sinhronizācija pārnes visu datubāzi no datora, kas aģentūras atjaunoja vēlāk."
-        ],
-        "en": [
-          "Iesniegumu statusi: Analītiķis (ik ~12 h) nolasa, kuras bildes gaida pārbaudi, ir pieņemtas vai noraidītas (ar iemeslu) — Adobe, Shutterstock, iStock, Depositphotos, Alamy (arī atrodamība), Pond5, Magnific, Ingram, Zoonar, Pixta, Dreamstime, Envato; sasaiste ar Vārdotāju pēc faila nosaukuma.",
-          "Izmaksas: aptuvenā saņemšanas diena (“~”) atbilst PayPal — Adobe +9, Shutterstock +7, iStock −2 (brīvdienā — iepriekšējā darba diena), Alamy +8, Magnific +9; dienu skaitu var mainīt Iestatījumi → Izmaksas.",
-          "Pieprasītu izmaksu Adobe, Depositphotos un Pixta Analītiķis redz pats (“Pending” = ceļā) — ķeksis “Izmaksu jau pieprasīju” tām vairs nav; pieprasīta izmaksa vairs nepaliek “pieprasīta” mūžīgi.",
-          "Labots: Adobe izmaksu vēsture no visām lapām; Pond5 pēdējā izmaksa (abonementa ienākumi vairs neskaitās izmaksa); Alamy pilnā vēsture (ja “All” tukšs — pa gadiem).",
-          "Palaišanas kārtība: vispirms Google sinhronizācija (ņem jaunākos datus no otra datora), tad pārbauda, vai otrs dators nav lietošanā, un tikai tad atjauno aģentūras.",
-          "Abos datoros vienādi dati: Google sinhronizācija pārnes visu datubāzi no datora, kas aģentūras atjaunoja vēlāk."
         ]
       }
     }
