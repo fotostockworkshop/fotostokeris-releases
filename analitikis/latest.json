@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test43",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test43.zip",
-    "sha256": "bccdc6fee77c167e00d9241f20760a2eff3f02b04af4b02553039f38789d2a35",
-    "size": 10810387,
+    "version": "0.3.1-test44",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test44.zip",
+    "sha256": "8d090f2edfdb5a782545af538eb52ca8fcc6860f71cc38a909c4c648784348a4",
+    "size": 10811298,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
+        "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
       ],
       "en": [
-        "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
+        "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test44",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
+        ],
+        "en": [
+          "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test43",
       "date": "2026-11-11",
@@ -542,32 +554,6 @@
           "Iestatījumi → Pieslēgumi → Google konts: **\"Sinhronizēt ar citiem datoriem\"** — iestatījumi, kolekcijas, bilžu apvienošana, RF/ED atzīmes un imports caur Google Drive. Ieslēdz katrā datorā.",
           "Aģentūru datus katrs dators ielādē pats; jauns dators sāk no pilnas datubāzes kopijas (poga \"Pilnā kopija uz Drive\").",
           "Ja Analītiķis nesen lietots citā datorā — brīdinājums."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test4",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
-          "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
-          "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
-          "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
-          "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
-          "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
-          "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
-          "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
-        ],
-        "en": [
-          "Izmaksas → \"No kā sastāv Pārskata summa\": jaunākie citi ienākumi (piem. Depositphotos RSM) augšā un redzami uzreiz, garais skaidrojums apakšā.",
-          "Izmaksas: pieprasījumam redzams \"pieprasīts starp … un …\"; Magnific — izmaksu vēsturē tikai apmaksātie rēķini, rēķins zem €50 pelēks un bez joslas, prognozē rēķina summa jau pēc nodokļa.",
-          "Iestatījumi → Pieslēgumi: **Google konts**; rezerves kopijas arī uz Google Drive (ķeksis \"Kopēt arī uz Google Drive\", saraksts \"Google Drive kopijas\" ar \"Atjaunot\").",
-          "Tēma \"Meža zaļais\" (statusa joslā apakšā un iestatījumos).",
-          "Zoonar: ielogošanās forma atveras arī vāciskajā lapā (\"Anmelden\").",
-          "Aģentūru tabulā vairs nav ailes \"Uz bildi\".",
-          "Windows: programma neizslēdzas, kamēr dators guļ; \"Atvērt datu mapi\" un mapes izvēles logs — priekšā; kamēr mapes logs atvērts, mapes pogas atspējotas; jaunā ikona uzdevumjoslā (vecās ikonas kešs tiek notīrīts); katram modulim sava poga uzdevumjoslā; pēc atjaunināšanas nepaliek melns logs.",
-          "Labojumu vēsture 0.3.1 visās 5 valodās; LASI_MANI un rokasgrāmatā — Google konts un Claude/ChatGPT abonementa pieslēgšana."
         ]
       }
     }
