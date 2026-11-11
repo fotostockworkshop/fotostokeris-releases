@@ -1,26 +1,52 @@
 {
   "test": {
-    "version": "0.1.0-test23",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test23.zip",
-    "sha256": "690e032d043b3c74eb88ca53dc53fc73e5da0478c9a2562b7fc44a9b8fc7df0e",
-    "size": 6251312,
-    "date": "2026-11-10",
+    "version": "0.1.0-test24",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test24.zip",
+    "sha256": "6150628fc62df5f509e32e9a4d5a226ee618659ec3e3d06c6f437b968869993e",
+    "size": 6301024,
+    "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Labots: no Google konta neņem sērijas, kas vēl ir pie Vārdotāja (nav nodotas \"Uz iesniegšanu\").",
-        "Vairāki komplekti dienā; \"Ieplānot\" logs: dienas/nedēļas, nedēļas dienas, komplekti dienā ar RF / ED / nejauši, bildes komplektā.",
-        "Labais klikšķis uz dienas (pievienot automātiski / pašam, atcelt dienu) un uz komplekta (pārvietot tikai šo uz STOCK, atvērt, pārcelt, noņemt).",
-        "Žurnālā datora nosaukums un mapes."
+        "Ceļš līdz iesniegšanai kalendārā: melnraksts → vēl NAS (dzeltens, kad uz OneDrive) → gatavs OneDrive (FTP ap …) → iesniegts; ja diena pienākusi, bet vēl NAS — sarkans.",
+        "Apstiprinātos komplektus dežūras dators pats pārvieto uz OneDrive iepriekšējā vakarā 19:00 un naktī (20:00–9:00) nosūta ar FTP nejaušā laikā; no rīta kopsavilkums Plānā.",
+        "Dežūras dators (iestatījumi → Automātiskā iesniegšana): darba datorā ieslēdz \"Šis dators ir dežūrā\" un \"Palaist kopā ar datoru\"; Mac/mājās tikmēr plāno un iesniedz caur portālu.",
+        "\"Uzreiz uz OneDrive\" saglabājot; labais klikšķis: Uz OneDrive tagad, Iesniegt tagad, Neiesniegt automātiski, Atcelt komplektu (var atpakaļ uz NAS).",
+        "Komplektu saraksts: filtri, grupas pa dienām, krāsaina svītra, ⋯ izvēlne; ailē Kur — ikona; labais klikšķis uz punktiņa — augšupielādēts / daļēji / iesniegts.",
+        "\"⚠ RF ar ED aprakstu\" — šādas bildes RF komplektos automātiski neliek; pārslēdzēji ķeksīšu vietā."
       ],
       "en": [
-        "Labots: no Google konta neņem sērijas, kas vēl ir pie Vārdotāja (nav nodotas \"Uz iesniegšanu\").",
-        "Vairāki komplekti dienā; \"Ieplānot\" logs: dienas/nedēļas, nedēļas dienas, komplekti dienā ar RF / ED / nejauši, bildes komplektā.",
-        "Labais klikšķis uz dienas (pievienot automātiski / pašam, atcelt dienu) un uz komplekta (pārvietot tikai šo uz STOCK, atvērt, pārcelt, noņemt).",
-        "Žurnālā datora nosaukums un mapes."
+        "Ceļš līdz iesniegšanai kalendārā: melnraksts → vēl NAS (dzeltens, kad uz OneDrive) → gatavs OneDrive (FTP ap …) → iesniegts; ja diena pienākusi, bet vēl NAS — sarkans.",
+        "Apstiprinātos komplektus dežūras dators pats pārvieto uz OneDrive iepriekšējā vakarā 19:00 un naktī (20:00–9:00) nosūta ar FTP nejaušā laikā; no rīta kopsavilkums Plānā.",
+        "Dežūras dators (iestatījumi → Automātiskā iesniegšana): darba datorā ieslēdz \"Šis dators ir dežūrā\" un \"Palaist kopā ar datoru\"; Mac/mājās tikmēr plāno un iesniedz caur portālu.",
+        "\"Uzreiz uz OneDrive\" saglabājot; labais klikšķis: Uz OneDrive tagad, Iesniegt tagad, Neiesniegt automātiski, Atcelt komplektu (var atpakaļ uz NAS).",
+        "Komplektu saraksts: filtri, grupas pa dienām, krāsaina svītra, ⋯ izvēlne; ailē Kur — ikona; labais klikšķis uz punktiņa — augšupielādēts / daļēji / iesniegts.",
+        "\"⚠ RF ar ED aprakstu\" — šādas bildes RF komplektos automātiski neliek; pārslēdzēji ķeksīšu vietā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test24",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Ceļš līdz iesniegšanai kalendārā: melnraksts → vēl NAS (dzeltens, kad uz OneDrive) → gatavs OneDrive (FTP ap …) → iesniegts; ja diena pienākusi, bet vēl NAS — sarkans.",
+          "Apstiprinātos komplektus dežūras dators pats pārvieto uz OneDrive iepriekšējā vakarā 19:00 un naktī (20:00–9:00) nosūta ar FTP nejaušā laikā; no rīta kopsavilkums Plānā.",
+          "Dežūras dators (iestatījumi → Automātiskā iesniegšana): darba datorā ieslēdz \"Šis dators ir dežūrā\" un \"Palaist kopā ar datoru\"; Mac/mājās tikmēr plāno un iesniedz caur portālu.",
+          "\"Uzreiz uz OneDrive\" saglabājot; labais klikšķis: Uz OneDrive tagad, Iesniegt tagad, Neiesniegt automātiski, Atcelt komplektu (var atpakaļ uz NAS).",
+          "Komplektu saraksts: filtri, grupas pa dienām, krāsaina svītra, ⋯ izvēlne; ailē Kur — ikona; labais klikšķis uz punktiņa — augšupielādēts / daļēji / iesniegts.",
+          "\"⚠ RF ar ED aprakstu\" — šādas bildes RF komplektos automātiski neliek; pārslēdzēji ķeksīšu vietā."
+        ],
+        "en": [
+          "Ceļš līdz iesniegšanai kalendārā: melnraksts → vēl NAS (dzeltens, kad uz OneDrive) → gatavs OneDrive (FTP ap …) → iesniegts; ja diena pienākusi, bet vēl NAS — sarkans.",
+          "Apstiprinātos komplektus dežūras dators pats pārvieto uz OneDrive iepriekšējā vakarā 19:00 un naktī (20:00–9:00) nosūta ar FTP nejaušā laikā; no rīta kopsavilkums Plānā.",
+          "Dežūras dators (iestatījumi → Automātiskā iesniegšana): darba datorā ieslēdz \"Šis dators ir dežūrā\" un \"Palaist kopā ar datoru\"; Mac/mājās tikmēr plāno un iesniedz caur portālu.",
+          "\"Uzreiz uz OneDrive\" saglabājot; labais klikšķis: Uz OneDrive tagad, Iesniegt tagad, Neiesniegt automātiski, Atcelt komplektu (var atpakaļ uz NAS).",
+          "Komplektu saraksts: filtri, grupas pa dienām, krāsaina svītra, ⋯ izvēlne; ailē Kur — ikona; labais klikšķis uz punktiņa — augšupielādēts / daļēji / iesniegts.",
+          "\"⚠ RF ar ED aprakstu\" — šādas bildes RF komplektos automātiski neliek; pārslēdzēji ķeksīšu vietā."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test23",
       "date": "2026-11-10",
