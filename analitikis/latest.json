@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test41",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test41.zip",
-    "sha256": "3e1f0d0a0bab25ded488b64325b956ad89ff5285b279b998334c5911fc330af5",
-    "size": 10802088,
-    "date": "2026-11-10",
+    "version": "0.3.1-test42",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test42.zip",
+    "sha256": "8e81f2f0d212fcff2df79a5aa0f0e38b01e59d90a399997acd10d79e1f5cb9c1",
+    "size": 10808815,
+    "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Depositphotos un Ingram atjaunošana ātrāka: gaidošo bilžu faila nosaukumu meklēšana apstājas, ja pirmajās 5 bildēs nekas netiek atrasts (agrāk — līdz 3,5 min velti)."
+        "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
       ],
       "en": [
-        "Depositphotos un Ingram atjaunošana ātrāka: gaidošo bilžu faila nosaukumu meklēšana apstājas, ja pirmajās 5 bildēs nekas netiek atrasts (agrāk — līdz 3,5 min velti)."
+        "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test42",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
+        ],
+        "en": [
+          "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test41",
       "date": "2026-11-10",
@@ -566,30 +578,6 @@
           "Envato Elements: \"Neizmaksāts\" un \"Pieejams\" = gaidāmā izmaksa (par mēnesi pirms diviem mēnešiem, izmaksa 15.), minimums $50.",
           "Envato Market — atsevišķa rinda ar minimumu $50; atlikums no Envato profila \"Balances\"; Envato izmaksu vēsture no \"payout_method\".",
           "Ja aģentūras lapā ir cilvēka pārbaude (piem. Dreamstime \"Press & Hold\"), logs parādās uzreiz un augšā raksta \"… gaida tevi (pārbaude logā)\"."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test2",
-      "date": "2026-11-01",
-      "notes": {
-        "lv": [
-          "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
-          "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
-          "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
-          "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
-          "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
-          "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
-          "Labojumu vēsture visās 5 valodās."
-        ],
-        "en": [
-          "Atjaunošana visām aģentūrām (arī ar pogu \"Atjaunot\") ielādē tikai datus kopš iepriekšējās reizes −1 diena; Envato vairs neielādē vecos gadus (Elements un Market vienumi tikai jaunākie mēneši), Zoonar — tikai jaunās lapas.",
-          "Ja aģentūras logs gaida tevi (piem. Dreamstime pārbaude aiz cita loga), augšā raksta \"… gaida tevi\", nevis \"Sāku…\".",
-          "Izmaksas: jauna kolonna iestatījumos \"Ieturētais nodoklis\" katrai aģentūrai (paskaidrojums, uzbraucot uz ⓘ); secība Aģentūra · Nodoklis · Izmaksa · Minimums. Magnific 24% tagad tur.",
-          "Valūtas izvēle pārcelta uz Analītiķa iestatījumiem.",
-          "Magnific skaidrojums zem rindas visā platumā (vairs neiziet pāri malām) un gaidāmā rēķina mēnesis.",
-          "Prognoze: līdz pēdējai ierastajai izmaksas dienai (ap 25.) rāda šo mēnesi — kas vēl gaidāms, bez jau saņemtā; pēc tam nākamo mēnesi.",
-          "Labojumu vēsture visās 5 valodās."
         ]
       }
     }
