@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test30",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test30.zip",
-    "sha256": "2b02fa7c4397be55406811880350ee03d5b72ff7f3c8ee7f70c5a75823c0b452",
-    "size": 6319608,
-    "date": "2026-11-11",
+    "version": "0.1.0-test31",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test31.zip",
+    "sha256": "45f5bd2f219a95fc0c737dd6b59b0fe1728b0428cc6bbba70acb4caab9f7ced5",
+    "size": 6320480,
+    "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Komplektus OneDrive mapē Tirgotājs atrod jebkurā dziļumā — tie nonāk Google kontā un sarakstā."
+        "Jaunā manifestu kārtība: sūtījumi no Google “Sutijumi”, komplekti uz Google “Komplekti”; Vārdotāja manifestus Tirgotājs vairs nemaina."
       ],
       "en": [
-        "Komplektus OneDrive mapē Tirgotājs atrod jebkurā dziļumā — tie nonāk Google kontā un sarakstā."
+        "Jaunā manifestu kārtība: sūtījumi no Google “Sutijumi”, komplekti uz Google “Komplekti”; Vārdotāja manifestus Tirgotājs vairs nemaina."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test31",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Jaunā manifestu kārtība: sūtījumi no Google “Sutijumi”, komplekti uz Google “Komplekti”; Vārdotāja manifestus Tirgotājs vairs nemaina."
+        ],
+        "en": [
+          "Jaunā manifestu kārtība: sūtījumi no Google “Sutijumi”, komplekti uz Google “Komplekti”; Vārdotāja manifestus Tirgotājs vairs nemaina."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test30",
       "date": "2026-11-11",
