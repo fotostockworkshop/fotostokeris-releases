@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test27",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test27.zip",
-    "sha256": "16969af6007f882427ed711c5d76f223d54fa13a2333a4496e15807cc3858dc9",
-    "size": 6310651,
+    "version": "0.1.0-test28",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test28.zip",
+    "sha256": "9b3b5acdb4ef0b937d7d1b5d3fb1c3bf8fd52c7c5fe68ef6f86f1fe03042c09a",
+    "size": 6317763,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Pazuduši komplekti (mape OneDrive ir, sarakstā nav) atjaunojas paši un nonāk Google kontā."
+        "Jauna poga “Izdzēst no NAS” Krājumā: bildes uz mapi _Izdzestas (30 dienas), pazūd no manifesta, sīktēliem un Google.",
+        "Krājumā vairs nerādās Vārdotāja darba mapju bildes (no kopējās mapes “Manifesti”)."
       ],
       "en": [
-        "Pazuduši komplekti (mape OneDrive ir, sarakstā nav) atjaunojas paši un nonāk Google kontā."
+        "Jauna poga “Izdzēst no NAS” Krājumā: bildes uz mapi _Izdzestas (30 dienas), pazūd no manifesta, sīktēliem un Google.",
+        "Krājumā vairs nerādās Vārdotāja darba mapju bildes (no kopējās mapes “Manifesti”)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test28",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Jauna poga “Izdzēst no NAS” Krājumā: bildes uz mapi _Izdzestas (30 dienas), pazūd no manifesta, sīktēliem un Google.",
+          "Krājumā vairs nerādās Vārdotāja darba mapju bildes (no kopējās mapes “Manifesti”)."
+        ],
+        "en": [
+          "Jauna poga “Izdzēst no NAS” Krājumā: bildes uz mapi _Izdzestas (30 dienas), pazūd no manifesta, sīktēliem un Google.",
+          "Krājumā vairs nerādās Vārdotāja darba mapju bildes (no kopējās mapes “Manifesti”)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test27",
       "date": "2026-11-11",
