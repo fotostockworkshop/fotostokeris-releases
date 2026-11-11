@@ -1,24 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test25",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test25.zip",
-    "sha256": "36ee150601739b94225ce52c3f0d4456ef50fbfe92ff01853484ae5048a1a3d6",
-    "size": 6306851,
+    "version": "0.1.0-test26",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test26.zip",
+    "sha256": "e067fd21c53e6a7b896284011a9f490b3bd27ee2c7c18901dca0f5a846cccf7d",
+    "size": 6308306,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Automātiskās FTP sūtīšanas gaita apakšējā joslā (arī pauzē un Mac / mājas datorā).",
-        "Komplektam uzraksts \"Nosūtīts uz 11 no 13 aģentūrām\" / \"Iesniegts 11 no 13 aģentūrām\" / \"Iesniegts visur\".",
-        "Automātikas iestatījumi saglabājas uzreiz; laiks 24 h formātā; viena josla, ja savienojums pārtrūkst."
+        "Vecie komplekti (manifesti un sīktēli) vienreiz augšupielādēti Google kontā — Analītiķim."
       ],
       "en": [
-        "Automātiskās FTP sūtīšanas gaita apakšējā joslā (arī pauzē un Mac / mājas datorā).",
-        "Komplektam uzraksts \"Nosūtīts uz 11 no 13 aģentūrām\" / \"Iesniegts 11 no 13 aģentūrām\" / \"Iesniegts visur\".",
-        "Automātikas iestatījumi saglabājas uzreiz; laiks 24 h formātā; viena josla, ja savienojums pārtrūkst."
+        "Vecie komplekti (manifesti un sīktēli) vienreiz augšupielādēti Google kontā — Analītiķim."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test26",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Vecie komplekti (manifesti un sīktēli) vienreiz augšupielādēti Google kontā — Analītiķim."
+        ],
+        "en": [
+          "Vecie komplekti (manifesti un sīktēli) vienreiz augšupielādēti Google kontā — Analītiķim."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test25",
       "date": "2026-11-11",
