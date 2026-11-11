@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test46",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test46.zip",
-    "sha256": "950be46fb5bd885aa5e5deabc4ca00a4586d0e052cca6c9b573537d7b45654b9",
-    "size": 10814371,
+    "version": "0.3.1-test47",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test47.zip",
+    "sha256": "f77b8894e3bb4efb4daf513cf356f741d15d9a80601eba016ffba2949a4bb2d6",
+    "size": 10816000,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
+        "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
       ],
       "en": [
-        "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
+        "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test47",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
+        ],
+        "en": [
+          "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test46",
       "date": "2026-11-11",
@@ -516,36 +528,6 @@
           "Labots: Adobe izmaksu vēsture no visām lapām; Pond5 pēdējā izmaksa (abonementa ienākumi vairs neskaitās izmaksa); Alamy pilnā vēsture (ja “All” tukšs — pa gadiem).",
           "Palaišanas kārtība: vispirms Google sinhronizācija (ņem jaunākos datus no otra datora), tad pārbauda, vai otrs dators nav lietošanā, un tikai tad atjauno aģentūras.",
           "Abos datoros vienādi dati: Google sinhronizācija pārnes visu datubāzi no datora, kas aģentūras atjaunoja vēlāk."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test7",
-      "date": "2026-11-05",
-      "notes": {
-        "lv": [
-          "Izmaksas rāda summas pēc ieturētā nodokļa — neizmaksātais, pieejamais, prognoze, atgādinājums; paskaidrojums ⓘ pie summas.",
-          "Zoonar: ietur 15.825% (Vācijas nodoklis) — iestatījumos jau ierakstīts; izmaksa vēsturē ar īsto saņemšanas dienu (nākamā darba diena) un summu pēc nodokļa; “gaida izmaksu” vairs neiestrēgst.",
-          "Magnific: neizmaksātais pēc nodokļa, pieejamais = rēķina summa no Magnific lapas.",
-          "Prognozē: “pieprasīts DD.MM.” pie pieprasītām izmaksām, “izmaksa 15.11.” pie Envato Elements.",
-          "Atgādinājumā ķeksis “Izmaksu jau pieprasīju” — vairs neatgādina; atsaukt ar × tabulā.",
-          "Izmaksu tabulā paskaidrojumi zīmītē ⓘ (uzbrauc ar peli); statuss “pieprasīts … gaida izmaksu” paliek redzams.",
-          "“No kā sastāv Pārskata summa”: tabula pa aģentūrām atveras ar klikšķi uz teksta “Pārskats ņem…”.",
-          "Google sinhronizācija pārnes arī portfeļa lielumu (oktobris un iStock novembris parādīsies abos datoros).",
-          "Josla “Jaunas kopš iepriekšējās atjaunošanas” vairs nerāda +$0.00.",
-          "Programma atveras pa visu ekrānu; datora nosaukumā vairs nav “.local”; pēc atjaunināšanas vairs nav kļūdas “Error 501”."
-        ],
-        "en": [
-          "Izmaksas rāda summas pēc ieturētā nodokļa — neizmaksātais, pieejamais, prognoze, atgādinājums; paskaidrojums ⓘ pie summas.",
-          "Zoonar: ietur 15.825% (Vācijas nodoklis) — iestatījumos jau ierakstīts; izmaksa vēsturē ar īsto saņemšanas dienu (nākamā darba diena) un summu pēc nodokļa; “gaida izmaksu” vairs neiestrēgst.",
-          "Magnific: neizmaksātais pēc nodokļa, pieejamais = rēķina summa no Magnific lapas.",
-          "Prognozē: “pieprasīts DD.MM.” pie pieprasītām izmaksām, “izmaksa 15.11.” pie Envato Elements.",
-          "Atgādinājumā ķeksis “Izmaksu jau pieprasīju” — vairs neatgādina; atsaukt ar × tabulā.",
-          "Izmaksu tabulā paskaidrojumi zīmītē ⓘ (uzbrauc ar peli); statuss “pieprasīts … gaida izmaksu” paliek redzams.",
-          "“No kā sastāv Pārskata summa”: tabula pa aģentūrām atveras ar klikšķi uz teksta “Pārskats ņem…”.",
-          "Google sinhronizācija pārnes arī portfeļa lielumu (oktobris un iStock novembris parādīsies abos datoros).",
-          "Josla “Jaunas kopš iepriekšējās atjaunošanas” vairs nerāda +$0.00.",
-          "Programma atveras pa visu ekrānu; datora nosaukumā vairs nav “.local”; pēc atjaunināšanas vairs nav kļūdas “Error 501”."
         ]
       }
     }
