@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test28",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test28.zip",
-    "sha256": "9b3b5acdb4ef0b937d7d1b5d3fb1c3bf8fd52c7c5fe68ef6f86f1fe03042c09a",
-    "size": 6317763,
+    "version": "0.1.0-test29",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test29.zip",
+    "sha256": "e5cd8acdd80a0b35ad8f72eaa7357b3d28ac837269686cd1ec278e1195e20b78",
+    "size": 6318593,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Jauna poga “Izdzēst no NAS” Krājumā: bildes uz mapi _Izdzestas (30 dienas), pazūd no manifesta, sīktēliem un Google.",
-        "Krājumā vairs nerādās Vārdotāja darba mapju bildes (no kopējās mapes “Manifesti”)."
+        "Komplekti, kuru mape ir OneDrive, bet sarakstā nebija pierakstīta mape (piem. RF-horvatija-1), tagad nonāk Google kontā."
       ],
       "en": [
-        "Jauna poga “Izdzēst no NAS” Krājumā: bildes uz mapi _Izdzestas (30 dienas), pazūd no manifesta, sīktēliem un Google.",
-        "Krājumā vairs nerādās Vārdotāja darba mapju bildes (no kopējās mapes “Manifesti”)."
+        "Komplekti, kuru mape ir OneDrive, bet sarakstā nebija pierakstīta mape (piem. RF-horvatija-1), tagad nonāk Google kontā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test29",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Komplekti, kuru mape ir OneDrive, bet sarakstā nebija pierakstīta mape (piem. RF-horvatija-1), tagad nonāk Google kontā."
+        ],
+        "en": [
+          "Komplekti, kuru mape ir OneDrive, bet sarakstā nebija pierakstīta mape (piem. RF-horvatija-1), tagad nonāk Google kontā."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test28",
       "date": "2026-11-11",
