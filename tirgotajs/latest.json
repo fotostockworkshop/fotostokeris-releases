@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test26",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test26.zip",
-    "sha256": "e067fd21c53e6a7b896284011a9f490b3bd27ee2c7c18901dca0f5a846cccf7d",
-    "size": 6308306,
+    "version": "0.1.0-test27",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test27.zip",
+    "sha256": "16969af6007f882427ed711c5d76f223d54fa13a2333a4496e15807cc3858dc9",
+    "size": 6310651,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Vecie komplekti (manifesti un sīktēli) vienreiz augšupielādēti Google kontā — Analītiķim."
+        "Pazuduši komplekti (mape OneDrive ir, sarakstā nav) atjaunojas paši un nonāk Google kontā."
       ],
       "en": [
-        "Vecie komplekti (manifesti un sīktēli) vienreiz augšupielādēti Google kontā — Analītiķim."
+        "Pazuduši komplekti (mape OneDrive ir, sarakstā nav) atjaunojas paši un nonāk Google kontā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test27",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Pazuduši komplekti (mape OneDrive ir, sarakstā nav) atjaunojas paši un nonāk Google kontā."
+        ],
+        "en": [
+          "Pazuduši komplekti (mape OneDrive ir, sarakstā nav) atjaunojas paši un nonāk Google kontā."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test26",
       "date": "2026-11-11",
