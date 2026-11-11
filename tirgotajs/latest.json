@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test29",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test29.zip",
-    "sha256": "e5cd8acdd80a0b35ad8f72eaa7357b3d28ac837269686cd1ec278e1195e20b78",
-    "size": 6318593,
+    "version": "0.1.0-test30",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test30.zip",
+    "sha256": "2b02fa7c4397be55406811880350ee03d5b72ff7f3c8ee7f70c5a75823c0b452",
+    "size": 6319608,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Komplekti, kuru mape ir OneDrive, bet sarakstā nebija pierakstīta mape (piem. RF-horvatija-1), tagad nonāk Google kontā."
+        "Komplektus OneDrive mapē Tirgotājs atrod jebkurā dziļumā — tie nonāk Google kontā un sarakstā."
       ],
       "en": [
-        "Komplekti, kuru mape ir OneDrive, bet sarakstā nebija pierakstīta mape (piem. RF-horvatija-1), tagad nonāk Google kontā."
+        "Komplektus OneDrive mapē Tirgotājs atrod jebkurā dziļumā — tie nonāk Google kontā un sarakstā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test30",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Komplektus OneDrive mapē Tirgotājs atrod jebkurā dziļumā — tie nonāk Google kontā un sarakstā."
+        ],
+        "en": [
+          "Komplektus OneDrive mapē Tirgotājs atrod jebkurā dziļumā — tie nonāk Google kontā un sarakstā."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test29",
       "date": "2026-11-11",
