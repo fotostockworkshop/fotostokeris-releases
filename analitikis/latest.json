@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test48",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test48.zip",
-    "sha256": "88ed5fba606d49ceaaaf30e0f604d550ee211592ee83f48f7088f45d9eedd108",
-    "size": 10817475,
+    "version": "0.3.1-test49",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test49.zip",
+    "sha256": "f1c079bf19e4304eee2eae4a659c9d64412556cbe509721e4517c715298a90d9",
+    "size": 10818472,
     "date": "2026-11-11",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
+        "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
+        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
       ],
       "en": [
-        "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
+        "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
+        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test49",
+      "date": "2026-11-11",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
+          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
+          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test48",
       "date": "2026-11-11",
@@ -504,20 +520,6 @@
           "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
           "ⓘ mākonīši darbojas arī Mac logā.",
           "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test9",
-      "date": "2026-11-06",
-      "notes": {
-        "lv": [
-          "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
-          "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
-        ],
-        "en": [
-          "Iesniegumu statusi — labojumi pēc pirmās pārbaudes: Adobe un Shutterstock vairs neņem nepareizus sarakstus, Magnific noraidītās no aģentūras saraksta, Ingram un Zoonar (partneru statusi) lasa atvērtā lapā, Pond5 visi filtri, Dreamstime un Envato ik ~12 h; nepareizi saglabātie statusi vienreiz izdzēsti un nolasīti no jauna.",
-          "Depositphotos: pieejamā summa pēc izmaksas pieprasījuma vairs nepaliek vecā; minimums $50."
         ]
       }
     }
