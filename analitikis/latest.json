@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test60",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test60.zip",
-    "sha256": "739b123c056b9a50f2814f8c0883b8cb5db18504ce41a893a5c27ede91d983a1",
-    "size": 10825699,
+    "version": "0.3.1-test61",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test61.zip",
+    "sha256": "fe16af45f3bab8f29020f5ec7ce33423ea9fd81fe8dfdf1e71022f223e7e68fb",
+    "size": 10829822,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
+        "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
       ],
       "en": [
-        "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
+        "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test61",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
+        ],
+        "en": [
+          "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test60",
       "date": "2026-11-12",
@@ -498,18 +510,6 @@
         ],
         "en": [
           "Pēc atjaunināšanas Envato Portfolio Manager tiek atvērts jau nākamajā Envato atjaunošanā (negaidot nākamo dienu) — pilnie virsraksti un dublikāti kolekcijās uzreiz."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test21",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Envato bildēm pilnie virsraksti (agrāk daudzām bija viens vārds, piem. “business”) un oriģinālais faila nosaukums no Portfolio Manager — tāpēc kolekcijās tagad nonāk arī Envato dublikāti, un Envato bildes labāk apvienojas ar citām aģentūrām. Ingram un citas mēneša summas bez sadalījuma pa bildēm — katrs mēnesis atsevišķi ar bilžu kaudzītes sīktēlu (“$ · bonuss” tikai īstiem bonusiem); lielajā skatā arī aizstājēja sīktēls."
-        ],
-        "en": [
-          "Envato bildēm pilnie virsraksti (agrāk daudzām bija viens vārds, piem. “business”) un oriģinālais faila nosaukums no Portfolio Manager — tāpēc kolekcijās tagad nonāk arī Envato dublikāti, un Envato bildes labāk apvienojas ar citām aģentūrām. Ingram un citas mēneša summas bez sadalījuma pa bildēm — katrs mēnesis atsevišķi ar bilžu kaudzītes sīktēlu (“$ · bonuss” tikai īstiem bonusiem); lielajā skatā arī aizstājēja sīktēls."
         ]
       }
     }
