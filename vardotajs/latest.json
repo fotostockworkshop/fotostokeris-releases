@@ -1,26 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test18",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test18.zip",
-    "sha256": "f4d2a9defa8eaab6b08d623803802c8f2a00979edf5b2c247d241e695281b2bf",
-    "size": 9979492,
-    "date": "2026-11-11",
+    "version": "0.9.0-test19",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test19.zip",
+    "sha256": "7e3dd65ca7b88895bd82346a9d4d5d5a8e42d1efa81acf71fc051896e4ef0cdc",
+    "size": 9982250,
+    "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Vienkāršota manifestu kārtība: “Uz iesniegšanu” katru reizi izveido jaunus sūtījumus — katram veidam (RF / ED / EDI) sava mape `<gads>/<datums>-<veids>-<kods>/`, bez RF/ED apakšmapēm",
-        "Nosūta tikai aprakstītās bildes ar zināmu veidu (logā — cik paliek); tukšu darba mapi dzēš pati vai pajautā",
-        "Manifests un sīktēli — sūtījuma mapē un Google Drive `Fotostokeris/Sutijumi`; poga “Manifests”, “dzīvais” manifests, šķirošanas ķeksis un “Manifestu mape” noņemti; NAS `Manifesti` vairs neveidojas",
-        "Vienreizēja pāreja: NAS sūtījumu manifesti → Google `Sutijumi`; darba mapju manifesti izdzēsti (arī NAS un Google `Manifesti`); NAS `Manifesti` mape izdzēsta"
+        "Virsrakstā, aprakstā un atslēgvārdos tikai angļu burti (“Rīga” → “Riga”), arī ja pavedienā rakstīts ar garumzīmēm",
+        "ED datums bez komata pirms gada: “RIGA, LATVIA – SEPTEMBER 22 2026: …” (Depositphotos); vecie ar komatu joprojām atpazīti kā ED"
       ],
       "en": [
-        "Vienkāršota manifestu kārtība: “Uz iesniegšanu” katru reizi izveido jaunus sūtījumus — katram veidam (RF / ED / EDI) sava mape `<gads>/<datums>-<veids>-<kods>/`, bez RF/ED apakšmapēm",
-        "Nosūta tikai aprakstītās bildes ar zināmu veidu (logā — cik paliek); tukšu darba mapi dzēš pati vai pajautā",
-        "Manifests un sīktēli — sūtījuma mapē un Google Drive `Fotostokeris/Sutijumi`; poga “Manifests”, “dzīvais” manifests, šķirošanas ķeksis un “Manifestu mape” noņemti; NAS `Manifesti` vairs neveidojas",
-        "Vienreizēja pāreja: NAS sūtījumu manifesti → Google `Sutijumi`; darba mapju manifesti izdzēsti (arī NAS un Google `Manifesti`); NAS `Manifesti` mape izdzēsta"
+        "Virsrakstā, aprakstā un atslēgvārdos tikai angļu burti (“Rīga” → “Riga”), arī ja pavedienā rakstīts ar garumzīmēm",
+        "ED datums bez komata pirms gada: “RIGA, LATVIA – SEPTEMBER 22 2026: …” (Depositphotos); vecie ar komatu joprojām atpazīti kā ED"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test19",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Virsrakstā, aprakstā un atslēgvārdos tikai angļu burti (“Rīga” → “Riga”), arī ja pavedienā rakstīts ar garumzīmēm",
+          "ED datums bez komata pirms gada: “RIGA, LATVIA – SEPTEMBER 22 2026: …” (Depositphotos); vecie ar komatu joprojām atpazīti kā ED"
+        ],
+        "en": [
+          "Virsrakstā, aprakstā un atslēgvārdos tikai angļu burti (“Rīga” → “Riga”), arī ja pavedienā rakstīts ar garumzīmēm",
+          "ED datums bez komata pirms gada: “RIGA, LATVIA – SEPTEMBER 22 2026: …” (Depositphotos); vecie ar komatu joprojām atpazīti kā ED"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test18",
       "date": "2026-11-11",
