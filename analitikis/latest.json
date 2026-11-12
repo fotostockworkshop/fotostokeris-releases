@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test58",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test58.zip",
-    "sha256": "4bce7842bbbe1d196913a597c39944c8459afd7529ab91a92aaa860067908d4a",
-    "size": 10822942,
+    "version": "0.3.1-test59",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test59.zip",
+    "sha256": "4f1b72fd539457c907fe6d45b8d1094e007625549dfd143091f1949f66015dc5",
+    "size": 10824381,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
+        "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
         "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
       ],
       "en": [
-        "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
+        "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
         "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test59",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
+          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        ],
+        "en": [
+          "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
+          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test58",
       "date": "2026-11-12",
@@ -498,18 +512,6 @@
         ],
         "en": [
           "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test19",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
-        ],
-        "en": [
-          "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
         ]
       }
     }
