@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test31",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test31.zip",
-    "sha256": "45f5bd2f219a95fc0c737dd6b59b0fe1728b0428cc6bbba70acb4caab9f7ced5",
-    "size": 6320480,
+    "version": "0.1.0-test32",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test32.zip",
+    "sha256": "441818eadda28560805bd9514dcf3aeac48a0dca7a737dc30d0acbff0cb282b1",
+    "size": 6321815,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Jaunā manifestu kārtība: sūtījumi no Google “Sutijumi”, komplekti uz Google “Komplekti”; Vārdotāja manifestus Tirgotājs vairs nemaina."
+        "Google mapē “Komplekti” tagad nonāk visi komplekti (arī tuvu laikā izveidotie, piem. ED-Bali-949f-1/2)."
       ],
       "en": [
-        "Jaunā manifestu kārtība: sūtījumi no Google “Sutijumi”, komplekti uz Google “Komplekti”; Vārdotāja manifestus Tirgotājs vairs nemaina."
+        "Google mapē “Komplekti” tagad nonāk visi komplekti (arī tuvu laikā izveidotie, piem. ED-Bali-949f-1/2)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test32",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Google mapē “Komplekti” tagad nonāk visi komplekti (arī tuvu laikā izveidotie, piem. ED-Bali-949f-1/2)."
+        ],
+        "en": [
+          "Google mapē “Komplekti” tagad nonāk visi komplekti (arī tuvu laikā izveidotie, piem. ED-Bali-949f-1/2)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test31",
       "date": "2026-11-12",
