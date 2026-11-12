@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test57",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test57.zip",
-    "sha256": "fe65db918f0b6ff84adc0176ea3f8c080fead3cb5a81db31ed498b45b9c0d71b",
-    "size": 10822567,
+    "version": "0.3.1-test58",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test58.zip",
+    "sha256": "4bce7842bbbe1d196913a597c39944c8459afd7529ab91a92aaa860067908d4a",
+    "size": 10822942,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
+        "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
+        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
       ],
       "en": [
-        "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
+        "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
+        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test58",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
+          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        ],
+        "en": [
+          "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
+          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test57",
       "date": "2026-11-12",
@@ -494,18 +510,6 @@
         ],
         "en": [
           "Pārskata kartītēs summas arī eiro (“$153.38 ≈ €137.29”), ja iestatījumos izvēlēti eiro. Envato bildēm sīktēli (no Portfolio Manager saraksta). Bildēm bez sīktēla — Analītiķa stila aizstājējs (foto / ilustrācija / video); ienākumiem bez bildes — “AI · datu licence”, “AI · partneri”, “$ · bonuss”. Izdzēsti 11 lieki Pond5 ieraksti bez pārdošanām."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test18",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
-        ],
-        "en": [
-          "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
         ]
       }
     }
