@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test34",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test34.zip",
-    "sha256": "87110ccc6fe3c531bfc33555b357d24069e98a09b4e3004ffafa71aa893614ba",
-    "size": 6325987,
+    "version": "0.1.0-test35",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test35.zip",
+    "sha256": "2c7f0cfb97134769aafa973d16ff312e5ba2fcf496944344c02b63be866e4eb0",
+    "size": 6327664,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Komplektiem bez sīktēliem (RF-Flags-1) tie tiek izveidoti un augšupielādēti Google mapē “Komplekti”."
+        "Envato: iesniegšana arī ar FTP (FTPS, mape photos, parole — Envato API tokens)."
       ],
       "en": [
-        "Komplektiem bez sīktēliem (RF-Flags-1) tie tiek izveidoti un augšupielādēti Google mapē “Komplekti”."
+        "Envato: iesniegšana arī ar FTP (FTPS, mape photos, parole — Envato API tokens)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test35",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Envato: iesniegšana arī ar FTP (FTPS, mape photos, parole — Envato API tokens)."
+        ],
+        "en": [
+          "Envato: iesniegšana arī ar FTP (FTPS, mape photos, parole — Envato API tokens)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test34",
       "date": "2026-11-12",
