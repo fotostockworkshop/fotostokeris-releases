@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test33",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test33.zip",
-    "sha256": "517f27bd76ee9b65dd05757798be4dea83a340eeea3754d9732bfe74eb150ef6",
-    "size": 6324871,
+    "version": "0.1.0-test34",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test34.zip",
+    "sha256": "87110ccc6fe3c531bfc33555b357d24069e98a09b4e3004ffafa71aa893614ba",
+    "size": 6325987,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Atkārtota palaišana vairs nepārtrauc FTP sūtīšanu / pārvietošanu — atveras strādājošās programmas logs.",
-        "Nakts FTP: sākums ne vēlāk kā 2 h pirms 9:00, pauzes saīsinātas, lai paspētu līdz 9:00."
+        "Komplektiem bez sīktēliem (RF-Flags-1) tie tiek izveidoti un augšupielādēti Google mapē “Komplekti”."
       ],
       "en": [
-        "Atkārtota palaišana vairs nepārtrauc FTP sūtīšanu / pārvietošanu — atveras strādājošās programmas logs.",
-        "Nakts FTP: sākums ne vēlāk kā 2 h pirms 9:00, pauzes saīsinātas, lai paspētu līdz 9:00."
+        "Komplektiem bez sīktēliem (RF-Flags-1) tie tiek izveidoti un augšupielādēti Google mapē “Komplekti”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test34",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Komplektiem bez sīktēliem (RF-Flags-1) tie tiek izveidoti un augšupielādēti Google mapē “Komplekti”."
+        ],
+        "en": [
+          "Komplektiem bez sīktēliem (RF-Flags-1) tie tiek izveidoti un augšupielādēti Google mapē “Komplekti”."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test33",
       "date": "2026-11-12",
