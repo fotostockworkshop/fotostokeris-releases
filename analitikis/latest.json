@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test49",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test49.zip",
-    "sha256": "f1c079bf19e4304eee2eae4a659c9d64412556cbe509721e4517c715298a90d9",
-    "size": 10818472,
-    "date": "2026-11-11",
+    "version": "0.3.1-test50",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test50.zip",
+    "sha256": "bea2f7fe0571b88aacbeabe1edc7691fea0bb904bbdb7dcc32e3b1923b8b7a9f",
+    "size": 10821288,
+    "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
-        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
+        "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
+        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
       ],
       "en": [
-        "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
-        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
+        "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
+        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test50",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
+          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
+          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test49",
       "date": "2026-11-11",
@@ -500,26 +514,6 @@
           "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
           "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
           "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test10",
-      "date": "2026-11-06",
-      "notes": {
-        "lv": [
-          "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
-          "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
-          "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
-          "ⓘ mākonīši darbojas arī Mac logā.",
-          "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
-        ],
-        "en": [
-          "Envato Elements izmaksas nolasa no Trolley izmaksu lapas — saņemtā summa pēc ieturētā nodokļa (ⓘ — summa pirms nodokļa).",
-          "iStock iesniegumu statusi nolasa no ESP (katra bilde, faila nosaukums, noraidījuma iemesls).",
-          "Automātiskām izmaksām, kas sasniegušas minimumu, redzama aptuvenā nākamās izmaksas diena (“izmaksa ~DD.MM.”, pēc iepriekšējo izmaksu dienām).",
-          "ⓘ mākonīši darbojas arī Mac logā.",
-          "Pēc atjaunināšanas izmaksas un iesniegumu statusi tiek nolasīti uzreiz (ja to nolasīšana mainījusies)."
         ]
       }
     }
