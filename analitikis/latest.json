@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test50",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test50.zip",
-    "sha256": "bea2f7fe0571b88aacbeabe1edc7691fea0bb904bbdb7dcc32e3b1923b8b7a9f",
-    "size": 10821288,
+    "version": "0.3.1-test51",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test51.zip",
+    "sha256": "d14381cb697e1b7a42c6059dde883af21720f4ff4259c8b73e334e7064745d69",
+    "size": 10822764,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
-        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
+        "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
       ],
       "en": [
-        "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
-        "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
+        "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test51",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test50",
       "date": "2026-11-12",
@@ -494,26 +504,6 @@
           "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
           "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
           "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test11",
-      "date": "2026-11-07",
-      "notes": {
-        "lv": [
-          "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
-          "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
-          "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
-          "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
-          "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
-        ],
-        "en": [
-          "Izmaksas: “Pēdējās izmaksās” vairs nav nākotnes datumu (tās ir “ceļā”); pieejamā summa = neizmaksātā (izņemot Magnific); teksti “pieprasīts … — gaidāms PayPal ~…” un prognoze — ⓘ mākonītī; prognozes kartīte vairs nepārplūst.",
-          "Envato: visas izmaksas no Trolley ar saņemto summu (“You Receive”), ⓘ — summa pirms nodokļa.",
-          "iStock: iesniegumu statusi pēc publicēšanas datuma un labošanas pieprasījuma, ar noraidījuma un labošanas iemesliem.",
-          "Shutterstock prognoze: šomēnes — iepriekšējā mēneša nopelnītais, neizmaksātais — nākammēnes.",
-          "Depositphotos minimums $50; Pond5 iesniegumu statusu pārbaude žurnālā. Pēc atjaunināšanas izmaksas un statusi tiek nolasīti uzreiz."
         ]
       }
     }
