@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test56",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test56.zip",
-    "sha256": "53d7d4ef2af1f39f5451fc404be98883c8c6e5e96943e4761a0b8682b6444b17",
-    "size": 10821974,
+    "version": "0.3.1-test57",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test57.zip",
+    "sha256": "fe65db918f0b6ff84adc0176ea3f8c080fead3cb5a81db31ed498b45b9c0d71b",
+    "size": 10822567,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
-        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
       ],
       "en": [
-        "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
-        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test57",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
+        ],
+        "en": [
+          "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test56",
       "date": "2026-11-12",
@@ -496,18 +506,6 @@
         ],
         "en": [
           "Izmaksu daļa tagad ir atsevišķs, aizsargāts modulis (tāpat kā ielogošanās): pārbaudītais izmaksu aprēķins netiek nejauši mainīts, labojot citas programmas daļas. Lietotājam nekas nemainās — izmaksas, prognoze un pārskats tie paši."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test17",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "iStock (Getty): ienākumos tagad arī Getty Connect / Wholesale (Microsoft, Canva u.c. partneri), kam atskaitē nav atsevišķu rindu — mēneša summa sakrīt ar Getty atskaites kopsummu. 123RF: ienākumi pēc 123RF dienas kopsummas (agrāk ~2% par daudz). Pēc atjaunošanas abu aģentūru vēsture tiek nolasīta vienreiz no jauna."
-        ],
-        "en": [
-          "iStock (Getty): ienākumos tagad arī Getty Connect / Wholesale (Microsoft, Canva u.c. partneri), kam atskaitē nav atsevišķu rindu — mēneša summa sakrīt ar Getty atskaites kopsummu. 123RF: ienākumi pēc 123RF dienas kopsummas (agrāk ~2% par daudz). Pēc atjaunošanas abu aģentūru vēsture tiek nolasīta vienreiz no jauna."
         ]
       }
     }
