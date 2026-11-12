@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test51",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test51.zip",
-    "sha256": "d14381cb697e1b7a42c6059dde883af21720f4ff4259c8b73e334e7064745d69",
-    "size": 10822764,
+    "version": "0.3.1-test52",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test52.zip",
+    "sha256": "9fe3afedb8d14af754591442e39611561ba7831bbcb887df7a40a723e771eaea",
+    "size": 10823689,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
+        "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
+        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
       ],
       "en": [
-        "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
+        "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
+        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test52",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
+          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        ],
+        "en": [
+          "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
+          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test51",
       "date": "2026-11-12",
@@ -488,22 +504,6 @@
         ],
         "en": [
           "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test12",
-      "date": "2026-11-07",
-      "notes": {
-        "lv": [
-          "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
-          "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
-          "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
-        ],
-        "en": [
-          "Izmaksas pa mēnešiem: valūtas izvēle blakus gadam ($ pēc noklusējuma, arī €, £, ₴), ⓘ — kā pārrēķina.",
-          "Izmaksu vēsture: Shutterstock visas lapas (ne tikai pēdējās 10), Envato Trolley visas lapas, Bigstock izmaksas.",
-          "Depositphotos: minimums $50 arī tabulā; pieprasītā, vēl nesaņemtā izmaksa vairs neskaitās neizmaksātajā."
         ]
       }
     }
