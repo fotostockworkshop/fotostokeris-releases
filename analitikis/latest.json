@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test59",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test59.zip",
-    "sha256": "4f1b72fd539457c907fe6d45b8d1094e007625549dfd143091f1949f66015dc5",
-    "size": 10824381,
+    "version": "0.3.1-test60",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test60.zip",
+    "sha256": "739b123c056b9a50f2814f8c0883b8cb5db18504ce41a893a5c27ede91d983a1",
+    "size": 10825699,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
-        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
       ],
       "en": [
-        "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
-        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test60",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
+        ],
+        "en": [
+          "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test59",
       "date": "2026-11-12",
@@ -500,18 +510,6 @@
         ],
         "en": [
           "Envato bildēm pilnie virsraksti (agrāk daudzām bija viens vārds, piem. “business”) un oriģinālais faila nosaukums no Portfolio Manager — tāpēc kolekcijās tagad nonāk arī Envato dublikāti, un Envato bildes labāk apvienojas ar citām aģentūrām. Ingram un citas mēneša summas bez sadalījuma pa bildēm — katrs mēnesis atsevišķi ar bilžu kaudzītes sīktēlu (“$ · bonuss” tikai īstiem bonusiem); lielajā skatā arī aizstājēja sīktēls."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test20",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
-        ],
-        "en": [
-          "Pievienojot bildi kolekcijai, tajā nonāk arī precīzi tādas pašas bildes (salīdzina sīktēlus) — arī Envato dublikāti un vēl neapvienotas kopijas citās aģentūrās; izņemot — tāpat. Sadaļā “Labākās” kartītēs rakstīts aģentūras nosaukums un ieraksta nosaukums arī bez sīktēla."
         ]
       }
     }
