@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test55",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test55.zip",
-    "sha256": "3db35c0e8d4402e5c0e8477e6263e4e908f335e56434b72d24326ebc8e38a9a6",
-    "size": 10821379,
+    "version": "0.3.1-test56",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test56.zip",
+    "sha256": "53d7d4ef2af1f39f5451fc404be98883c8c6e5e96943e4761a0b8682b6444b17",
+    "size": 10821974,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "iStock: iesniegumu statusi tiek nolasīti no 30 jaunākajiem iesniegumiem (agrāk 10) — neizkrīt arī nedaudz vecāki komplekti.",
-        "Pēc atjaunināšanas nospied iStock “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
+        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
       ],
       "en": [
-        "iStock: iesniegumu statusi tiek nolasīti no 30 jaunākajiem iesniegumiem (agrāk 10) — neizkrīt arī nedaudz vecāki komplekti.",
-        "Pēc atjaunināšanas nospied iStock “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
+        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test56",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
+          "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        ],
+        "en": [
+          "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
+          "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test55",
       "date": "2026-11-12",
@@ -494,20 +508,6 @@
         ],
         "en": [
           "iStock (Getty): ienākumos tagad arī Getty Connect / Wholesale (Microsoft, Canva u.c. partneri), kam atskaitē nav atsevišķu rindu — mēneša summa sakrīt ar Getty atskaites kopsummu. 123RF: ienākumi pēc 123RF dienas kopsummas (agrāk ~2% par daudz). Pēc atjaunošanas abu aģentūru vēsture tiek nolasīta vienreiz no jauna."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test16",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Adobe: ienākumi līdz 2023. gada februārim ir eiro (toreiz konts bija EUR) — vairs neizskatās, ka izmaksāts vairāk nekā nopelnīts; bonusi 2021–2023, kas redzami tikai Adobe grafikā, tagad ieskaitīti; izmaksa ar statusu “Payment done” ieskaitīta uzreiz. Pēc atjaunošanas Adobe vēsture tiek nolasīta vienreiz no jauna.",
-          "Izmaksas: Envato (Trolley) izmaksas nolasās pareizi; 123RF — ja izmaksu lapa neatveras, nākamreiz mēģina vēlreiz. Tabulā “Izmaksas pa mēnešiem” noņemta aile “Vidēji līdz šim”."
-        ],
-        "en": [
-          "Adobe: ienākumi līdz 2023. gada februārim ir eiro (toreiz konts bija EUR) — vairs neizskatās, ka izmaksāts vairāk nekā nopelnīts; bonusi 2021–2023, kas redzami tikai Adobe grafikā, tagad ieskaitīti; izmaksa ar statusu “Payment done” ieskaitīta uzreiz. Pēc atjaunošanas Adobe vēsture tiek nolasīta vienreiz no jauna.",
-          "Izmaksas: Envato (Trolley) izmaksas nolasās pareizi; 123RF — ja izmaksu lapa neatveras, nākamreiz mēģina vēlreiz. Tabulā “Izmaksas pa mēnešiem” noņemta aile “Vidēji līdz šim”."
         ]
       }
     }
