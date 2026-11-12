@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test38",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test38.zip",
-    "sha256": "6caddebf3c00abb09396116b466f35c77e8f83892700787ff7ffc34bff0b3ab3",
-    "size": 6347041,
+    "version": "0.1.0-test39",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test39.zip",
+    "sha256": "3cf391b575dd74bfa9808396ec6e9405c2401e6451febba255e5bc82624514cc",
+    "size": 6347619,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Rīta atskaite spilgta (variants B): aģentūras kā pogas — klikšķis portāls, labais klikšķis \"Iesniegts\".",
-        "Bilžu tekstos tikai angļu burti (failos pirms OneDrive un FTP, Envato CSV, komplekta manifestā); core/exiftool.py."
+        "ExifTool: izmanto Vārdotāja jau uzstādīto (nelejupielādē otru)."
       ],
       "en": [
-        "Rīta atskaite spilgta (variants B): aģentūras kā pogas — klikšķis portāls, labais klikšķis \"Iesniegts\".",
-        "Bilžu tekstos tikai angļu burti (failos pirms OneDrive un FTP, Envato CSV, komplekta manifestā); core/exiftool.py."
+        "ExifTool: izmanto Vārdotāja jau uzstādīto (nelejupielādē otru)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test39",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "ExifTool: izmanto Vārdotāja jau uzstādīto (nelejupielādē otru)."
+        ],
+        "en": [
+          "ExifTool: izmanto Vārdotāja jau uzstādīto (nelejupielādē otru)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test38",
       "date": "2026-11-12",
