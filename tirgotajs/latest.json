@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test36",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test36.zip",
-    "sha256": "c08732fe1e62f1801e740e302018ee267b71d952bdb9975a5194426616c4ea6d",
-    "size": 6330400,
+    "version": "0.1.0-test37",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test37.zip",
+    "sha256": "89a9c444f0d1128a71379adfd7684648842372460e43093cafe952af766c7d16",
+    "size": 6333838,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Envato: metadatu CSV kopā ar bildēm (FTP) un kopija komplekta mapē."
+        "Komplekta nosaukums `<datums>-<veids>-<kods>` (iesniegšanas diena, bez tēmas); mainās līdzi plāna dienai, kamēr nav OneDrive; OneDrive mape tāpat.",
+        "\"Atlasīt pašam\": poga \"← Atpakaļ\", atverot komplektu."
       ],
       "en": [
-        "Envato: metadatu CSV kopā ar bildēm (FTP) un kopija komplekta mapē."
+        "Komplekta nosaukums `<datums>-<veids>-<kods>` (iesniegšanas diena, bez tēmas); mainās līdzi plāna dienai, kamēr nav OneDrive; OneDrive mape tāpat.",
+        "\"Atlasīt pašam\": poga \"← Atpakaļ\", atverot komplektu."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test37",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Komplekta nosaukums `<datums>-<veids>-<kods>` (iesniegšanas diena, bez tēmas); mainās līdzi plāna dienai, kamēr nav OneDrive; OneDrive mape tāpat.",
+          "\"Atlasīt pašam\": poga \"← Atpakaļ\", atverot komplektu."
+        ],
+        "en": [
+          "Komplekta nosaukums `<datums>-<veids>-<kods>` (iesniegšanas diena, bez tēmas); mainās līdzi plāna dienai, kamēr nav OneDrive; OneDrive mape tāpat.",
+          "\"Atlasīt pašam\": poga \"← Atpakaļ\", atverot komplektu."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test36",
       "date": "2026-11-12",
