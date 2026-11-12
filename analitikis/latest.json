@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test52",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test52.zip",
-    "sha256": "9fe3afedb8d14af754591442e39611561ba7831bbcb887df7a40a723e771eaea",
-    "size": 10823689,
+    "version": "0.3.1-test53",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test53.zip",
+    "sha256": "8ead3d8bf52a8de517fd0746414153b3103a639b7048e41792e813c3933aca35",
+    "size": 10822969,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
-        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Ingram: iesniegumu statusi tagad tiek nolasīti tieši (gaida apstiprinājumu / noraidītas / tiešsaistē) kopā ar oriģinālo faila nosaukumu un virsrakstu — Manas bildes aģentūrās redz arī Ingram.",
+        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
       ],
       "en": [
-        "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
-        "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Ingram: iesniegumu statusi tagad tiek nolasīti tieši (gaida apstiprinājumu / noraidītas / tiešsaistē) kopā ar oriģinālo faila nosaukumu un virsrakstu — Manas bildes aģentūrās redz arī Ingram.",
+        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test53",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Ingram: iesniegumu statusi tagad tiek nolasīti tieši (gaida apstiprinājumu / noraidītas / tiešsaistē) kopā ar oriģinālo faila nosaukumu un virsrakstu — Manas bildes aģentūrās redz arī Ingram.",
+          "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        ],
+        "en": [
+          "Ingram: iesniegumu statusi tagad tiek nolasīti tieši (gaida apstiprinājumu / noraidītas / tiešsaistē) kopā ar oriģinālo faila nosaukumu un virsrakstu — Manas bildes aģentūrās redz arī Ingram.",
+          "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test52",
       "date": "2026-11-12",
@@ -492,18 +506,6 @@
         ],
         "en": [
           "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test13",
-      "date": "2026-11-07",
-      "notes": {
-        "lv": [
-          "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
-        ],
-        "en": [
-          "Shutterstock: visa izmaksu vēsture no Shutterstock izmaksu saraksta (pa 100)."
         ]
       }
     }
