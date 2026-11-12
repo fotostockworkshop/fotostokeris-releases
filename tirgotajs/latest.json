@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test32",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test32.zip",
-    "sha256": "441818eadda28560805bd9514dcf3aeac48a0dca7a737dc30d0acbff0cb282b1",
-    "size": 6321815,
+    "version": "0.1.0-test33",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test33.zip",
+    "sha256": "517f27bd76ee9b65dd05757798be4dea83a340eeea3754d9732bfe74eb150ef6",
+    "size": 6324871,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Google mapē “Komplekti” tagad nonāk visi komplekti (arī tuvu laikā izveidotie, piem. ED-Bali-949f-1/2)."
+        "Atkārtota palaišana vairs nepārtrauc FTP sūtīšanu / pārvietošanu — atveras strādājošās programmas logs.",
+        "Nakts FTP: sākums ne vēlāk kā 2 h pirms 9:00, pauzes saīsinātas, lai paspētu līdz 9:00."
       ],
       "en": [
-        "Google mapē “Komplekti” tagad nonāk visi komplekti (arī tuvu laikā izveidotie, piem. ED-Bali-949f-1/2)."
+        "Atkārtota palaišana vairs nepārtrauc FTP sūtīšanu / pārvietošanu — atveras strādājošās programmas logs.",
+        "Nakts FTP: sākums ne vēlāk kā 2 h pirms 9:00, pauzes saīsinātas, lai paspētu līdz 9:00."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test33",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Atkārtota palaišana vairs nepārtrauc FTP sūtīšanu / pārvietošanu — atveras strādājošās programmas logs.",
+          "Nakts FTP: sākums ne vēlāk kā 2 h pirms 9:00, pauzes saīsinātas, lai paspētu līdz 9:00."
+        ],
+        "en": [
+          "Atkārtota palaišana vairs nepārtrauc FTP sūtīšanu / pārvietošanu — atveras strādājošās programmas logs.",
+          "Nakts FTP: sākums ne vēlāk kā 2 h pirms 9:00, pauzes saīsinātas, lai paspētu līdz 9:00."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test32",
       "date": "2026-11-12",
