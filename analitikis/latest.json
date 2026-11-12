@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test53",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test53.zip",
-    "sha256": "8ead3d8bf52a8de517fd0746414153b3103a639b7048e41792e813c3933aca35",
-    "size": 10822969,
+    "version": "0.3.1-test54",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test54.zip",
+    "sha256": "36a6779218faec1dc822883838fea62d3037e1691c9a4cb211ad961734662234",
+    "size": 10821040,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Ingram: iesniegumu statusi tagad tiek nolasīti tieši (gaida apstiprinājumu / noraidītas / tiešsaistē) kopā ar oriģinālo faila nosaukumu un virsrakstu — Manas bildes aģentūrās redz arī Ingram.",
-        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Pond5: iesniegumu statusi (gaida / tiešsaistē / noraidītas / jālabo) tagad tiek nolasīti — Manas bildes aģentūrās redz arī Pond5.",
+        "Pēc atjaunināšanas nospied Pond5 “Atjaunot”, tad “Pārlasīt manifestus”."
       ],
       "en": [
-        "Ingram: iesniegumu statusi tagad tiek nolasīti tieši (gaida apstiprinājumu / noraidītas / tiešsaistē) kopā ar oriģinālo faila nosaukumu un virsrakstu — Manas bildes aģentūrās redz arī Ingram.",
-        "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
+        "Pond5: iesniegumu statusi (gaida / tiešsaistē / noraidītas / jālabo) tagad tiek nolasīti — Manas bildes aģentūrās redz arī Pond5.",
+        "Pēc atjaunināšanas nospied Pond5 “Atjaunot”, tad “Pārlasīt manifestus”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test54",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Pond5: iesniegumu statusi (gaida / tiešsaistē / noraidītas / jālabo) tagad tiek nolasīti — Manas bildes aģentūrās redz arī Pond5.",
+          "Pēc atjaunināšanas nospied Pond5 “Atjaunot”, tad “Pārlasīt manifestus”."
+        ],
+        "en": [
+          "Pond5: iesniegumu statusi (gaida / tiešsaistē / noraidītas / jālabo) tagad tiek nolasīti — Manas bildes aģentūrās redz arī Pond5.",
+          "Pēc atjaunināšanas nospied Pond5 “Atjaunot”, tad “Pārlasīt manifestus”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test53",
       "date": "2026-11-12",
@@ -494,18 +508,6 @@
         "en": [
           "Izmaksas pārbaudītas pret PayPal: Dreamstime — saņemtā summa (nodoklis vairs netiek atņemts otrreiz); Pond5 — tikai īstās izmaksas (abonementa ienākumi vairs nav “izmaksas”).",
           "Vēsturiskās izmaksas: vienreizējs fails vesturiskas_izmaksas.json datu mapē — izmaksas, ko aģentūras vairs nerāda (Envato līdz 2026-03, Twenty20, EyeEm, Foap u.c.); aģentūru atjaunošana tās nedzēš."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test14",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
-        ],
-        "en": [
-          "Alamy: viss konta izraksts kopš sākuma — visas izmaksas (26) un pārdošanas arī pēc 2019. gada."
         ]
       }
     }
