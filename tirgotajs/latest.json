@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test37",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test37.zip",
-    "sha256": "89a9c444f0d1128a71379adfd7684648842372460e43093cafe952af766c7d16",
-    "size": 6333838,
+    "version": "0.1.0-test38",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test38.zip",
+    "sha256": "6caddebf3c00abb09396116b466f35c77e8f83892700787ff7ffc34bff0b3ab3",
+    "size": 6347041,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Komplekta nosaukums `<datums>-<veids>-<kods>` (iesniegšanas diena, bez tēmas); mainās līdzi plāna dienai, kamēr nav OneDrive; OneDrive mape tāpat.",
-        "\"Atlasīt pašam\": poga \"← Atpakaļ\", atverot komplektu."
+        "Rīta atskaite spilgta (variants B): aģentūras kā pogas — klikšķis portāls, labais klikšķis \"Iesniegts\".",
+        "Bilžu tekstos tikai angļu burti (failos pirms OneDrive un FTP, Envato CSV, komplekta manifestā); core/exiftool.py."
       ],
       "en": [
-        "Komplekta nosaukums `<datums>-<veids>-<kods>` (iesniegšanas diena, bez tēmas); mainās līdzi plāna dienai, kamēr nav OneDrive; OneDrive mape tāpat.",
-        "\"Atlasīt pašam\": poga \"← Atpakaļ\", atverot komplektu."
+        "Rīta atskaite spilgta (variants B): aģentūras kā pogas — klikšķis portāls, labais klikšķis \"Iesniegts\".",
+        "Bilžu tekstos tikai angļu burti (failos pirms OneDrive un FTP, Envato CSV, komplekta manifestā); core/exiftool.py."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test38",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Rīta atskaite spilgta (variants B): aģentūras kā pogas — klikšķis portāls, labais klikšķis \"Iesniegts\".",
+          "Bilžu tekstos tikai angļu burti (failos pirms OneDrive un FTP, Envato CSV, komplekta manifestā); core/exiftool.py."
+        ],
+        "en": [
+          "Rīta atskaite spilgta (variants B): aģentūras kā pogas — klikšķis portāls, labais klikšķis \"Iesniegts\".",
+          "Bilžu tekstos tikai angļu burti (failos pirms OneDrive un FTP, Envato CSV, komplekta manifestā); core/exiftool.py."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test37",
       "date": "2026-11-12",
