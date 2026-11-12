@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test35",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test35.zip",
-    "sha256": "2c7f0cfb97134769aafa973d16ff312e5ba2fcf496944344c02b63be866e4eb0",
-    "size": 6327664,
+    "version": "0.1.0-test36",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test36.zip",
+    "sha256": "c08732fe1e62f1801e740e302018ee267b71d952bdb9975a5194426616c4ea6d",
+    "size": 6330400,
     "date": "2026-11-12",
     "notes": {
       "lv": [
-        "Envato: iesniegšana arī ar FTP (FTPS, mape photos, parole — Envato API tokens)."
+        "Envato: metadatu CSV kopā ar bildēm (FTP) un kopija komplekta mapē."
       ],
       "en": [
-        "Envato: iesniegšana arī ar FTP (FTPS, mape photos, parole — Envato API tokens)."
+        "Envato: metadatu CSV kopā ar bildēm (FTP) un kopija komplekta mapē."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test36",
+      "date": "2026-11-12",
+      "notes": {
+        "lv": [
+          "Envato: metadatu CSV kopā ar bildēm (FTP) un kopija komplekta mapē."
+        ],
+        "en": [
+          "Envato: metadatu CSV kopā ar bildēm (FTP) un kopija komplekta mapē."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test35",
       "date": "2026-11-12",
