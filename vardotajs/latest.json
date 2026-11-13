@@ -1,22 +1,44 @@
 {
   "test": {
-    "version": "0.9.0-test19",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test19.zip",
-    "sha256": "7e3dd65ca7b88895bd82346a9d4d5d5a8e42d1efa81acf71fc051896e4ef0cdc",
-    "size": 9982250,
-    "date": "2026-11-12",
+    "version": "0.9.0-test20",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test20.zip",
+    "sha256": "e25b3ad46c4561a0c624d3998e5d041270ac3756a15da73df10e1945ad238dee",
+    "size": 10007120,
+    "date": "2026-11-13",
     "notes": {
       "lv": [
-        "Virsrakstā, aprakstā un atslēgvārdos tikai angļu burti (“Rīga” → “Riga”), arī ja pavedienā rakstīts ar garumzīmēm",
-        "ED datums bez komata pirms gada: “RIGA, LATVIA – SEPTEMBER 22 2026: …” (Depositphotos); vecie ar komatu joprojām atpazīti kā ED"
+        "Failā ierakstās valsts (un pilsēta, ja zināma) — iStock to nolasa pats; nezināma vieta → Latvia (Iestatījumos maināma)",
+        "Redaktorā lauks “Vieta failā” — valsti un pilsētu var izlabot",
+        "“Uz iesniegšanu”: par lielas bildes saspiež (oriģināls — apakšmapē “Original”), aģentūrām nederīgās nesūta un parāda iemeslu",
+        "Ieslēgt/izslēgt — pārslēdzēji ķekšu vietā"
       ],
       "en": [
-        "Virsrakstā, aprakstā un atslēgvārdos tikai angļu burti (“Rīga” → “Riga”), arī ja pavedienā rakstīts ar garumzīmēm",
-        "ED datums bez komata pirms gada: “RIGA, LATVIA – SEPTEMBER 22 2026: …” (Depositphotos); vecie ar komatu joprojām atpazīti kā ED"
+        "Failā ierakstās valsts (un pilsēta, ja zināma) — iStock to nolasa pats; nezināma vieta → Latvia (Iestatījumos maināma)",
+        "Redaktorā lauks “Vieta failā” — valsti un pilsētu var izlabot",
+        "“Uz iesniegšanu”: par lielas bildes saspiež (oriģināls — apakšmapē “Original”), aģentūrām nederīgās nesūta un parāda iemeslu",
+        "Ieslēgt/izslēgt — pārslēdzēji ķekšu vietā"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test20",
+      "date": "2026-11-13",
+      "notes": {
+        "lv": [
+          "Failā ierakstās valsts (un pilsēta, ja zināma) — iStock to nolasa pats; nezināma vieta → Latvia (Iestatījumos maināma)",
+          "Redaktorā lauks “Vieta failā” — valsti un pilsētu var izlabot",
+          "“Uz iesniegšanu”: par lielas bildes saspiež (oriģināls — apakšmapē “Original”), aģentūrām nederīgās nesūta un parāda iemeslu",
+          "Ieslēgt/izslēgt — pārslēdzēji ķekšu vietā"
+        ],
+        "en": [
+          "Failā ierakstās valsts (un pilsēta, ja zināma) — iStock to nolasa pats; nezināma vieta → Latvia (Iestatījumos maināma)",
+          "Redaktorā lauks “Vieta failā” — valsti un pilsētu var izlabot",
+          "“Uz iesniegšanu”: par lielas bildes saspiež (oriģināls — apakšmapē “Original”), aģentūrām nederīgās nesūta un parāda iemeslu",
+          "Ieslēgt/izslēgt — pārslēdzēji ķekšu vietā"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test19",
       "date": "2026-11-12",
