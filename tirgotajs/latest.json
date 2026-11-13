@@ -1,20 +1,48 @@
 {
   "test": {
-    "version": "0.1.0-test39",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test39.zip",
-    "sha256": "3cf391b575dd74bfa9808396ec6e9405c2401e6451febba255e5bc82624514cc",
-    "size": 6347619,
-    "date": "2026-11-12",
+    "version": "0.1.0-test40",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test40.zip",
+    "sha256": "7fe5ca393d9ab5dd3cbcccd98355a357c880ea92ac48a0f18062c7fec5c3d890",
+    "size": 6369403,
+    "date": "2026-11-13",
     "notes": {
       "lv": [
-        "ExifTool: izmanto Vārdotāja jau uzstādīto (nelejupielādē otru)."
+        "Statusa joslā darba indikators (arī pultī — dežūras datora darbs; nākamais darbs).",
+        "NAS saņemšanas atskaite Google `Kopigi/nas_sanemts.json` (Vārdotāja drošajai dzēšanai).",
+        "`Original/` līdzi uz OneDrive un atpakaļ; komplekta manifestā valsts, pilsēta, oriģināls.",
+        "RF ar ED rezervi: \"Sūtīt šai aģentūrai kā ED\" — FTP sūta ED kopiju.",
+        "Dažādāki automātiskie komplekti; Envato CSV kolonnas; viens ExifTool ar Vārdotāju; poga \"Atzīmēt iesniegtu\" noņemta."
       ],
       "en": [
-        "ExifTool: izmanto Vārdotāja jau uzstādīto (nelejupielādē otru)."
+        "Statusa joslā darba indikators (arī pultī — dežūras datora darbs; nākamais darbs).",
+        "NAS saņemšanas atskaite Google `Kopigi/nas_sanemts.json` (Vārdotāja drošajai dzēšanai).",
+        "`Original/` līdzi uz OneDrive un atpakaļ; komplekta manifestā valsts, pilsēta, oriģināls.",
+        "RF ar ED rezervi: \"Sūtīt šai aģentūrai kā ED\" — FTP sūta ED kopiju.",
+        "Dažādāki automātiskie komplekti; Envato CSV kolonnas; viens ExifTool ar Vārdotāju; poga \"Atzīmēt iesniegtu\" noņemta."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test40",
+      "date": "2026-11-13",
+      "notes": {
+        "lv": [
+          "Statusa joslā darba indikators (arī pultī — dežūras datora darbs; nākamais darbs).",
+          "NAS saņemšanas atskaite Google `Kopigi/nas_sanemts.json` (Vārdotāja drošajai dzēšanai).",
+          "`Original/` līdzi uz OneDrive un atpakaļ; komplekta manifestā valsts, pilsēta, oriģināls.",
+          "RF ar ED rezervi: \"Sūtīt šai aģentūrai kā ED\" — FTP sūta ED kopiju.",
+          "Dažādāki automātiskie komplekti; Envato CSV kolonnas; viens ExifTool ar Vārdotāju; poga \"Atzīmēt iesniegtu\" noņemta."
+        ],
+        "en": [
+          "Statusa joslā darba indikators (arī pultī — dežūras datora darbs; nākamais darbs).",
+          "NAS saņemšanas atskaite Google `Kopigi/nas_sanemts.json` (Vārdotāja drošajai dzēšanai).",
+          "`Original/` līdzi uz OneDrive un atpakaļ; komplekta manifestā valsts, pilsēta, oriģināls.",
+          "RF ar ED rezervi: \"Sūtīt šai aģentūrai kā ED\" — FTP sūta ED kopiju.",
+          "Dažādāki automātiskie komplekti; Envato CSV kolonnas; viens ExifTool ar Vārdotāju; poga \"Atzīmēt iesniegtu\" noņemta."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test39",
       "date": "2026-11-12",
