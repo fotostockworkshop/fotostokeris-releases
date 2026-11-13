@@ -1,26 +1,44 @@
 {
   "test": {
-    "version": "0.9.0-test20",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test20.zip",
-    "sha256": "e25b3ad46c4561a0c624d3998e5d041270ac3756a15da73df10e1945ad238dee",
-    "size": 10007120,
+    "version": "0.9.0-test21",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test21.zip",
+    "sha256": "f41a052e5866271be6a3323c6464ccaf6eab68c88c46b41a668413a92fd9225a",
+    "size": 10142360,
     "date": "2026-11-13",
     "notes": {
       "lv": [
-        "Failā ierakstās valsts (un pilsēta, ja zināma) — iStock to nolasa pats; nezināma vieta → Latvia (Iestatījumos maināma)",
-        "Redaktorā lauks “Vieta failā” — valsti un pilsētu var izlabot",
-        "“Uz iesniegšanu”: par lielas bildes saspiež (oriģināls — apakšmapē “Original”), aģentūrām nederīgās nesūta un parāda iemeslu",
-        "Ieslēgt/izslēgt — pārslēdzēji ķekšu vietā"
+        "Vieta failā arī no AI pavediena un esošā virsraksta/apraksta; redaktorā redzama valsts, kas tiks ierakstīta; ja zināms — arī reģions",
+        "“Uz iesniegšanu” ieraksta/izlabo valsti; manifestā sūtītāja dators",
+        "Drošā vietējo kopiju dzēšana (Mac, mājas dators): pēc Tirgotāja NAS pārbaudes un 3 dienām — “Var droši dzēst N bildes” → Atkritne",
+        "Saskarne vācu, spāņu un ukraiņu valodā"
       ],
       "en": [
-        "Failā ierakstās valsts (un pilsēta, ja zināma) — iStock to nolasa pats; nezināma vieta → Latvia (Iestatījumos maināma)",
-        "Redaktorā lauks “Vieta failā” — valsti un pilsētu var izlabot",
-        "“Uz iesniegšanu”: par lielas bildes saspiež (oriģināls — apakšmapē “Original”), aģentūrām nederīgās nesūta un parāda iemeslu",
-        "Ieslēgt/izslēgt — pārslēdzēji ķekšu vietā"
+        "Vieta failā arī no AI pavediena un esošā virsraksta/apraksta; redaktorā redzama valsts, kas tiks ierakstīta; ja zināms — arī reģions",
+        "“Uz iesniegšanu” ieraksta/izlabo valsti; manifestā sūtītāja dators",
+        "Drošā vietējo kopiju dzēšana (Mac, mājas dators): pēc Tirgotāja NAS pārbaudes un 3 dienām — “Var droši dzēst N bildes” → Atkritne",
+        "Saskarne vācu, spāņu un ukraiņu valodā"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test21",
+      "date": "2026-11-13",
+      "notes": {
+        "lv": [
+          "Vieta failā arī no AI pavediena un esošā virsraksta/apraksta; redaktorā redzama valsts, kas tiks ierakstīta; ja zināms — arī reģions",
+          "“Uz iesniegšanu” ieraksta/izlabo valsti; manifestā sūtītāja dators",
+          "Drošā vietējo kopiju dzēšana (Mac, mājas dators): pēc Tirgotāja NAS pārbaudes un 3 dienām — “Var droši dzēst N bildes” → Atkritne",
+          "Saskarne vācu, spāņu un ukraiņu valodā"
+        ],
+        "en": [
+          "Vieta failā arī no AI pavediena un esošā virsraksta/apraksta; redaktorā redzama valsts, kas tiks ierakstīta; ja zināms — arī reģions",
+          "“Uz iesniegšanu” ieraksta/izlabo valsti; manifestā sūtītāja dators",
+          "Drošā vietējo kopiju dzēšana (Mac, mājas dators): pēc Tirgotāja NAS pārbaudes un 3 dienām — “Var droši dzēst N bildes” → Atkritne",
+          "Saskarne vācu, spāņu un ukraiņu valodā"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test20",
       "date": "2026-11-13",
