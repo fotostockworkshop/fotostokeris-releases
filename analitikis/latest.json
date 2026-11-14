@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test61",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test61.zip",
-    "sha256": "fe16af45f3bab8f29020f5ec7ce33423ea9fd81fe8dfdf1e71022f223e7e68fb",
-    "size": 10829822,
-    "date": "2026-11-12",
+    "version": "0.3.1-test62",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test62.zip",
+    "sha256": "40bdb26a632bd158c02905fbdcf84bbdfbe800ddcbfe99794f742e7e37f89653",
+    "size": 10839683,
+    "date": "2026-11-14",
     "notes": {
       "lv": [
-        "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
+        "Pārdošanu sarakstā un tā skaitļos (Ienākumi / Lejupielādes / Faili) tagad ir tikai zināmās pārdošanas. Envato Elements abonementa mēneša ienākumi pa bildēm tur vairs netiek rādīti un skaitīti (tāpēc agrāk “Faili” bija daudz vairāk nekā lejupielāžu) — tie redzami tabulā “Salīdzinājums pa aģentūrām” un Pārskatā."
       ],
       "en": [
-        "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
+        "Pārdošanu sarakstā un tā skaitļos (Ienākumi / Lejupielādes / Faili) tagad ir tikai zināmās pārdošanas. Envato Elements abonementa mēneša ienākumi pa bildēm tur vairs netiek rādīti un skaitīti (tāpēc agrāk “Faili” bija daudz vairāk nekā lejupielāžu) — tie redzami tabulā “Salīdzinājums pa aģentūrām” un Pārskatā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test62",
+      "date": "2026-11-14",
+      "notes": {
+        "lv": [
+          "Pārdošanu sarakstā un tā skaitļos (Ienākumi / Lejupielādes / Faili) tagad ir tikai zināmās pārdošanas. Envato Elements abonementa mēneša ienākumi pa bildēm tur vairs netiek rādīti un skaitīti (tāpēc agrāk “Faili” bija daudz vairāk nekā lejupielāžu) — tie redzami tabulā “Salīdzinājums pa aģentūrām” un Pārskatā."
+        ],
+        "en": [
+          "Pārdošanu sarakstā un tā skaitļos (Ienākumi / Lejupielādes / Faili) tagad ir tikai zināmās pārdošanas. Envato Elements abonementa mēneša ienākumi pa bildēm tur vairs netiek rādīti un skaitīti (tāpēc agrāk “Faili” bija daudz vairāk nekā lejupielāžu) — tie redzami tabulā “Salīdzinājums pa aģentūrām” un Pārskatā."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test61",
       "date": "2026-11-12",
@@ -498,18 +510,6 @@
         ],
         "en": [
           "Kolekcijās dublikāti arī Envato bildēm ar viena vārda virsrakstu (Envato pats tās tā glabā, piem. “business”) — salīdzina visas bildes ar to pašu virsrakstu pēc sīktēla."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test22",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Pēc atjaunināšanas Envato Portfolio Manager tiek atvērts jau nākamajā Envato atjaunošanā (negaidot nākamo dienu) — pilnie virsraksti un dublikāti kolekcijās uzreiz."
-        ],
-        "en": [
-          "Pēc atjaunināšanas Envato Portfolio Manager tiek atvērts jau nākamajā Envato atjaunošanā (negaidot nākamo dienu) — pilnie virsraksti un dublikāti kolekcijās uzreiz."
         ]
       }
     }
