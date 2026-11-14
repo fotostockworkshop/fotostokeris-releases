@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test62",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test62.zip",
-    "sha256": "40bdb26a632bd158c02905fbdcf84bbdfbe800ddcbfe99794f742e7e37f89653",
-    "size": 10839683,
+    "version": "0.3.1-test63",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test63.zip",
+    "sha256": "83e630f83b9dc2d0b7754ab5d45cb89280135a3c072008ae167fb1f2bb527f6e",
+    "size": 10845958,
     "date": "2026-11-14",
     "notes": {
       "lv": [
-        "Pārdošanu sarakstā un tā skaitļos (Ienākumi / Lejupielādes / Faili) tagad ir tikai zināmās pārdošanas. Envato Elements abonementa mēneša ienākumi pa bildēm tur vairs netiek rādīti un skaitīti (tāpēc agrāk “Faili” bija daudz vairāk nekā lejupielāžu) — tie redzami tabulā “Salīdzinājums pa aģentūrām” un Pārskatā."
+        "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
       ],
       "en": [
-        "Pārdošanu sarakstā un tā skaitļos (Ienākumi / Lejupielādes / Faili) tagad ir tikai zināmās pārdošanas. Envato Elements abonementa mēneša ienākumi pa bildēm tur vairs netiek rādīti un skaitīti (tāpēc agrāk “Faili” bija daudz vairāk nekā lejupielāžu) — tie redzami tabulā “Salīdzinājums pa aģentūrām” un Pārskatā."
+        "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test63",
+      "date": "2026-11-14",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test62",
       "date": "2026-11-14",
@@ -498,18 +510,6 @@
         ],
         "en": [
           "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test23",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Kolekcijās dublikāti arī Envato bildēm ar viena vārda virsrakstu (Envato pats tās tā glabā, piem. “business”) — salīdzina visas bildes ar to pašu virsrakstu pēc sīktēla."
-        ],
-        "en": [
-          "Kolekcijās dublikāti arī Envato bildēm ar viena vārda virsrakstu (Envato pats tās tā glabā, piem. “business”) — salīdzina visas bildes ar to pašu virsrakstu pēc sīktēla."
         ]
       }
     }
