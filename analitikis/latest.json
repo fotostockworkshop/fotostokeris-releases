@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test63",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test63.zip",
-    "sha256": "83e630f83b9dc2d0b7754ab5d45cb89280135a3c072008ae167fb1f2bb527f6e",
-    "size": 10845958,
+    "version": "0.3.1-test64",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test64.zip",
+    "sha256": "ad67f4028358131e153f1e12ac6d197904463b73667a10148c09914a7df80321",
+    "size": 10847160,
     "date": "2026-11-14",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
+        "Manas bildes aģentūrās: Magnific publicētajām bildēm virsrakstā izmet pieturzīmes (piem. “Dubrovniks” “Dubrovnik’s” vietā), tāpēc daļa bilžu netika atpazītas (horvatija-1: ?13). Tagad virsrakstus salīdzina arī bez pieturzīmēm."
       ],
       "en": [
-        "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
+        "Manas bildes aģentūrās: Magnific publicētajām bildēm virsrakstā izmet pieturzīmes (piem. “Dubrovniks” “Dubrovnik’s” vietā), tāpēc daļa bilžu netika atpazītas (horvatija-1: ?13). Tagad virsrakstus salīdzina arī bez pieturzīmēm."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test64",
+      "date": "2026-11-14",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: Magnific publicētajām bildēm virsrakstā izmet pieturzīmes (piem. “Dubrovniks” “Dubrovnik’s” vietā), tāpēc daļa bilžu netika atpazītas (horvatija-1: ?13). Tagad virsrakstus salīdzina arī bez pieturzīmēm."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: Magnific publicētajām bildēm virsrakstā izmet pieturzīmes (piem. “Dubrovniks” “Dubrovnik’s” vietā), tāpēc daļa bilžu netika atpazītas (horvatija-1: ?13). Tagad virsrakstus salīdzina arī bez pieturzīmēm."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test63",
       "date": "2026-11-14",
@@ -498,18 +510,6 @@
         ],
         "en": [
           "Kolekciju dublikāti: sīktēlu lejupielāde salīdzināšanai Mac datorā neizdevās drošā savienojuma sertifikātu dēļ (klusi) — salabots; ja kāds sīktēls neielādējas, žurnālā ir iemesls."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test24",
-      "date": "2026-11-08",
-      "notes": {
-        "lv": [
-          "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
-        ],
-        "en": [
-          "Kolekciju dublikāti: Envato sīktēlus programma tagad lejupielādē JPEG formātā (agrāk Envato atdeva AVIF, ko salīdzināšana nevarēja nolasīt — tāpēc dublikāti nepievienojās)."
         ]
       }
     }
