@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test68",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test68.zip",
-    "sha256": "60e06c24ef3af6feba13653806cca860065424fe1bc7d97eda5d7f3446eb90a4",
-    "size": 10863081,
+    "version": "0.3.1-test69",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test69.zip",
+    "sha256": "42b52dcd7b5dd2c505db3877100f843f6d2b38130f498ef6854b60dae49cb8db",
+    "size": 10867082,
     "date": "2026-11-15",
     "notes": {
       "lv": [
-        "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
+        "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
+        "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
       ],
       "en": [
-        "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
+        "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
+        "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test69",
+      "date": "2026-11-15",
+      "notes": {
+        "lv": [
+          "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
+          "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
+        ],
+        "en": [
+          "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
+          "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test68",
       "date": "2026-11-15",
@@ -498,18 +514,6 @@
         ],
         "en": [
           "Pārdošanu un sīktēlu lasīšana tagad ir aizsargāts modulis (tāpat kā izmaksas): pārbaudītais kods netiek nejauši mainīts, labojot citas programmas daļas. Sadaļā “Labākās” vieta rakstīta ar “Nr.” (agrāk “#”)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test29",
-      "date": "2026-11-09",
-      "notes": {
-        "lv": [
-          "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
-        ],
-        "en": [
-          "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
         ]
       }
     }
