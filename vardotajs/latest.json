@@ -1,22 +1,40 @@
 {
   "test": {
-    "version": "0.9.0-test22",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test22.zip",
-    "sha256": "c0525b199bd400b8a66b0b1ca3e38b62b5bf83ddd089ca62f7b724f98550b7cc",
-    "size": 10144692,
+    "version": "0.9.0-test23",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test23.zip",
+    "sha256": "80452c8d3df12f5132791fb9f87acb23dd47c386b013f5d10d9a18d9aba7a871",
+    "size": 10148696,
     "date": "2026-11-15",
     "notes": {
       "lv": [
-        "Labots: test21 kļūdas dēļ nestrādāja “Uz iesniegšanu” poga (rādīja “sub_btn”), ED piebildes piedāvājums pēc veida maiņas un citas sūtījumu funkcijas",
-        "ED piebildē vienmēr arī vieta, ja zināma (labojums “Vieta failā”, pavediens, esošie teksti); AI vairs nedzēš agrāk noteikto vietu"
+        "Pārslēdzot bildi no RF uz ED, ED piebilde (vieta un datums no faila) tiek pielikta uzreiz — nekas nav jāpārģenerē; AI tikai saīsina, ja apraksts par garu",
+        "Ja vieta nav zināma — paziņojums un piedāvājums pārrakstīt ar AI",
+        "Atpazīst arī piebildes bez komata un tikai ar datumu (“SEPTEMBER 19 2026: …”)"
       ],
       "en": [
-        "Labots: test21 kļūdas dēļ nestrādāja “Uz iesniegšanu” poga (rādīja “sub_btn”), ED piebildes piedāvājums pēc veida maiņas un citas sūtījumu funkcijas",
-        "ED piebildē vienmēr arī vieta, ja zināma (labojums “Vieta failā”, pavediens, esošie teksti); AI vairs nedzēš agrāk noteikto vietu"
+        "Pārslēdzot bildi no RF uz ED, ED piebilde (vieta un datums no faila) tiek pielikta uzreiz — nekas nav jāpārģenerē; AI tikai saīsina, ja apraksts par garu",
+        "Ja vieta nav zināma — paziņojums un piedāvājums pārrakstīt ar AI",
+        "Atpazīst arī piebildes bez komata un tikai ar datumu (“SEPTEMBER 19 2026: …”)"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test23",
+      "date": "2026-11-15",
+      "notes": {
+        "lv": [
+          "Pārslēdzot bildi no RF uz ED, ED piebilde (vieta un datums no faila) tiek pielikta uzreiz — nekas nav jāpārģenerē; AI tikai saīsina, ja apraksts par garu",
+          "Ja vieta nav zināma — paziņojums un piedāvājums pārrakstīt ar AI",
+          "Atpazīst arī piebildes bez komata un tikai ar datumu (“SEPTEMBER 19 2026: …”)"
+        ],
+        "en": [
+          "Pārslēdzot bildi no RF uz ED, ED piebilde (vieta un datums no faila) tiek pielikta uzreiz — nekas nav jāpārģenerē; AI tikai saīsina, ja apraksts par garu",
+          "Ja vieta nav zināma — paziņojums un piedāvājums pārrakstīt ar AI",
+          "Atpazīst arī piebildes bez komata un tikai ar datumu (“SEPTEMBER 19 2026: …”)"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test22",
       "date": "2026-11-15",
