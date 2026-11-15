@@ -1,28 +1,40 @@
 {
   "test": {
-    "version": "0.1.0-test40",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test40.zip",
-    "sha256": "7fe5ca393d9ab5dd3cbcccd98355a357c880ea92ac48a0f18062c7fec5c3d890",
-    "size": 6369403,
-    "date": "2026-11-13",
+    "version": "0.1.0-test41",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test41.zip",
+    "sha256": "a1b125b6f117502bd9999b27691d914f87e6cf8011dbca99e4fcc64f9c4092fa",
+    "size": 6373370,
+    "date": "2026-11-15",
     "notes": {
       "lv": [
-        "Statusa joslā darba indikators (arī pultī — dežūras datora darbs; nākamais darbs).",
-        "NAS saņemšanas atskaite Google `Kopigi/nas_sanemts.json` (Vārdotāja drošajai dzēšanai).",
-        "`Original/` līdzi uz OneDrive un atpakaļ; komplekta manifestā valsts, pilsēta, oriģināls.",
-        "RF ar ED rezervi: \"Sūtīt šai aģentūrai kā ED\" — FTP sūta ED kopiju.",
-        "Dažādāki automātiskie komplekti; Envato CSV kolonnas; viens ExifTool ar Vārdotāju; poga \"Atzīmēt iesniegtu\" noņemta."
+        "\"Neder šai aģentūrai\" punktiņa izvēlnē (FTP izlaiž).",
+        "Dežūras dators gaida, kamēr bildes nonāk NAS (kļūda tikai pēc 6 h).",
+        "Magnific SFTP uploads.magnific.com."
       ],
       "en": [
-        "Statusa joslā darba indikators (arī pultī — dežūras datora darbs; nākamais darbs).",
-        "NAS saņemšanas atskaite Google `Kopigi/nas_sanemts.json` (Vārdotāja drošajai dzēšanai).",
-        "`Original/` līdzi uz OneDrive un atpakaļ; komplekta manifestā valsts, pilsēta, oriģināls.",
-        "RF ar ED rezervi: \"Sūtīt šai aģentūrai kā ED\" — FTP sūta ED kopiju.",
-        "Dažādāki automātiskie komplekti; Envato CSV kolonnas; viens ExifTool ar Vārdotāju; poga \"Atzīmēt iesniegtu\" noņemta."
+        "\"Neder šai aģentūrai\" punktiņa izvēlnē (FTP izlaiž).",
+        "Dežūras dators gaida, kamēr bildes nonāk NAS (kļūda tikai pēc 6 h).",
+        "Magnific SFTP uploads.magnific.com."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test41",
+      "date": "2026-11-15",
+      "notes": {
+        "lv": [
+          "\"Neder šai aģentūrai\" punktiņa izvēlnē (FTP izlaiž).",
+          "Dežūras dators gaida, kamēr bildes nonāk NAS (kļūda tikai pēc 6 h).",
+          "Magnific SFTP uploads.magnific.com."
+        ],
+        "en": [
+          "\"Neder šai aģentūrai\" punktiņa izvēlnē (FTP izlaiž).",
+          "Dežūras dators gaida, kamēr bildes nonāk NAS (kļūda tikai pēc 6 h).",
+          "Magnific SFTP uploads.magnific.com."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test40",
       "date": "2026-11-13",
@@ -596,24 +608,6 @@
           "Komplektu var pārskatīt (izņemt liekās, papildināt), saglabāt, parādīt tabulā un atzīmēt kā iesniegtu aģentūrā — neder un jau atzīmētās bildes netiek aiztiktas.",
           "Sinhronizācija ar citiem datoriem caur Google kontu: atzīmes, komplekti, iestatījumi (Iestatījumi → Pieslēgumi → Google konts).",
           "Rezerves kopijas iestatījumos (izveidot, atjaunot, automātiski)."
-        ]
-      }
-    },
-    {
-      "version": "0.1.0-test1",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
-          "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
-          "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
-          "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
-        ],
-        "en": [
-          "Pirmā Tirgotāja versija: tabula \"bilde × aģentūra\" no Vārdotāja sagatavotajām sērijām.",
-          "Aģentūru prasību pārbaude (MB, izmērs, formāts, ED) — neder rūtiņas dzeltenas ar iemeslu.",
-          "Atzīmes ar roku: iesniegts, pieņemts, noraidīts, neder; vairākas bildes uzreiz.",
-          "Kartītes katrai aģentūrai ar skaitu, aģentūras lapas atvēršana, filtrs \"vēl nav iesniegtas\"."
         ]
       }
     }
