@@ -1,26 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test21",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test21.zip",
-    "sha256": "f41a052e5866271be6a3323c6464ccaf6eab68c88c46b41a668413a92fd9225a",
-    "size": 10142360,
-    "date": "2026-11-13",
+    "version": "0.9.0-test22",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test22.zip",
+    "sha256": "c0525b199bd400b8a66b0b1ca3e38b62b5bf83ddd089ca62f7b724f98550b7cc",
+    "size": 10144692,
+    "date": "2026-11-15",
     "notes": {
       "lv": [
-        "Vieta failā arī no AI pavediena un esošā virsraksta/apraksta; redaktorā redzama valsts, kas tiks ierakstīta; ja zināms — arī reģions",
-        "“Uz iesniegšanu” ieraksta/izlabo valsti; manifestā sūtītāja dators",
-        "Drošā vietējo kopiju dzēšana (Mac, mājas dators): pēc Tirgotāja NAS pārbaudes un 3 dienām — “Var droši dzēst N bildes” → Atkritne",
-        "Saskarne vācu, spāņu un ukraiņu valodā"
+        "Labots: test21 kļūdas dēļ nestrādāja “Uz iesniegšanu” poga (rādīja “sub_btn”), ED piebildes piedāvājums pēc veida maiņas un citas sūtījumu funkcijas",
+        "ED piebildē vienmēr arī vieta, ja zināma (labojums “Vieta failā”, pavediens, esošie teksti); AI vairs nedzēš agrāk noteikto vietu"
       ],
       "en": [
-        "Vieta failā arī no AI pavediena un esošā virsraksta/apraksta; redaktorā redzama valsts, kas tiks ierakstīta; ja zināms — arī reģions",
-        "“Uz iesniegšanu” ieraksta/izlabo valsti; manifestā sūtītāja dators",
-        "Drošā vietējo kopiju dzēšana (Mac, mājas dators): pēc Tirgotāja NAS pārbaudes un 3 dienām — “Var droši dzēst N bildes” → Atkritne",
-        "Saskarne vācu, spāņu un ukraiņu valodā"
+        "Labots: test21 kļūdas dēļ nestrādāja “Uz iesniegšanu” poga (rādīja “sub_btn”), ED piebildes piedāvājums pēc veida maiņas un citas sūtījumu funkcijas",
+        "ED piebildē vienmēr arī vieta, ja zināma (labojums “Vieta failā”, pavediens, esošie teksti); AI vairs nedzēš agrāk noteikto vietu"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test22",
+      "date": "2026-11-15",
+      "notes": {
+        "lv": [
+          "Labots: test21 kļūdas dēļ nestrādāja “Uz iesniegšanu” poga (rādīja “sub_btn”), ED piebildes piedāvājums pēc veida maiņas un citas sūtījumu funkcijas",
+          "ED piebildē vienmēr arī vieta, ja zināma (labojums “Vieta failā”, pavediens, esošie teksti); AI vairs nedzēš agrāk noteikto vietu"
+        ],
+        "en": [
+          "Labots: test21 kļūdas dēļ nestrādāja “Uz iesniegšanu” poga (rādīja “sub_btn”), ED piebildes piedāvājums pēc veida maiņas un citas sūtījumu funkcijas",
+          "ED piebildē vienmēr arī vieta, ja zināma (labojums “Vieta failā”, pavediens, esošie teksti); AI vairs nedzēš agrāk noteikto vietu"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test21",
       "date": "2026-11-13",
