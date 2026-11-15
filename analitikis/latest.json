@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test67",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test67.zip",
-    "sha256": "29717494090eb5af4f7a894593ee4397d3576625aab27e2f3203d9c909bd5317",
-    "size": 10860759,
+    "version": "0.3.1-test68",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test68.zip",
+    "sha256": "60e06c24ef3af6feba13653806cca860065424fe1bc7d97eda5d7f3446eb90a4",
+    "size": 10863081,
     "date": "2026-11-15",
     "notes": {
       "lv": [
-        "Izmaksas: 123RF neizmaksātais tagad tiek nolasīts (agrāk programma to meklēja nepareizā vietā). Kartīte “Neizmaksāts” rāda tās pašas summas kā tabula “Izmaksas pa aģentūrām” — arī Envato Elements, iStock, Magnific, Envato Market; Depositphotos bez jau pieprasītās izmaksas, Ingram pārrēķināts no mārciņām. Envato Elements nepabeigtā mēneša ienākumi (piem. oktobris $26.97, nevis $5.03) — no Envato lapas kopsavilkuma, kamēr Envato dienas datus vēl nav publicējis. Manas bildes aģentūrās: sīktēli tiek lejupielādēti tikai nesasaistītajām bildēm."
+        "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
       ],
       "en": [
-        "Izmaksas: 123RF neizmaksātais tagad tiek nolasīts (agrāk programma to meklēja nepareizā vietā). Kartīte “Neizmaksāts” rāda tās pašas summas kā tabula “Izmaksas pa aģentūrām” — arī Envato Elements, iStock, Magnific, Envato Market; Depositphotos bez jau pieprasītās izmaksas, Ingram pārrēķināts no mārciņām. Envato Elements nepabeigtā mēneša ienākumi (piem. oktobris $26.97, nevis $5.03) — no Envato lapas kopsavilkuma, kamēr Envato dienas datus vēl nav publicējis. Manas bildes aģentūrās: sīktēli tiek lejupielādēti tikai nesasaistītajām bildēm."
+        "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test68",
+      "date": "2026-11-15",
+      "notes": {
+        "lv": [
+          "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
+        ],
+        "en": [
+          "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test67",
       "date": "2026-11-15",
@@ -498,18 +510,6 @@
         ],
         "en": [
           "Envato sīktēli: daudzām bildēm ar vienādu īso virsrakstu (piem. 85 “close-up”) bija viens un tas pats sīktēls (zemeņu šķīvis) — tie bija piešķirti pēc virsraksta. Tagad katrai bildei īstais sīktēls pēc tās ID (nākamajā Envato atjaunošanā). Tāpēc arī kolekciju dublikāti nestrādāja."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test28",
-      "date": "2026-11-09",
-      "notes": {
-        "lv": [
-          "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
-        ],
-        "en": [
-          "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
         ]
       }
     }
