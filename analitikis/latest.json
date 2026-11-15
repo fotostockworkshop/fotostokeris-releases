@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test69",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test69.zip",
-    "sha256": "42b52dcd7b5dd2c505db3877100f843f6d2b38130f498ef6854b60dae49cb8db",
-    "size": 10867082,
-    "date": "2026-11-15",
+    "version": "0.3.1-test70",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test70.zip",
+    "sha256": "eb4b5c4b8993d48dc274abf0b67fd6dc0b1a58452167b3aafd6fd3763bf9976a",
+    "size": 10867749,
+    "date": "2026-11-16",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
-        "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
+        "Izmaksas: mēneša prognozē Envato Elements tagad ir īstā gaidāmā izmaksa no Envato lapas “Balances” (piem. $499.93), nevis aprēķins no pirms diviem mēnešiem nopelnītā ($224.95) — tā pati summa, kas “Neizmaksāts kopā”."
       ],
       "en": [
-        "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
-        "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
+        "Izmaksas: mēneša prognozē Envato Elements tagad ir īstā gaidāmā izmaksa no Envato lapas “Balances” (piem. $499.93), nevis aprēķins no pirms diviem mēnešiem nopelnītā ($224.95) — tā pati summa, kas “Neizmaksāts kopā”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test70",
+      "date": "2026-11-16",
+      "notes": {
+        "lv": [
+          "Izmaksas: mēneša prognozē Envato Elements tagad ir īstā gaidāmā izmaksa no Envato lapas “Balances” (piem. $499.93), nevis aprēķins no pirms diviem mēnešiem nopelnītā ($224.95) — tā pati summa, kas “Neizmaksāts kopā”."
+        ],
+        "en": [
+          "Izmaksas: mēneša prognozē Envato Elements tagad ir īstā gaidāmā izmaksa no Envato lapas “Balances” (piem. $499.93), nevis aprēķins no pirms diviem mēnešiem nopelnītā ($224.95) — tā pati summa, kas “Neizmaksāts kopā”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test69",
       "date": "2026-11-15",
@@ -502,18 +512,6 @@
         ],
         "en": [
           "Portfelis: jauna tabula “Manas bildes aģentūrās” — Analītiķis nolasa Vārdotāja manifestus un katrai jūsu sērijai un bildei rāda, kurā aģentūrā tā ir pieņemta, pārbaudē, jālabo, noraidīta vai pārdota (sasaiste pēc faila nosaukuma, virsraksta vai sīktēla nospieduma). Alamy un Zoonar iesniegumu statusi nolasās pareizi (Alamy — no Image Manager saraksta, Zoonar — arī vāciskajā lapā)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test30",
-      "date": "2026-11-09",
-      "notes": {
-        "lv": [
-          "Pārdošanu un sīktēlu lasīšana tagad ir aizsargāts modulis (tāpat kā izmaksas): pārbaudītais kods netiek nejauši mainīts, labojot citas programmas daļas. Sadaļā “Labākās” vieta rakstīta ar “Nr.” (agrāk “#”)."
-        ],
-        "en": [
-          "Pārdošanu un sīktēlu lasīšana tagad ir aizsargāts modulis (tāpat kā izmaksas): pārbaudītais kods netiek nejauši mainīts, labojot citas programmas daļas. Sadaļā “Labākās” vieta rakstīta ar “Nr.” (agrāk “#”)."
         ]
       }
     }
