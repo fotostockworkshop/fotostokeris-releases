@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test71",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test71.zip",
-    "sha256": "ed4a74bf331a3cd9ff7b28e2bd23b7e8d0e53e17d555c14ca72f8c514ed6a08b",
-    "size": 10868780,
+    "version": "0.3.1-test72",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test72.zip",
+    "sha256": "7173772fe5c0a86fe903b3e7773ecfa3b3417f47807fc7fd156d6a7a2b0d0d2b",
+    "size": 10869778,
     "date": "2026-11-16",
     "notes": {
       "lv": [
-        "Izmaksas: Alamy pieejamā summa tagad ir “Cleared balance” no Alamy lapas (piem. $54.44), nevis viss atlikums ar vēl neapstiprinātajām pārdošanām ($96.20). Ja pieejamais ir virs minimuma, Alamy izmaksa prognozē gaidāma šajā mēnesī, kamēr tā nav saņemta."
+        "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
       ],
       "en": [
-        "Izmaksas: Alamy pieejamā summa tagad ir “Cleared balance” no Alamy lapas (piem. $54.44), nevis viss atlikums ar vēl neapstiprinātajām pārdošanām ($96.20). Ja pieejamais ir virs minimuma, Alamy izmaksa prognozē gaidāma šajā mēnesī, kamēr tā nav saņemta."
+        "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test72",
+      "date": "2026-11-16",
+      "notes": {
+        "lv": [
+          "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
+        ],
+        "en": [
+          "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test71",
       "date": "2026-11-16",
@@ -500,18 +512,6 @@
         ],
         "en": [
           "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test32",
-      "date": "2026-11-09",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: Vārdotāja manifesti tagad nolasās arī no Google Drive (Fotostokeris/Manifesti) — der jebkurā datorā, arī Mac, bez Google Drive programmas un NAS. Tirgotāja komplektu manifesti netiek skaitīti otrreiz. Pēc katras aģentūru atjaunošanas Analītiķis Tirgotājam atstāj sarakstu, kuras bildes jau ir kurā aģentūrā (agenturas_bildes.json). Iestatījumos (Beta) — neobligāta Vārdotāja manifestu mape."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: Vārdotāja manifesti tagad nolasās arī no Google Drive (Fotostokeris/Manifesti) — der jebkurā datorā, arī Mac, bez Google Drive programmas un NAS. Tirgotāja komplektu manifesti netiek skaitīti otrreiz. Pēc katras aģentūru atjaunošanas Analītiķis Tirgotājam atstāj sarakstu, kuras bildes jau ir kurā aģentūrā (agenturas_bildes.json). Iestatījumos (Beta) — neobligāta Vārdotāja manifestu mape."
         ]
       }
     }
