@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test66",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test66.zip",
-    "sha256": "fa22e937f4e9900d2be0a01131e14de4b58cf1b35db1105823fa244f1f981eb2",
-    "size": 10855907,
-    "date": "2026-11-14",
+    "version": "0.3.1-test67",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test67.zip",
+    "sha256": "29717494090eb5af4f7a894593ee4397d3576625aab27e2f3203d9c909bd5317",
+    "size": 10860759,
+    "date": "2026-11-15",
     "notes": {
       "lv": [
-        "Manas bildes aģentūrās: atrasts galvenais “?” iemesls — Tirgotājs pirms iesniegšanas burtus ar garumzīmēm pārvērš angļu burtos (“Līgatne” → “Ligatne”), tāpēc šādu bilžu virsraksti nesakrita ar komplekta manifestu. Tagad salīdzina bez garumzīmēm; Pond5 bildes bez datuma ar pilnu virsrakstu arī tiek atpazītas. Tavos datos atpazītas vēl 31 bilde (piem. Talsi 1–4 visās aģentūrās)."
+        "Izmaksas: 123RF neizmaksātais tagad tiek nolasīts (agrāk programma to meklēja nepareizā vietā). Kartīte “Neizmaksāts” rāda tās pašas summas kā tabula “Izmaksas pa aģentūrām” — arī Envato Elements, iStock, Magnific, Envato Market; Depositphotos bez jau pieprasītās izmaksas, Ingram pārrēķināts no mārciņām. Envato Elements nepabeigtā mēneša ienākumi (piem. oktobris $26.97, nevis $5.03) — no Envato lapas kopsavilkuma, kamēr Envato dienas datus vēl nav publicējis. Manas bildes aģentūrās: sīktēli tiek lejupielādēti tikai nesasaistītajām bildēm."
       ],
       "en": [
-        "Manas bildes aģentūrās: atrasts galvenais “?” iemesls — Tirgotājs pirms iesniegšanas burtus ar garumzīmēm pārvērš angļu burtos (“Līgatne” → “Ligatne”), tāpēc šādu bilžu virsraksti nesakrita ar komplekta manifestu. Tagad salīdzina bez garumzīmēm; Pond5 bildes bez datuma ar pilnu virsrakstu arī tiek atpazītas. Tavos datos atpazītas vēl 31 bilde (piem. Talsi 1–4 visās aģentūrās)."
+        "Izmaksas: 123RF neizmaksātais tagad tiek nolasīts (agrāk programma to meklēja nepareizā vietā). Kartīte “Neizmaksāts” rāda tās pašas summas kā tabula “Izmaksas pa aģentūrām” — arī Envato Elements, iStock, Magnific, Envato Market; Depositphotos bez jau pieprasītās izmaksas, Ingram pārrēķināts no mārciņām. Envato Elements nepabeigtā mēneša ienākumi (piem. oktobris $26.97, nevis $5.03) — no Envato lapas kopsavilkuma, kamēr Envato dienas datus vēl nav publicējis. Manas bildes aģentūrās: sīktēli tiek lejupielādēti tikai nesasaistītajām bildēm."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test67",
+      "date": "2026-11-15",
+      "notes": {
+        "lv": [
+          "Izmaksas: 123RF neizmaksātais tagad tiek nolasīts (agrāk programma to meklēja nepareizā vietā). Kartīte “Neizmaksāts” rāda tās pašas summas kā tabula “Izmaksas pa aģentūrām” — arī Envato Elements, iStock, Magnific, Envato Market; Depositphotos bez jau pieprasītās izmaksas, Ingram pārrēķināts no mārciņām. Envato Elements nepabeigtā mēneša ienākumi (piem. oktobris $26.97, nevis $5.03) — no Envato lapas kopsavilkuma, kamēr Envato dienas datus vēl nav publicējis. Manas bildes aģentūrās: sīktēli tiek lejupielādēti tikai nesasaistītajām bildēm."
+        ],
+        "en": [
+          "Izmaksas: 123RF neizmaksātais tagad tiek nolasīts (agrāk programma to meklēja nepareizā vietā). Kartīte “Neizmaksāts” rāda tās pašas summas kā tabula “Izmaksas pa aģentūrām” — arī Envato Elements, iStock, Magnific, Envato Market; Depositphotos bez jau pieprasītās izmaksas, Ingram pārrēķināts no mārciņām. Envato Elements nepabeigtā mēneša ienākumi (piem. oktobris $26.97, nevis $5.03) — no Envato lapas kopsavilkuma, kamēr Envato dienas datus vēl nav publicējis. Manas bildes aģentūrās: sīktēli tiek lejupielādēti tikai nesasaistītajām bildēm."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test66",
       "date": "2026-11-14",
@@ -498,18 +510,6 @@
         ],
         "en": [
           "Kolekciju dublikāti: Envato sīktēlus salīdzināšanai lejupielādē ar Mac sistēmas rīku “curl” (Envato programmai atdeva vienu aizstājējattēlu); drošība paliek — ja tas atkārtojas, nekas netiek pievienots."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test27",
-      "date": "2026-11-09",
-      "notes": {
-        "lv": [
-          "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
-        ],
-        "en": [
-          "Kolekciju dublikāti: Envato bija atdevis vienu un to pašu attēlu visām bildēm (tāpēc pievienojās 17 nepareizas). Tagad sīktēlus prasa kā pārlūks; ja aģentūra atdod vienu attēlu daudzām bildēm vai “vienādo” ir aizdomīgi daudz (> 8), programma neko nepievieno un ieraksta žurnālā."
         ]
       }
     }
