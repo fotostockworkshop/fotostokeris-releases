@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test72",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test72.zip",
-    "sha256": "7173772fe5c0a86fe903b3e7773ecfa3b3417f47807fc7fd156d6a7a2b0d0d2b",
-    "size": 10869778,
+    "version": "0.3.1-test73",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test73.zip",
+    "sha256": "94140ad877f86fd5c56b3fb46b07f4e752fbf576dff6e939862e40d023a05ac9",
+    "size": 10871647,
     "date": "2026-11-16",
     "notes": {
       "lv": [
-        "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
+        "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
       ],
       "en": [
-        "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
+        "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test73",
+      "date": "2026-11-16",
+      "notes": {
+        "lv": [
+          "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
+        ],
+        "en": [
+          "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test72",
       "date": "2026-11-16",
@@ -500,18 +512,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test33",
-      "date": "2026-11-10",
-      "notes": {
-        "lv": [
-          "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
-        ],
-        "en": [
-          "Labots (Windows): pēc atjaunināšanas ekrānā nepārtraukti uzzibsnīja melni logi — tie bija Envato sīktēlu lejupielādes logi bilžu salīdzināšanai pēc izskata. Tagad tie strādā neredzami. Labota arī kļūda “no such table: sub_status” datoros, kas iesniegumu statusus vēl nebija lasījuši (dēļ tās neizpildījās daži vienreizējie labojumi)."
         ]
       }
     }
