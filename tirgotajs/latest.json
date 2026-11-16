@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test42",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test42.zip",
-    "sha256": "66258632b9eeb4778dfc2737b540a29a133257e5d977918e2e3f0fc4fbd75f6f",
-    "size": 6869874,
+    "version": "0.1.0-test43",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test43.zip",
+    "sha256": "b727438ec12995efc1dcb809e34dc2f78b1b5d72a27b6827b93e6bf5985b65a9",
+    "size": 6871200,
     "date": "2026-11-16",
     "notes": {
       "lv": [
-        "Sākuma banneris: papīra lidmašīnas uz aģentūrām, pārdotās bildes atgriežas kā zelta monētas; nosaukums un soļi visās valodās (Iestatījumos var izslēgt)."
+        "Ātrāks starts (uz Windows ~5 s ātrāk); ielādes laikā logs vairs nav balts."
       ],
       "en": [
-        "Sākuma banneris: papīra lidmašīnas uz aģentūrām, pārdotās bildes atgriežas kā zelta monētas; nosaukums un soļi visās valodās (Iestatījumos var izslēgt)."
+        "Ātrāks starts (uz Windows ~5 s ātrāk); ielādes laikā logs vairs nav balts."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test43",
+      "date": "2026-11-16",
+      "notes": {
+        "lv": [
+          "Ātrāks starts (uz Windows ~5 s ātrāk); ielādes laikā logs vairs nav balts."
+        ],
+        "en": [
+          "Ātrāks starts (uz Windows ~5 s ātrāk); ielādes laikā logs vairs nav balts."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test42",
       "date": "2026-11-16",
@@ -582,22 +594,6 @@
           "Var arī: \"kas vēl nav iesniegts Adobe?\" (parāda tabulā), \"cik Bali bilžu pieņemts?\" (atbild).",
           "AI saņem tikai sarakstu (sērijas, atslēgvārdi, kas kur iesniegts), ne bildes, un pats neko neatzīmē un neiesniedz.",
           "AI pieslēgums: Iestatījumi → Pieslēgumi (Claude vai ChatGPT abonements, API atslēga); \"Kurš AI ko dara\" — rinda \"AI asistents\". Bez AI strādā vienkārša meklēšana pēc vārdiem."
-        ]
-      }
-    },
-    {
-      "version": "0.1.0-test3",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
-          "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
-          "Iestatījumos — mape komplektu kopijām."
-        ],
-        "en": [
-          "Komplektiem poga \"Mape aģentūrai\": nokopē bildes, kas aģentūrai der un vēl nav iesniegtas, atsevišķā mapē (pēc noklusējuma mājas mapē \"Fotostokeris komplekti/<komplekts>/<aģentūra>\") — to ievelk aģentūras augšupielādes lapā.",
-          "Aģentūru limiti: Shutterstock 500 bildes 7 dienās, Magnific 200 mēnesī — kartītē redzams skaits, pirms atzīmēšanas brīdinājums, ja limits tiks pārsniegts.",
-          "Iestatījumos — mape komplektu kopijām."
         ]
       }
     }
