@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test73",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test73.zip",
-    "sha256": "94140ad877f86fd5c56b3fb46b07f4e752fbf576dff6e939862e40d023a05ac9",
-    "size": 10871647,
-    "date": "2026-11-16",
+    "version": "0.3.1-test74",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test74.zip",
+    "sha256": "c7cf1add0314ce1b4515ece9f84d206414f12ea27522eb959e05da8d4174ddea",
+    "size": 10873806,
+    "date": "2026-11-17",
     "notes": {
       "lv": [
-        "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
+        "Envato Elements: atjaunošana atkal strādā — Envato noņēma iepriekšējo datu avotu, tagad ienākumi pa mēnešiem un dienām tiek nolasīti tieši no lapas “Elements Earnings”. Pēc atjaunošanas tiek nolasīta arī jaunākā izmaksa.",
+        "Izmaksas: tabulā “Pa gadiem” virsrakstā tagad redzama izvēlētā valūta (agrāk vienmēr “$”); paskaidrojums zem tabulas īsāks."
       ],
       "en": [
-        "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
+        "Envato Elements: atjaunošana atkal strādā — Envato noņēma iepriekšējo datu avotu, tagad ienākumi pa mēnešiem un dienām tiek nolasīti tieši no lapas “Elements Earnings”. Pēc atjaunošanas tiek nolasīta arī jaunākā izmaksa.",
+        "Izmaksas: tabulā “Pa gadiem” virsrakstā tagad redzama izvēlētā valūta (agrāk vienmēr “$”); paskaidrojums zem tabulas īsāks."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test74",
+      "date": "2026-11-17",
+      "notes": {
+        "lv": [
+          "Envato Elements: atjaunošana atkal strādā — Envato noņēma iepriekšējo datu avotu, tagad ienākumi pa mēnešiem un dienām tiek nolasīti tieši no lapas “Elements Earnings”. Pēc atjaunošanas tiek nolasīta arī jaunākā izmaksa.",
+          "Izmaksas: tabulā “Pa gadiem” virsrakstā tagad redzama izvēlētā valūta (agrāk vienmēr “$”); paskaidrojums zem tabulas īsāks."
+        ],
+        "en": [
+          "Envato Elements: atjaunošana atkal strādā — Envato noņēma iepriekšējo datu avotu, tagad ienākumi pa mēnešiem un dienām tiek nolasīti tieši no lapas “Elements Earnings”. Pēc atjaunošanas tiek nolasīta arī jaunākā izmaksa.",
+          "Izmaksas: tabulā “Pa gadiem” virsrakstā tagad redzama izvēlētā valūta (agrāk vienmēr “$”); paskaidrojums zem tabulas īsāks."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test73",
       "date": "2026-11-16",
@@ -500,18 +516,6 @@
         ],
         "en": [
           "Portfeļa analīze vairs nav Beta — atsevišķs modulis, ieslēdzams “Analītiķa iestatījumos”. Beta paliek “Manas bildes aģentūrās” (ieslēdzams atsevišķi). Tabulā: atvērtajā sērijā tikai sīktēli (virsraksts — mākonītī) un tikai aģentūras ar šīs sērijas bildēm; sērijas rindā pārdošanas summa. Bilžu sasaiste pēc izskata stingrāka (nesaista, ja aģentūra bildi saņēmusi agrāk, nekā tā uzņemta, vai ja līdzība neviennozīmīga) — izlabota kļūdaina Envato sasaiste."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test34",
-      "date": "2026-11-10",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: kolonnās visas pieslēgtās aģentūras ar nosaukumiem (ne tikai tās, kur bilde atrasta); bilžu sarakstā sīktēli faila nosaukuma vietā (nosaukums — uzbraucot ar peli), sērijas rindā pirmās 3 bildītes. Ja Google konts pieslēgts, manifestus lasa tikai no Google Drive (Vārdotājs tur augšupielādējis visus, arī vecos); vietējās mapes — tikai bez Google konta; iestatījumos norādīto mapi — vienmēr."
         ]
       }
     }
