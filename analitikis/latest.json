@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test77",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test77.zip",
-    "sha256": "4c1e56bc70d6f5078ee4d86ae5a280d5617da850703afa7f63c6521a61d19bd3",
-    "size": 10887861,
+    "version": "0.3.1-test78",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test78.zip",
+    "sha256": "b259e71932febfb1ec067a0be152157cd03dac0c3993922b2418a076c1fd54d4",
+    "size": 10890343,
     "date": "2026-11-17",
     "notes": {
       "lv": [
-        "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
-        "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
+        "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
       ],
       "en": [
-        "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
-        "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
+        "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test78",
+      "date": "2026-11-17",
+      "notes": {
+        "lv": [
+          "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
+        ],
+        "en": [
+          "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test77",
       "date": "2026-11-17",
@@ -506,18 +516,6 @@
         ],
         "en": [
           "Ingram datu atjaunošana vairs neiestrēgst pie iesniegumu statusiem (oriģinālos faila nosaukumus lasa tikai jaunajām bildēm, ne ilgāk par 1,5 min). Depositphotos — žurnālā papildu ziņas, lai atrastu, kur atjaunošana apstājas."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test38",
-      "date": "2026-11-10",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: sīktēli redzami arī sērijām, kuras Vārdotājs pārdēvējis (piem. Bali-ED) — sīktēlu failu meklē pēc sērijas numura, ne nosaukuma."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: sīktēli redzami arī sērijām, kuras Vārdotājs pārdēvējis (piem. Bali-ED) — sīktēlu failu meklē pēc sērijas numura, ne nosaukuma."
         ]
       }
     }
