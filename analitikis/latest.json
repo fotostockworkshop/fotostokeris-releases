@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test78",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test78.zip",
-    "sha256": "b259e71932febfb1ec067a0be152157cd03dac0c3993922b2418a076c1fd54d4",
-    "size": 10890343,
+    "version": "0.3.1-test79",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test79.zip",
+    "sha256": "48da01766a1cb810542319b2a7627b6e10a3133eb607841d06f3e65299e58287",
+    "size": 10890993,
     "date": "2026-11-17",
     "notes": {
       "lv": [
-        "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
+        "Izmaksas, Envato Elements: ja kāda izmaksa vēl ierakstīta bez nodokļa pārbaudes, izmaksu saraksts tiek nolasīts jau nākamajā atjaunošanā (nevis pēc nedēļas).",
+        "(test78) Trolley: tiek atvērtas tikai nezināmās izmaksas, katra nolasīta atsevišķi (“You Receive”)."
       ],
       "en": [
-        "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
+        "Izmaksas, Envato Elements: ja kāda izmaksa vēl ierakstīta bez nodokļa pārbaudes, izmaksu saraksts tiek nolasīts jau nākamajā atjaunošanā (nevis pēc nedēļas).",
+        "(test78) Trolley: tiek atvērtas tikai nezināmās izmaksas, katra nolasīta atsevišķi (“You Receive”)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test79",
+      "date": "2026-11-17",
+      "notes": {
+        "lv": [
+          "Izmaksas, Envato Elements: ja kāda izmaksa vēl ierakstīta bez nodokļa pārbaudes, izmaksu saraksts tiek nolasīts jau nākamajā atjaunošanā (nevis pēc nedēļas).",
+          "(test78) Trolley: tiek atvērtas tikai nezināmās izmaksas, katra nolasīta atsevišķi (“You Receive”)."
+        ],
+        "en": [
+          "Izmaksas, Envato Elements: ja kāda izmaksa vēl ierakstīta bez nodokļa pārbaudes, izmaksu saraksts tiek nolasīts jau nākamajā atjaunošanā (nevis pēc nedēļas).",
+          "(test78) Trolley: tiek atvērtas tikai nezināmās izmaksas, katra nolasīta atsevišķi (“You Receive”)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test78",
       "date": "2026-11-17",
@@ -504,18 +520,6 @@
         ],
         "en": [
           "Datu atjaunošana vairs neiestrēgst, ja kāda aģentūras lapa neatbild (piem. Depositphotos): katrs pieprasījums gaida līdz 40 s, tad mēģina vēlreiz vai turpina ar citu daļu; žurnālā redzams, kura lapa neatbildēja."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test39",
-      "date": "2026-11-10",
-      "notes": {
-        "lv": [
-          "Ingram datu atjaunošana vairs neiestrēgst pie iesniegumu statusiem (oriģinālos faila nosaukumus lasa tikai jaunajām bildēm, ne ilgāk par 1,5 min). Depositphotos — žurnālā papildu ziņas, lai atrastu, kur atjaunošana apstājas."
-        ],
-        "en": [
-          "Ingram datu atjaunošana vairs neiestrēgst pie iesniegumu statusiem (oriģinālos faila nosaukumus lasa tikai jaunajām bildēm, ne ilgāk par 1,5 min). Depositphotos — žurnālā papildu ziņas, lai atrastu, kur atjaunošana apstājas."
         ]
       }
     }
