@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test79",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test79.zip",
-    "sha256": "48da01766a1cb810542319b2a7627b6e10a3133eb607841d06f3e65299e58287",
-    "size": 10890993,
+    "version": "0.3.1-test80",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test80.zip",
+    "sha256": "154b412daee61c8adff2ef268be91db0e36eeb0de9e9555c9d97f0af815b4d9d",
+    "size": 10892267,
     "date": "2026-11-17",
     "notes": {
       "lv": [
-        "Izmaksas, Envato Elements: ja kāda izmaksa vēl ierakstīta bez nodokļa pārbaudes, izmaksu saraksts tiek nolasīts jau nākamajā atjaunošanā (nevis pēc nedēļas).",
-        "(test78) Trolley: tiek atvērtas tikai nezināmās izmaksas, katra nolasīta atsevišķi (“You Receive”)."
+        "Izmaksas: kartītē “Saņemts” ne-eiro izmaksām redzama arī oriģinālā izmaksātā summa, piem. “$492.85 ≈ €447.48” (eiro — pēc izmaksas dienas kursa).",
+        "Izmaksas, Envato Elements: izmaksa bez nodokļa ieturējuma tiek atzīmēta kā pārbaudīta un nākamreiz vairs netiek atvērta."
       ],
       "en": [
-        "Izmaksas, Envato Elements: ja kāda izmaksa vēl ierakstīta bez nodokļa pārbaudes, izmaksu saraksts tiek nolasīts jau nākamajā atjaunošanā (nevis pēc nedēļas).",
-        "(test78) Trolley: tiek atvērtas tikai nezināmās izmaksas, katra nolasīta atsevišķi (“You Receive”)."
+        "Izmaksas: kartītē “Saņemts” ne-eiro izmaksām redzama arī oriģinālā izmaksātā summa, piem. “$492.85 ≈ €447.48” (eiro — pēc izmaksas dienas kursa).",
+        "Izmaksas, Envato Elements: izmaksa bez nodokļa ieturējuma tiek atzīmēta kā pārbaudīta un nākamreiz vairs netiek atvērta."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test80",
+      "date": "2026-11-17",
+      "notes": {
+        "lv": [
+          "Izmaksas: kartītē “Saņemts” ne-eiro izmaksām redzama arī oriģinālā izmaksātā summa, piem. “$492.85 ≈ €447.48” (eiro — pēc izmaksas dienas kursa).",
+          "Izmaksas, Envato Elements: izmaksa bez nodokļa ieturējuma tiek atzīmēta kā pārbaudīta un nākamreiz vairs netiek atvērta."
+        ],
+        "en": [
+          "Izmaksas: kartītē “Saņemts” ne-eiro izmaksām redzama arī oriģinālā izmaksātā summa, piem. “$492.85 ≈ €447.48” (eiro — pēc izmaksas dienas kursa).",
+          "Izmaksas, Envato Elements: izmaksa bez nodokļa ieturējuma tiek atzīmēta kā pārbaudīta un nākamreiz vairs netiek atvērta."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test79",
       "date": "2026-11-17",
@@ -508,18 +522,6 @@
         ],
         "en": [
           "Depositphotos un Ingram atjaunošana ātrāka: gaidošo bilžu faila nosaukumu meklēšana apstājas, ja pirmajās 5 bildēs nekas netiek atrasts (agrāk — līdz 3,5 min velti)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test40",
-      "date": "2026-11-10",
-      "notes": {
-        "lv": [
-          "Datu atjaunošana vairs neiestrēgst, ja kāda aģentūras lapa neatbild (piem. Depositphotos): katrs pieprasījums gaida līdz 40 s, tad mēģina vēlreiz vai turpina ar citu daļu; žurnālā redzams, kura lapa neatbildēja."
-        ],
-        "en": [
-          "Datu atjaunošana vairs neiestrēgst, ja kāda aģentūras lapa neatbild (piem. Depositphotos): katrs pieprasījums gaida līdz 40 s, tad mēģina vēlreiz vai turpina ar citu daļu; žurnālā redzams, kura lapa neatbildēja."
         ]
       }
     }
