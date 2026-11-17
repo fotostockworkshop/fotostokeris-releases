@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test76",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test76.zip",
-    "sha256": "ce99f2406ffd1983e45f8a2c9bd53a3056d0e688ddbcdac4bec626813e336a80",
-    "size": 10885676,
+    "version": "0.3.1-test77",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test77.zip",
+    "sha256": "4c1e56bc70d6f5078ee4d86ae5a280d5617da850703afa7f63c6521a61d19bd3",
+    "size": 10887861,
     "date": "2026-11-17",
     "notes": {
       "lv": [
-        "Izmaksas, Envato Elements: kamēr nākamā izmaksa nav sasniegusi $50 minimumu, tā redzama tikai neizmaksātajā, pieejamais — $0.00 (josla “Līdz minimumam” rāda, cik trūkst)."
+        "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
+        "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
       ],
       "en": [
-        "Izmaksas, Envato Elements: kamēr nākamā izmaksa nav sasniegusi $50 minimumu, tā redzama tikai neizmaksātajā, pieejamais — $0.00 (josla “Līdz minimumam” rāda, cik trūkst)."
+        "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
+        "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test77",
+      "date": "2026-11-17",
+      "notes": {
+        "lv": [
+          "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
+          "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
+        ],
+        "en": [
+          "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
+          "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test76",
       "date": "2026-11-17",
@@ -502,18 +518,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: sīktēli redzami arī sērijām, kuras Vārdotājs pārdēvējis (piem. Bali-ED) — sīktēlu failu meklē pēc sērijas numura, ne nosaukuma."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test37",
-      "date": "2026-11-10",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: vecas bildes (aģentūrā pirms šī projekta, piem. Envato 2023. g.) vairs netiek sasaistītas ar Vārdotāja bildēm, pat ja virsraksts sakrīt — tagad pārbauda arī datumu, kad aģentūra bildi saņēma. Izlabota kļūdaina sasaiste, kur vairākām bildēm bija vienāds virsraksts."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: vecas bildes (aģentūrā pirms šī projekta, piem. Envato 2023. g.) vairs netiek sasaistītas ar Vārdotāja bildēm, pat ja virsraksts sakrīt — tagad pārbauda arī datumu, kad aģentūra bildi saņēma. Izlabota kļūdaina sasaiste, kur vairākām bildēm bija vienāds virsraksts."
         ]
       }
     }
