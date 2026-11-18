@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test82",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test82.zip",
-    "sha256": "ca07db213ed26b56b39c827f6b573d4a65a384088a6ea825532c66aecf2f48c5",
-    "size": 10895006,
+    "version": "0.3.1-test83",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test83.zip",
+    "sha256": "ff06407cc835028d8056f90693eca8520e1bd41ead7b242bfbe6769740f4f690",
+    "size": 10898560,
     "date": "2026-11-18",
     "notes": {
       "lv": [
-        "Depositphotos: “RSM Subscription” (abonementu ieņēmumu daļa, Depositphotos to ieraksta ar nākamā mēneša 1. datumu) tagad ieskaitīta mēnesī, par kuru tā ir — iepriekšējā mēneša pēdējā dienā (arī jau saglabātās). Aģentūru salīdzinājums sakrīt ar pārdošanu sarakstu un izmaksām.",
-        "Pārdošanas: skaidrojumā virs saraksta starp ienākumiem bez konkrētas bildes minēta arī Depositphotos “RSM Subscription”."
+        "Pixta: 2026. gada janvāra–augusta pārdošanas vairs nav dubultā (pēc lasīšanas maiņas 11.11. vecie ieraksti palika blakus jaunajiem) — summas Pārskatā, Pārdošanās, salīdzinājumā, Labākajās un Kolekcijās kļūst pareizas pēc nākamās Pixta atjaunošanas. Izmaksas nemainās.",
+        "Pārdošanas: skaidrojums virs saraksta tagad konkrēts — pa aģentūrām un iemesliem (piem. “Ingram: rāda tikai mēneša kopsummu ($9.52) — pārdošanas pa bildēm nav pieejamas”)."
       ],
       "en": [
-        "Depositphotos: “RSM Subscription” (abonementu ieņēmumu daļa, Depositphotos to ieraksta ar nākamā mēneša 1. datumu) tagad ieskaitīta mēnesī, par kuru tā ir — iepriekšējā mēneša pēdējā dienā (arī jau saglabātās). Aģentūru salīdzinājums sakrīt ar pārdošanu sarakstu un izmaksām.",
-        "Pārdošanas: skaidrojumā virs saraksta starp ienākumiem bez konkrētas bildes minēta arī Depositphotos “RSM Subscription”."
+        "Pixta: 2026. gada janvāra–augusta pārdošanas vairs nav dubultā (pēc lasīšanas maiņas 11.11. vecie ieraksti palika blakus jaunajiem) — summas Pārskatā, Pārdošanās, salīdzinājumā, Labākajās un Kolekcijās kļūst pareizas pēc nākamās Pixta atjaunošanas. Izmaksas nemainās.",
+        "Pārdošanas: skaidrojums virs saraksta tagad konkrēts — pa aģentūrām un iemesliem (piem. “Ingram: rāda tikai mēneša kopsummu ($9.52) — pārdošanas pa bildēm nav pieejamas”)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test83",
+      "date": "2026-11-18",
+      "notes": {
+        "lv": [
+          "Pixta: 2026. gada janvāra–augusta pārdošanas vairs nav dubultā (pēc lasīšanas maiņas 11.11. vecie ieraksti palika blakus jaunajiem) — summas Pārskatā, Pārdošanās, salīdzinājumā, Labākajās un Kolekcijās kļūst pareizas pēc nākamās Pixta atjaunošanas. Izmaksas nemainās.",
+          "Pārdošanas: skaidrojums virs saraksta tagad konkrēts — pa aģentūrām un iemesliem (piem. “Ingram: rāda tikai mēneša kopsummu ($9.52) — pārdošanas pa bildēm nav pieejamas”)."
+        ],
+        "en": [
+          "Pixta: 2026. gada janvāra–augusta pārdošanas vairs nav dubultā (pēc lasīšanas maiņas 11.11. vecie ieraksti palika blakus jaunajiem) — summas Pārskatā, Pārdošanās, salīdzinājumā, Labākajās un Kolekcijās kļūst pareizas pēc nākamās Pixta atjaunošanas. Izmaksas nemainās.",
+          "Pārdošanas: skaidrojums virs saraksta tagad konkrēts — pa aģentūrām un iemesliem (piem. “Ingram: rāda tikai mēneša kopsummu ($9.52) — pārdošanas pa bildēm nav pieejamas”)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test82",
       "date": "2026-11-18",
@@ -512,18 +526,6 @@
         ],
         "en": [
           "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test43",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
         ]
       }
     }
