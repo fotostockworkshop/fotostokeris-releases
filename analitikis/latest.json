@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test81",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test81.zip",
-    "sha256": "0ecf69c92717c95962f0617fba41d2ae35e4f8c54478e3b7ce2fafb7358bf93a",
-    "size": 10893280,
+    "version": "0.3.1-test82",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test82.zip",
+    "sha256": "ca07db213ed26b56b39c827f6b573d4a65a384088a6ea825532c66aecf2f48c5",
+    "size": 10895006,
     "date": "2026-11-18",
     "notes": {
       "lv": [
-        "Izmaksas, Depositphotos: neizmaksātais un pieejamais tagad ir “Available to withdraw” (tā pati summa, kas lapā pie maciņa ikonas, piem. $3.44); nolasa katrā atjaunošanā. Lapas kodā paslēptā “Balance” summa vairs netiek izmantota."
+        "Depositphotos: “RSM Subscription” (abonementu ieņēmumu daļa, Depositphotos to ieraksta ar nākamā mēneša 1. datumu) tagad ieskaitīta mēnesī, par kuru tā ir — iepriekšējā mēneša pēdējā dienā (arī jau saglabātās). Aģentūru salīdzinājums sakrīt ar pārdošanu sarakstu un izmaksām.",
+        "Pārdošanas: skaidrojumā virs saraksta starp ienākumiem bez konkrētas bildes minēta arī Depositphotos “RSM Subscription”."
       ],
       "en": [
-        "Izmaksas, Depositphotos: neizmaksātais un pieejamais tagad ir “Available to withdraw” (tā pati summa, kas lapā pie maciņa ikonas, piem. $3.44); nolasa katrā atjaunošanā. Lapas kodā paslēptā “Balance” summa vairs netiek izmantota."
+        "Depositphotos: “RSM Subscription” (abonementu ieņēmumu daļa, Depositphotos to ieraksta ar nākamā mēneša 1. datumu) tagad ieskaitīta mēnesī, par kuru tā ir — iepriekšējā mēneša pēdējā dienā (arī jau saglabātās). Aģentūru salīdzinājums sakrīt ar pārdošanu sarakstu un izmaksām.",
+        "Pārdošanas: skaidrojumā virs saraksta starp ienākumiem bez konkrētas bildes minēta arī Depositphotos “RSM Subscription”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test82",
+      "date": "2026-11-18",
+      "notes": {
+        "lv": [
+          "Depositphotos: “RSM Subscription” (abonementu ieņēmumu daļa, Depositphotos to ieraksta ar nākamā mēneša 1. datumu) tagad ieskaitīta mēnesī, par kuru tā ir — iepriekšējā mēneša pēdējā dienā (arī jau saglabātās). Aģentūru salīdzinājums sakrīt ar pārdošanu sarakstu un izmaksām.",
+          "Pārdošanas: skaidrojumā virs saraksta starp ienākumiem bez konkrētas bildes minēta arī Depositphotos “RSM Subscription”."
+        ],
+        "en": [
+          "Depositphotos: “RSM Subscription” (abonementu ieņēmumu daļa, Depositphotos to ieraksta ar nākamā mēneša 1. datumu) tagad ieskaitīta mēnesī, par kuru tā ir — iepriekšējā mēneša pēdējā dienā (arī jau saglabātās). Aģentūru salīdzinājums sakrīt ar pārdošanu sarakstu un izmaksām.",
+          "Pārdošanas: skaidrojumā virs saraksta starp ienākumiem bez konkrētas bildes minēta arī Depositphotos “RSM Subscription”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test81",
       "date": "2026-11-18",
@@ -508,18 +524,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: Pixta un Pond5 iesniegtās bildes tagad nolasās (Pixta — virsraksts no sīktēla; Pond5 lapas tabulai bija mainījies izkārtojums). Pēc atjaunināšanas nospied abām aģentūrām “Atjaunot”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test42",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
-        ],
-        "en": [
-          "Pixta: tagad nolasa arī abonementa pārdošanas (agrāk Pixta lapa ar Analītiķa filtru rādīja tikai tiešos pirkumus, tāpēc kopš septembra pārdošanas netika redzētas). Pēc atjaunināšanas Pixta kartītē nospied “Visa vēsture”."
         ]
       }
     }
