@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test83",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test83.zip",
-    "sha256": "ff06407cc835028d8056f90693eca8520e1bd41ead7b242bfbe6769740f4f690",
-    "size": 10898560,
+    "version": "0.3.1-test84",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test84.zip",
+    "sha256": "961444fa0ad2043d47c6b7a0aaffd08dce3c9e8976735fcb4bae7e02bb1b6055",
+    "size": 10899237,
     "date": "2026-11-18",
     "notes": {
       "lv": [
-        "Pixta: 2026. gada janvāra–augusta pārdošanas vairs nav dubultā (pēc lasīšanas maiņas 11.11. vecie ieraksti palika blakus jaunajiem) — summas Pārskatā, Pārdošanās, salīdzinājumā, Labākajās un Kolekcijās kļūst pareizas pēc nākamās Pixta atjaunošanas. Izmaksas nemainās.",
-        "Pārdošanas: skaidrojums virs saraksta tagad konkrēts — pa aģentūrām un iemesliem (piem. “Ingram: rāda tikai mēneša kopsummu ($9.52) — pārdošanas pa bildēm nav pieejamas”)."
+        "Pixta: dublikāti 2026. gadā tiek izdzēsti pilnībā — šī gada Pixta pārdošanas ir tikai tās, ko Pixta rāda sarakstā “View all” (test83 neatpazina senākos ierakstus). Pēc nākamās Pixta atjaunošanas."
       ],
       "en": [
-        "Pixta: 2026. gada janvāra–augusta pārdošanas vairs nav dubultā (pēc lasīšanas maiņas 11.11. vecie ieraksti palika blakus jaunajiem) — summas Pārskatā, Pārdošanās, salīdzinājumā, Labākajās un Kolekcijās kļūst pareizas pēc nākamās Pixta atjaunošanas. Izmaksas nemainās.",
-        "Pārdošanas: skaidrojums virs saraksta tagad konkrēts — pa aģentūrām un iemesliem (piem. “Ingram: rāda tikai mēneša kopsummu ($9.52) — pārdošanas pa bildēm nav pieejamas”)."
+        "Pixta: dublikāti 2026. gadā tiek izdzēsti pilnībā — šī gada Pixta pārdošanas ir tikai tās, ko Pixta rāda sarakstā “View all” (test83 neatpazina senākos ierakstus). Pēc nākamās Pixta atjaunošanas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test84",
+      "date": "2026-11-18",
+      "notes": {
+        "lv": [
+          "Pixta: dublikāti 2026. gadā tiek izdzēsti pilnībā — šī gada Pixta pārdošanas ir tikai tās, ko Pixta rāda sarakstā “View all” (test83 neatpazina senākos ierakstus). Pēc nākamās Pixta atjaunošanas."
+        ],
+        "en": [
+          "Pixta: dublikāti 2026. gadā tiek izdzēsti pilnībā — šī gada Pixta pārdošanas ir tikai tās, ko Pixta rāda sarakstā “View all” (test83 neatpazina senākos ierakstus). Pēc nākamās Pixta atjaunošanas."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test83",
       "date": "2026-11-18",
@@ -514,18 +524,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test44",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
-        ],
-        "en": [
-          "Vienas aģentūras “Atjaunot” (ar roku) tagad uzreiz nolasa arī iesniegumu statusus (pieņemts / pārbaudē / noraidīts), negaidot 12 stundas — jaunās bildes tabulā “Manas bildes aģentūrās” parādās uzreiz."
         ]
       }
     }
