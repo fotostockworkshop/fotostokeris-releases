@@ -1,22 +1,40 @@
 {
   "test": {
-    "version": "0.1.0-test44",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test44.zip",
-    "sha256": "818da0224e2f06bac74360192e2356f30191ceb832c7cc083cf775c8ed317bd3",
-    "size": 6881029,
+    "version": "0.1.0-test45",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test45.zip",
+    "sha256": "cb1846dc86e7b3cd601463772d0946fc802237b39c39fbdffda08fc1a35db056",
+    "size": 6886606,
     "date": "2026-11-19",
     "notes": {
       "lv": [
-        "Mēneša augšupielāžu limits aģentūrai (Magnific 200); atlikto komplektu sūta nākamajā mēnesī pats.",
-        "Savs kalendārs iesniegšanas dienai (atveras uz augšu)."
+        "Pieņemtās/noraidītās arī pēc Analītiķa datiem.",
+        "Plānā pārlapošana un cik nedēļas rādīt (tikai skats); \"⏸ gaida nākamo mēnesi\".",
+        "Nedēļas mape gada robežā 01."
       ],
       "en": [
-        "Mēneša augšupielāžu limits aģentūrai (Magnific 200); atlikto komplektu sūta nākamajā mēnesī pats.",
-        "Savs kalendārs iesniegšanas dienai (atveras uz augšu)."
+        "Pieņemtās/noraidītās arī pēc Analītiķa datiem.",
+        "Plānā pārlapošana un cik nedēļas rādīt (tikai skats); \"⏸ gaida nākamo mēnesi\".",
+        "Nedēļas mape gada robežā 01."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test45",
+      "date": "2026-11-19",
+      "notes": {
+        "lv": [
+          "Pieņemtās/noraidītās arī pēc Analītiķa datiem.",
+          "Plānā pārlapošana un cik nedēļas rādīt (tikai skats); \"⏸ gaida nākamo mēnesi\".",
+          "Nedēļas mape gada robežā 01."
+        ],
+        "en": [
+          "Pieņemtās/noraidītās arī pēc Analītiķa datiem.",
+          "Plānā pārlapošana un cik nedēļas rādīt (tikai skats); \"⏸ gaida nākamo mēnesi\".",
+          "Nedēļas mape gada robežā 01."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test44",
       "date": "2026-11-19",
@@ -578,20 +596,6 @@
         "en": [
           "Iestatījumos \"Kur sūtu ED un EDI bildes\": katrai aģentūrai ķeksīši ED un EDI. ED ietver arī EDI; tikai EDI — parastas ED bildes tur nesūta.",
           "EDI (zīmoli bez cilvēkiem) — atsevišķa kategorija arī komplektos un tabulas filtrā."
-        ]
-      }
-    },
-    {
-      "version": "0.1.0-test5",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
-          "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
-        ],
-        "en": [
-          "Labots: atjaunināšana uz Mac apstājās ar \"Permission denied … google_client.json\" — tagad visi faili rakstāmi, atjauninātājs tādus failus pārraksta.",
-          "Pārējais kā 0.1.0-test4 (AI asistents, komplekti, mape aģentūrai, sinhronizācija)."
         ]
       }
     }
