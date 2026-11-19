@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test85",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test85.zip",
-    "sha256": "e78b51a54c534cd0624378eb23b6fac9ce726b2d419dd38cb3aec1f31ce17411",
-    "size": 10911660,
+    "version": "0.3.1-test86",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test86.zip",
+    "sha256": "8847a6599337f2100280724e5196d82e4cdd3832d95e9b4d0dae7fadb4d2a4eb",
+    "size": 10912053,
     "date": "2026-11-19",
     "notes": {
       "lv": [
-        "Mac — izmēģinājums: Iestatījumos “Pārlūks aģentūrām (Mac)” → “Chromium pārlūks”. Aģentūru lapas atver iebūvēts Chromium, kas saglabā ielogošanos un “uzticamo ierīci” starp atjaunošanām — retāk jāievada drošības kodi. Bibliotēkas (~200 MB) uzstāda poga iestatījumos; pirmajā reizē katrā aģentūrā jāielogojas no jauna. Izslēdzot vai ja Chromium neizdodas palaist — esošais pārlūks."
+        "Iestatījumos parādās “Pārlūks aģentūrām (Mac)” ar Chromium izvēli un uzstādīšanas pogu (test85 tā kļūdas dēļ nebija redzama)."
       ],
       "en": [
-        "Mac — izmēģinājums: Iestatījumos “Pārlūks aģentūrām (Mac)” → “Chromium pārlūks”. Aģentūru lapas atver iebūvēts Chromium, kas saglabā ielogošanos un “uzticamo ierīci” starp atjaunošanām — retāk jāievada drošības kodi. Bibliotēkas (~200 MB) uzstāda poga iestatījumos; pirmajā reizē katrā aģentūrā jāielogojas no jauna. Izslēdzot vai ja Chromium neizdodas palaist — esošais pārlūks."
+        "Iestatījumos parādās “Pārlūks aģentūrām (Mac)” ar Chromium izvēli un uzstādīšanas pogu (test85 tā kļūdas dēļ nebija redzama)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test86",
+      "date": "2026-11-19",
+      "notes": {
+        "lv": [
+          "Iestatījumos parādās “Pārlūks aģentūrām (Mac)” ar Chromium izvēli un uzstādīšanas pogu (test85 tā kļūdas dēļ nebija redzama)."
+        ],
+        "en": [
+          "Iestatījumos parādās “Pārlūks aģentūrām (Mac)” ar Chromium izvēli un uzstādīšanas pogu (test85 tā kļūdas dēļ nebija redzama)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test85",
       "date": "2026-11-19",
@@ -512,18 +524,6 @@
         ],
         "en": [
           "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test46",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
-        ],
-        "en": [
-          "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
         ]
       }
     }
