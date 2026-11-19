@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test87",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test87.zip",
-    "sha256": "677a31f1d5447ffa27890da5c59ec1b0982b769b6f27f6c4cf1b588038e5bbf8",
-    "size": 10915054,
+    "version": "0.3.1-test88",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test88.zip",
+    "sha256": "152a03d8cd350bf4aa81c4a2277a87478fd5ce7302ee3f1cdd6910a174a63ca7",
+    "size": 10916148,
     "date": "2026-11-19",
     "notes": {
       "lv": [
-        "Chromium pārlūks (Mac, izmēģinājums): vairs neavarē, ja aģentūras lapa (piem. Shutterstock) prasa atļauju — atbild “nē”; kļūdas pārlūkā raksta žurnālā, nevis aptur procesu; Chromium neaiztiek sistēmas atslēgu krātuvi (macOS “Data Access Blocked”). Ja Chromium tomēr avarē — nākamreiz automātiski esošais pārlūks."
+        "Chromium pārlūks (Mac, izmēģinājums): piesakās ar savu īsto Chrome versiju (agrāk izdomāta “Chrome 130”, ko Shutterstock un Ingram robotu aizsardzība uzskatīja par aizdomīgu)."
       ],
       "en": [
-        "Chromium pārlūks (Mac, izmēģinājums): vairs neavarē, ja aģentūras lapa (piem. Shutterstock) prasa atļauju — atbild “nē”; kļūdas pārlūkā raksta žurnālā, nevis aptur procesu; Chromium neaiztiek sistēmas atslēgu krātuvi (macOS “Data Access Blocked”). Ja Chromium tomēr avarē — nākamreiz automātiski esošais pārlūks."
+        "Chromium pārlūks (Mac, izmēģinājums): piesakās ar savu īsto Chrome versiju (agrāk izdomāta “Chrome 130”, ko Shutterstock un Ingram robotu aizsardzība uzskatīja par aizdomīgu)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test88",
+      "date": "2026-11-19",
+      "notes": {
+        "lv": [
+          "Chromium pārlūks (Mac, izmēģinājums): piesakās ar savu īsto Chrome versiju (agrāk izdomāta “Chrome 130”, ko Shutterstock un Ingram robotu aizsardzība uzskatīja par aizdomīgu)."
+        ],
+        "en": [
+          "Chromium pārlūks (Mac, izmēģinājums): piesakās ar savu īsto Chrome versiju (agrāk izdomāta “Chrome 130”, ko Shutterstock un Ingram robotu aizsardzība uzskatīja par aizdomīgu)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test87",
       "date": "2026-11-19",
@@ -512,18 +524,6 @@
         "en": [
           "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
           "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test48",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
         ]
       }
     }
