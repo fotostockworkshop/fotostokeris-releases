@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test84",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test84.zip",
-    "sha256": "961444fa0ad2043d47c6b7a0aaffd08dce3c9e8976735fcb4bae7e02bb1b6055",
-    "size": 10899237,
-    "date": "2026-11-18",
+    "version": "0.3.1-test85",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test85.zip",
+    "sha256": "e78b51a54c534cd0624378eb23b6fac9ce726b2d419dd38cb3aec1f31ce17411",
+    "size": 10911660,
+    "date": "2026-11-19",
     "notes": {
       "lv": [
-        "Pixta: dublikāti 2026. gadā tiek izdzēsti pilnībā — šī gada Pixta pārdošanas ir tikai tās, ko Pixta rāda sarakstā “View all” (test83 neatpazina senākos ierakstus). Pēc nākamās Pixta atjaunošanas."
+        "Mac — izmēģinājums: Iestatījumos “Pārlūks aģentūrām (Mac)” → “Chromium pārlūks”. Aģentūru lapas atver iebūvēts Chromium, kas saglabā ielogošanos un “uzticamo ierīci” starp atjaunošanām — retāk jāievada drošības kodi. Bibliotēkas (~200 MB) uzstāda poga iestatījumos; pirmajā reizē katrā aģentūrā jāielogojas no jauna. Izslēdzot vai ja Chromium neizdodas palaist — esošais pārlūks."
       ],
       "en": [
-        "Pixta: dublikāti 2026. gadā tiek izdzēsti pilnībā — šī gada Pixta pārdošanas ir tikai tās, ko Pixta rāda sarakstā “View all” (test83 neatpazina senākos ierakstus). Pēc nākamās Pixta atjaunošanas."
+        "Mac — izmēģinājums: Iestatījumos “Pārlūks aģentūrām (Mac)” → “Chromium pārlūks”. Aģentūru lapas atver iebūvēts Chromium, kas saglabā ielogošanos un “uzticamo ierīci” starp atjaunošanām — retāk jāievada drošības kodi. Bibliotēkas (~200 MB) uzstāda poga iestatījumos; pirmajā reizē katrā aģentūrā jāielogojas no jauna. Izslēdzot vai ja Chromium neizdodas palaist — esošais pārlūks."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test85",
+      "date": "2026-11-19",
+      "notes": {
+        "lv": [
+          "Mac — izmēģinājums: Iestatījumos “Pārlūks aģentūrām (Mac)” → “Chromium pārlūks”. Aģentūru lapas atver iebūvēts Chromium, kas saglabā ielogošanos un “uzticamo ierīci” starp atjaunošanām — retāk jāievada drošības kodi. Bibliotēkas (~200 MB) uzstāda poga iestatījumos; pirmajā reizē katrā aģentūrā jāielogojas no jauna. Izslēdzot vai ja Chromium neizdodas palaist — esošais pārlūks."
+        ],
+        "en": [
+          "Mac — izmēģinājums: Iestatījumos “Pārlūks aģentūrām (Mac)” → “Chromium pārlūks”. Aģentūru lapas atver iebūvēts Chromium, kas saglabā ielogošanos un “uzticamo ierīci” starp atjaunošanām — retāk jāievada drošības kodi. Bibliotēkas (~200 MB) uzstāda poga iestatījumos; pirmajā reizē katrā aģentūrā jāielogojas no jauna. Izslēdzot vai ja Chromium neizdodas palaist — esošais pārlūks."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test84",
       "date": "2026-11-18",
@@ -512,18 +524,6 @@
         ],
         "en": [
           "Depositphotos: arī publicētās (Online) bildes tagad atrodas tabulā “Manas bildes aģentūrās” — virsrakstu Analītiķis nolasa bildes lapā. Iesniegumu statusos virsraksts vairs netiek pazaudēts, kad bilde pāriet no “pārbaudē” uz “publicēta”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test45",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: vairāk bilžu tiek atrastas — salīdzina arī ar Vārdotāja aprakstu (Depositphotos, Pond5 u.c. rāda aprakstu kā virsrakstu), Zoonar saīsinātos virsrakstus un Magnific publicēto bilžu virsrakstus. Vecas bildes (uzņemtas pirms 2025) bez aģentūras datuma netiek sasaistītas."
         ]
       }
     }
