@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test86",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test86.zip",
-    "sha256": "8847a6599337f2100280724e5196d82e4cdd3832d95e9b4d0dae7fadb4d2a4eb",
-    "size": 10912053,
+    "version": "0.3.1-test87",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test87.zip",
+    "sha256": "677a31f1d5447ffa27890da5c59ec1b0982b769b6f27f6c4cf1b588038e5bbf8",
+    "size": 10915054,
     "date": "2026-11-19",
     "notes": {
       "lv": [
-        "Iestatījumos parādās “Pārlūks aģentūrām (Mac)” ar Chromium izvēli un uzstādīšanas pogu (test85 tā kļūdas dēļ nebija redzama)."
+        "Chromium pārlūks (Mac, izmēģinājums): vairs neavarē, ja aģentūras lapa (piem. Shutterstock) prasa atļauju — atbild “nē”; kļūdas pārlūkā raksta žurnālā, nevis aptur procesu; Chromium neaiztiek sistēmas atslēgu krātuvi (macOS “Data Access Blocked”). Ja Chromium tomēr avarē — nākamreiz automātiski esošais pārlūks."
       ],
       "en": [
-        "Iestatījumos parādās “Pārlūks aģentūrām (Mac)” ar Chromium izvēli un uzstādīšanas pogu (test85 tā kļūdas dēļ nebija redzama)."
+        "Chromium pārlūks (Mac, izmēģinājums): vairs neavarē, ja aģentūras lapa (piem. Shutterstock) prasa atļauju — atbild “nē”; kļūdas pārlūkā raksta žurnālā, nevis aptur procesu; Chromium neaiztiek sistēmas atslēgu krātuvi (macOS “Data Access Blocked”). Ja Chromium tomēr avarē — nākamreiz automātiski esošais pārlūks."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test87",
+      "date": "2026-11-19",
+      "notes": {
+        "lv": [
+          "Chromium pārlūks (Mac, izmēģinājums): vairs neavarē, ja aģentūras lapa (piem. Shutterstock) prasa atļauju — atbild “nē”; kļūdas pārlūkā raksta žurnālā, nevis aptur procesu; Chromium neaiztiek sistēmas atslēgu krātuvi (macOS “Data Access Blocked”). Ja Chromium tomēr avarē — nākamreiz automātiski esošais pārlūks."
+        ],
+        "en": [
+          "Chromium pārlūks (Mac, izmēģinājums): vairs neavarē, ja aģentūras lapa (piem. Shutterstock) prasa atļauju — atbild “nē”; kļūdas pārlūkā raksta žurnālā, nevis aptur procesu; Chromium neaiztiek sistēmas atslēgu krātuvi (macOS “Data Access Blocked”). Ja Chromium tomēr avarē — nākamreiz automātiski esošais pārlūks."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test86",
       "date": "2026-11-19",
@@ -512,18 +524,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: lasa arī Tirgotāja komplektu manifestus — bildēm, kurām Vārdotāja sērijas manifesta nav (piem. Dubrovnik), tagad var atrast statusus aģentūrās; bilde, kas ir gan sērijā, gan komplektā, tiek skaitīta vienreiz. ED priekšvārds (“Dubrovnik, Croatia - September 17, 2025:”) salīdzinot netiek ņemts vērā."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test47",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
-        ],
-        "en": [
-          "“Pārlasīt manifestus”: kamēr notiek pārlasīšana, poga un statusa josla rāda “Pārlasu manifestus…”, beigās — paziņojums, cik sēriju, bilžu un sasaistu atrasts."
         ]
       }
     }
