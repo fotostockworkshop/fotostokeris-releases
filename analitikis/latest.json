@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test95",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test95.zip",
-    "sha256": "47c0d8df67003f0d1bf544e8b914093a8ebe69e92ee0791a56261090bb73d69e",
-    "size": 10930002,
+    "version": "0.3.1-test96",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test96.zip",
+    "sha256": "922c3c5b42681ab4f34036d9dff83671a269ab714240cc41cb49059e02ca3686",
+    "size": 10932020,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "iStock / Getty: izmaksu izrakstu no katra mēneša 20. datuma pārbauda katru dienu, līdz šī mēneša izmaksa nolasīta (agrāk — reizi nedēļā, tāpēc jaunā izmaksa parādījās ar nokavēšanos)."
+        "Izmaksas: nauda vairs nepazūd — izmaksa ceļā (aģentūra jau izmaksājusi, bet saņemšanas datums vēl priekšā) paliek gan neizmaksātajā, gan pieejamajā, līdz saņemta (piem. iStock $106.34 līdz ~23.11.). Attiecas uz visām aģentūrām (Envato un Magnific — savs aprēķins).",
+        "Automātiskām izmaksām (iStock u.c.) ⓘ tagad rāda “izmaksa 25.11. · PayPal ~23.11.”, nevis “pieprasīts”."
       ],
       "en": [
-        "iStock / Getty: izmaksu izrakstu no katra mēneša 20. datuma pārbauda katru dienu, līdz šī mēneša izmaksa nolasīta (agrāk — reizi nedēļā, tāpēc jaunā izmaksa parādījās ar nokavēšanos)."
+        "Izmaksas: nauda vairs nepazūd — izmaksa ceļā (aģentūra jau izmaksājusi, bet saņemšanas datums vēl priekšā) paliek gan neizmaksātajā, gan pieejamajā, līdz saņemta (piem. iStock $106.34 līdz ~23.11.). Attiecas uz visām aģentūrām (Envato un Magnific — savs aprēķins).",
+        "Automātiskām izmaksām (iStock u.c.) ⓘ tagad rāda “izmaksa 25.11. · PayPal ~23.11.”, nevis “pieprasīts”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test96",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Izmaksas: nauda vairs nepazūd — izmaksa ceļā (aģentūra jau izmaksājusi, bet saņemšanas datums vēl priekšā) paliek gan neizmaksātajā, gan pieejamajā, līdz saņemta (piem. iStock $106.34 līdz ~23.11.). Attiecas uz visām aģentūrām (Envato un Magnific — savs aprēķins).",
+          "Automātiskām izmaksām (iStock u.c.) ⓘ tagad rāda “izmaksa 25.11. · PayPal ~23.11.”, nevis “pieprasīts”."
+        ],
+        "en": [
+          "Izmaksas: nauda vairs nepazūd — izmaksa ceļā (aģentūra jau izmaksājusi, bet saņemšanas datums vēl priekšā) paliek gan neizmaksātajā, gan pieejamajā, līdz saņemta (piem. iStock $106.34 līdz ~23.11.). Attiecas uz visām aģentūrām (Envato un Magnific — savs aprēķins).",
+          "Automātiskām izmaksām (iStock u.c.) ⓘ tagad rāda “izmaksa 25.11. · PayPal ~23.11.”, nevis “pieprasīts”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test95",
       "date": "2026-11-20",
@@ -514,20 +530,6 @@
         ],
         "en": [
           "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test56",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
-          "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
-        ],
-        "en": [
-          "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
-          "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
         ]
       }
     }
