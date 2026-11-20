@@ -1,26 +1,40 @@
 {
   "test": {
-    "version": "0.3.1-test89",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test89.zip",
-    "sha256": "770a3ce6c1f305ebd2e6d4989b2248cfb9891907ea66adabaf0028ff30ccb24d",
-    "size": 10921537,
+    "version": "0.3.1-test90",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test90.zip",
+    "sha256": "47ea6e6e4c10478fb322f58ea960f77682005866a129fbe43243b95f0909f48c",
+    "size": 10924973,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Chromium pārlūks (Mac, izmēģinājums): Shutterstock vienmēr atjauno ar esošo pārlūku (Chromium tas atraida kā robotu) — pēc Chromium aģentūrām, automātiski; pārējās aģentūras — ar Chromium.",
-        "Cilvēka pārbaudes (Cloudflare, DataDome, hCaptcha, reCAPTCHA, “unusual activity”): Analītiķis neko neaizpilda un uzreiz rāda logu tev.",
-        "Manas bildes aģentūrās: bez Bigstock kolonnas (Bigstock jaunas bildes nepieņem).",
-        "Portfeļa lielums: Bigstock vietne slēdzas 8.12.2026 — no 2027. gada Bigstock rindu nerāda (vēsture paliek); paskaidrojumā noņemts teikums par kopsummu, kuras tabulā nav."
+        "Statusa rindā redzama jebkura atjaunošana: arī fonā notiekošā un aģentūras, kas gaida rindā otram pārlūkam (piem. “Atjauno: Shutterstock · rindā: Adobe”). Statuss tiek pārbaudīts arī tad, ja atjaunošanu sāka pati programma.",
+        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst uz 5 min pēc portfeļa lapas atvēršanas — ja 30 s nav ziņu, lasīšanu sāk vēlreiz; ja portfeļa lapa neatbild 90 s, portfeli šoreiz izlaiž un aģentūra beidz bez kļūdas (pārējie dati jau saglabāti).",
+        "Cilvēka pārbaude: slēptā reCAPTCHA / hCaptcha ielogošanās lapā (piem. Bigstock) vairs netiek uzskatīta par pārbaudi — logs vairs neparādās velti."
       ],
       "en": [
-        "Chromium pārlūks (Mac, izmēģinājums): Shutterstock vienmēr atjauno ar esošo pārlūku (Chromium tas atraida kā robotu) — pēc Chromium aģentūrām, automātiski; pārējās aģentūras — ar Chromium.",
-        "Cilvēka pārbaudes (Cloudflare, DataDome, hCaptcha, reCAPTCHA, “unusual activity”): Analītiķis neko neaizpilda un uzreiz rāda logu tev.",
-        "Manas bildes aģentūrās: bez Bigstock kolonnas (Bigstock jaunas bildes nepieņem).",
-        "Portfeļa lielums: Bigstock vietne slēdzas 8.12.2026 — no 2027. gada Bigstock rindu nerāda (vēsture paliek); paskaidrojumā noņemts teikums par kopsummu, kuras tabulā nav."
+        "Statusa rindā redzama jebkura atjaunošana: arī fonā notiekošā un aģentūras, kas gaida rindā otram pārlūkam (piem. “Atjauno: Shutterstock · rindā: Adobe”). Statuss tiek pārbaudīts arī tad, ja atjaunošanu sāka pati programma.",
+        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst uz 5 min pēc portfeļa lapas atvēršanas — ja 30 s nav ziņu, lasīšanu sāk vēlreiz; ja portfeļa lapa neatbild 90 s, portfeli šoreiz izlaiž un aģentūra beidz bez kļūdas (pārējie dati jau saglabāti).",
+        "Cilvēka pārbaude: slēptā reCAPTCHA / hCaptcha ielogošanās lapā (piem. Bigstock) vairs netiek uzskatīta par pārbaudi — logs vairs neparādās velti."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test90",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Statusa rindā redzama jebkura atjaunošana: arī fonā notiekošā un aģentūras, kas gaida rindā otram pārlūkam (piem. “Atjauno: Shutterstock · rindā: Adobe”). Statuss tiek pārbaudīts arī tad, ja atjaunošanu sāka pati programma.",
+          "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst uz 5 min pēc portfeļa lapas atvēršanas — ja 30 s nav ziņu, lasīšanu sāk vēlreiz; ja portfeļa lapa neatbild 90 s, portfeli šoreiz izlaiž un aģentūra beidz bez kļūdas (pārējie dati jau saglabāti).",
+          "Cilvēka pārbaude: slēptā reCAPTCHA / hCaptcha ielogošanās lapā (piem. Bigstock) vairs netiek uzskatīta par pārbaudi — logs vairs neparādās velti."
+        ],
+        "en": [
+          "Statusa rindā redzama jebkura atjaunošana: arī fonā notiekošā un aģentūras, kas gaida rindā otram pārlūkam (piem. “Atjauno: Shutterstock · rindā: Adobe”). Statuss tiek pārbaudīts arī tad, ja atjaunošanu sāka pati programma.",
+          "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst uz 5 min pēc portfeļa lapas atvēršanas — ja 30 s nav ziņu, lasīšanu sāk vēlreiz; ja portfeļa lapa neatbild 90 s, portfeli šoreiz izlaiž un aģentūra beidz bez kļūdas (pārējie dati jau saglabāti).",
+          "Cilvēka pārbaude: slēptā reCAPTCHA / hCaptcha ielogošanās lapā (piem. Bigstock) vairs netiek uzskatīta par pārbaudi — logs vairs neparādās velti."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test89",
       "date": "2026-11-20",
@@ -520,20 +534,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test50",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
-          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
-          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
         ]
       }
     }
