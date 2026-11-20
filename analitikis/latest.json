@@ -1,24 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test94",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test94.zip",
-    "sha256": "0672de826642035996cbc5f63651d1eda99eba1214566dacab14fc5d9dca6954",
-    "size": 10929284,
+    "version": "0.3.1-test95",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test95.zip",
+    "sha256": "47c0d8df67003f0d1bf544e8b914093a8ebe69e92ee0791a56261090bb73d69e",
+    "size": 10930002,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Atjaunošanas beigu paziņojums “Dati atjaunoti…” vairs neatkārtojas desmitiem reižu, un “Manas bildes aģentūrās” sīktēli vairs nemirgo — test90 kļūda: atjaunošanas laikā programma ik pārbaudi uzskatīja, ka atjaunošana beigusies, un pārlādēja lapu.",
-        "Atjaunošanas statuss vairs netiek sabojāts, ja vairākas aģentūras beidz vienlaikus (piem. 3 vienlaikus).",
-        "Chromium (Mac): savācēju vēlreiz palaiž tikai, ja tas pārgāja uz citu lapu un pazuda (Adobe), nevis garās lasīšanās (Dreamstime)."
+        "iStock / Getty: izmaksu izrakstu no katra mēneša 20. datuma pārbauda katru dienu, līdz šī mēneša izmaksa nolasīta (agrāk — reizi nedēļā, tāpēc jaunā izmaksa parādījās ar nokavēšanos)."
       ],
       "en": [
-        "Atjaunošanas beigu paziņojums “Dati atjaunoti…” vairs neatkārtojas desmitiem reižu, un “Manas bildes aģentūrās” sīktēli vairs nemirgo — test90 kļūda: atjaunošanas laikā programma ik pārbaudi uzskatīja, ka atjaunošana beigusies, un pārlādēja lapu.",
-        "Atjaunošanas statuss vairs netiek sabojāts, ja vairākas aģentūras beidz vienlaikus (piem. 3 vienlaikus).",
-        "Chromium (Mac): savācēju vēlreiz palaiž tikai, ja tas pārgāja uz citu lapu un pazuda (Adobe), nevis garās lasīšanās (Dreamstime)."
+        "iStock / Getty: izmaksu izrakstu no katra mēneša 20. datuma pārbauda katru dienu, līdz šī mēneša izmaksa nolasīta (agrāk — reizi nedēļā, tāpēc jaunā izmaksa parādījās ar nokavēšanos)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test95",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "iStock / Getty: izmaksu izrakstu no katra mēneša 20. datuma pārbauda katru dienu, līdz šī mēneša izmaksa nolasīta (agrāk — reizi nedēļā, tāpēc jaunā izmaksa parādījās ar nokavēšanos)."
+        ],
+        "en": [
+          "iStock / Getty: izmaksu izrakstu no katra mēneša 20. datuma pārbauda katru dienu, līdz šī mēneša izmaksa nolasīta (agrāk — reizi nedēļā, tāpēc jaunā izmaksa parādījās ar nokavēšanos)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test94",
       "date": "2026-11-20",
@@ -520,20 +528,6 @@
         "en": [
           "Ingram: bilžu oriģinālie nosaukumi tiek nolasīti ātrāk (4 vienlaicīgi) — redzamas arī DJI noraidītās un Horvātijas tiešsaistes bildes.",
           "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test55",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "iStock: iesniegumu statusi tiek nolasīti no 30 jaunākajiem iesniegumiem (agrāk 10) — neizkrīt arī nedaudz vecāki komplekti.",
-          "Pēc atjaunināšanas nospied iStock “Atjaunot”, tad “Pārlasīt manifestus”."
-        ],
-        "en": [
-          "iStock: iesniegumu statusi tiek nolasīti no 30 jaunākajiem iesniegumiem (agrāk 10) — neizkrīt arī nedaudz vecāki komplekti.",
-          "Pēc atjaunināšanas nospied iStock “Atjaunot”, tad “Pārlasīt manifestus”."
         ]
       }
     }
