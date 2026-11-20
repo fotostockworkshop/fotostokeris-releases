@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test97",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test97.zip",
-    "sha256": "91d6004473b1d494d4f8ecedbab37caaeef9ae876007e32565c734fc66837c5b",
-    "size": 10933472,
+    "version": "0.3.1-test98",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test98.zip",
+    "sha256": "a2426d0314fe70098645d4c30a7c8037b548bfe9c3fb6f642d7e400101abbd25",
+    "size": 10936275,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Chromium pārlūks (Mac): slēptie aģentūru logi vairs netiek palēnināti — Depositphotos statusu lasīšana vairs nedrīkstētu iestrēgt (“stalled”); žurnālā redzams, kurā solī Depositphotos atrodas.",
-        "Envato: pēc veiksmīgas portfeļa nolasīšanas programma vairs nepārtrauc darbu pēc 90 s — izmaksu saraksts tiek nolasīts līdz galam."
+        "Depositphotos: iesniegto bilžu statusi daudz ātrāk — dati (faila nosaukums, apraksts, sīktēls) no tās pašas mazās datu paketes, ko ielādē poga “Edit”, 6 bildes vienlaikus (agrāk katrai bildei visa lapa, ~110 s). Publicētajām bildēm tagad arī faila nosaukums — precīzāka sasaiste “Manas bildes aģentūrās”."
       ],
       "en": [
-        "Chromium pārlūks (Mac): slēptie aģentūru logi vairs netiek palēnināti — Depositphotos statusu lasīšana vairs nedrīkstētu iestrēgt (“stalled”); žurnālā redzams, kurā solī Depositphotos atrodas.",
-        "Envato: pēc veiksmīgas portfeļa nolasīšanas programma vairs nepārtrauc darbu pēc 90 s — izmaksu saraksts tiek nolasīts līdz galam."
+        "Depositphotos: iesniegto bilžu statusi daudz ātrāk — dati (faila nosaukums, apraksts, sīktēls) no tās pašas mazās datu paketes, ko ielādē poga “Edit”, 6 bildes vienlaikus (agrāk katrai bildei visa lapa, ~110 s). Publicētajām bildēm tagad arī faila nosaukums — precīzāka sasaiste “Manas bildes aģentūrās”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test98",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Depositphotos: iesniegto bilžu statusi daudz ātrāk — dati (faila nosaukums, apraksts, sīktēls) no tās pašas mazās datu paketes, ko ielādē poga “Edit”, 6 bildes vienlaikus (agrāk katrai bildei visa lapa, ~110 s). Publicētajām bildēm tagad arī faila nosaukums — precīzāka sasaiste “Manas bildes aģentūrās”."
+        ],
+        "en": [
+          "Depositphotos: iesniegto bilžu statusi daudz ātrāk — dati (faila nosaukums, apraksts, sīktēls) no tās pašas mazās datu paketes, ko ielādē poga “Edit”, 6 bildes vienlaikus (agrāk katrai bildei visa lapa, ~110 s). Publicētajām bildēm tagad arī faila nosaukums — precīzāka sasaiste “Manas bildes aģentūrās”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test97",
       "date": "2026-11-20",
@@ -517,20 +527,6 @@
         ],
         "en": [
           "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
-          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test58",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
-          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
-        ],
-        "en": [
-          "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
           "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
         ]
       }
