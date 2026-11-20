@@ -1,24 +1,36 @@
 {
   "test": {
-    "version": "0.1.0-test45",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test45.zip",
-    "sha256": "cb1846dc86e7b3cd601463772d0946fc802237b39c39fbdffda08fc1a35db056",
-    "size": 6886606,
-    "date": "2026-11-19",
+    "version": "0.1.0-test46",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test46.zip",
+    "sha256": "3fb9b4234d8a19566abc6c5185d1489ac6dd34dac81d6cdc2b00a1c5ee5457f9",
+    "size": 6888353,
+    "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Pieņemtās/noraidītās arī pēc Analītiķa datiem.",
-        "Plānā pārlapošana un cik nedēļas rādīt (tikai skats); \"⏸ gaida nākamo mēnesi\".",
-        "Nedēļas mape gada robežā 01."
+        "Aģentūru kartītē skaitļi saskan: iesniegtas = izskatīšanā + pieņemtas + noraidītas.",
+        "Magnific kartītē limits par kalendāro mēnesi."
       ],
       "en": [
-        "Pieņemtās/noraidītās arī pēc Analītiķa datiem.",
-        "Plānā pārlapošana un cik nedēļas rādīt (tikai skats); \"⏸ gaida nākamo mēnesi\".",
-        "Nedēļas mape gada robežā 01."
+        "Aģentūru kartītē skaitļi saskan: iesniegtas = izskatīšanā + pieņemtas + noraidītas.",
+        "Magnific kartītē limits par kalendāro mēnesi."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test46",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Aģentūru kartītē skaitļi saskan: iesniegtas = izskatīšanā + pieņemtas + noraidītas.",
+          "Magnific kartītē limits par kalendāro mēnesi."
+        ],
+        "en": [
+          "Aģentūru kartītē skaitļi saskan: iesniegtas = izskatīšanā + pieņemtas + noraidītas.",
+          "Magnific kartītē limits par kalendāro mēnesi."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test45",
       "date": "2026-11-19",
@@ -582,20 +594,6 @@
           "Iestatījumos \"Aģentūru pieslēgumi\": katrai aģentūrai izvēle Portāls vai FTP.",
           "Portāls: var ierakstīt savu adresi — uz to ved poga \"Atvērt ↗\".",
           "FTP: serveris, ports, FTP/FTPS/SFTP (jau aizpildīti no izpētes), lietotājvārds un parole (tikai drošajā glabātuvē), poga \"Pārbaudīt savienojumu\". Augšupielāde no komplekta — nākamajā versijā."
-        ]
-      }
-    },
-    {
-      "version": "0.1.0-test6",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Iestatījumos \"Kur sūtu ED un EDI bildes\": katrai aģentūrai ķeksīši ED un EDI. ED ietver arī EDI; tikai EDI — parastas ED bildes tur nesūta.",
-          "EDI (zīmoli bez cilvēkiem) — atsevišķa kategorija arī komplektos un tabulas filtrā."
-        ],
-        "en": [
-          "Iestatījumos \"Kur sūtu ED un EDI bildes\": katrai aģentūrai ķeksīši ED un EDI. ED ietver arī EDI; tikai EDI — parastas ED bildes tur nesūta.",
-          "EDI (zīmoli bez cilvēkiem) — atsevišķa kategorija arī komplektos un tabulas filtrā."
         ]
       }
     }
