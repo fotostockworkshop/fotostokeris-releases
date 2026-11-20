@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test96",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test96.zip",
-    "sha256": "922c3c5b42681ab4f34036d9dff83671a269ab714240cc41cb49059e02ca3686",
-    "size": 10932020,
+    "version": "0.3.1-test97",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test97.zip",
+    "sha256": "91d6004473b1d494d4f8ecedbab37caaeef9ae876007e32565c734fc66837c5b",
+    "size": 10933472,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Izmaksas: nauda vairs nepazūd — izmaksa ceļā (aģentūra jau izmaksājusi, bet saņemšanas datums vēl priekšā) paliek gan neizmaksātajā, gan pieejamajā, līdz saņemta (piem. iStock $106.34 līdz ~23.11.). Attiecas uz visām aģentūrām (Envato un Magnific — savs aprēķins).",
-        "Automātiskām izmaksām (iStock u.c.) ⓘ tagad rāda “izmaksa 25.11. · PayPal ~23.11.”, nevis “pieprasīts”."
+        "Chromium pārlūks (Mac): slēptie aģentūru logi vairs netiek palēnināti — Depositphotos statusu lasīšana vairs nedrīkstētu iestrēgt (“stalled”); žurnālā redzams, kurā solī Depositphotos atrodas.",
+        "Envato: pēc veiksmīgas portfeļa nolasīšanas programma vairs nepārtrauc darbu pēc 90 s — izmaksu saraksts tiek nolasīts līdz galam."
       ],
       "en": [
-        "Izmaksas: nauda vairs nepazūd — izmaksa ceļā (aģentūra jau izmaksājusi, bet saņemšanas datums vēl priekšā) paliek gan neizmaksātajā, gan pieejamajā, līdz saņemta (piem. iStock $106.34 līdz ~23.11.). Attiecas uz visām aģentūrām (Envato un Magnific — savs aprēķins).",
-        "Automātiskām izmaksām (iStock u.c.) ⓘ tagad rāda “izmaksa 25.11. · PayPal ~23.11.”, nevis “pieprasīts”."
+        "Chromium pārlūks (Mac): slēptie aģentūru logi vairs netiek palēnināti — Depositphotos statusu lasīšana vairs nedrīkstētu iestrēgt (“stalled”); žurnālā redzams, kurā solī Depositphotos atrodas.",
+        "Envato: pēc veiksmīgas portfeļa nolasīšanas programma vairs nepārtrauc darbu pēc 90 s — izmaksu saraksts tiek nolasīts līdz galam."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test97",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Chromium pārlūks (Mac): slēptie aģentūru logi vairs netiek palēnināti — Depositphotos statusu lasīšana vairs nedrīkstētu iestrēgt (“stalled”); žurnālā redzams, kurā solī Depositphotos atrodas.",
+          "Envato: pēc veiksmīgas portfeļa nolasīšanas programma vairs nepārtrauc darbu pēc 90 s — izmaksu saraksts tiek nolasīts līdz galam."
+        ],
+        "en": [
+          "Chromium pārlūks (Mac): slēptie aģentūru logi vairs netiek palēnināti — Depositphotos statusu lasīšana vairs nedrīkstētu iestrēgt (“stalled”); žurnālā redzams, kurā solī Depositphotos atrodas.",
+          "Envato: pēc veiksmīgas portfeļa nolasīšanas programma vairs nepārtrauc darbu pēc 90 s — izmaksu saraksts tiek nolasīts līdz galam."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test96",
       "date": "2026-11-20",
@@ -518,18 +532,6 @@
         "en": [
           "Dreamstime: tagad tiek nolasītas arī bildes sadaļā “Under review” (pārbaudē).",
           "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test57",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
-        ],
-        "en": [
-          "Augšējā izvēlne: nospiežot un turot peli, vairs neparādās ritjoslas."
         ]
       }
     }
