@@ -1,20 +1,40 @@
 {
   "test": {
-    "version": "0.3.1-test93",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test93.zip",
-    "sha256": "c7c320ef52f0b4c7734b17fedb3dc0a4184111c2019038be02e5fdde78594638",
-    "size": 10927366,
+    "version": "0.3.1-test94",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test94.zip",
+    "sha256": "0672de826642035996cbc5f63651d1eda99eba1214566dacab14fc5d9dca6954",
+    "size": 10929284,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Adobe: portfeļa lielums no lauka “contentTotal” (pārbaudīts — sakrīt ar Adobe lapas “All (…)”); test92 meklētu nepareizu skaitli (lejupielāžu kopsummu)."
+        "Atjaunošanas beigu paziņojums “Dati atjaunoti…” vairs neatkārtojas desmitiem reižu, un “Manas bildes aģentūrās” sīktēli vairs nemirgo — test90 kļūda: atjaunošanas laikā programma ik pārbaudi uzskatīja, ka atjaunošana beigusies, un pārlādēja lapu.",
+        "Atjaunošanas statuss vairs netiek sabojāts, ja vairākas aģentūras beidz vienlaikus (piem. 3 vienlaikus).",
+        "Chromium (Mac): savācēju vēlreiz palaiž tikai, ja tas pārgāja uz citu lapu un pazuda (Adobe), nevis garās lasīšanās (Dreamstime)."
       ],
       "en": [
-        "Adobe: portfeļa lielums no lauka “contentTotal” (pārbaudīts — sakrīt ar Adobe lapas “All (…)”); test92 meklētu nepareizu skaitli (lejupielāžu kopsummu)."
+        "Atjaunošanas beigu paziņojums “Dati atjaunoti…” vairs neatkārtojas desmitiem reižu, un “Manas bildes aģentūrās” sīktēli vairs nemirgo — test90 kļūda: atjaunošanas laikā programma ik pārbaudi uzskatīja, ka atjaunošana beigusies, un pārlādēja lapu.",
+        "Atjaunošanas statuss vairs netiek sabojāts, ja vairākas aģentūras beidz vienlaikus (piem. 3 vienlaikus).",
+        "Chromium (Mac): savācēju vēlreiz palaiž tikai, ja tas pārgāja uz citu lapu un pazuda (Adobe), nevis garās lasīšanās (Dreamstime)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test94",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Atjaunošanas beigu paziņojums “Dati atjaunoti…” vairs neatkārtojas desmitiem reižu, un “Manas bildes aģentūrās” sīktēli vairs nemirgo — test90 kļūda: atjaunošanas laikā programma ik pārbaudi uzskatīja, ka atjaunošana beigusies, un pārlādēja lapu.",
+          "Atjaunošanas statuss vairs netiek sabojāts, ja vairākas aģentūras beidz vienlaikus (piem. 3 vienlaikus).",
+          "Chromium (Mac): savācēju vēlreiz palaiž tikai, ja tas pārgāja uz citu lapu un pazuda (Adobe), nevis garās lasīšanās (Dreamstime)."
+        ],
+        "en": [
+          "Atjaunošanas beigu paziņojums “Dati atjaunoti…” vairs neatkārtojas desmitiem reižu, un “Manas bildes aģentūrās” sīktēli vairs nemirgo — test90 kļūda: atjaunošanas laikā programma ik pārbaudi uzskatīja, ka atjaunošana beigusies, un pārlādēja lapu.",
+          "Atjaunošanas statuss vairs netiek sabojāts, ja vairākas aģentūras beidz vienlaikus (piem. 3 vienlaikus).",
+          "Chromium (Mac): savācēju vēlreiz palaiž tikai, ja tas pārgāja uz citu lapu un pazuda (Adobe), nevis garās lasīšanās (Dreamstime)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test93",
       "date": "2026-11-20",
@@ -514,20 +534,6 @@
         "en": [
           "iStock: iesniegumu statusi tiek nolasīti no 30 jaunākajiem iesniegumiem (agrāk 10) — neizkrīt arī nedaudz vecāki komplekti.",
           "Pēc atjaunināšanas nospied iStock “Atjaunot”, tad “Pārlasīt manifestus”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test54",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Pond5: iesniegumu statusi (gaida / tiešsaistē / noraidītas / jālabo) tagad tiek nolasīti — Manas bildes aģentūrās redz arī Pond5.",
-          "Pēc atjaunināšanas nospied Pond5 “Atjaunot”, tad “Pārlasīt manifestus”."
-        ],
-        "en": [
-          "Pond5: iesniegumu statusi (gaida / tiešsaistē / noraidītas / jālabo) tagad tiek nolasīti — Manas bildes aģentūrās redz arī Pond5.",
-          "Pēc atjaunināšanas nospied Pond5 “Atjaunot”, tad “Pārlasīt manifestus”."
         ]
       }
     }
