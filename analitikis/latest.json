@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test91",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test91.zip",
-    "sha256": "e74329ee572ef84276ef035a2e7a86a15e14ef79677f36f392e992846b4f4b65",
-    "size": 10926245,
+    "version": "0.3.1-test92",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test92.zip",
+    "sha256": "ff56172fa0e361cfd36f366bcacc54e32e270f129957a8be5df63f2fbf713a0d",
+    "size": 10927004,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst pie 97 % — ja portfeļa lapa 90 s neatbild, portfeli šodien izlaiž un Adobe beidz bez kļūdas (pārdošanas un statusi jau saglabāti); tajā dienā portfeli vairs nemēģina.",
-        "Manas bildes aģentūrās: komplektu sīktēli vairs nemirgo atjaunošanas laikā — tabulu pārzīmē tikai, ja kaut kas mainījies, un manifestus nelasa vairākas reizes pēc kārtas."
+        "Adobe (Chromium pārlūks, Mac): portfeļa lielumu nolasa no apstiprināto bilžu saraksta — sākumlapa vairs nav jāatver, tāpēc atjaunošana vairs negaida 90 s."
       ],
       "en": [
-        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst pie 97 % — ja portfeļa lapa 90 s neatbild, portfeli šodien izlaiž un Adobe beidz bez kļūdas (pārdošanas un statusi jau saglabāti); tajā dienā portfeli vairs nemēģina.",
-        "Manas bildes aģentūrās: komplektu sīktēli vairs nemirgo atjaunošanas laikā — tabulu pārzīmē tikai, ja kaut kas mainījies, un manifestus nelasa vairākas reizes pēc kārtas."
+        "Adobe (Chromium pārlūks, Mac): portfeļa lielumu nolasa no apstiprināto bilžu saraksta — sākumlapa vairs nav jāatver, tāpēc atjaunošana vairs negaida 90 s."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test92",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Adobe (Chromium pārlūks, Mac): portfeļa lielumu nolasa no apstiprināto bilžu saraksta — sākumlapa vairs nav jāatver, tāpēc atjaunošana vairs negaida 90 s."
+        ],
+        "en": [
+          "Adobe (Chromium pārlūks, Mac): portfeļa lielumu nolasa no apstiprināto bilžu saraksta — sākumlapa vairs nav jāatver, tāpēc atjaunošana vairs negaida 90 s."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test91",
       "date": "2026-11-20",
@@ -520,20 +530,6 @@
         "en": [
           "Ingram: iesniegumu statusi tagad tiek nolasīti tieši (gaida apstiprinājumu / noraidītas / tiešsaistē) kopā ar oriģinālo faila nosaukumu un virsrakstu — Manas bildes aģentūrās redz arī Ingram.",
           "Pēc atjaunināšanas nospied Ingram “Atjaunot”, tad “Pārlasīt manifestus”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test52",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
-          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
-        ],
-        "en": [
-          "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
-          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
         ]
       }
     }
