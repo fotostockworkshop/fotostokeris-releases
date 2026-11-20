@@ -1,20 +1,44 @@
 {
   "test": {
-    "version": "0.3.1-test88",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test88.zip",
-    "sha256": "152a03d8cd350bf4aa81c4a2277a87478fd5ce7302ee3f1cdd6910a174a63ca7",
-    "size": 10916148,
-    "date": "2026-11-19",
+    "version": "0.3.1-test89",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test89.zip",
+    "sha256": "770a3ce6c1f305ebd2e6d4989b2248cfb9891907ea66adabaf0028ff30ccb24d",
+    "size": 10921537,
+    "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Chromium pārlūks (Mac, izmēģinājums): piesakās ar savu īsto Chrome versiju (agrāk izdomāta “Chrome 130”, ko Shutterstock un Ingram robotu aizsardzība uzskatīja par aizdomīgu)."
+        "Chromium pārlūks (Mac, izmēģinājums): Shutterstock vienmēr atjauno ar esošo pārlūku (Chromium tas atraida kā robotu) — pēc Chromium aģentūrām, automātiski; pārējās aģentūras — ar Chromium.",
+        "Cilvēka pārbaudes (Cloudflare, DataDome, hCaptcha, reCAPTCHA, “unusual activity”): Analītiķis neko neaizpilda un uzreiz rāda logu tev.",
+        "Manas bildes aģentūrās: bez Bigstock kolonnas (Bigstock jaunas bildes nepieņem).",
+        "Portfeļa lielums: Bigstock vietne slēdzas 8.12.2026 — no 2027. gada Bigstock rindu nerāda (vēsture paliek); paskaidrojumā noņemts teikums par kopsummu, kuras tabulā nav."
       ],
       "en": [
-        "Chromium pārlūks (Mac, izmēģinājums): piesakās ar savu īsto Chrome versiju (agrāk izdomāta “Chrome 130”, ko Shutterstock un Ingram robotu aizsardzība uzskatīja par aizdomīgu)."
+        "Chromium pārlūks (Mac, izmēģinājums): Shutterstock vienmēr atjauno ar esošo pārlūku (Chromium tas atraida kā robotu) — pēc Chromium aģentūrām, automātiski; pārējās aģentūras — ar Chromium.",
+        "Cilvēka pārbaudes (Cloudflare, DataDome, hCaptcha, reCAPTCHA, “unusual activity”): Analītiķis neko neaizpilda un uzreiz rāda logu tev.",
+        "Manas bildes aģentūrās: bez Bigstock kolonnas (Bigstock jaunas bildes nepieņem).",
+        "Portfeļa lielums: Bigstock vietne slēdzas 8.12.2026 — no 2027. gada Bigstock rindu nerāda (vēsture paliek); paskaidrojumā noņemts teikums par kopsummu, kuras tabulā nav."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test89",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Chromium pārlūks (Mac, izmēģinājums): Shutterstock vienmēr atjauno ar esošo pārlūku (Chromium tas atraida kā robotu) — pēc Chromium aģentūrām, automātiski; pārējās aģentūras — ar Chromium.",
+          "Cilvēka pārbaudes (Cloudflare, DataDome, hCaptcha, reCAPTCHA, “unusual activity”): Analītiķis neko neaizpilda un uzreiz rāda logu tev.",
+          "Manas bildes aģentūrās: bez Bigstock kolonnas (Bigstock jaunas bildes nepieņem).",
+          "Portfeļa lielums: Bigstock vietne slēdzas 8.12.2026 — no 2027. gada Bigstock rindu nerāda (vēsture paliek); paskaidrojumā noņemts teikums par kopsummu, kuras tabulā nav."
+        ],
+        "en": [
+          "Chromium pārlūks (Mac, izmēģinājums): Shutterstock vienmēr atjauno ar esošo pārlūku (Chromium tas atraida kā robotu) — pēc Chromium aģentūrām, automātiski; pārējās aģentūras — ar Chromium.",
+          "Cilvēka pārbaudes (Cloudflare, DataDome, hCaptcha, reCAPTCHA, “unusual activity”): Analītiķis neko neaizpilda un uzreiz rāda logu tev.",
+          "Manas bildes aģentūrās: bez Bigstock kolonnas (Bigstock jaunas bildes nepieņem).",
+          "Portfeļa lielums: Bigstock vietne slēdzas 8.12.2026 — no 2027. gada Bigstock rindu nerāda (vēsture paliek); paskaidrojumā noņemts teikums par kopsummu, kuras tabulā nav."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test88",
       "date": "2026-11-19",
@@ -510,20 +534,6 @@
         "en": [
           "Manas bildes aģentūrās: komplektus Analītiķis tagad lasa no Google Drive mapes Fotostokeris/Komplekti (tur tos liek Tirgotājs), nevis no vecās Manifesti mapes — redzami visi komplekti ar saviem sīktēliem. Zem tabulas rakstīts “Komplekti: Google Drive Fotostokeris/Komplekti”.",
           "Pēc atjaunināšanas nospied “Pārlasīt manifestus”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test49",
-      "date": "2026-11-11",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
-          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: tagad tikai Tirgotāja komplekti — bildes, kas OneDrive sagatavotas iesniegšanai. Vārdotāja sērijas (vēl nesagatavotas bildes) vairs netiek rādītas un aģentūrās netiek meklētas; tabulas rindas ir komplekti. No NAS izdzēstās bildes netiek skaitītas.",
-          "Pēc atjaunināšanas nospied “Pārlasīt manifestus”. Komplekti parādās, kad Tirgotājs tos augšupielādējis Google Drive `Fotostokeris/Manifesti`."
         ]
       }
     }
