@@ -1,24 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test90",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test90.zip",
-    "sha256": "47ea6e6e4c10478fb322f58ea960f77682005866a129fbe43243b95f0909f48c",
-    "size": 10924973,
+    "version": "0.3.1-test91",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test91.zip",
+    "sha256": "e74329ee572ef84276ef035a2e7a86a15e14ef79677f36f392e992846b4f4b65",
+    "size": 10926245,
     "date": "2026-11-20",
     "notes": {
       "lv": [
-        "Statusa rindā redzama jebkura atjaunošana: arī fonā notiekošā un aģentūras, kas gaida rindā otram pārlūkam (piem. “Atjauno: Shutterstock · rindā: Adobe”). Statuss tiek pārbaudīts arī tad, ja atjaunošanu sāka pati programma.",
-        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst uz 5 min pēc portfeļa lapas atvēršanas — ja 30 s nav ziņu, lasīšanu sāk vēlreiz; ja portfeļa lapa neatbild 90 s, portfeli šoreiz izlaiž un aģentūra beidz bez kļūdas (pārējie dati jau saglabāti).",
-        "Cilvēka pārbaude: slēptā reCAPTCHA / hCaptcha ielogošanās lapā (piem. Bigstock) vairs netiek uzskatīta par pārbaudi — logs vairs neparādās velti."
+        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst pie 97 % — ja portfeļa lapa 90 s neatbild, portfeli šodien izlaiž un Adobe beidz bez kļūdas (pārdošanas un statusi jau saglabāti); tajā dienā portfeli vairs nemēģina.",
+        "Manas bildes aģentūrās: komplektu sīktēli vairs nemirgo atjaunošanas laikā — tabulu pārzīmē tikai, ja kaut kas mainījies, un manifestus nelasa vairākas reizes pēc kārtas."
       ],
       "en": [
-        "Statusa rindā redzama jebkura atjaunošana: arī fonā notiekošā un aģentūras, kas gaida rindā otram pārlūkam (piem. “Atjauno: Shutterstock · rindā: Adobe”). Statuss tiek pārbaudīts arī tad, ja atjaunošanu sāka pati programma.",
-        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst uz 5 min pēc portfeļa lapas atvēršanas — ja 30 s nav ziņu, lasīšanu sāk vēlreiz; ja portfeļa lapa neatbild 90 s, portfeli šoreiz izlaiž un aģentūra beidz bez kļūdas (pārējie dati jau saglabāti).",
-        "Cilvēka pārbaude: slēptā reCAPTCHA / hCaptcha ielogošanās lapā (piem. Bigstock) vairs netiek uzskatīta par pārbaudi — logs vairs neparādās velti."
+        "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst pie 97 % — ja portfeļa lapa 90 s neatbild, portfeli šodien izlaiž un Adobe beidz bez kļūdas (pārdošanas un statusi jau saglabāti); tajā dienā portfeli vairs nemēģina.",
+        "Manas bildes aģentūrās: komplektu sīktēli vairs nemirgo atjaunošanas laikā — tabulu pārzīmē tikai, ja kaut kas mainījies, un manifestus nelasa vairākas reizes pēc kārtas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test91",
+      "date": "2026-11-20",
+      "notes": {
+        "lv": [
+          "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst pie 97 % — ja portfeļa lapa 90 s neatbild, portfeli šodien izlaiž un Adobe beidz bez kļūdas (pārdošanas un statusi jau saglabāti); tajā dienā portfeli vairs nemēģina.",
+          "Manas bildes aģentūrās: komplektu sīktēli vairs nemirgo atjaunošanas laikā — tabulu pārzīmē tikai, ja kaut kas mainījies, un manifestus nelasa vairākas reizes pēc kārtas."
+        ],
+        "en": [
+          "Chromium pārlūks (Mac, izmēģinājums): Adobe vairs neiestrēgst pie 97 % — ja portfeļa lapa 90 s neatbild, portfeli šodien izlaiž un Adobe beidz bez kļūdas (pārdošanas un statusi jau saglabāti); tajā dienā portfeli vairs nemēģina.",
+          "Manas bildes aģentūrās: komplektu sīktēli vairs nemirgo atjaunošanas laikā — tabulu pārzīmē tikai, ja kaut kas mainījies, un manifestus nelasa vairākas reizes pēc kārtas."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test90",
       "date": "2026-11-20",
@@ -522,18 +534,6 @@
         "en": [
           "Dreamstime: bilžu statusi tagad tiek nolasīti no visām “Online files” lapām (līdz 60 dienām atpakaļ), ne tikai no pirmās (10 bildes) — Manas bildes aģentūrās redz arī Horvātijas un Bali-2 komplektus.",
           "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test51",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: Shutterstock bildes ar saīsinātu nosaukumu (“9bd2_DJI202....05.11-5.jpg”) tagad tiek atrastas; bilde tiek sasaistīta arī tikai pēc viennozīmīga faila nosaukuma ar gadu/numuru (piem. “2025-NZ6_4548.jpg”), jo tabulā ir tikai iesniegto komplektu bildes."
         ]
       }
     }
