@@ -1,22 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test103",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test103.zip",
-    "sha256": "444fe5b91f3c14c37a9473c6814d2b8d4d67dd1d46ebdf7fa6fe01b55b1f8d4d",
-    "size": 10963377,
+    "version": "0.3.1-test104",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test104.zip",
+    "sha256": "6af4417b1cb0f63b7635e0b29606df3756d67fb7e282ecef5d426a1e7122fc86",
+    "size": 10966493,
     "date": "2026-11-21",
     "notes": {
       "lv": [
-        "Bilžu apvienošana pēc izskata (kā Microstockr Match): Iestatījumi → “Apvienot identiskās bildes” → **Apvienot visas** salīdzina visu pārdoto bilžu sīktēlus visās aģentūrās un apvieno identiskās (katra aģentūra vienā bildē vienreiz — sērijas netiek sajauktas); **Atcelt automātiskās apvienošanas** — atceļ tikai programmas apvienojumus, tavi lēmumi paliek.",
-        "Bildes detaļās (Labākās / Pārdošanas → bilde) — rinda ar visiem apvienotajiem sīktēliem: aģentūra, summa, lejupielādes. Uzbraucot ar peli — **Atdalīt** (bilde vairs netiks apvienota ar pārējām). **Atrast tādu pašu** — līdzīgākās bildes citās aģentūrās; atzīmē un **Pievienot**."
+        "Apvienot visas: beigās programma pārbauda, vai no Microstockr ielasītie sīktēlu nospiedumi sakrīt ar Analītiķa nospiedumiem (bildēm, kurām ir abi). Ja sakrīt — Microstockr nospiedumi tiek lietoti kopā ar mūsējiem (arī bildēm, kuru sīktēlu vairs nevar lejupielādēt). Rezultāts — žurnālā un iestatījumos zem pogām."
       ],
       "en": [
-        "Bilžu apvienošana pēc izskata (kā Microstockr Match): Iestatījumi → “Apvienot identiskās bildes” → **Apvienot visas** salīdzina visu pārdoto bilžu sīktēlus visās aģentūrās un apvieno identiskās (katra aģentūra vienā bildē vienreiz — sērijas netiek sajauktas); **Atcelt automātiskās apvienošanas** — atceļ tikai programmas apvienojumus, tavi lēmumi paliek.",
-        "Bildes detaļās (Labākās / Pārdošanas → bilde) — rinda ar visiem apvienotajiem sīktēliem: aģentūra, summa, lejupielādes. Uzbraucot ar peli — **Atdalīt** (bilde vairs netiks apvienota ar pārējām). **Atrast tādu pašu** — līdzīgākās bildes citās aģentūrās; atzīmē un **Pievienot**."
+        "Apvienot visas: beigās programma pārbauda, vai no Microstockr ielasītie sīktēlu nospiedumi sakrīt ar Analītiķa nospiedumiem (bildēm, kurām ir abi). Ja sakrīt — Microstockr nospiedumi tiek lietoti kopā ar mūsējiem (arī bildēm, kuru sīktēlu vairs nevar lejupielādēt). Rezultāts — žurnālā un iestatījumos zem pogām."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test104",
+      "date": "2026-11-21",
+      "notes": {
+        "lv": [
+          "Apvienot visas: beigās programma pārbauda, vai no Microstockr ielasītie sīktēlu nospiedumi sakrīt ar Analītiķa nospiedumiem (bildēm, kurām ir abi). Ja sakrīt — Microstockr nospiedumi tiek lietoti kopā ar mūsējiem (arī bildēm, kuru sīktēlu vairs nevar lejupielādēt). Rezultāts — žurnālā un iestatījumos zem pogām."
+        ],
+        "en": [
+          "Apvienot visas: beigās programma pārbauda, vai no Microstockr ielasītie sīktēlu nospiedumi sakrīt ar Analītiķa nospiedumiem (bildēm, kurām ir abi). Ja sakrīt — Microstockr nospiedumi tiek lietoti kopā ar mūsējiem (arī bildēm, kuru sīktēlu vairs nevar lejupielādēt). Rezultāts — žurnālā un iestatījumos zem pogām."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test103",
       "date": "2026-11-21",
@@ -526,18 +536,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: bildes tagad atpazīst arī pēc sīktēla (salīdzina ar komplekta manifesta sīktēliem) — tām aģentūrām, kas faila nosaukumu nerāda (Magnific, Pond5, Pixta, Depositphotos, Dreamstime, Zoonar, Ingram), pat ja virsraksts aģentūrā mainīts. Zoonar noraidītās bildes savā lapā nerāda — ja Zoonar pārbaudē nav nevienas, trūkstošās tabulā ir ✗ (secināts). Zoonar saraksts lasās ātrāk un vairāk (300 jaunākās), Ingram — visas tiešsaistes bildes (agrāk 84). “?” tagad nozīmē “aģentūrā nav atrastas”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test64",
-      "date": "2026-11-14",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: Magnific publicētajām bildēm virsrakstā izmet pieturzīmes (piem. “Dubrovniks” “Dubrovnik’s” vietā), tāpēc daļa bilžu netika atpazītas (horvatija-1: ?13). Tagad virsrakstus salīdzina arī bez pieturzīmēm."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: Magnific publicētajām bildēm virsrakstā izmet pieturzīmes (piem. “Dubrovniks” “Dubrovnik’s” vietā), tāpēc daļa bilžu netika atpazītas (horvatija-1: ?13). Tagad virsrakstus salīdzina arī bez pieturzīmēm."
         ]
       }
     }
