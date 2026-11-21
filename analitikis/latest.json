@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test102",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test102.zip",
-    "sha256": "d5bc38e1909a7a03101578b32275155cecbd465e8ee564f5c2cb9bfa3b9ad3d8",
-    "size": 10951170,
+    "version": "0.3.1-test103",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test103.zip",
+    "sha256": "444fe5b91f3c14c37a9473c6814d2b8d4d67dd1d46ebdf7fa6fe01b55b1f8d4d",
+    "size": 10963377,
     "date": "2026-11-21",
     "notes": {
       "lv": [
-        "Jauna aģentūru krāsu palete: katrai aģentūrai skaidri atšķirīgs tonis (iStock — tīri dzeltena, Depositphotos — tumši sarkana, vairs nav vairāku līdzīgu zaļo un oranžo). Adobe Stock tagad zaļa, Envato zila. Gaišajā tēmā krāsas tumšākas, tumšajās — spilgtākas."
+        "Bilžu apvienošana pēc izskata (kā Microstockr Match): Iestatījumi → “Apvienot identiskās bildes” → **Apvienot visas** salīdzina visu pārdoto bilžu sīktēlus visās aģentūrās un apvieno identiskās (katra aģentūra vienā bildē vienreiz — sērijas netiek sajauktas); **Atcelt automātiskās apvienošanas** — atceļ tikai programmas apvienojumus, tavi lēmumi paliek.",
+        "Bildes detaļās (Labākās / Pārdošanas → bilde) — rinda ar visiem apvienotajiem sīktēliem: aģentūra, summa, lejupielādes. Uzbraucot ar peli — **Atdalīt** (bilde vairs netiks apvienota ar pārējām). **Atrast tādu pašu** — līdzīgākās bildes citās aģentūrās; atzīmē un **Pievienot**."
       ],
       "en": [
-        "Jauna aģentūru krāsu palete: katrai aģentūrai skaidri atšķirīgs tonis (iStock — tīri dzeltena, Depositphotos — tumši sarkana, vairs nav vairāku līdzīgu zaļo un oranžo). Adobe Stock tagad zaļa, Envato zila. Gaišajā tēmā krāsas tumšākas, tumšajās — spilgtākas."
+        "Bilžu apvienošana pēc izskata (kā Microstockr Match): Iestatījumi → “Apvienot identiskās bildes” → **Apvienot visas** salīdzina visu pārdoto bilžu sīktēlus visās aģentūrās un apvieno identiskās (katra aģentūra vienā bildē vienreiz — sērijas netiek sajauktas); **Atcelt automātiskās apvienošanas** — atceļ tikai programmas apvienojumus, tavi lēmumi paliek.",
+        "Bildes detaļās (Labākās / Pārdošanas → bilde) — rinda ar visiem apvienotajiem sīktēliem: aģentūra, summa, lejupielādes. Uzbraucot ar peli — **Atdalīt** (bilde vairs netiks apvienota ar pārējām). **Atrast tādu pašu** — līdzīgākās bildes citās aģentūrās; atzīmē un **Pievienot**."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test103",
+      "date": "2026-11-21",
+      "notes": {
+        "lv": [
+          "Bilžu apvienošana pēc izskata (kā Microstockr Match): Iestatījumi → “Apvienot identiskās bildes” → **Apvienot visas** salīdzina visu pārdoto bilžu sīktēlus visās aģentūrās un apvieno identiskās (katra aģentūra vienā bildē vienreiz — sērijas netiek sajauktas); **Atcelt automātiskās apvienošanas** — atceļ tikai programmas apvienojumus, tavi lēmumi paliek.",
+          "Bildes detaļās (Labākās / Pārdošanas → bilde) — rinda ar visiem apvienotajiem sīktēliem: aģentūra, summa, lejupielādes. Uzbraucot ar peli — **Atdalīt** (bilde vairs netiks apvienota ar pārējām). **Atrast tādu pašu** — līdzīgākās bildes citās aģentūrās; atzīmē un **Pievienot**."
+        ],
+        "en": [
+          "Bilžu apvienošana pēc izskata (kā Microstockr Match): Iestatījumi → “Apvienot identiskās bildes” → **Apvienot visas** salīdzina visu pārdoto bilžu sīktēlus visās aģentūrās un apvieno identiskās (katra aģentūra vienā bildē vienreiz — sērijas netiek sajauktas); **Atcelt automātiskās apvienošanas** — atceļ tikai programmas apvienojumus, tavi lēmumi paliek.",
+          "Bildes detaļās (Labākās / Pārdošanas → bilde) — rinda ar visiem apvienotajiem sīktēliem: aģentūra, summa, lejupielādes. Uzbraucot ar peli — **Atdalīt** (bilde vairs netiks apvienota ar pārējām). **Atrast tādu pašu** — līdzīgākās bildes citās aģentūrās; atzīmē un **Pievienot**."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test102",
       "date": "2026-11-21",
@@ -522,18 +538,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: Magnific publicētajām bildēm virsrakstā izmet pieturzīmes (piem. “Dubrovniks” “Dubrovnik’s” vietā), tāpēc daļa bilžu netika atpazītas (horvatija-1: ?13). Tagad virsrakstus salīdzina arī bez pieturzīmēm."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test63",
-      "date": "2026-11-14",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: Magnific lapa ir mainījusies — statusi (publicētas, izskatīšanā, noraidītas ar iemeslu) un portfeļa lielums tagad no jaunās lapas. Pond5 un Pixta tagad lasa arī nākamās saraksta lapas (agrāk tikai pirmās 100 / 50 bildes), Pixta gaidošajām bildēm ņem faila nosaukumu no detaļu lapas. Ja aģentūrā ir kaut viena komplekta bilde, pārējās, kuru statusu aģentūra nerāda, tabulā redzamas kā “?N”."
         ]
       }
     }
