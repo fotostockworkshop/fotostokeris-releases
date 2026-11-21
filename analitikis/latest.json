@@ -1,20 +1,44 @@
 {
   "test": {
-    "version": "0.3.1-test99",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test99.zip",
-    "sha256": "9ab7617b27b509d5ec528e75cb0e3972d7323dec0f19c6581b50a00490977343",
-    "size": 10938191,
+    "version": "0.3.1-test100",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test100.zip",
+    "sha256": "8399f0534f83647834b609cc13ba71529d034cb95fc36061a923904462e5cb5e",
+    "size": 10948804,
     "date": "2026-11-21",
     "notes": {
       "lv": [
-        "Zaļā josla “Jaunas kopš iepriekšējās atjaunošanas” tagad rāda visu aģentūru jaunās pārdošanas — agrāk Shutterstock atjaunošana (tā notiek pēc Chromium aģentūrām) nodzēsa Adobe, Dreamstime u.c. jaunās pārdošanas, un joslā palika tikai Shutterstock."
+        "Pārskata grafiks: blakus periodam četri skati — stabiņi, līnijas (taisnas, katrs punkts — īstā dienas vērtība), riņķis (aģentūru daļa periodā) un tabula. “Grafika iespējas”: vertikālā skala un brīvdienu iezīmēšana mēneša skatā.",
+        "Leģendā aģentūras var izslēgt un ieslēgt: klikšķis — ieslēgt/izslēgt (izslēgtā paliek vietā, bez krāsainā punktiņa), dubultklikšķis — tikai šī, vēlreiz — atkal visas. Ienākumi, lejupielādes un RPD rēķinās tikai ieslēgtajām. Izvēli programma atceras.",
+        "Pārskata tabula ietilpst loga platumā — “Kopā” un lejupielāžu kolonna vairs nepazūd aiz malas, starp dienu un pirmo aģentūru nav lieka tukšuma.",
+        "Atjaunošanas beigu paziņojumos tagad ir visas aģentūras un visas kļūdas — arī Chromium aģentūru (agrāk tikai pēdējās, Shutterstock, daļas)."
       ],
       "en": [
-        "Zaļā josla “Jaunas kopš iepriekšējās atjaunošanas” tagad rāda visu aģentūru jaunās pārdošanas — agrāk Shutterstock atjaunošana (tā notiek pēc Chromium aģentūrām) nodzēsa Adobe, Dreamstime u.c. jaunās pārdošanas, un joslā palika tikai Shutterstock."
+        "Pārskata grafiks: blakus periodam četri skati — stabiņi, līnijas (taisnas, katrs punkts — īstā dienas vērtība), riņķis (aģentūru daļa periodā) un tabula. “Grafika iespējas”: vertikālā skala un brīvdienu iezīmēšana mēneša skatā.",
+        "Leģendā aģentūras var izslēgt un ieslēgt: klikšķis — ieslēgt/izslēgt (izslēgtā paliek vietā, bez krāsainā punktiņa), dubultklikšķis — tikai šī, vēlreiz — atkal visas. Ienākumi, lejupielādes un RPD rēķinās tikai ieslēgtajām. Izvēli programma atceras.",
+        "Pārskata tabula ietilpst loga platumā — “Kopā” un lejupielāžu kolonna vairs nepazūd aiz malas, starp dienu un pirmo aģentūru nav lieka tukšuma.",
+        "Atjaunošanas beigu paziņojumos tagad ir visas aģentūras un visas kļūdas — arī Chromium aģentūru (agrāk tikai pēdējās, Shutterstock, daļas)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test100",
+      "date": "2026-11-21",
+      "notes": {
+        "lv": [
+          "Pārskata grafiks: blakus periodam četri skati — stabiņi, līnijas (taisnas, katrs punkts — īstā dienas vērtība), riņķis (aģentūru daļa periodā) un tabula. “Grafika iespējas”: vertikālā skala un brīvdienu iezīmēšana mēneša skatā.",
+          "Leģendā aģentūras var izslēgt un ieslēgt: klikšķis — ieslēgt/izslēgt (izslēgtā paliek vietā, bez krāsainā punktiņa), dubultklikšķis — tikai šī, vēlreiz — atkal visas. Ienākumi, lejupielādes un RPD rēķinās tikai ieslēgtajām. Izvēli programma atceras.",
+          "Pārskata tabula ietilpst loga platumā — “Kopā” un lejupielāžu kolonna vairs nepazūd aiz malas, starp dienu un pirmo aģentūru nav lieka tukšuma.",
+          "Atjaunošanas beigu paziņojumos tagad ir visas aģentūras un visas kļūdas — arī Chromium aģentūru (agrāk tikai pēdējās, Shutterstock, daļas)."
+        ],
+        "en": [
+          "Pārskata grafiks: blakus periodam četri skati — stabiņi, līnijas (taisnas, katrs punkts — īstā dienas vērtība), riņķis (aģentūru daļa periodā) un tabula. “Grafika iespējas”: vertikālā skala un brīvdienu iezīmēšana mēneša skatā.",
+          "Leģendā aģentūras var izslēgt un ieslēgt: klikšķis — ieslēgt/izslēgt (izslēgtā paliek vietā, bez krāsainā punktiņa), dubultklikšķis — tikai šī, vēlreiz — atkal visas. Ienākumi, lejupielādes un RPD rēķinās tikai ieslēgtajām. Izvēli programma atceras.",
+          "Pārskata tabula ietilpst loga platumā — “Kopā” un lejupielāžu kolonna vairs nepazūd aiz malas, starp dienu un pirmo aģentūru nav lieka tukšuma.",
+          "Atjaunošanas beigu paziņojumos tagad ir visas aģentūras un visas kļūdas — arī Chromium aģentūru (agrāk tikai pēdējās, Shutterstock, daļas)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test99",
       "date": "2026-11-21",
@@ -514,18 +538,6 @@
         ],
         "en": [
           "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test60",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
-        ],
-        "en": [
-          "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
         ]
       }
     }
