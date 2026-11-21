@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test98",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test98.zip",
-    "sha256": "a2426d0314fe70098645d4c30a7c8037b548bfe9c3fb6f642d7e400101abbd25",
-    "size": 10936275,
-    "date": "2026-11-20",
+    "version": "0.3.1-test99",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test99.zip",
+    "sha256": "9ab7617b27b509d5ec528e75cb0e3972d7323dec0f19c6581b50a00490977343",
+    "size": 10938191,
+    "date": "2026-11-21",
     "notes": {
       "lv": [
-        "Depositphotos: iesniegto bilžu statusi daudz ātrāk — dati (faila nosaukums, apraksts, sīktēls) no tās pašas mazās datu paketes, ko ielādē poga “Edit”, 6 bildes vienlaikus (agrāk katrai bildei visa lapa, ~110 s). Publicētajām bildēm tagad arī faila nosaukums — precīzāka sasaiste “Manas bildes aģentūrās”."
+        "Zaļā josla “Jaunas kopš iepriekšējās atjaunošanas” tagad rāda visu aģentūru jaunās pārdošanas — agrāk Shutterstock atjaunošana (tā notiek pēc Chromium aģentūrām) nodzēsa Adobe, Dreamstime u.c. jaunās pārdošanas, un joslā palika tikai Shutterstock."
       ],
       "en": [
-        "Depositphotos: iesniegto bilžu statusi daudz ātrāk — dati (faila nosaukums, apraksts, sīktēls) no tās pašas mazās datu paketes, ko ielādē poga “Edit”, 6 bildes vienlaikus (agrāk katrai bildei visa lapa, ~110 s). Publicētajām bildēm tagad arī faila nosaukums — precīzāka sasaiste “Manas bildes aģentūrās”."
+        "Zaļā josla “Jaunas kopš iepriekšējās atjaunošanas” tagad rāda visu aģentūru jaunās pārdošanas — agrāk Shutterstock atjaunošana (tā notiek pēc Chromium aģentūrām) nodzēsa Adobe, Dreamstime u.c. jaunās pārdošanas, un joslā palika tikai Shutterstock."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test99",
+      "date": "2026-11-21",
+      "notes": {
+        "lv": [
+          "Zaļā josla “Jaunas kopš iepriekšējās atjaunošanas” tagad rāda visu aģentūru jaunās pārdošanas — agrāk Shutterstock atjaunošana (tā notiek pēc Chromium aģentūrām) nodzēsa Adobe, Dreamstime u.c. jaunās pārdošanas, un joslā palika tikai Shutterstock."
+        ],
+        "en": [
+          "Zaļā josla “Jaunas kopš iepriekšējās atjaunošanas” tagad rāda visu aģentūru jaunās pārdošanas — agrāk Shutterstock atjaunošana (tā notiek pēc Chromium aģentūrām) nodzēsa Adobe, Dreamstime u.c. jaunās pārdošanas, un joslā palika tikai Shutterstock."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test98",
       "date": "2026-11-20",
@@ -514,20 +526,6 @@
         ],
         "en": [
           "Vecā Google Drive mape Fotostokeris/Manifesti vairs netiek lietota — Analītiķis to vienreiz pārvieto uz Google Drive atkritni (30 dienas var atjaunot)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test59",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
-          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
-        ],
-        "en": [
-          "Dreamstime: “Under review” saraksts tiek nolasīts tieši no Dreamstime (iepriekšējais labojums programmas logā nestrādāja).",
-          "Pēc atjaunināšanas nospied Dreamstime “Atjaunot”, tad “Pārlasīt manifestus”."
         ]
       }
     }
