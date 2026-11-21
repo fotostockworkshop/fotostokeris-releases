@@ -1,26 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test100",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test100.zip",
-    "sha256": "8399f0534f83647834b609cc13ba71529d034cb95fc36061a923904462e5cb5e",
-    "size": 10948804,
+    "version": "0.3.1-test101",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test101.zip",
+    "sha256": "92205febbbb3a815a15f450c8b17af4bd6aaf3748102700fc72e7084c66cd66d",
+    "size": 10949672,
     "date": "2026-11-21",
     "notes": {
       "lv": [
-        "Pārskata grafiks: blakus periodam četri skati — stabiņi, līnijas (taisnas, katrs punkts — īstā dienas vērtība), riņķis (aģentūru daļa periodā) un tabula. “Grafika iespējas”: vertikālā skala un brīvdienu iezīmēšana mēneša skatā.",
-        "Leģendā aģentūras var izslēgt un ieslēgt: klikšķis — ieslēgt/izslēgt (izslēgtā paliek vietā, bez krāsainā punktiņa), dubultklikšķis — tikai šī, vēlreiz — atkal visas. Ienākumi, lejupielādes un RPD rēķinās tikai ieslēgtajām. Izvēli programma atceras.",
-        "Pārskata tabula ietilpst loga platumā — “Kopā” un lejupielāžu kolonna vairs nepazūd aiz malas, starp dienu un pirmo aģentūru nav lieka tukšuma.",
-        "Atjaunošanas beigu paziņojumos tagad ir visas aģentūras un visas kļūdas — arī Chromium aģentūru (agrāk tikai pēdējās, Shutterstock, daļas)."
+        "Pārskata tabula: ritjosla vairs neuzliekas skaitļiem, labajā malā atstarpe.",
+        "Pārskata grafikā “Grafika iespējas” pārsauktas par “Opcijas”."
       ],
       "en": [
-        "Pārskata grafiks: blakus periodam četri skati — stabiņi, līnijas (taisnas, katrs punkts — īstā dienas vērtība), riņķis (aģentūru daļa periodā) un tabula. “Grafika iespējas”: vertikālā skala un brīvdienu iezīmēšana mēneša skatā.",
-        "Leģendā aģentūras var izslēgt un ieslēgt: klikšķis — ieslēgt/izslēgt (izslēgtā paliek vietā, bez krāsainā punktiņa), dubultklikšķis — tikai šī, vēlreiz — atkal visas. Ienākumi, lejupielādes un RPD rēķinās tikai ieslēgtajām. Izvēli programma atceras.",
-        "Pārskata tabula ietilpst loga platumā — “Kopā” un lejupielāžu kolonna vairs nepazūd aiz malas, starp dienu un pirmo aģentūru nav lieka tukšuma.",
-        "Atjaunošanas beigu paziņojumos tagad ir visas aģentūras un visas kļūdas — arī Chromium aģentūru (agrāk tikai pēdējās, Shutterstock, daļas)."
+        "Pārskata tabula: ritjosla vairs neuzliekas skaitļiem, labajā malā atstarpe.",
+        "Pārskata grafikā “Grafika iespējas” pārsauktas par “Opcijas”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test101",
+      "date": "2026-11-21",
+      "notes": {
+        "lv": [
+          "Pārskata tabula: ritjosla vairs neuzliekas skaitļiem, labajā malā atstarpe.",
+          "Pārskata grafikā “Grafika iespējas” pārsauktas par “Opcijas”."
+        ],
+        "en": [
+          "Pārskata tabula: ritjosla vairs neuzliekas skaitļiem, labajā malā atstarpe.",
+          "Pārskata grafikā “Grafika iespējas” pārsauktas par “Opcijas”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test100",
       "date": "2026-11-21",
@@ -526,18 +536,6 @@
         ],
         "en": [
           "Pārdošanu sarakstā un tā skaitļos (Ienākumi / Lejupielādes / Faili) tagad ir tikai zināmās pārdošanas. Envato Elements abonementa mēneša ienākumi pa bildēm tur vairs netiek rādīti un skaitīti (tāpēc agrāk “Faili” bija daudz vairāk nekā lejupielāžu) — tie redzami tabulā “Salīdzinājums pa aģentūrām” un Pārskatā."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test61",
-      "date": "2026-11-12",
-      "notes": {
-        "lv": [
-          "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
-        ],
-        "en": [
-          "Ja datu atjaunošana iestrēgst visām aģentūrām reizē (piem. pēc tam, kad aizvērās viena aģentūra un atvērās nākamā), Analītiķis tagad pats sāk no jauna nepabeigtās aģentūras (vienreiz) — vairs nav 9 vienādu sarkano kļūdu “5 min bez ziņām”. Žurnālā redzams, kurā solī atjaunošana iestrēga."
         ]
       }
     }
