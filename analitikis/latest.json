@@ -1,20 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test104",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test104.zip",
-    "sha256": "6af4417b1cb0f63b7635e0b29606df3756d67fb7e282ecef5d426a1e7122fc86",
-    "size": 10966493,
+    "version": "0.3.1-test105",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test105.zip",
+    "sha256": "7bddb459b85a201696b6c8e8859e3ef283567c463ddaa973eb00d0c593cdbddc",
+    "size": 10968214,
     "date": "2026-11-21",
     "notes": {
       "lv": [
-        "Apvienot visas: beigās programma pārbauda, vai no Microstockr ielasītie sīktēlu nospiedumi sakrīt ar Analītiķa nospiedumiem (bildēm, kurām ir abi). Ja sakrīt — Microstockr nospiedumi tiek lietoti kopā ar mūsējiem (arī bildēm, kuru sīktēlu vairs nevar lejupielādēt). Rezultāts — žurnālā un iestatījumos zem pogām."
+        "Bilžu apvienošanas gaita redzama statusa joslā apakšā: “Apvieno bildes: sīktēli N no M (X%)”; beigās — paziņojums. Apvienošana turpinās arī pēc programmas pārstartēšanas.",
+        "Shutterstock tagad sarkana, Depositphotos — oranža."
       ],
       "en": [
-        "Apvienot visas: beigās programma pārbauda, vai no Microstockr ielasītie sīktēlu nospiedumi sakrīt ar Analītiķa nospiedumiem (bildēm, kurām ir abi). Ja sakrīt — Microstockr nospiedumi tiek lietoti kopā ar mūsējiem (arī bildēm, kuru sīktēlu vairs nevar lejupielādēt). Rezultāts — žurnālā un iestatījumos zem pogām."
+        "Bilžu apvienošanas gaita redzama statusa joslā apakšā: “Apvieno bildes: sīktēli N no M (X%)”; beigās — paziņojums. Apvienošana turpinās arī pēc programmas pārstartēšanas.",
+        "Shutterstock tagad sarkana, Depositphotos — oranža."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test105",
+      "date": "2026-11-21",
+      "notes": {
+        "lv": [
+          "Bilžu apvienošanas gaita redzama statusa joslā apakšā: “Apvieno bildes: sīktēli N no M (X%)”; beigās — paziņojums. Apvienošana turpinās arī pēc programmas pārstartēšanas.",
+          "Shutterstock tagad sarkana, Depositphotos — oranža."
+        ],
+        "en": [
+          "Bilžu apvienošanas gaita redzama statusa joslā apakšā: “Apvieno bildes: sīktēli N no M (X%)”; beigās — paziņojums. Apvienošana turpinās arī pēc programmas pārstartēšanas.",
+          "Shutterstock tagad sarkana, Depositphotos — oranža."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test104",
       "date": "2026-11-21",
@@ -524,18 +540,6 @@
         ],
         "en": [
           "Manas bildes aģentūrās: atrasts galvenais “?” iemesls — Tirgotājs pirms iesniegšanas burtus ar garumzīmēm pārvērš angļu burtos (“Līgatne” → “Ligatne”), tāpēc šādu bilžu virsraksti nesakrita ar komplekta manifestu. Tagad salīdzina bez garumzīmēm; Pond5 bildes bez datuma ar pilnu virsrakstu arī tiek atpazītas. Tavos datos atpazītas vēl 31 bilde (piem. Talsi 1–4 visās aģentūrās)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test65",
-      "date": "2026-11-14",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: bildes tagad atpazīst arī pēc sīktēla (salīdzina ar komplekta manifesta sīktēliem) — tām aģentūrām, kas faila nosaukumu nerāda (Magnific, Pond5, Pixta, Depositphotos, Dreamstime, Zoonar, Ingram), pat ja virsraksts aģentūrā mainīts. Zoonar noraidītās bildes savā lapā nerāda — ja Zoonar pārbaudē nav nevienas, trūkstošās tabulā ir ✗ (secināts). Zoonar saraksts lasās ātrāk un vairāk (300 jaunākās), Ingram — visas tiešsaistes bildes (agrāk 84). “?” tagad nozīmē “aģentūrā nav atrastas”."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: bildes tagad atpazīst arī pēc sīktēla (salīdzina ar komplekta manifesta sīktēliem) — tām aģentūrām, kas faila nosaukumu nerāda (Magnific, Pond5, Pixta, Depositphotos, Dreamstime, Zoonar, Ingram), pat ja virsraksts aģentūrā mainīts. Zoonar noraidītās bildes savā lapā nerāda — ja Zoonar pārbaudē nav nevienas, trūkstošās tabulā ir ✗ (secināts). Zoonar saraksts lasās ātrāk un vairāk (300 jaunākās), Ingram — visas tiešsaistes bildes (agrāk 84). “?” tagad nozīmē “aģentūrā nav atrastas”."
         ]
       }
     }
