@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.3.1-test105",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test105.zip",
-    "sha256": "7bddb459b85a201696b6c8e8859e3ef283567c463ddaa973eb00d0c593cdbddc",
-    "size": 10968214,
+    "version": "0.3.1-test106",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test106.zip",
+    "sha256": "f27c0637fbb6720480ea74b9b360e59e06bb64f7422d0245b836c19c22c8dac5",
+    "size": 10968956,
     "date": "2026-11-21",
     "notes": {
       "lv": [
-        "Bilžu apvienošanas gaita redzama statusa joslā apakšā: “Apvieno bildes: sīktēli N no M (X%)”; beigās — paziņojums. Apvienošana turpinās arī pēc programmas pārstartēšanas.",
-        "Shutterstock tagad sarkana, Depositphotos — oranža."
+        "Apvienot visas vairs neapstājas pusceļā (pie tevis — 11 145 no 20 649): bildēm, kurām jau bija iesniegumu statusu sīktēla nospiedums, programma to rēķināja vēlreiz un uzskatīja, ka darba vairs nav. Tagad der jebkurš tās pašas bildes nospiedums, un apvienošana turpinās līdz galam (gaita — statusa joslā).",
+        "Iestatījumos redzams arī, cik sīktēlus nevarēja nolasīt."
       ],
       "en": [
-        "Bilžu apvienošanas gaita redzama statusa joslā apakšā: “Apvieno bildes: sīktēli N no M (X%)”; beigās — paziņojums. Apvienošana turpinās arī pēc programmas pārstartēšanas.",
-        "Shutterstock tagad sarkana, Depositphotos — oranža."
+        "Apvienot visas vairs neapstājas pusceļā (pie tevis — 11 145 no 20 649): bildēm, kurām jau bija iesniegumu statusu sīktēla nospiedums, programma to rēķināja vēlreiz un uzskatīja, ka darba vairs nav. Tagad der jebkurš tās pašas bildes nospiedums, un apvienošana turpinās līdz galam (gaita — statusa joslā).",
+        "Iestatījumos redzams arī, cik sīktēlus nevarēja nolasīt."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test106",
+      "date": "2026-11-21",
+      "notes": {
+        "lv": [
+          "Apvienot visas vairs neapstājas pusceļā (pie tevis — 11 145 no 20 649): bildēm, kurām jau bija iesniegumu statusu sīktēla nospiedums, programma to rēķināja vēlreiz un uzskatīja, ka darba vairs nav. Tagad der jebkurš tās pašas bildes nospiedums, un apvienošana turpinās līdz galam (gaita — statusa joslā).",
+          "Iestatījumos redzams arī, cik sīktēlus nevarēja nolasīt."
+        ],
+        "en": [
+          "Apvienot visas vairs neapstājas pusceļā (pie tevis — 11 145 no 20 649): bildēm, kurām jau bija iesniegumu statusu sīktēla nospiedums, programma to rēķināja vēlreiz un uzskatīja, ka darba vairs nav. Tagad der jebkurš tās pašas bildes nospiedums, un apvienošana turpinās līdz galam (gaita — statusa joslā).",
+          "Iestatījumos redzams arī, cik sīktēlus nevarēja nolasīt."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test105",
       "date": "2026-11-21",
@@ -528,18 +542,6 @@
         ],
         "en": [
           "Izmaksas: 123RF neizmaksātais tagad tiek nolasīts (agrāk programma to meklēja nepareizā vietā). Kartīte “Neizmaksāts” rāda tās pašas summas kā tabula “Izmaksas pa aģentūrām” — arī Envato Elements, iStock, Magnific, Envato Market; Depositphotos bez jau pieprasītās izmaksas, Ingram pārrēķināts no mārciņām. Envato Elements nepabeigtā mēneša ienākumi (piem. oktobris $26.97, nevis $5.03) — no Envato lapas kopsavilkuma, kamēr Envato dienas datus vēl nav publicējis. Manas bildes aģentūrās: sīktēli tiek lejupielādēti tikai nesasaistītajām bildēm."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test66",
-      "date": "2026-11-14",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: atrasts galvenais “?” iemesls — Tirgotājs pirms iesniegšanas burtus ar garumzīmēm pārvērš angļu burtos (“Līgatne” → “Ligatne”), tāpēc šādu bilžu virsraksti nesakrita ar komplekta manifestu. Tagad salīdzina bez garumzīmēm; Pond5 bildes bez datuma ar pilnu virsrakstu arī tiek atpazītas. Tavos datos atpazītas vēl 31 bilde (piem. Talsi 1–4 visās aģentūrās)."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: atrasts galvenais “?” iemesls — Tirgotājs pirms iesniegšanas burtus ar garumzīmēm pārvērš angļu burtos (“Līgatne” → “Ligatne”), tāpēc šādu bilžu virsraksti nesakrita ar komplekta manifestu. Tagad salīdzina bez garumzīmēm; Pond5 bildes bez datuma ar pilnu virsrakstu arī tiek atpazītas. Tavos datos atpazītas vēl 31 bilde (piem. Talsi 1–4 visās aģentūrās)."
         ]
       }
     }
