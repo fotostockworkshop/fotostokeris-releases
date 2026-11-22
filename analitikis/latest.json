@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test109",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test109.zip",
-    "sha256": "6752da9073660dcc6a76532453a24c4f09932fdbacf6ade55d666b1cd3ceb3c6",
-    "size": 10971482,
+    "version": "0.3.1-test110",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test110.zip",
+    "sha256": "7287b5ebdaa03d7e9457a9cb1ed151e020204e05dfb47d1d9acef76730f3ebf9",
+    "size": 10972475,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Bilžu apvienošana pēc izskata tagad strādā arī datoros, kur trūka attēlu bibliotēkas (Pillow): programma to uzstāda pati, un sīktēlus, kurus agrāk “nevarēja nolasīt”, apstrādā no jauna. Gaita — statusa joslā."
+        "Bilžu apvienošana: ja attēlu bibliotēka (Pillow) bija uzstādīta nepareizam procesoram (Apple M pret Intel), programma to pārinstalē pareizi un tad sāk salīdzināšanu."
       ],
       "en": [
-        "Bilžu apvienošana pēc izskata tagad strādā arī datoros, kur trūka attēlu bibliotēkas (Pillow): programma to uzstāda pati, un sīktēlus, kurus agrāk “nevarēja nolasīt”, apstrādā no jauna. Gaita — statusa joslā."
+        "Bilžu apvienošana: ja attēlu bibliotēka (Pillow) bija uzstādīta nepareizam procesoram (Apple M pret Intel), programma to pārinstalē pareizi un tad sāk salīdzināšanu."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test110",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Bilžu apvienošana: ja attēlu bibliotēka (Pillow) bija uzstādīta nepareizam procesoram (Apple M pret Intel), programma to pārinstalē pareizi un tad sāk salīdzināšanu."
+        ],
+        "en": [
+          "Bilžu apvienošana: ja attēlu bibliotēka (Pillow) bija uzstādīta nepareizam procesoram (Apple M pret Intel), programma to pārinstalē pareizi un tad sāk salīdzināšanu."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test109",
       "date": "2026-11-22",
@@ -526,18 +538,6 @@
         ],
         "en": [
           "Izmaksas: Alamy pieejamā summa tagad ir “Cleared balance” no Alamy lapas (piem. $54.44), nevis viss atlikums ar vēl neapstiprinātajām pārdošanām ($96.20). Ja pieejamais ir virs minimuma, Alamy izmaksa prognozē gaidāma šajā mēnesī, kamēr tā nav saņemta."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test70",
-      "date": "2026-11-16",
-      "notes": {
-        "lv": [
-          "Izmaksas: mēneša prognozē Envato Elements tagad ir īstā gaidāmā izmaksa no Envato lapas “Balances” (piem. $499.93), nevis aprēķins no pirms diviem mēnešiem nopelnītā ($224.95) — tā pati summa, kas “Neizmaksāts kopā”."
-        ],
-        "en": [
-          "Izmaksas: mēneša prognozē Envato Elements tagad ir īstā gaidāmā izmaksa no Envato lapas “Balances” (piem. $499.93), nevis aprēķins no pirms diviem mēnešiem nopelnītā ($224.95) — tā pati summa, kas “Neizmaksāts kopā”."
         ]
       }
     }
