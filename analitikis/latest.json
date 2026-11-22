@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test110",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test110.zip",
-    "sha256": "7287b5ebdaa03d7e9457a9cb1ed151e020204e05dfb47d1d9acef76730f3ebf9",
-    "size": 10972475,
+    "version": "0.3.1-test111",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test111.zip",
+    "sha256": "df00476322c572c48ed6a8bdf1606b146a4a47589008c62d255df508f8208e1c",
+    "size": 10973057,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Bilžu apvienošana: ja attēlu bibliotēka (Pillow) bija uzstādīta nepareizam procesoram (Apple M pret Intel), programma to pārinstalē pareizi un tad sāk salīdzināšanu."
+        "Apvienot visas: paziņojums “paveikts” vairs neparādās pusceļā — indikators statusa joslā paliek līdz īstajām beigām."
       ],
       "en": [
-        "Bilžu apvienošana: ja attēlu bibliotēka (Pillow) bija uzstādīta nepareizam procesoram (Apple M pret Intel), programma to pārinstalē pareizi un tad sāk salīdzināšanu."
+        "Apvienot visas: paziņojums “paveikts” vairs neparādās pusceļā — indikators statusa joslā paliek līdz īstajām beigām."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test111",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Apvienot visas: paziņojums “paveikts” vairs neparādās pusceļā — indikators statusa joslā paliek līdz īstajām beigām."
+        ],
+        "en": [
+          "Apvienot visas: paziņojums “paveikts” vairs neparādās pusceļā — indikators statusa joslā paliek līdz īstajām beigām."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test110",
       "date": "2026-11-22",
@@ -526,18 +538,6 @@
         ],
         "en": [
           "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test71",
-      "date": "2026-11-16",
-      "notes": {
-        "lv": [
-          "Izmaksas: Alamy pieejamā summa tagad ir “Cleared balance” no Alamy lapas (piem. $54.44), nevis viss atlikums ar vēl neapstiprinātajām pārdošanām ($96.20). Ja pieejamais ir virs minimuma, Alamy izmaksa prognozē gaidāma šajā mēnesī, kamēr tā nav saņemta."
-        ],
-        "en": [
-          "Izmaksas: Alamy pieejamā summa tagad ir “Cleared balance” no Alamy lapas (piem. $54.44), nevis viss atlikums ar vēl neapstiprinātajām pārdošanām ($96.20). Ja pieejamais ir virs minimuma, Alamy izmaksa prognozē gaidāma šajā mēnesī, kamēr tā nav saņemta."
         ]
       }
     }
