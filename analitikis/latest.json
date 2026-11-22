@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test112",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test112.zip",
-    "sha256": "9a64717c30f6d4a28bd78d3cb79b7e8ab676661c7af820b359079163886665a0",
-    "size": 10973531,
+    "version": "0.3.1-test113",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test113.zip",
+    "sha256": "862e13719c9b81fa2ec2471e8c4f189e893cfce72cf91591aec66c1173087c41",
+    "size": 10975482,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Apvienot visas: nospiežot “Atjaunot”, vairs neparādās kļūdains paziņojums “salīdzināšana pabeigta” — indikators statusa joslā turpina rādīt gaitu."
+        "Bilžu apvienošana: Depositphotos un 123RF sīktēli tagad tiek lejupielādēti (agrāk aģentūras tos atteica — kļūdas 415 un 403); servera kavēšanās gadījumā mēģina vēlreiz. Visus agrāk nenolasītos sīktēlus programma vienreiz apstrādā no jauna, žurnālā — cik nenolasīja katrā aģentūrā."
       ],
       "en": [
-        "Apvienot visas: nospiežot “Atjaunot”, vairs neparādās kļūdains paziņojums “salīdzināšana pabeigta” — indikators statusa joslā turpina rādīt gaitu."
+        "Bilžu apvienošana: Depositphotos un 123RF sīktēli tagad tiek lejupielādēti (agrāk aģentūras tos atteica — kļūdas 415 un 403); servera kavēšanās gadījumā mēģina vēlreiz. Visus agrāk nenolasītos sīktēlus programma vienreiz apstrādā no jauna, žurnālā — cik nenolasīja katrā aģentūrā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test113",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Bilžu apvienošana: Depositphotos un 123RF sīktēli tagad tiek lejupielādēti (agrāk aģentūras tos atteica — kļūdas 415 un 403); servera kavēšanās gadījumā mēģina vēlreiz. Visus agrāk nenolasītos sīktēlus programma vienreiz apstrādā no jauna, žurnālā — cik nenolasīja katrā aģentūrā."
+        ],
+        "en": [
+          "Bilžu apvienošana: Depositphotos un 123RF sīktēli tagad tiek lejupielādēti (agrāk aģentūras tos atteica — kļūdas 415 un 403); servera kavēšanās gadījumā mēģina vēlreiz. Visus agrāk nenolasītos sīktēlus programma vienreiz apstrādā no jauna, žurnālā — cik nenolasīja katrā aģentūrā."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test112",
       "date": "2026-11-22",
@@ -526,18 +538,6 @@
         "en": [
           "Envato Elements: atjaunošana atkal strādā — Envato noņēma iepriekšējo datu avotu, tagad ienākumi pa mēnešiem un dienām tiek nolasīti tieši no lapas “Elements Earnings”. Pēc atjaunošanas tiek nolasīta arī jaunākā izmaksa.",
           "Izmaksas: tabulā “Pa gadiem” virsrakstā tagad redzama izvēlētā valūta (agrāk vienmēr “$”); paskaidrojums zem tabulas īsāks."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test73",
-      "date": "2026-11-16",
-      "notes": {
-        "lv": [
-          "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
-        ],
-        "en": [
-          "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
         ]
       }
     }
