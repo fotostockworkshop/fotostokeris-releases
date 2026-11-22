@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test114",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test114.zip",
-    "sha256": "1342610602ecd1d6536a4750113a3eba95c47920b7f45a17786ef798da0215d5",
-    "size": 10977022,
+    "version": "0.3.1-test115",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test115.zip",
+    "sha256": "11be57edd4204d7ff826b127cd1ec466f7806514db2224500a02c377c8426964",
+    "size": 11014835,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Bilžu apvienošana: Shutterstock sīktēliem ar veco adresi programma tagad ņem jauno (tāpat kā lapās), Dreamstime — arī adreses ar īpašām zīmēm; šos nenolasītos apstrādā vēlreiz. “Apvienotās bildes” rindā aģentūrai bez sīktēla (Adobe vecās pārdošanas, EyeEm) rāda tās pašas bildes sīktēlu no citas aģentūras. Microstockr vairs netiek pieminēts: noņemta sadaļa “Imports no Microstockr”, nospiedumu rinda un kolekciju birka (jau ielasītie dati paliek)."
+        "Jauns: Iestatījumi → Darbs ar datiem → “Eksports uz Excel…”. Izvēlies atskaites (ienākumi pa gadiem un mēnešiem, aģentūras periodā, lejupielādes un RPD, sezonalitāte, 100 labākās bildes ar pārdošanām, izmaksas, neizmaksātā nauda, portfelis un pieaugums, kolekcijas, pārdošanas veids; kopsavilkums par visu vēsturi — vienmēr). Excel failā visas summas ir formulas: kopsavilkumā vari mainīt valūtu (USD/EUR), kursu un periodu, katrā atskaitē — arī savu periodu; lapās “Dati …” rindas var labot un papildināt, viss pārrēķināsies. Fails saglabājas mapē Lejupielādes un atveras. Vecās aģentūras (Twenty20 u.c.) Excelī ir katra savā kolonnā."
       ],
       "en": [
-        "Bilžu apvienošana: Shutterstock sīktēliem ar veco adresi programma tagad ņem jauno (tāpat kā lapās), Dreamstime — arī adreses ar īpašām zīmēm; šos nenolasītos apstrādā vēlreiz. “Apvienotās bildes” rindā aģentūrai bez sīktēla (Adobe vecās pārdošanas, EyeEm) rāda tās pašas bildes sīktēlu no citas aģentūras. Microstockr vairs netiek pieminēts: noņemta sadaļa “Imports no Microstockr”, nospiedumu rinda un kolekciju birka (jau ielasītie dati paliek)."
+        "Jauns: Iestatījumi → Darbs ar datiem → “Eksports uz Excel…”. Izvēlies atskaites (ienākumi pa gadiem un mēnešiem, aģentūras periodā, lejupielādes un RPD, sezonalitāte, 100 labākās bildes ar pārdošanām, izmaksas, neizmaksātā nauda, portfelis un pieaugums, kolekcijas, pārdošanas veids; kopsavilkums par visu vēsturi — vienmēr). Excel failā visas summas ir formulas: kopsavilkumā vari mainīt valūtu (USD/EUR), kursu un periodu, katrā atskaitē — arī savu periodu; lapās “Dati …” rindas var labot un papildināt, viss pārrēķināsies. Fails saglabājas mapē Lejupielādes un atveras. Vecās aģentūras (Twenty20 u.c.) Excelī ir katra savā kolonnā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test115",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Jauns: Iestatījumi → Darbs ar datiem → “Eksports uz Excel…”. Izvēlies atskaites (ienākumi pa gadiem un mēnešiem, aģentūras periodā, lejupielādes un RPD, sezonalitāte, 100 labākās bildes ar pārdošanām, izmaksas, neizmaksātā nauda, portfelis un pieaugums, kolekcijas, pārdošanas veids; kopsavilkums par visu vēsturi — vienmēr). Excel failā visas summas ir formulas: kopsavilkumā vari mainīt valūtu (USD/EUR), kursu un periodu, katrā atskaitē — arī savu periodu; lapās “Dati …” rindas var labot un papildināt, viss pārrēķināsies. Fails saglabājas mapē Lejupielādes un atveras. Vecās aģentūras (Twenty20 u.c.) Excelī ir katra savā kolonnā."
+        ],
+        "en": [
+          "Jauns: Iestatījumi → Darbs ar datiem → “Eksports uz Excel…”. Izvēlies atskaites (ienākumi pa gadiem un mēnešiem, aģentūras periodā, lejupielādes un RPD, sezonalitāte, 100 labākās bildes ar pārdošanām, izmaksas, neizmaksātā nauda, portfelis un pieaugums, kolekcijas, pārdošanas veids; kopsavilkums par visu vēsturi — vienmēr). Excel failā visas summas ir formulas: kopsavilkumā vari mainīt valūtu (USD/EUR), kursu un periodu, katrā atskaitē — arī savu periodu; lapās “Dati …” rindas var labot un papildināt, viss pārrēķināsies. Fails saglabājas mapē Lejupielādes un atveras. Vecās aģentūras (Twenty20 u.c.) Excelī ir katra savā kolonnā."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test114",
       "date": "2026-11-22",
@@ -524,18 +536,6 @@
         ],
         "en": [
           "Izmaksas, Envato Elements: kamēr nākamā izmaksa nav sasniegusi $50 minimumu, tā redzama tikai neizmaksātajā, pieejamais — $0.00 (josla “Līdz minimumam” rāda, cik trūkst)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test75",
-      "date": "2026-11-17",
-      "notes": {
-        "lv": [
-          "Izmaksas, Envato Elements: nauda vairs nepazūd. Pirms izmaksas — pieejamā summa un prognoze šomēnes, neizmaksātajā arī nākamie uzkrātie mēneši; pēc izmaksas — tā redzama saņemtajās, bet uzkrātais (piem. oktobra $37.63) — neizmaksātajā un pieejamajā ar nākamā mēneša 15. datumu. Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
-        ],
-        "en": [
-          "Izmaksas, Envato Elements: nauda vairs nepazūd. Pirms izmaksas — pieejamā summa un prognoze šomēnes, neizmaksātajā arī nākamie uzkrātie mēneši; pēc izmaksas — tā redzama saņemtajās, bet uzkrātais (piem. oktobra $37.63) — neizmaksātajā un pieejamajā ar nākamā mēneša 15. datumu. Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
         ]
       }
     }
