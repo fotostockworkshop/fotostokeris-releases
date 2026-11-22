@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test111",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test111.zip",
-    "sha256": "df00476322c572c48ed6a8bdf1606b146a4a47589008c62d255df508f8208e1c",
-    "size": 10973057,
+    "version": "0.3.1-test112",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test112.zip",
+    "sha256": "9a64717c30f6d4a28bd78d3cb79b7e8ab676661c7af820b359079163886665a0",
+    "size": 10973531,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Apvienot visas: paziņojums “paveikts” vairs neparādās pusceļā — indikators statusa joslā paliek līdz īstajām beigām."
+        "Apvienot visas: nospiežot “Atjaunot”, vairs neparādās kļūdains paziņojums “salīdzināšana pabeigta” — indikators statusa joslā turpina rādīt gaitu."
       ],
       "en": [
-        "Apvienot visas: paziņojums “paveikts” vairs neparādās pusceļā — indikators statusa joslā paliek līdz īstajām beigām."
+        "Apvienot visas: nospiežot “Atjaunot”, vairs neparādās kļūdains paziņojums “salīdzināšana pabeigta” — indikators statusa joslā turpina rādīt gaitu."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test112",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Apvienot visas: nospiežot “Atjaunot”, vairs neparādās kļūdains paziņojums “salīdzināšana pabeigta” — indikators statusa joslā turpina rādīt gaitu."
+        ],
+        "en": [
+          "Apvienot visas: nospiežot “Atjaunot”, vairs neparādās kļūdains paziņojums “salīdzināšana pabeigta” — indikators statusa joslā turpina rādīt gaitu."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test111",
       "date": "2026-11-22",
@@ -526,18 +538,6 @@
         ],
         "en": [
           "Izmaksas: tabulā “Pa gadiem” tekošais gads tagad tiek salīdzināts ar to pašu periodu pagājušajā gadā (1. janvāris–šodienas datums), nevis ar visu pagājušo gadu; zem tabulas — paskaidrojums."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test72",
-      "date": "2026-11-16",
-      "notes": {
-        "lv": [
-          "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
-        ],
-        "en": [
-          "Izmaksas: kartīte “Vidēji mēnesī” tagad ir iestatījumos izvēlētajā valūtā, tāpat kā pārējās kartītes; izvēle “Attēlo izmaksas” maina tikai grafiku un tabulas."
         ]
       }
     }
