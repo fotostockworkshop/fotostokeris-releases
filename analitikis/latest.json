@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test107",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test107.zip",
-    "sha256": "ea5ee45075e4a362a35bc554ac84dd3585020db2bb02bd658e2567a4eaf48c8f",
-    "size": 10969460,
+    "version": "0.3.1-test108",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test108.zip",
+    "sha256": "b6e346b2f98fdf981c9a2b850986c2b607d12e46672fdb5473ce444c45fb3e87",
+    "size": 10970140,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Bildes detaļās “Apvienotās bildes” un “Atrast tādu pašu” sīktēli vairs nav pelēki kvadrāti — tiek lietoti tie paši rezerves sīktēli kā kartītēs (Shutterstock, Adobe u.c. sīktēlu adreses mēdz neatvērties tieši)."
+        "Apvienot visas: žurnālā redzama katra kārta (cik bilžu, jauni nospiedumi, cik sasaistīts katrā solī), statusa joslā — arī salīdzināšanas posms."
       ],
       "en": [
-        "Bildes detaļās “Apvienotās bildes” un “Atrast tādu pašu” sīktēli vairs nav pelēki kvadrāti — tiek lietoti tie paši rezerves sīktēli kā kartītēs (Shutterstock, Adobe u.c. sīktēlu adreses mēdz neatvērties tieši)."
+        "Apvienot visas: žurnālā redzama katra kārta (cik bilžu, jauni nospiedumi, cik sasaistīts katrā solī), statusa joslā — arī salīdzināšanas posms."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test108",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Apvienot visas: žurnālā redzama katra kārta (cik bilžu, jauni nospiedumi, cik sasaistīts katrā solī), statusa joslā — arī salīdzināšanas posms."
+        ],
+        "en": [
+          "Apvienot visas: žurnālā redzama katra kārta (cik bilžu, jauni nospiedumi, cik sasaistīts katrā solī), statusa joslā — arī salīdzināšanas posms."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test107",
       "date": "2026-11-22",
@@ -528,18 +540,6 @@
         "en": [
           "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
           "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test68",
-      "date": "2026-11-15",
-      "notes": {
-        "lv": [
-          "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
-        ],
-        "en": [
-          "Izmaksas: Envato Elements gaidāmā izmaksa tagad ir īstā summa no Envato lapas “Balances” (piem. $499.93 — ietver arī Envato atdoto agrāk ieturēto nodokli $275), nevis aprēķins no mēneša ienākumiem. Kamēr šī summa vēl nav izmaksāta, aprēķinātā “pēdējā izmaksa” netiek rādīta."
         ]
       }
     }
