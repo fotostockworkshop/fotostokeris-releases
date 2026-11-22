@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test113",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test113.zip",
-    "sha256": "862e13719c9b81fa2ec2471e8c4f189e893cfce72cf91591aec66c1173087c41",
-    "size": 10975482,
+    "version": "0.3.1-test114",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test114.zip",
+    "sha256": "1342610602ecd1d6536a4750113a3eba95c47920b7f45a17786ef798da0215d5",
+    "size": 10977022,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Bilžu apvienošana: Depositphotos un 123RF sīktēli tagad tiek lejupielādēti (agrāk aģentūras tos atteica — kļūdas 415 un 403); servera kavēšanās gadījumā mēģina vēlreiz. Visus agrāk nenolasītos sīktēlus programma vienreiz apstrādā no jauna, žurnālā — cik nenolasīja katrā aģentūrā."
+        "Bilžu apvienošana: Shutterstock sīktēliem ar veco adresi programma tagad ņem jauno (tāpat kā lapās), Dreamstime — arī adreses ar īpašām zīmēm; šos nenolasītos apstrādā vēlreiz. “Apvienotās bildes” rindā aģentūrai bez sīktēla (Adobe vecās pārdošanas, EyeEm) rāda tās pašas bildes sīktēlu no citas aģentūras. Microstockr vairs netiek pieminēts: noņemta sadaļa “Imports no Microstockr”, nospiedumu rinda un kolekciju birka (jau ielasītie dati paliek)."
       ],
       "en": [
-        "Bilžu apvienošana: Depositphotos un 123RF sīktēli tagad tiek lejupielādēti (agrāk aģentūras tos atteica — kļūdas 415 un 403); servera kavēšanās gadījumā mēģina vēlreiz. Visus agrāk nenolasītos sīktēlus programma vienreiz apstrādā no jauna, žurnālā — cik nenolasīja katrā aģentūrā."
+        "Bilžu apvienošana: Shutterstock sīktēliem ar veco adresi programma tagad ņem jauno (tāpat kā lapās), Dreamstime — arī adreses ar īpašām zīmēm; šos nenolasītos apstrādā vēlreiz. “Apvienotās bildes” rindā aģentūrai bez sīktēla (Adobe vecās pārdošanas, EyeEm) rāda tās pašas bildes sīktēlu no citas aģentūras. Microstockr vairs netiek pieminēts: noņemta sadaļa “Imports no Microstockr”, nospiedumu rinda un kolekciju birka (jau ielasītie dati paliek)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test114",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Bilžu apvienošana: Shutterstock sīktēliem ar veco adresi programma tagad ņem jauno (tāpat kā lapās), Dreamstime — arī adreses ar īpašām zīmēm; šos nenolasītos apstrādā vēlreiz. “Apvienotās bildes” rindā aģentūrai bez sīktēla (Adobe vecās pārdošanas, EyeEm) rāda tās pašas bildes sīktēlu no citas aģentūras. Microstockr vairs netiek pieminēts: noņemta sadaļa “Imports no Microstockr”, nospiedumu rinda un kolekciju birka (jau ielasītie dati paliek)."
+        ],
+        "en": [
+          "Bilžu apvienošana: Shutterstock sīktēliem ar veco adresi programma tagad ņem jauno (tāpat kā lapās), Dreamstime — arī adreses ar īpašām zīmēm; šos nenolasītos apstrādā vēlreiz. “Apvienotās bildes” rindā aģentūrai bez sīktēla (Adobe vecās pārdošanas, EyeEm) rāda tās pašas bildes sīktēlu no citas aģentūras. Microstockr vairs netiek pieminēts: noņemta sadaļa “Imports no Microstockr”, nospiedumu rinda un kolekciju birka (jau ielasītie dati paliek)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test113",
       "date": "2026-11-22",
@@ -524,20 +536,6 @@
         ],
         "en": [
           "Izmaksas, Envato Elements: nauda vairs nepazūd. Pirms izmaksas — pieejamā summa un prognoze šomēnes, neizmaksātajā arī nākamie uzkrātie mēneši; pēc izmaksas — tā redzama saņemtajās, bet uzkrātais (piem. oktobra $37.63) — neizmaksātajā un pieejamajā ar nākamā mēneša 15. datumu. Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test74",
-      "date": "2026-11-17",
-      "notes": {
-        "lv": [
-          "Envato Elements: atjaunošana atkal strādā — Envato noņēma iepriekšējo datu avotu, tagad ienākumi pa mēnešiem un dienām tiek nolasīti tieši no lapas “Elements Earnings”. Pēc atjaunošanas tiek nolasīta arī jaunākā izmaksa.",
-          "Izmaksas: tabulā “Pa gadiem” virsrakstā tagad redzama izvēlētā valūta (agrāk vienmēr “$”); paskaidrojums zem tabulas īsāks."
-        ],
-        "en": [
-          "Envato Elements: atjaunošana atkal strādā — Envato noņēma iepriekšējo datu avotu, tagad ienākumi pa mēnešiem un dienām tiek nolasīti tieši no lapas “Elements Earnings”. Pēc atjaunošanas tiek nolasīta arī jaunākā izmaksa.",
-          "Izmaksas: tabulā “Pa gadiem” virsrakstā tagad redzama izvēlētā valūta (agrāk vienmēr “$”); paskaidrojums zem tabulas īsāks."
         ]
       }
     }
