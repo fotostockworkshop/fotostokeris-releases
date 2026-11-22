@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test108",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test108.zip",
-    "sha256": "b6e346b2f98fdf981c9a2b850986c2b607d12e46672fdb5473ce444c45fb3e87",
-    "size": 10970140,
+    "version": "0.3.1-test109",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test109.zip",
+    "sha256": "6752da9073660dcc6a76532453a24c4f09932fdbacf6ade55d666b1cd3ceb3c6",
+    "size": 10971482,
     "date": "2026-11-22",
     "notes": {
       "lv": [
-        "Apvienot visas: žurnālā redzama katra kārta (cik bilžu, jauni nospiedumi, cik sasaistīts katrā solī), statusa joslā — arī salīdzināšanas posms."
+        "Bilžu apvienošana pēc izskata tagad strādā arī datoros, kur trūka attēlu bibliotēkas (Pillow): programma to uzstāda pati, un sīktēlus, kurus agrāk “nevarēja nolasīt”, apstrādā no jauna. Gaita — statusa joslā."
       ],
       "en": [
-        "Apvienot visas: žurnālā redzama katra kārta (cik bilžu, jauni nospiedumi, cik sasaistīts katrā solī), statusa joslā — arī salīdzināšanas posms."
+        "Bilžu apvienošana pēc izskata tagad strādā arī datoros, kur trūka attēlu bibliotēkas (Pillow): programma to uzstāda pati, un sīktēlus, kurus agrāk “nevarēja nolasīt”, apstrādā no jauna. Gaita — statusa joslā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test109",
+      "date": "2026-11-22",
+      "notes": {
+        "lv": [
+          "Bilžu apvienošana pēc izskata tagad strādā arī datoros, kur trūka attēlu bibliotēkas (Pillow): programma to uzstāda pati, un sīktēlus, kurus agrāk “nevarēja nolasīt”, apstrādā no jauna. Gaita — statusa joslā."
+        ],
+        "en": [
+          "Bilžu apvienošana pēc izskata tagad strādā arī datoros, kur trūka attēlu bibliotēkas (Pillow): programma to uzstāda pati, un sīktēlus, kurus agrāk “nevarēja nolasīt”, apstrādā no jauna. Gaita — statusa joslā."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test108",
       "date": "2026-11-22",
@@ -526,20 +538,6 @@
         ],
         "en": [
           "Izmaksas: mēneša prognozē Envato Elements tagad ir īstā gaidāmā izmaksa no Envato lapas “Balances” (piem. $499.93), nevis aprēķins no pirms diviem mēnešiem nopelnītā ($224.95) — tā pati summa, kas “Neizmaksāts kopā”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test69",
-      "date": "2026-11-15",
-      "notes": {
-        "lv": [
-          "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
-          "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
-        ],
-        "en": [
-          "Manas bildes aģentūrās: 123RF tagad redzams — gaidošās, pieņemtās un noraidītās bildes (fotogrāfijas, editoriālās un AI) no “Manage content”, atpazītas pēc oriģinālā faila nosaukuma un sīktēla. 123RF lapas gatavie periodi (7 / 30 dienas) ir neprecīzi, tāpēc Analītiķis vienmēr lieto konkrētus datumus.",
-          "Izmaksas: noņemta tabula “Neizmaksāts — Mēneša beigās” — tā atkārtoja pārskata summu."
         ]
       }
     }
