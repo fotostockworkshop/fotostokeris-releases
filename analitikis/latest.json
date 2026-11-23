@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test116",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test116.zip",
-    "sha256": "845b7875c6c33104e878096e6830877c2556a8ca296801498ec00af245a4731b",
-    "size": 11016762,
+    "version": "0.3.1-test117",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test117.zip",
+    "sha256": "4c72f98a52919b1b47439c9b533c8e0af9a15ae178f6d2664ade6c4f49cec4dd",
+    "size": 11017201,
     "date": "2026-11-23",
     "notes": {
       "lv": [
-        "Dreamstime: ja lapa nestrādā vai atveras citāda lapa, paziņojums ir saprotams (“mēģināšu nākamajā atjaunošanā”), ielogošanās vai drošības pārbaudes lapa — piedāvā ielogoties; žurnālā redzams, kas atvērās. Alamy: jaunas pārdošanas sīktēls tiek meklēts tajā pašā atjaunošanā, nevis tikai nākamajā dienā. “Apvienotās bildes” rindā bildei bez sava sīktēla (piem., AI bildes Adobe) rāda kartītes bildi."
+        "“Apvienotās bildes” rindā un “Atrast tādu pašu” rezultātos Adobe Stock sīktēli tagad redzami (programma prasīja Adobe neeksistējošu sīktēla izmēru — tāpēc bija “FOTO”)."
       ],
       "en": [
-        "Dreamstime: ja lapa nestrādā vai atveras citāda lapa, paziņojums ir saprotams (“mēģināšu nākamajā atjaunošanā”), ielogošanās vai drošības pārbaudes lapa — piedāvā ielogoties; žurnālā redzams, kas atvērās. Alamy: jaunas pārdošanas sīktēls tiek meklēts tajā pašā atjaunošanā, nevis tikai nākamajā dienā. “Apvienotās bildes” rindā bildei bez sava sīktēla (piem., AI bildes Adobe) rāda kartītes bildi."
+        "“Apvienotās bildes” rindā un “Atrast tādu pašu” rezultātos Adobe Stock sīktēli tagad redzami (programma prasīja Adobe neeksistējošu sīktēla izmēru — tāpēc bija “FOTO”)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test117",
+      "date": "2026-11-23",
+      "notes": {
+        "lv": [
+          "“Apvienotās bildes” rindā un “Atrast tādu pašu” rezultātos Adobe Stock sīktēli tagad redzami (programma prasīja Adobe neeksistējošu sīktēla izmēru — tāpēc bija “FOTO”)."
+        ],
+        "en": [
+          "“Apvienotās bildes” rindā un “Atrast tādu pašu” rezultātos Adobe Stock sīktēli tagad redzami (programma prasīja Adobe neeksistējošu sīktēla izmēru — tāpēc bija “FOTO”)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test116",
       "date": "2026-11-23",
@@ -522,20 +534,6 @@
         ],
         "en": [
           "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test77",
-      "date": "2026-11-17",
-      "notes": {
-        "lv": [
-          "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
-          "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
-        ],
-        "en": [
-          "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
-          "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
         ]
       }
     }
