@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test115",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test115.zip",
-    "sha256": "11be57edd4204d7ff826b127cd1ec466f7806514db2224500a02c377c8426964",
-    "size": 11014835,
-    "date": "2026-11-22",
+    "version": "0.3.1-test116",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test116.zip",
+    "sha256": "845b7875c6c33104e878096e6830877c2556a8ca296801498ec00af245a4731b",
+    "size": 11016762,
+    "date": "2026-11-23",
     "notes": {
       "lv": [
-        "Jauns: Iestatījumi → Darbs ar datiem → “Eksports uz Excel…”. Izvēlies atskaites (ienākumi pa gadiem un mēnešiem, aģentūras periodā, lejupielādes un RPD, sezonalitāte, 100 labākās bildes ar pārdošanām, izmaksas, neizmaksātā nauda, portfelis un pieaugums, kolekcijas, pārdošanas veids; kopsavilkums par visu vēsturi — vienmēr). Excel failā visas summas ir formulas: kopsavilkumā vari mainīt valūtu (USD/EUR), kursu un periodu, katrā atskaitē — arī savu periodu; lapās “Dati …” rindas var labot un papildināt, viss pārrēķināsies. Fails saglabājas mapē Lejupielādes un atveras. Vecās aģentūras (Twenty20 u.c.) Excelī ir katra savā kolonnā."
+        "Dreamstime: ja lapa nestrādā vai atveras citāda lapa, paziņojums ir saprotams (“mēģināšu nākamajā atjaunošanā”), ielogošanās vai drošības pārbaudes lapa — piedāvā ielogoties; žurnālā redzams, kas atvērās. Alamy: jaunas pārdošanas sīktēls tiek meklēts tajā pašā atjaunošanā, nevis tikai nākamajā dienā. “Apvienotās bildes” rindā bildei bez sava sīktēla (piem., AI bildes Adobe) rāda kartītes bildi."
       ],
       "en": [
-        "Jauns: Iestatījumi → Darbs ar datiem → “Eksports uz Excel…”. Izvēlies atskaites (ienākumi pa gadiem un mēnešiem, aģentūras periodā, lejupielādes un RPD, sezonalitāte, 100 labākās bildes ar pārdošanām, izmaksas, neizmaksātā nauda, portfelis un pieaugums, kolekcijas, pārdošanas veids; kopsavilkums par visu vēsturi — vienmēr). Excel failā visas summas ir formulas: kopsavilkumā vari mainīt valūtu (USD/EUR), kursu un periodu, katrā atskaitē — arī savu periodu; lapās “Dati …” rindas var labot un papildināt, viss pārrēķināsies. Fails saglabājas mapē Lejupielādes un atveras. Vecās aģentūras (Twenty20 u.c.) Excelī ir katra savā kolonnā."
+        "Dreamstime: ja lapa nestrādā vai atveras citāda lapa, paziņojums ir saprotams (“mēģināšu nākamajā atjaunošanā”), ielogošanās vai drošības pārbaudes lapa — piedāvā ielogoties; žurnālā redzams, kas atvērās. Alamy: jaunas pārdošanas sīktēls tiek meklēts tajā pašā atjaunošanā, nevis tikai nākamajā dienā. “Apvienotās bildes” rindā bildei bez sava sīktēla (piem., AI bildes Adobe) rāda kartītes bildi."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test116",
+      "date": "2026-11-23",
+      "notes": {
+        "lv": [
+          "Dreamstime: ja lapa nestrādā vai atveras citāda lapa, paziņojums ir saprotams (“mēģināšu nākamajā atjaunošanā”), ielogošanās vai drošības pārbaudes lapa — piedāvā ielogoties; žurnālā redzams, kas atvērās. Alamy: jaunas pārdošanas sīktēls tiek meklēts tajā pašā atjaunošanā, nevis tikai nākamajā dienā. “Apvienotās bildes” rindā bildei bez sava sīktēla (piem., AI bildes Adobe) rāda kartītes bildi."
+        ],
+        "en": [
+          "Dreamstime: ja lapa nestrādā vai atveras citāda lapa, paziņojums ir saprotams (“mēģināšu nākamajā atjaunošanā”), ielogošanās vai drošības pārbaudes lapa — piedāvā ielogoties; žurnālā redzams, kas atvērās. Alamy: jaunas pārdošanas sīktēls tiek meklēts tajā pašā atjaunošanā, nevis tikai nākamajā dienā. “Apvienotās bildes” rindā bildei bez sava sīktēla (piem., AI bildes Adobe) rāda kartītes bildi."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test115",
       "date": "2026-11-22",
@@ -524,18 +536,6 @@
         "en": [
           "Izmaksas, Envato Elements: izmaksu sarakstā tagad ierakstīta saņemtā summa pēc nodokļa (Trolley “You Receive”, piem. 16.11. $492.85, nevis $499.93) — ieraksti tiek atvērti pa vienam; Envato izmaksas nolasās vēlreiz.",
           "Izmaksas, Envato Elements: kamēr izmaksa vēl nav nolasīta, bet Envato atlikums jau nokritis, summa paliek prognozē un neizmaksātajā (nevis pazūd). Pēc ierastās izmaksas dienas izmaksu sarakstu pārbauda katru dienu, līdz izmaksa atrasta."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test76",
-      "date": "2026-11-17",
-      "notes": {
-        "lv": [
-          "Izmaksas, Envato Elements: kamēr nākamā izmaksa nav sasniegusi $50 minimumu, tā redzama tikai neizmaksātajā, pieejamais — $0.00 (josla “Līdz minimumam” rāda, cik trūkst)."
-        ],
-        "en": [
-          "Izmaksas, Envato Elements: kamēr nākamā izmaksa nav sasniegusi $50 minimumu, tā redzama tikai neizmaksātajā, pieejamais — $0.00 (josla “Līdz minimumam” rāda, cik trūkst)."
         ]
       }
     }
