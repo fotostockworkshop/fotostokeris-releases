@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test119",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test119.zip",
-    "sha256": "82784c9792b86ebc5e1c62d04ca4bcadb2a71bd81f0322b85695ff8535daa83f",
-    "size": 11018675,
+    "version": "0.3.1-test120",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test120.zip",
+    "sha256": "2de15cb82604e032e2325f1c8d11752480620edae918394ae61c89458a2bec03",
+    "size": 11019910,
     "date": "2026-11-24",
     "notes": {
       "lv": [
-        "Izmaksu prognoze: ja aģentūra šomēnes neizmaksāja (piem., Alamy), pēc 23. datuma tās nauda tiek prognozēta nākamajā mēnesī, nevis pazūd. Par notikušu (vēl nenolasītu) izmaksu uzskata tikai tad, ja tās ierastā diena bija pirms ne vairāk kā 5 dienām."
+        "Alamy: izraksta rindas bez bildes koda (piem., “Other income” · DACS Payment) tagad ir “Citi ienākumi” ar Alamy aprakstu, nevis pārdošana bez nosaukuma un sīktēla. Summa nemainās. Iepriekšējo gadu šādas rindas pārliks pēc Alamy “Visa vēsture”."
       ],
       "en": [
-        "Izmaksu prognoze: ja aģentūra šomēnes neizmaksāja (piem., Alamy), pēc 23. datuma tās nauda tiek prognozēta nākamajā mēnesī, nevis pazūd. Par notikušu (vēl nenolasītu) izmaksu uzskata tikai tad, ja tās ierastā diena bija pirms ne vairāk kā 5 dienām."
+        "Alamy: izraksta rindas bez bildes koda (piem., “Other income” · DACS Payment) tagad ir “Citi ienākumi” ar Alamy aprakstu, nevis pārdošana bez nosaukuma un sīktēla. Summa nemainās. Iepriekšējo gadu šādas rindas pārliks pēc Alamy “Visa vēsture”."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test120",
+      "date": "2026-11-24",
+      "notes": {
+        "lv": [
+          "Alamy: izraksta rindas bez bildes koda (piem., “Other income” · DACS Payment) tagad ir “Citi ienākumi” ar Alamy aprakstu, nevis pārdošana bez nosaukuma un sīktēla. Summa nemainās. Iepriekšējo gadu šādas rindas pārliks pēc Alamy “Visa vēsture”."
+        ],
+        "en": [
+          "Alamy: izraksta rindas bez bildes koda (piem., “Other income” · DACS Payment) tagad ir “Citi ienākumi” ar Alamy aprakstu, nevis pārdošana bez nosaukuma un sīktēla. Summa nemainās. Iepriekšējo gadu šādas rindas pārliks pēc Alamy “Visa vēsture”."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test119",
       "date": "2026-11-24",
@@ -518,20 +530,6 @@
         ],
         "en": [
           "Izmaksas, Depositphotos: neizmaksātais un pieejamais tagad ir “Available to withdraw” (tā pati summa, kas lapā pie maciņa ikonas, piem. $3.44); nolasa katrā atjaunošanā. Lapas kodā paslēptā “Balance” summa vairs netiek izmantota."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test80",
-      "date": "2026-11-17",
-      "notes": {
-        "lv": [
-          "Izmaksas: kartītē “Saņemts” ne-eiro izmaksām redzama arī oriģinālā izmaksātā summa, piem. “$492.85 ≈ €447.48” (eiro — pēc izmaksas dienas kursa).",
-          "Izmaksas, Envato Elements: izmaksa bez nodokļa ieturējuma tiek atzīmēta kā pārbaudīta un nākamreiz vairs netiek atvērta."
-        ],
-        "en": [
-          "Izmaksas: kartītē “Saņemts” ne-eiro izmaksām redzama arī oriģinālā izmaksātā summa, piem. “$492.85 ≈ €447.48” (eiro — pēc izmaksas dienas kursa).",
-          "Izmaksas, Envato Elements: izmaksa bez nodokļa ieturējuma tiek atzīmēta kā pārbaudīta un nākamreiz vairs netiek atvērta."
         ]
       }
     }
