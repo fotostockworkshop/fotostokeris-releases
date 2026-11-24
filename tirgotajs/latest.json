@@ -1,22 +1,44 @@
 {
   "test": {
-    "version": "0.1.0-test46",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test46.zip",
-    "sha256": "3fb9b4234d8a19566abc6c5185d1489ac6dd34dac81d6cdc2b00a1c5ee5457f9",
-    "size": 6888353,
-    "date": "2026-11-20",
+    "version": "0.1.0-test47",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test47.zip",
+    "sha256": "ac94533721af30ab1d5d4f87e487d060851c03fdb265d0024a17fb2f349ba986",
+    "size": 6898379,
+    "date": "2026-11-24",
     "notes": {
       "lv": [
-        "Aģentūru kartītē skaitļi saskan: iesniegtas = izskatīšanā + pieņemtas + noraidītas.",
-        "Magnific kartītē limits par kalendāro mēnesi."
+        "FTP: lēna servera apstiprinājuma dēļ vairs nerodas dubulti; pats atkārto neaizgājušās.",
+        "Kartītē skaidri redzams, kurai aģentūrai neizdevās.",
+        "\"Atlasīt pašam\": labais klikšķis — Izdzēst no NAS.",
+        "NAS ⇄ manifestu pārbaude statusa joslā."
       ],
       "en": [
-        "Aģentūru kartītē skaitļi saskan: iesniegtas = izskatīšanā + pieņemtas + noraidītas.",
-        "Magnific kartītē limits par kalendāro mēnesi."
+        "FTP: lēna servera apstiprinājuma dēļ vairs nerodas dubulti; pats atkārto neaizgājušās.",
+        "Kartītē skaidri redzams, kurai aģentūrai neizdevās.",
+        "\"Atlasīt pašam\": labais klikšķis — Izdzēst no NAS.",
+        "NAS ⇄ manifestu pārbaude statusa joslā."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test47",
+      "date": "2026-11-24",
+      "notes": {
+        "lv": [
+          "FTP: lēna servera apstiprinājuma dēļ vairs nerodas dubulti; pats atkārto neaizgājušās.",
+          "Kartītē skaidri redzams, kurai aģentūrai neizdevās.",
+          "\"Atlasīt pašam\": labais klikšķis — Izdzēst no NAS.",
+          "NAS ⇄ manifestu pārbaude statusa joslā."
+        ],
+        "en": [
+          "FTP: lēna servera apstiprinājuma dēļ vairs nerodas dubulti; pats atkārto neaizgājušās.",
+          "Kartītē skaidri redzams, kurai aģentūrai neizdevās.",
+          "\"Atlasīt pašam\": labais klikšķis — Izdzēst no NAS.",
+          "NAS ⇄ manifestu pārbaude statusa joslā."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test46",
       "date": "2026-11-20",
@@ -578,22 +600,6 @@
           "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
           "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
           "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
-        ]
-      }
-    },
-    {
-      "version": "0.1.0-test7",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Iestatījumos \"Aģentūru pieslēgumi\": katrai aģentūrai izvēle Portāls vai FTP.",
-          "Portāls: var ierakstīt savu adresi — uz to ved poga \"Atvērt ↗\".",
-          "FTP: serveris, ports, FTP/FTPS/SFTP (jau aizpildīti no izpētes), lietotājvārds un parole (tikai drošajā glabātuvē), poga \"Pārbaudīt savienojumu\". Augšupielāde no komplekta — nākamajā versijā."
-        ],
-        "en": [
-          "Iestatījumos \"Aģentūru pieslēgumi\": katrai aģentūrai izvēle Portāls vai FTP.",
-          "Portāls: var ierakstīt savu adresi — uz to ved poga \"Atvērt ↗\".",
-          "FTP: serveris, ports, FTP/FTPS/SFTP (jau aizpildīti no izpētes), lietotājvārds un parole (tikai drošajā glabātuvē), poga \"Pārbaudīt savienojumu\". Augšupielāde no komplekta — nākamajā versijā."
         ]
       }
     }
