@@ -1,22 +1,36 @@
 {
   "test": {
-    "version": "0.9.0-test24",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test24.zip",
-    "sha256": "21237a7f539dde95aed18211bfdc2baf99e386f89cc5258e41ac674f79c1e4a1",
-    "size": 10160150,
-    "date": "2026-11-23",
+    "version": "0.9.0-test25",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/vardotajs/vardotajs-0.9.0-test25.zip",
+    "sha256": "0f03c797cd5c6289d971290076a33116a1a2b63fe03fccdaa9fbe9412bbca115",
+    "size": 10163457,
+    "date": "2026-11-24",
     "notes": {
       "lv": [
-        "NAS sūtījumiem bez manifesta (piem. vecā Bali mape) Vārdotājs pēc palaišanas pats izveido manifestu un nosūta uz Google disku — Tirgotājs un Analītiķis tās bildes redzēs",
-        "(test23) Pārslēdzot RF → ED, ED piebilde (vieta un datums) tiek pielikta uzreiz, bez pārģenerēšanas"
+        "Mainot NAS sūtījumā bildes veidu (ED ⇄ RF), tekstus vai pārliekot to citā apakšmapē, sūtījuma manifests un Google diska kopija atjaunojas pati — Tirgotājs un Analītiķis redz jauno veidu",
+        "Startā tiek pārbaudīti visi NAS sūtījumi (trūkstošs manifests — izveidots, novecojis — atjaunots); poga “Manifests” NAS mapē atjauno visu sūtījumu"
       ],
       "en": [
-        "NAS sūtījumiem bez manifesta (piem. vecā Bali mape) Vārdotājs pēc palaišanas pats izveido manifestu un nosūta uz Google disku — Tirgotājs un Analītiķis tās bildes redzēs",
-        "(test23) Pārslēdzot RF → ED, ED piebilde (vieta un datums) tiek pielikta uzreiz, bez pārģenerēšanas"
+        "Mainot NAS sūtījumā bildes veidu (ED ⇄ RF), tekstus vai pārliekot to citā apakšmapē, sūtījuma manifests un Google diska kopija atjaunojas pati — Tirgotājs un Analītiķis redz jauno veidu",
+        "Startā tiek pārbaudīti visi NAS sūtījumi (trūkstošs manifests — izveidots, novecojis — atjaunots); poga “Manifests” NAS mapē atjauno visu sūtījumu"
       ]
     }
   },
   "history": [
+    {
+      "version": "0.9.0-test25",
+      "date": "2026-11-24",
+      "notes": {
+        "lv": [
+          "Mainot NAS sūtījumā bildes veidu (ED ⇄ RF), tekstus vai pārliekot to citā apakšmapē, sūtījuma manifests un Google diska kopija atjaunojas pati — Tirgotājs un Analītiķis redz jauno veidu",
+          "Startā tiek pārbaudīti visi NAS sūtījumi (trūkstošs manifests — izveidots, novecojis — atjaunots); poga “Manifests” NAS mapē atjauno visu sūtījumu"
+        ],
+        "en": [
+          "Mainot NAS sūtījumā bildes veidu (ED ⇄ RF), tekstus vai pārliekot to citā apakšmapē, sūtījuma manifests un Google diska kopija atjaunojas pati — Tirgotājs un Analītiķis redz jauno veidu",
+          "Startā tiek pārbaudīti visi NAS sūtījumi (trūkstošs manifests — izveidots, novecojis — atjaunots); poga “Manifests” NAS mapē atjauno visu sūtījumu"
+        ]
+      }
+    },
     {
       "version": "0.9.0-test24",
       "date": "2026-11-23",
