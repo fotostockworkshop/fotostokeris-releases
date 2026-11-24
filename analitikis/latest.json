@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test117",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test117.zip",
-    "sha256": "4c72f98a52919b1b47439c9b533c8e0af9a15ae178f6d2664ade6c4f49cec4dd",
-    "size": 11017201,
-    "date": "2026-11-23",
+    "version": "0.3.1-test118",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test118.zip",
+    "sha256": "7eab0355b62b9d20216b83fb33f8acede3a5dbf837b102eb1234da8f53c081dc",
+    "size": 11017689,
+    "date": "2026-11-24",
     "notes": {
       "lv": [
-        "“Apvienotās bildes” rindā un “Atrast tādu pašu” rezultātos Adobe Stock sīktēli tagad redzami (programma prasīja Adobe neeksistējošu sīktēla izmēru — tāpēc bija “FOTO”)."
+        "Kolekcijas kartītē periodā “Visa vēsture” rakstīts, cik bildes ir kolekcijā (citos periodos — cik no tām pārdotas periodā)."
       ],
       "en": [
-        "“Apvienotās bildes” rindā un “Atrast tādu pašu” rezultātos Adobe Stock sīktēli tagad redzami (programma prasīja Adobe neeksistējošu sīktēla izmēru — tāpēc bija “FOTO”)."
+        "Kolekcijas kartītē periodā “Visa vēsture” rakstīts, cik bildes ir kolekcijā (citos periodos — cik no tām pārdotas periodā)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test118",
+      "date": "2026-11-24",
+      "notes": {
+        "lv": [
+          "Kolekcijas kartītē periodā “Visa vēsture” rakstīts, cik bildes ir kolekcijā (citos periodos — cik no tām pārdotas periodā)."
+        ],
+        "en": [
+          "Kolekcijas kartītē periodā “Visa vēsture” rakstīts, cik bildes ir kolekcijā (citos periodos — cik no tām pārdotas periodā)."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test117",
       "date": "2026-11-23",
@@ -522,18 +534,6 @@
         "en": [
           "Izmaksas, Envato Elements: ja kāda izmaksa vēl ierakstīta bez nodokļa pārbaudes, izmaksu saraksts tiek nolasīts jau nākamajā atjaunošanā (nevis pēc nedēļas).",
           "(test78) Trolley: tiek atvērtas tikai nezināmās izmaksas, katra nolasīta atsevišķi (“You Receive”)."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test78",
-      "date": "2026-11-17",
-      "notes": {
-        "lv": [
-          "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
-        ],
-        "en": [
-          "Izmaksas, Envato Elements: Trolley izmaksu sarakstā tiek atvērtas tikai Analītiķim vēl nezināmās izmaksas (zināmās paliek, kā ir); katra nolasīta atsevišķi, lai iegūtu saņemto summu pēc nodokļa (“You Receive”). Žurnālā — cik atvērts, cik izlaists un pārbaudes rinda."
         ]
       }
     }
