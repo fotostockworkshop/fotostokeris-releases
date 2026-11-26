@@ -1,20 +1,32 @@
 {
   "test": {
-    "version": "0.3.1-test120",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test120.zip",
-    "sha256": "2de15cb82604e032e2325f1c8d11752480620edae918394ae61c89458a2bec03",
-    "size": 11019910,
-    "date": "2026-11-24",
+    "version": "0.3.1-test121",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/analitikis/analitikis-0.3.1-test121.zip",
+    "sha256": "9ccaab95f6d247625bf84f95fa76ece48e5abb7dfbda58c55d48f08712c4e1ed",
+    "size": 11022054,
+    "date": "2026-11-26",
     "notes": {
       "lv": [
-        "Alamy: izraksta rindas bez bildes koda (piem., “Other income” · DACS Payment) tagad ir “Citi ienākumi” ar Alamy aprakstu, nevis pārdošana bez nosaukuma un sīktēla. Summa nemainās. Iepriekšējo gadu šādas rindas pārliks pēc Alamy “Visa vēsture”."
+        "Shutterstock: atceltās pārdošanas (korekcijas, piem. −1 / −$0.10) vairs nepaliek sadaļā “Pārdošanas” — dienas, kur kopsumma atšķiras, tiek pārlasītas. Earning pools ienākumi “Citos ienākumos” ar saprotamu nosaukumu. Zaļā josla: ja iestrēgušās aģentūras tiek palaistas no jauna, jau atjaunoto aģentūru jaunās pārdošanas vairs nepazūd."
       ],
       "en": [
-        "Alamy: izraksta rindas bez bildes koda (piem., “Other income” · DACS Payment) tagad ir “Citi ienākumi” ar Alamy aprakstu, nevis pārdošana bez nosaukuma un sīktēla. Summa nemainās. Iepriekšējo gadu šādas rindas pārliks pēc Alamy “Visa vēsture”."
+        "Shutterstock: atceltās pārdošanas (korekcijas, piem. −1 / −$0.10) vairs nepaliek sadaļā “Pārdošanas” — dienas, kur kopsumma atšķiras, tiek pārlasītas. Earning pools ienākumi “Citos ienākumos” ar saprotamu nosaukumu. Zaļā josla: ja iestrēgušās aģentūras tiek palaistas no jauna, jau atjaunoto aģentūru jaunās pārdošanas vairs nepazūd."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.1-test121",
+      "date": "2026-11-26",
+      "notes": {
+        "lv": [
+          "Shutterstock: atceltās pārdošanas (korekcijas, piem. −1 / −$0.10) vairs nepaliek sadaļā “Pārdošanas” — dienas, kur kopsumma atšķiras, tiek pārlasītas. Earning pools ienākumi “Citos ienākumos” ar saprotamu nosaukumu. Zaļā josla: ja iestrēgušās aģentūras tiek palaistas no jauna, jau atjaunoto aģentūru jaunās pārdošanas vairs nepazūd."
+        ],
+        "en": [
+          "Shutterstock: atceltās pārdošanas (korekcijas, piem. −1 / −$0.10) vairs nepaliek sadaļā “Pārdošanas” — dienas, kur kopsumma atšķiras, tiek pārlasītas. Earning pools ienākumi “Citos ienākumos” ar saprotamu nosaukumu. Zaļā josla: ja iestrēgušās aģentūras tiek palaistas no jauna, jau atjaunoto aģentūru jaunās pārdošanas vairs nepazūd."
+        ]
+      }
+    },
     {
       "version": "0.3.1-test120",
       "date": "2026-11-24",
@@ -518,18 +530,6 @@
         "en": [
           "Depositphotos: “RSM Subscription” (abonementu ieņēmumu daļa, Depositphotos to ieraksta ar nākamā mēneša 1. datumu) tagad ieskaitīta mēnesī, par kuru tā ir — iepriekšējā mēneša pēdējā dienā (arī jau saglabātās). Aģentūru salīdzinājums sakrīt ar pārdošanu sarakstu un izmaksām.",
           "Pārdošanas: skaidrojumā virs saraksta starp ienākumiem bez konkrētas bildes minēta arī Depositphotos “RSM Subscription”."
-        ]
-      }
-    },
-    {
-      "version": "0.3.1-test81",
-      "date": "2026-11-18",
-      "notes": {
-        "lv": [
-          "Izmaksas, Depositphotos: neizmaksātais un pieejamais tagad ir “Available to withdraw” (tā pati summa, kas lapā pie maciņa ikonas, piem. $3.44); nolasa katrā atjaunošanā. Lapas kodā paslēptā “Balance” summa vairs netiek izmantota."
-        ],
-        "en": [
-          "Izmaksas, Depositphotos: neizmaksātais un pieejamais tagad ir “Available to withdraw” (tā pati summa, kas lapā pie maciņa ikonas, piem. $3.44); nolasa katrā atjaunošanā. Lapas kodā paslēptā “Balance” summa vairs netiek izmantota."
         ]
       }
     }
