@@ -1,26 +1,32 @@
 {
   "test": {
-    "version": "0.1.0-test47",
-    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test47.zip",
-    "sha256": "ac94533721af30ab1d5d4f87e487d060851c03fdb265d0024a17fb2f349ba986",
-    "size": 6898379,
-    "date": "2026-11-24",
+    "version": "0.1.0-test48",
+    "url": "https://raw.githubusercontent.com/fotostockworkshop/fotostokeris-releases/main/tirgotajs/tirgotajs-0.1.0-test48.zip",
+    "sha256": "d1be68497078935aab3374cd74784d63d45fa10ae703a8a33e30aaa355a531a7",
+    "size": 6899274,
+    "date": "2026-11-26",
     "notes": {
       "lv": [
-        "FTP: lēna servera apstiprinājuma dēļ vairs nerodas dubulti; pats atkārto neaizgājušās.",
-        "Kartītē skaidri redzams, kurai aģentūrai neizdevās.",
-        "\"Atlasīt pašam\": labais klikšķis — Izdzēst no NAS.",
-        "NAS ⇄ manifestu pārbaude statusa joslā."
+        "Labots: Tirgotājs darba datorā bremzējās pēc katra klikšķa (test47 NAS pārbaude)."
       ],
       "en": [
-        "FTP: lēna servera apstiprinājuma dēļ vairs nerodas dubulti; pats atkārto neaizgājušās.",
-        "Kartītē skaidri redzams, kurai aģentūrai neizdevās.",
-        "\"Atlasīt pašam\": labais klikšķis — Izdzēst no NAS.",
-        "NAS ⇄ manifestu pārbaude statusa joslā."
+        "Labots: Tirgotājs darba datorā bremzējās pēc katra klikšķa (test47 NAS pārbaude)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.1.0-test48",
+      "date": "2026-11-26",
+      "notes": {
+        "lv": [
+          "Labots: Tirgotājs darba datorā bremzējās pēc katra klikšķa (test47 NAS pārbaude)."
+        ],
+        "en": [
+          "Labots: Tirgotājs darba datorā bremzējās pēc katra klikšķa (test47 NAS pārbaude)."
+        ]
+      }
+    },
     {
       "version": "0.1.0-test47",
       "date": "2026-11-24",
@@ -584,22 +590,6 @@
         ],
         "en": [
           "\"Aģentūru pieslēgumi\" — atsevišķa iestatījumu sadaļa (agrāk bija paslēpta \"Tirgotāja iestatījumos\")."
-        ]
-      }
-    },
-    {
-      "version": "0.1.0-test8",
-      "date": "2026-11-03",
-      "notes": {
-        "lv": [
-          "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
-          "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
-          "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
-        ],
-        "en": [
-          "Komplektiem poga \"Nosūtīt ar FTP\" — Tirgotājs pats augšupielādē bildes, kas aģentūrai der un vēl nav iesniegtas; progress apakšējā joslā.",
-          "Augšupielādētās bildes tabulā gaiši zilas \"⇡ augšupielādēts\" — aģentūras portālā (atveras pats) vēl jāspiež \"Submit\", tad Tirgotājā \"Atzīmēt iesniegtu\".",
-          "Vispirms iestatījumos (Aģentūru pieslēgumi) izvēlies FTP, ieraksti datus un \"Pārbaudīt savienojumu\"."
         ]
       }
     }
